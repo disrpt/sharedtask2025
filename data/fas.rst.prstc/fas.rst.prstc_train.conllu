@@ -17552,7 +17552,7 @@
 # sent_id = etemad045-18
 # text = ایشان که نماینده است و از ارقام بودجه اطلاع دارند بهتر از هر کس دیگر میتوانند توضیح دهند که چه تعداد پروژه زخمی شده از آن دولت باقی مانده و چه ارقام اندکی نزد دولت برای تکمیل آنها هست ، ای کاش به عنوان نماینده این موضوع را توضیح میداد .
 1-2	ایشان	_	_	_	_	_	_	_	_
-1	ای	ای	INTJ	INT	_	2	det	_	Seg=B-seg|Seg=B-seg
+1	ای	ای	INTJ	INT	_	2	det	_	Seg=B-seg
 2	شان	آنها	PRON	PRO	Number=Plur|Person=3|PronType=Prs	19	nsubj	_	Seg=B-seg
 3	که	که	SCONJ	CON	_	4	mark	_	Seg=B-seg
 4	نماینده	نماینده	NOUN	N_SING	Number=Sing	2	acl:relcl	_	Seg=O
@@ -29270,7 +29270,7 @@
 10	شهرهای	شهر	NOUN	N_PL	Number=Plur	7	nmod	_	Seg=O
 11	خوزستان	خوزستان	NOUN	N_SING	Number=Sing	10	nmod:poss	_	Seg=O
 12-13	دهههاست	_	_	_	_	_	_	_	_
-12	دههها	دهه	NOUN	N_PL	Number=Plur	18	advcl	_	Seg=B-seg|Seg=B-seg
+12	دههها	دهه	NOUN	N_PL	Number=Plur	18	advcl	_	Seg=B-seg
 13	ست	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	12	cop	_	Seg=B-seg
 14	با	با	ADP	P	_	15	case	_	Seg=B-seg
 15	مشکل	مشکل	NOUN	N_SING	Number=Sing	18	nmod	_	Seg=O
