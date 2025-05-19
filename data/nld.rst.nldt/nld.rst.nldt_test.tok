@@ -1,4 +1,4 @@
-# newdoc_id = AD18_Nestle
+# newdoc id = AD18_Nestle
 1	Geef	_	_	_	_	_	_	_	Seg=B-seg
 2	je	_	_	_	_	_	_	_	Seg=O
 3	kindje	_	_	_	_	_	_	_	Seg=O
@@ -219,7 +219,7 @@
 218	van	_	_	_	_	_	_	_	Seg=O
 219	!	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = AD19_Menzis
+# newdoc id = AD19_Menzis
 1	Laat	_	_	_	_	_	_	_	Seg=B-seg
 2	nu	_	_	_	_	_	_	_	Seg=O
 3	je	_	_	_	_	_	_	_	Seg=O
@@ -429,7 +429,7 @@
 207	verkooppunten	_	_	_	_	_	_	_	Seg=O
 208	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = AD20_NRC_Focus
+# newdoc id = AD20_NRC_Focus
 1	STOF	_	_	_	_	_	_	_	Seg=B-seg
 2	VOOR	_	_	_	_	_	_	_	Seg=O
 3	DE	_	_	_	_	_	_	_	Seg=O
@@ -688,7 +688,7 @@
 256	Uitgevers	_	_	_	_	_	_	_	Seg=O
 257	B.V.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = EE18_Orionnevel
+# newdoc id = EE18_Orionnevel
 1	Orionnevel	_	_	_	_	_	_	_	Seg=B-seg
 2	Het	_	_	_	_	_	_	_	Seg=B-seg
 3	sterrenbeeld	_	_	_	_	_	_	_	Seg=O
@@ -1030,7 +1030,7 @@
 339	nodig	_	_	_	_	_	_	_	Seg=O
 340	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = EE19_Quasar
+# newdoc id = EE19_Quasar
 1	Quasar	_	_	_	_	_	_	_	Seg=B-seg
 2	Een	_	_	_	_	_	_	_	Seg=B-seg
 3	quasar	_	_	_	_	_	_	_	Seg=O
@@ -1485,7 +1485,7 @@
 452	is	_	_	_	_	_	_	_	Seg=O
 453	op.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = EE20_Meteoren
+# newdoc id = EE20_Meteoren
 1	Meteoren	_	_	_	_	_	_	_	Seg=B-seg
 2	Behalve	_	_	_	_	_	_	_	Seg=B-seg
 3	planeten	_	_	_	_	_	_	_	Seg=O
@@ -1792,7 +1792,7 @@
 304	augustus	_	_	_	_	_	_	_	Seg=O
 305	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = FL18_Fonds_voor_het_hart
+# newdoc id = FL18_Fonds_voor_het_hart
 1	Hoe	_	_	_	_	_	_	_	Seg=B-seg
 2	meer	_	_	_	_	_	_	_	Seg=O
 3	buikvet	_	_	_	_	_	_	_	Seg=O
@@ -2008,7 +2008,7 @@
 213	dank	_	_	_	_	_	_	_	Seg=O
 214	!	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = FL19_Terre_des_hommes
+# newdoc id = FL19_Terre_des_hommes
 1	Geeft	_	_	_	_	_	_	_	Seg=B-seg
 2	u	_	_	_	_	_	_	_	Seg=O
 3	een	_	_	_	_	_	_	_	Seg=O
@@ -2246,7 +2246,7 @@
 235	in	_	_	_	_	_	_	_	Seg=O
 236	!	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = FL20_Artsen_zonder_grenzen
+# newdoc id = FL20_Artsen_zonder_grenzen
 1	Met	_	_	_	_	_	_	_	Seg=B-seg
 2	de	_	_	_	_	_	_	_	Seg=O
 3	komst	_	_	_	_	_	_	_	Seg=O
@@ -2578,7 +2578,7 @@
 329	rekenen	_	_	_	_	_	_	_	Seg=O
 330	?	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = PSN18_Titan
+# newdoc id = PSN18_Titan
 1	Meren	_	_	_	_	_	_	_	Seg=B-seg
 2	van	_	_	_	_	_	_	_	Seg=O
 3	Titan	_	_	_	_	_	_	_	Seg=O
@@ -2913,7 +2913,7 @@
 332	Titan	_	_	_	_	_	_	_	Seg=O
 333	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = PSN19_Aarde
+# newdoc id = PSN19_Aarde
 1	Aarde	_	_	_	_	_	_	_	Seg=B-seg
 2	zorgt	_	_	_	_	_	_	_	Seg=O
 3	voor	_	_	_	_	_	_	_	Seg=O
@@ -3214,7 +3214,7 @@
 298	asteroïdeseismologie	_	_	_	_	_	_	_	Seg=O
 299	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = PSN20_Kepler_exoplaneten
+# newdoc id = PSN20_Kepler_exoplaneten
 1	Kepler	_	_	_	_	_	_	_	Seg=B-seg
 2	ziet	_	_	_	_	_	_	_	Seg=O
 3	eerste	_	_	_	_	_	_	_	Seg=O

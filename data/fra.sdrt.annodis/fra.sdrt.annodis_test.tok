@@ -1,4 +1,4 @@
-# newdoc_id = news_38_06-07-1999
+# newdoc id = news_38_06-07-1999
 1	Tonneaux	_	_	_	_	_	_	_	Seg=B-seg
 2	à	_	_	_	_	_	_	_	Seg=O
 3	Montreux-Vieux	_	_	_	_	_	_	_	Seg=O
@@ -225,7 +225,7 @@
 224	usage	_	_	_	_	_	_	_	Seg=O
 225	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = news_39_04-05-2002
+# newdoc id = news_39_04-05-2002
 1	Les	_	_	_	_	_	_	_	Seg=B-seg
 2	anniversaires	_	_	_	_	_	_	_	Seg=O
 3	d'	_	_	_	_	_	_	_	Seg=O
@@ -576,7 +576,7 @@
 348	belote	_	_	_	_	_	_	_	Seg=O
 349	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = news_36_24-08-1999
+# newdoc id = news_36_24-08-1999
 1	Tapage	_	_	_	_	_	_	_	Seg=B-seg
 2	rural	_	_	_	_	_	_	_	Seg=O
 3	Des	_	_	_	_	_	_	_	Seg=B-seg
@@ -827,7 +827,7 @@
 248	champ	_	_	_	_	_	_	_	Seg=O
 249	?	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = wik1_31_02-04-2006
+# newdoc id = wik1_31_02-04-2006
 1	Serment	_	_	_	_	_	_	_	Seg=B-seg
 2	du	_	_	_	_	_	_	_	Seg=O
 3	Jeu	_	_	_	_	_	_	_	Seg=O
@@ -1694,7 +1694,7 @@
 864	unique	_	_	_	_	_	_	_	Seg=O
 865	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = wik1_30_02-04-2006
+# newdoc id = wik1_30_02-04-2006
 1	Black	_	_	_	_	_	_	_	Seg=B-seg
 2	Widow	_	_	_	_	_	_	_	Seg=O
 3	Moins	_	_	_	_	_	_	_	Seg=B-seg
@@ -2395,7 +2395,7 @@
 698	démoniaque	_	_	_	_	_	_	_	Seg=O
 699	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = wik1_32_02-04-2006
+# newdoc id = wik1_32_02-04-2006
 1	Serments	_	_	_	_	_	_	_	Seg=B-seg
 2	de	_	_	_	_	_	_	_	Seg=O
 3	Strasbourg	_	_	_	_	_	_	_	Seg=O
@@ -2610,7 +2610,7 @@
 212	Charlemagne	_	_	_	_	_	_	_	Seg=O
 213	)	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = news_37_12-06-1999
+# newdoc id = news_37_12-06-1999
 1	Pablo	_	_	_	_	_	_	_	Seg=B-seg
 2	Correa	_	_	_	_	_	_	_	Seg=O
 3	portera	_	_	_	_	_	_	_	Seg=O
@@ -3000,7 +3000,7 @@
 387	»	_	_	_	_	_	_	_	Seg=O
 388	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = wik1_33_02-04-2006
+# newdoc id = wik1_33_02-04-2006
 1	Biyouna	_	_	_	_	_	_	_	Seg=B-seg
 2	Biyouna	_	_	_	_	_	_	_	Seg=B-seg
 3	est	_	_	_	_	_	_	_	Seg=O
@@ -3676,7 +3676,7 @@
 673	Calvario	_	_	_	_	_	_	_	Seg=O
 674	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = wik2_vinDeChampagne_vinification
+# newdoc id = wik2_vinDeChampagne_vinification
 1	Vinification	_	_	_	_	_	_	_	Seg=B-seg
 2	.	_	_	_	_	_	_	_	Seg=O
 3	Le	_	_	_	_	_	_	_	Seg=B-seg
@@ -4412,7 +4412,7 @@
 733	expédition	_	_	_	_	_	_	_	Seg=O
 734	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = geop_3_spatiaux
+# newdoc id = geop_3_spatiaux
 1	Les	_	_	_	_	_	_	_	Seg=B-seg
 2	programmes	_	_	_	_	_	_	_	Seg=O
 3	spatiaux	_	_	_	_	_	_	_	Seg=O
@@ -4790,7 +4790,7 @@
 375	définitifs	_	_	_	_	_	_	_	Seg=O
 376	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ling_leon_contenuDinformation
+# newdoc id = ling_leon_contenuDinformation
 1	En	_	_	_	_	_	_	_	Seg=B-seg
 2	fait	_	_	_	_	_	_	_	Seg=O
 3	,	_	_	_	_	_	_	_	Seg=O

@@ -1,4 +1,4 @@
-# newdoc_id = nlpabs100_Chi
+# newdoc id = nlpabs100_Chi
 1	随	_	_	_	_	_	_	_	Seg=B-seg
 2	着	_	_	_	_	_	_	_	Seg=O
 3	科学	_	_	_	_	_	_	_	Seg=O
@@ -192,7 +192,7 @@
 191	方法	_	_	_	_	_	_	_	Seg=O
 192	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs101_Chi
+# newdoc id = nlpabs101_Chi
 1	探索	_	_	_	_	_	_	_	Seg=B-seg
 2	将	_	_	_	_	_	_	_	Seg=O
 3	循环	_	_	_	_	_	_	_	Seg=O
@@ -323,7 +323,7 @@
 128	效率	_	_	_	_	_	_	_	Seg=O
 129	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs103_Chi
+# newdoc id = nlpabs103_Chi
 1	维吾尔	_	_	_	_	_	_	_	Seg=B-seg
 2	语	_	_	_	_	_	_	_	Seg=O
 3	事件	_	_	_	_	_	_	_	Seg=O
@@ -510,7 +510,7 @@
 184	效果	_	_	_	_	_	_	_	Seg=O
 185	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs104_Chi
+# newdoc id = nlpabs104_Chi
 1	网络	_	_	_	_	_	_	_	Seg=B-seg
 2	化	_	_	_	_	_	_	_	Seg=O
 3	大	_	_	_	_	_	_	_	Seg=O
@@ -724,7 +724,7 @@
 211	性	_	_	_	_	_	_	_	Seg=O
 212	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs105_Chi
+# newdoc id = nlpabs105_Chi
 1	文本	_	_	_	_	_	_	_	Seg=B-seg
 2	是	_	_	_	_	_	_	_	Seg=O
 3	社交	_	_	_	_	_	_	_	Seg=O
@@ -870,7 +870,7 @@
 143	结果	_	_	_	_	_	_	_	Seg=O
 144	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs106_Chi
+# newdoc id = nlpabs106_Chi
 1	实体	_	_	_	_	_	_	_	Seg=B-seg
 2	属性	_	_	_	_	_	_	_	Seg=O
 3	挖掘	_	_	_	_	_	_	_	Seg=O
@@ -1093,7 +1093,7 @@
 220	2.56%	_	_	_	_	_	_	_	Seg=O
 221	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs107_Chi
+# newdoc id = nlpabs107_Chi
 1	在	_	_	_	_	_	_	_	Seg=B-seg
 2	文本	_	_	_	_	_	_	_	Seg=O
 3	情感	_	_	_	_	_	_	_	Seg=O
@@ -1227,7 +1227,7 @@
 131	结果	_	_	_	_	_	_	_	Seg=O
 132	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs108_Chi
+# newdoc id = nlpabs108_Chi
 1	随	_	_	_	_	_	_	_	Seg=B-seg
 2	着	_	_	_	_	_	_	_	Seg=O
 3	互联	_	_	_	_	_	_	_	Seg=O
@@ -1384,7 +1384,7 @@
 154	一些	_	_	_	_	_	_	_	Seg=O
 155	规律	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs10_Chi
+# newdoc id = nlpabs10_Chi
 1	﻿作	_	_	_	_	_	_	_	Seg=B-seg
 2	为	_	_	_	_	_	_	_	Seg=O
 3	自然	_	_	_	_	_	_	_	Seg=O
@@ -1520,7 +1520,7 @@
 133	关注	_	_	_	_	_	_	_	Seg=O
 134	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs11_Chi
+# newdoc id = nlpabs11_Chi
 1	自然	_	_	_	_	_	_	_	Seg=B-seg
 2	语言	_	_	_	_	_	_	_	Seg=O
 3	是	_	_	_	_	_	_	_	Seg=O
@@ -1679,7 +1679,7 @@
 156	的	_	_	_	_	_	_	_	Seg=O
 157	课题	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs12_Chi
+# newdoc id = nlpabs12_Chi
 1	随	_	_	_	_	_	_	_	Seg=B-seg
 2	着	_	_	_	_	_	_	_	Seg=O
 3	移动	_	_	_	_	_	_	_	Seg=O
@@ -1861,7 +1861,7 @@
 179	分析	_	_	_	_	_	_	_	Seg=O
 180	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs13_Chi
+# newdoc id = nlpabs13_Chi
 1	该文	_	_	_	_	_	_	_	Seg=B-seg
 2	吸收	_	_	_	_	_	_	_	Seg=O
 3	已	_	_	_	_	_	_	_	Seg=O
@@ -1986,7 +1986,7 @@
 122	支持	_	_	_	_	_	_	_	Seg=O
 123	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs14_Chi
+# newdoc id = nlpabs14_Chi
 1	近	_	_	_	_	_	_	_	Seg=B-seg
 2	十	_	_	_	_	_	_	_	Seg=O
 3	年	_	_	_	_	_	_	_	Seg=O
@@ -2159,7 +2159,7 @@
 170	库	_	_	_	_	_	_	_	Seg=O
 171	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs15_Chi
+# newdoc id = nlpabs15_Chi
 1	基	_	_	_	_	_	_	_	Seg=B-seg
 2	于	_	_	_	_	_	_	_	Seg=O
 3	注意	_	_	_	_	_	_	_	Seg=O
@@ -2434,7 +2434,7 @@
 272	优势	_	_	_	_	_	_	_	Seg=O
 273	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs16_Chi
+# newdoc id = nlpabs16_Chi
 1	复杂	_	_	_	_	_	_	_	Seg=B-seg
 2	网络	_	_	_	_	_	_	_	Seg=O
 3	具有	_	_	_	_	_	_	_	Seg=O
@@ -2578,7 +2578,7 @@
 141	特性	_	_	_	_	_	_	_	Seg=O
 142	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs18_Chi
+# newdoc id = nlpabs18_Chi
 1	不	_	_	_	_	_	_	_	Seg=B-seg
 2	平衡	_	_	_	_	_	_	_	Seg=O
 3	数据	_	_	_	_	_	_	_	Seg=O
@@ -2728,7 +2728,7 @@
 147	性	_	_	_	_	_	_	_	Seg=O
 148	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs20_Chi
+# newdoc id = nlpabs20_Chi
 1	为	_	_	_	_	_	_	_	Seg=B-seg
 2	从	_	_	_	_	_	_	_	Seg=O
 3	大量	_	_	_	_	_	_	_	Seg=O
@@ -2898,7 +2898,7 @@
 167	适用	_	_	_	_	_	_	_	Seg=O
 168	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs53_Chi
+# newdoc id = nlpabs53_Chi
 1	大	_	_	_	_	_	_	_	Seg=B-seg
 2	数据	_	_	_	_	_	_	_	Seg=O
 3	时代	_	_	_	_	_	_	_	Seg=O
@@ -3170,7 +3170,7 @@
 269	方法	_	_	_	_	_	_	_	Seg=O
 270	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs59_Chi
+# newdoc id = nlpabs59_Chi
 1	现有	_	_	_	_	_	_	_	Seg=B-seg
 2	的	_	_	_	_	_	_	_	Seg=O
 3	将	_	_	_	_	_	_	_	Seg=O
@@ -3418,7 +3418,7 @@
 245	提升	_	_	_	_	_	_	_	Seg=O
 246	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs91_Chi
+# newdoc id = nlpabs91_Chi
 1	古代	_	_	_	_	_	_	_	Seg=B-seg
 2	汉	_	_	_	_	_	_	_	Seg=O
 3	语	_	_	_	_	_	_	_	Seg=O

@@ -1,4 +1,4 @@
-# newdoc_id = gcdt_academic_aging
+# newdoc id = gcdt_academic_aging
 1	老龄化	_	_	_	_	_	_	_	Seg=B-seg
 2	对	_	_	_	_	_	_	_	Seg=O
 3	言语	_	_	_	_	_	_	_	Seg=O
@@ -1265,7 +1265,7 @@
 1264	能力	_	_	_	_	_	_	_	Seg=O
 1265	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_academic_governance
+# newdoc id = gcdt_academic_governance
 1	突发	_	_	_	_	_	_	_	Seg=B-seg
 2	疫情	_	_	_	_	_	_	_	Seg=O
 3	下	_	_	_	_	_	_	_	Seg=O
@@ -2554,7 +2554,7 @@
 1286	体制	_	_	_	_	_	_	_	Seg=O
 1287	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_academic_iconicity
+# newdoc id = gcdt_academic_iconicity
 1	英语	_	_	_	_	_	_	_	Seg=B-seg
 2	中动态	_	_	_	_	_	_	_	Seg=O
 3	的	_	_	_	_	_	_	_	Seg=O
@@ -3688,7 +3688,7 @@
 1131	条件	_	_	_	_	_	_	_	Seg=O
 1132	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_academic_rabies
+# newdoc id = gcdt_academic_rabies
 1	狂犬病	_	_	_	_	_	_	_	Seg=B-seg
 2	疫苗	_	_	_	_	_	_	_	Seg=O
 3	研究	_	_	_	_	_	_	_	Seg=O
@@ -5013,7 +5013,7 @@
 1322	人类	_	_	_	_	_	_	_	Seg=O
 1323	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_academic_socialized
+# newdoc id = gcdt_academic_socialized
 1	习近平	_	_	_	_	_	_	_	Seg=B-seg
 2	人类	_	_	_	_	_	_	_	Seg=O
 3	命运	_	_	_	_	_	_	_	Seg=O
@@ -6629,7 +6629,7 @@
 1613	实现	_	_	_	_	_	_	_	Seg=O
 1614	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_academic_supervision
+# newdoc id = gcdt_academic_supervision
 1	法治	_	_	_	_	_	_	_	Seg=B-seg
 2	视角	_	_	_	_	_	_	_	Seg=O
 3	下	_	_	_	_	_	_	_	Seg=O
@@ -8100,7 +8100,7 @@
 1468	挑战	_	_	_	_	_	_	_	Seg=O
 1469	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_academic_taoist
+# newdoc id = gcdt_academic_taoist
 1	道家	_	_	_	_	_	_	_	Seg=B-seg
 2	生态	_	_	_	_	_	_	_	Seg=O
 3	美学	_	_	_	_	_	_	_	Seg=O
@@ -9571,7 +9571,7 @@
 1468	规律	_	_	_	_	_	_	_	Seg=O
 1469	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_academic_yun
+# newdoc id = gcdt_academic_yun
 1	“	_	_	_	_	_	_	_	Seg=B-seg
 2	云	_	_	_	_	_	_	_	Seg=O
 3	”	_	_	_	_	_	_	_	Seg=O
@@ -10884,7 +10884,7 @@
 1310	特征	_	_	_	_	_	_	_	Seg=O
 1311	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_bio_bernoulli
+# newdoc id = gcdt_bio_bernoulli
 1	丹尼尔·伯努利	_	_	_	_	_	_	_	Seg=B-seg
 2	丹尼尔·伯努利	_	_	_	_	_	_	_	Seg=B-seg
 3	（	_	_	_	_	_	_	_	Seg=B-seg
@@ -11779,7 +11779,7 @@
 892	”	_	_	_	_	_	_	_	Seg=O
 893	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_bio_chao
+# newdoc id = gcdt_bio_chao
 1	赵元任	_	_	_	_	_	_	_	Seg=B-seg
 2	赵元任	_	_	_	_	_	_	_	Seg=B-seg
 3	（	_	_	_	_	_	_	_	Seg=B-seg
@@ -13278,7 +13278,7 @@
 1496	16	_	_	_	_	_	_	_	Seg=O
 1497	-RSB-	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_bio_emperor
+# newdoc id = gcdt_bio_emperor
 1	诺顿	_	_	_	_	_	_	_	Seg=B-seg
 2	一世	_	_	_	_	_	_	_	Seg=O
 3	约书亚·亚伯拉罕·诺顿	_	_	_	_	_	_	_	Seg=B-seg
@@ -15193,7 +15193,7 @@
 1912	回复	_	_	_	_	_	_	_	Seg=O
 1913	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_bio_galois
+# newdoc id = gcdt_bio_galois
 1	埃瓦里斯特·伽罗瓦	_	_	_	_	_	_	_	Seg=B-seg
 2	埃瓦里斯特·伽罗瓦	_	_	_	_	_	_	_	Seg=B-seg
 3	（	_	_	_	_	_	_	_	Seg=B-seg
@@ -16574,7 +16574,7 @@
 1378	理论	_	_	_	_	_	_	_	Seg=O
 1379	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_bio_hadid
+# newdoc id = gcdt_bio_hadid
 1	扎哈·哈迪德	_	_	_	_	_	_	_	Seg=B-seg
 2	扎哈·穆罕默德·哈迪德	_	_	_	_	_	_	_	Seg=B-seg
 3	女	_	_	_	_	_	_	_	Seg=O
@@ -17778,7 +17778,7 @@
 1201	-RSB-	_	_	_	_	_	_	_	Seg=O
 1202	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_bio_higuchi
+# newdoc id = gcdt_bio_higuchi
 1	樋口一叶	_	_	_	_	_	_	_	Seg=B-seg
 2	樋口一叶	_	_	_	_	_	_	_	Seg=B-seg
 3	（	_	_	_	_	_	_	_	Seg=B-seg
@@ -18486,7 +18486,7 @@
 705	）	_	_	_	_	_	_	_	Seg=O
 706	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_bio_jerome
+# newdoc id = gcdt_bio_jerome
 1	哲罗姆	_	_	_	_	_	_	_	Seg=B-seg
 2	哲罗姆	_	_	_	_	_	_	_	Seg=B-seg
 3	，	_	_	_	_	_	_	_	Seg=O
@@ -19852,7 +19852,7 @@
 1363	18	_	_	_	_	_	_	_	Seg=O
 1364	-RSB-	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_bio_marbles
+# newdoc id = gcdt_bio_marbles
 1	珍娜·玛柏	_	_	_	_	_	_	_	Seg=B-seg
 2	珍娜·妮可·穆雷	_	_	_	_	_	_	_	Seg=B-seg
 3	（	_	_	_	_	_	_	_	Seg=B-seg
@@ -20622,7 +20622,7 @@
 767	-RSB-	_	_	_	_	_	_	_	Seg=O
 768	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_interview_cycle
+# newdoc id = gcdt_interview_cycle
 1	2008	_	_	_	_	_	_	_	Seg=B-seg
 2	国际	_	_	_	_	_	_	_	Seg=O
 3	自由车	_	_	_	_	_	_	_	Seg=O
@@ -21412,7 +21412,7 @@
 787	代表性	_	_	_	_	_	_	_	Seg=O
 788	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_interview_exiderdome
+# newdoc id = gcdt_interview_exiderdome
 1	半导体	_	_	_	_	_	_	_	Seg=B-seg
 2	展外	_	_	_	_	_	_	_	Seg=O
 3	一	_	_	_	_	_	_	_	Seg=O
@@ -22623,7 +22623,7 @@
 1208	焦点	_	_	_	_	_	_	_	Seg=O
 1209	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_interview_falkvinge
+# newdoc id = gcdt_interview_falkvinge
 1	维基	_	_	_	_	_	_	_	Seg=B-seg
 2	新闻	_	_	_	_	_	_	_	Seg=O
 3	专访	_	_	_	_	_	_	_	Seg=O
@@ -24013,7 +24013,7 @@
 1387	议题	_	_	_	_	_	_	_	Seg=O
 1388	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_interview_game
+# newdoc id = gcdt_interview_game
 1	维基	_	_	_	_	_	_	_	Seg=B-seg
 2	新闻	_	_	_	_	_	_	_	Seg=O
 3	专访	_	_	_	_	_	_	_	Seg=O
@@ -24962,7 +24962,7 @@
 946	重视	_	_	_	_	_	_	_	Seg=O
 947	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_interview_graaf
+# newdoc id = gcdt_interview_graaf
 1	2020年	_	_	_	_	_	_	_	Seg=B-seg
 2	美国	_	_	_	_	_	_	_	Seg=O
 3	总统	_	_	_	_	_	_	_	Seg=O
@@ -25996,7 +25996,7 @@
 1031	专页	_	_	_	_	_	_	_	Seg=O
 1032	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_interview_ideal
+# newdoc id = gcdt_interview_ideal
 1	爱地雅	_	_	_	_	_	_	_	Seg=B-seg
 2	科技	_	_	_	_	_	_	_	Seg=O
 3	：	_	_	_	_	_	_	_	Seg=O
@@ -26985,7 +26985,7 @@
 986	提升	_	_	_	_	_	_	_	Seg=O
 987	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_interview_keyman
+# newdoc id = gcdt_interview_keyman
 1	专访	_	_	_	_	_	_	_	Seg=B-seg
 2	香港	_	_	_	_	_	_	_	Seg=O
 3	著名	_	_	_	_	_	_	_	Seg=O
@@ -28711,7 +28711,7 @@
 1723	祝福语	_	_	_	_	_	_	_	Seg=O
 1724	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_interview_stardust
+# newdoc id = gcdt_interview_stardust
 1	维基	_	_	_	_	_	_	_	Seg=B-seg
 2	记者	_	_	_	_	_	_	_	Seg=O
 3	独家	_	_	_	_	_	_	_	Seg=O
@@ -29780,7 +29780,7 @@
 1066	的	_	_	_	_	_	_	_	Seg=O
 1067	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_news_apple
+# newdoc id = gcdt_news_apple
 1	2021年	_	_	_	_	_	_	_	Seg=B-seg
 2	Apple	_	_	_	_	_	_	_	Seg=O
 3	秋季	_	_	_	_	_	_	_	Seg=O
@@ -30881,7 +30881,7 @@
 1098	美元	_	_	_	_	_	_	_	Seg=O
 1099	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_news_bubble
+# newdoc id = gcdt_news_bubble
 1	据报	_	_	_	_	_	_	_	Seg=B-seg
 2	台湾	_	_	_	_	_	_	_	Seg=B-seg
 3	与	_	_	_	_	_	_	_	Seg=O
@@ -32076,7 +32076,7 @@
 1192	菲律宾海	_	_	_	_	_	_	_	Seg=O
 1193	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_news_estate
+# newdoc id = gcdt_news_estate
 1	美国	_	_	_	_	_	_	_	Seg=B-seg
 2	考虑	_	_	_	_	_	_	_	Seg=O
 3	加大	_	_	_	_	_	_	_	Seg=B-seg
@@ -33158,7 +33158,7 @@
 1079	利率	_	_	_	_	_	_	_	Seg=O
 1080	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_news_five
+# newdoc id = gcdt_news_five
 1	抗议	_	_	_	_	_	_	_	Seg=B-seg
 2	薪资	_	_	_	_	_	_	_	Seg=O
 3	不公	_	_	_	_	_	_	_	Seg=O
@@ -34393,7 +34393,7 @@
 1232	。	_	_	_	_	_	_	_	Seg=O
 1233	”	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_news_hubei
+# newdoc id = gcdt_news_hubei
 1	湖北	_	_	_	_	_	_	_	Seg=B-seg
 2	多	_	_	_	_	_	_	_	Seg=O
 3	地	_	_	_	_	_	_	_	Seg=O
@@ -35544,7 +35544,7 @@
 1148	航班	_	_	_	_	_	_	_	Seg=O
 1149	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_news_kangle
+# newdoc id = gcdt_news_kangle
 1	康文署	_	_	_	_	_	_	_	Seg=B-seg
 2	重开	_	_	_	_	_	_	_	Seg=O
 3	康乐	_	_	_	_	_	_	_	Seg=O
@@ -36607,7 +36607,7 @@
 1060	安排	_	_	_	_	_	_	_	Seg=O
 1061	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_news_tiktok
+# newdoc id = gcdt_news_tiktok
 1	TikTok	_	_	_	_	_	_	_	Seg=B-seg
 2	出售	_	_	_	_	_	_	_	Seg=O
 3	或	_	_	_	_	_	_	_	Seg=O
@@ -37323,7 +37323,7 @@
 713	用户	_	_	_	_	_	_	_	Seg=O
 714	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_news_unemployment
+# newdoc id = gcdt_news_unemployment
 1	香港	_	_	_	_	_	_	_	Seg=B-seg
 2	最新	_	_	_	_	_	_	_	Seg=O
 3	失业率	_	_	_	_	_	_	_	Seg=O
@@ -38565,7 +38565,7 @@
 1239	下载	_	_	_	_	_	_	_	Seg=O
 1240	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_whow_basil
+# newdoc id = gcdt_whow_basil
 1	如何	_	_	_	_	_	_	_	Seg=B-seg
 2	种植	_	_	_	_	_	_	_	Seg=O
 3	罗勒	_	_	_	_	_	_	_	Seg=O
@@ -39763,7 +39763,7 @@
 1195	5	_	_	_	_	_	_	_	Seg=O
 1196	-RSB-	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_whow_flirt
+# newdoc id = gcdt_whow_flirt
 1	如何	_	_	_	_	_	_	_	Seg=B-seg
 2	用	_	_	_	_	_	_	_	Seg=O
 3	短信	_	_	_	_	_	_	_	Seg=O
@@ -41751,7 +41751,7 @@
 1985	出来	_	_	_	_	_	_	_	Seg=O
 1986	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_whow_glowstick
+# newdoc id = gcdt_whow_glowstick
 1	如何	_	_	_	_	_	_	_	Seg=B-seg
 2	制作	_	_	_	_	_	_	_	Seg=O
 3	荧光棒	_	_	_	_	_	_	_	Seg=O
@@ -43021,7 +43021,7 @@
 1267	好	_	_	_	_	_	_	_	Seg=O
 1268	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_whow_mice
+# newdoc id = gcdt_whow_mice
 1	如何	_	_	_	_	_	_	_	Seg=B-seg
 2	以	_	_	_	_	_	_	_	Seg=O
 3	自然	_	_	_	_	_	_	_	Seg=O
@@ -43931,7 +43931,7 @@
 907	鸟类	_	_	_	_	_	_	_	Seg=O
 908	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_whow_pool
+# newdoc id = gcdt_whow_pool
 1	如何	_	_	_	_	_	_	_	Seg=B-seg
 2	摆放	_	_	_	_	_	_	_	Seg=O
 3	台球	_	_	_	_	_	_	_	Seg=O
@@ -44613,7 +44613,7 @@
 679	下端	_	_	_	_	_	_	_	Seg=O
 680	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_whow_procrastinating
+# newdoc id = gcdt_whow_procrastinating
 1	如何	_	_	_	_	_	_	_	Seg=B-seg
 2	停止	_	_	_	_	_	_	_	Seg=O
 3	拖延	_	_	_	_	_	_	_	Seg=O
@@ -46613,7 +46613,7 @@
 1997	惩罚	_	_	_	_	_	_	_	Seg=O
 1998	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_whow_quinoa
+# newdoc id = gcdt_whow_quinoa
 1	如何	_	_	_	_	_	_	_	Seg=B-seg
 2	烹饪	_	_	_	_	_	_	_	Seg=O
 3	奎藜	_	_	_	_	_	_	_	Seg=O
@@ -47145,7 +47145,7 @@
 529	了	_	_	_	_	_	_	_	Seg=O
 530	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_whow_skittles
+# newdoc id = gcdt_whow_skittles
 1	如何	_	_	_	_	_	_	_	Seg=B-seg
 2	制作	_	_	_	_	_	_	_	Seg=O
 3	彩虹	_	_	_	_	_	_	_	Seg=O

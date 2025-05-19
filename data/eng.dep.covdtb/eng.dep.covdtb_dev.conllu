@@ -1,5 +1,5 @@
 # sent_id = 012debf5a240a496518af146ddfc16c958339c2b-0
-# newdoc_id = 012debf5a240a496518af146ddfc16c958339c2b
+# newdoc id = 012debf5a240a496518af146ddfc16c958339c2b
 # text = Background :
 1	Background	background	NOUN	NN	Number=Sing	0	root	_	Seg=B-seg
 2	:	:	PUNCT	:	_	1	punct	_	Seg=O
@@ -415,7 +415,7 @@
 18	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = 01fe9408aa72a025bad89a695b389c4e509ed67d-0
-# newdoc_id = 01fe9408aa72a025bad89a695b389c4e509ed67d
+# newdoc id = 01fe9408aa72a025bad89a695b389c4e509ed67d
 # text = Low - and middle - income countries , where emerging diseases often make their debut , are also likely to bear the harshest consequences of a potential influenza pandemic .
 1	Low	low	ADJ	JJ	Degree=Pos	7	amod	_	Seg=B-seg
 2	-	-	PUNCT	HYPH	_	1	punct	_	Seg=O
@@ -622,7 +622,7 @@
 8	)	)	PUNCT	-RRB-	_	3	punct	_	Seg=O
 
 # sent_id = 03531faa11b00259bcee616d1e215af33ba66bb8-0
-# newdoc_id = 03531faa11b00259bcee616d1e215af33ba66bb8
+# newdoc id = 03531faa11b00259bcee616d1e215af33ba66bb8
 # text = The analysis of 26 longevity curves of different populations of inbred ( Fischer 344 ) and outbred ( Sprague - Dawley ) rats highlighted a remarkable betweenpopulations variability in survival parameters .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	analysis	analysis	NOUN	NN	Number=Sing	24	nsubj	_	Seg=O
@@ -740,7 +740,7 @@
 27	.	.	PUNCT	.	_	11	punct	_	Seg=O
 
 # sent_id = 03706c8c363d9a1885deda1355c2874858dba87c-0
-# newdoc_id = 03706c8c363d9a1885deda1355c2874858dba87c
+# newdoc id = 03706c8c363d9a1885deda1355c2874858dba87c
 # text = BACKGROUND :
 1	BACKGROUND	background	NOUN	NN	Number=Sing	0	root	_	Seg=B-seg
 2	:	:	PUNCT	:	_	1	punct	_	Seg=O
@@ -1061,7 +1061,7 @@
 30	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 04863be13c7778ac3779da61eba8b49a510d9f40-0
-# newdoc_id = 04863be13c7778ac3779da61eba8b49a510d9f40
+# newdoc id = 04863be13c7778ac3779da61eba8b49a510d9f40
 # text = Case isolation and contact tracing can contribute to the control of COVID-19 outbreaks .
 1	Case	case	NOUN	NN	Number=Sing	2	compound	_	Seg=B-seg
 2	isolation	isolation	NOUN	NN	Number=Sing	7	nsubj	_	Seg=O
@@ -1123,7 +1123,7 @@
 18	world	world	NOUN	NN	Number=Sing	7	obl	_	Seg=O
 
 # sent_id = 05fd3c2c2f6d9d9101d3007cecdf5cfd472de515-0
-# newdoc_id = 05fd3c2c2f6d9d9101d3007cecdf5cfd472de515
+# newdoc id = 05fd3c2c2f6d9d9101d3007cecdf5cfd472de515
 # text = Recently , the popularity of smart wearable technologies , such as Fitbit , has significantly increased .
 1	Recently	recently	ADV	RB	_	16	advmod	_	Seg=B-seg
 2	,	,	PUNCT	,	_	16	punct	_	Seg=O
@@ -1406,7 +1406,7 @@
 11	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 066178ded1d6d540be366e6468bc01e78e605a81-0
-# newdoc_id = 066178ded1d6d540be366e6468bc01e78e605a81
+# newdoc id = 066178ded1d6d540be366e6468bc01e78e605a81
 # text = Genotyping of avian infectious bronchitis virus ( IBV ) was performed on trachea and kidney samples of six chickens obtained from a single farm in Japan .
 1	Genotyping	genotyping	NOUN	NN	Number=Sing	11	nsubj:pass	_	Seg=B-seg
 2	of	of	ADP	IN	_	6	case	_	Seg=O
@@ -1564,7 +1564,7 @@
 20	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = 08792e906a1020ea71007183b91e581d378a9261-0
-# newdoc_id = 08792e906a1020ea71007183b91e581d378a9261
+# newdoc id = 08792e906a1020ea71007183b91e581d378a9261
 # text = In the time of COVID-19 epidemic , Italy was found unprepared to manage lockdown patients with chronic diseases , due to limited availability and diffusion of large - scale telemedicine solutions .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	Seg=O
@@ -1735,7 +1735,7 @@
 19	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = 08cd7c215584f4c46d198988d3b3feb276067552-0
-# newdoc_id = 08cd7c215584f4c46d198988d3b3feb276067552
+# newdoc id = 08cd7c215584f4c46d198988d3b3feb276067552
 # text = The emergence of Severe Acute Respiratory Syndrome coronavirus ( SARS - CoV ) and Middle East Respiratory Syndrome coronavirus ( MERS - CoV ) , two strains of animal coronaviruses that crossed the species barrier to infect and cause severe respiratory infections in humans within the last 12 years , have taught us that coronaviruses represent a global threat that does not recognize international borders .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	emergence	emergence	NOUN	NN	Number=Sing	52	nsubj	_	Seg=O
@@ -1979,7 +1979,7 @@
 32	Subbarao	Subbarao	PROPN	NNP	Number=Sing	30	conj	_	Seg=O
 
 # sent_id = 0982121b27ae7070996973d0c3d892fe432e8b2a-0
-# newdoc_id = 0982121b27ae7070996973d0c3d892fe432e8b2a
+# newdoc id = 0982121b27ae7070996973d0c3d892fe432e8b2a
 # text = Background
 1	Background	background	NOUN	NN	Number=Sing	0	root	_	Seg=B-seg
 
@@ -2329,7 +2329,7 @@
 14	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = 09a248034a8e29a2341c707ef66771cda8bd7b1b-0
-# newdoc_id = 09a248034a8e29a2341c707ef66771cda8bd7b1b
+# newdoc id = 09a248034a8e29a2341c707ef66771cda8bd7b1b
 # text = In this paper the authors question whether the development of a vaccine against cryptosporidiosis could be taken into consideration .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -2562,7 +2562,7 @@
 1	#	#	SYM	NN	Number=Sing	0	root	_	Seg=B-seg
 
 # sent_id = 09be942d1b5283b42743406c8fa6dddeb08b38cc-0
-# newdoc_id = 09be942d1b5283b42743406c8fa6dddeb08b38cc
+# newdoc id = 09be942d1b5283b42743406c8fa6dddeb08b38cc
 # text = In December 2019 , a novel coronavirus called SARS - CoV-2 was reported to be responsible for a cluster of acute atypical respiratory pneumonia cases in Wuhan , in Hubei province , China .
 1	In	in	ADP	IN	_	2	case	_	Seg=B-seg
 2	December	December	PROPN	NNP	Number=Sing	13	obl	_	Seg=O
@@ -2812,7 +2812,7 @@
 36	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = 0a1f43c04e0e22fb6efbd94611920bc9680d7ae3-0
-# newdoc_id = 0a1f43c04e0e22fb6efbd94611920bc9680d7ae3
+# newdoc id = 0a1f43c04e0e22fb6efbd94611920bc9680d7ae3
 # text = Background :
 1	Background	background	NOUN	NN	Number=Sing	0	root	_	Seg=B-seg
 2	:	:	PUNCT	:	_	1	punct	_	Seg=O
@@ -3127,7 +3127,7 @@
 26	.	.	PUNCT	.	_	15	punct	_	Seg=O
 
 # sent_id = 0a28be687a48559948dfb278cb34b4ae4185e27f-0
-# newdoc_id = 0a28be687a48559948dfb278cb34b4ae4185e27f
+# newdoc id = 0a28be687a48559948dfb278cb34b4ae4185e27f
 # text = The purpose of this form is to provide readers of your manuscript with information about your other interests that could influence how they receive and understand your work .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	purpose	purpose	NOUN	NN	Number=Sing	8	nsubj	_	Seg=O
@@ -3220,7 +3220,7 @@
 7	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = 0a6e4bc983e7a8eb31e252398f47cdaaf1e605b1-0
-# newdoc_id = 0a6e4bc983e7a8eb31e252398f47cdaaf1e605b1
+# newdoc id = 0a6e4bc983e7a8eb31e252398f47cdaaf1e605b1
 # text = Serine proteases of the trypsin - like family have long been recognized to be critical effectors of biological processes as diverse as digestion , blood coagulation , fibrinolysis , and immunity .
 1	Serine	Serine	PROPN	NNP	Number=Sing	2	compound	_	Seg=B-seg
 2	proteases	protease	NOUN	NNS	Number=Plur	12	nsubj:pass	_	Seg=O
@@ -3384,7 +3384,7 @@
 27	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 0a789bc7f1713d549288d3effb72ff34cd3b0ab0-0
-# newdoc_id = 0a789bc7f1713d549288d3effb72ff34cd3b0ab0
+# newdoc id = 0a789bc7f1713d549288d3effb72ff34cd3b0ab0
 # text = Background :
 1	Background	background	NOUN	NN	Number=Sing	0	root	_	Seg=B-seg
 2	:	:	PUNCT	:	_	1	punct	_	Seg=O
@@ -3872,7 +3872,7 @@
 31	.	.	PUNCT	.	_	15	punct	_	Seg=O
 
 # sent_id = 0a91a01d3b6084bfd02cacba098af54c2e38f374-0
-# newdoc_id = 0a91a01d3b6084bfd02cacba098af54c2e38f374
+# newdoc id = 0a91a01d3b6084bfd02cacba098af54c2e38f374
 # text = Basing on existence of the mathematically sequential reduction of the three - compartmental ( Susceptible - Infected - Recovered / Removed ) model to the Verhulst ( logistic ) equation with the parameters determined by the basic characteristic of epidemic process , this model is tested in application to the recent data on COVID-19 outbreak reported by the European Centre for Disease Prevention and Control .
 1	Basing	base	VERB	VBG	VerbForm=Ger	46	advcl	_	Seg=B-seg
 2	on	on	ADP	IN	_	3	case	_	Seg=O
@@ -4025,7 +4025,7 @@
 39	.	.	PUNCT	.	_	10	punct	_	Seg=O
 
 # sent_id = 0b47e798d50ce617982cb6f89dc887fb829b0fe2-0
-# newdoc_id = 0b47e798d50ce617982cb6f89dc887fb829b0fe2
+# newdoc id = 0b47e798d50ce617982cb6f89dc887fb829b0fe2
 # text = Background :
 1	Background	background	NOUN	NN	Number=Sing	0	root	_	Seg=B-seg
 2	:	:	PUNCT	:	_	1	punct	_	Seg=O
@@ -4092,7 +4092,7 @@
 17	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = 0b5b490f075aa99ce120a49126ba2ebd1e86dba7-0
-# newdoc_id = 0b5b490f075aa99ce120a49126ba2ebd1e86dba7
+# newdoc id = 0b5b490f075aa99ce120a49126ba2ebd1e86dba7
 # text = Immunological impairment by porcine circovirus type 2 ( PCV2 ) infection is well documented in pigs suffering from postweaning multisystemic wasting syndrome .
 1	Immunological	Immunological	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	impairment	impairment	NOUN	NN	Number=Sing	14	nsubj:pass	_	Seg=O
@@ -4297,7 +4297,7 @@
 30	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = 0b8d293a1ef9f95ed9536b3aba23c5f01a344b83-0
-# newdoc_id = 0b8d293a1ef9f95ed9536b3aba23c5f01a344b83
+# newdoc id = 0b8d293a1ef9f95ed9536b3aba23c5f01a344b83
 # text = The Aga Khan University is the largest tertiary care hospital in the biggest metropolis of Pakistan , in this paper six weeks of experience during the COVID-19 pandemic is shared , we will discuss the measures that were taken to mitigate the spread of COVID-19 amongst dental health care providers ( DHCPS ) and provide a neoteric workflow for the provision of safe dental care as dental services move towards normalcy .
 1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	Seg=B-seg
 2	Aga	Aga	PROPN	NNP	Number=Sing	4	compound	_	Seg=O
@@ -4433,7 +4433,7 @@
 30	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 0c1b5e06659621ae2450ba60f16dcaa0cbf6389c-0
-# newdoc_id = 0c1b5e06659621ae2450ba60f16dcaa0cbf6389c
+# newdoc id = 0c1b5e06659621ae2450ba60f16dcaa0cbf6389c
 # text = A new personal bioaerosol sampler has recently been developed and verified to be very efficient for monitoring of viable airborne bacteria , fungi and viruses .
 1	A	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	Seg=B-seg
 2	new	new	ADJ	JJ	Degree=Pos	5	amod	_	Seg=O
@@ -4677,7 +4677,7 @@
 44	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 0fda4597d104be27d5c7eedd815790b6dedfeb1e-0
-# newdoc_id = 0fda4597d104be27d5c7eedd815790b6dedfeb1e
+# newdoc id = 0fda4597d104be27d5c7eedd815790b6dedfeb1e
 # text = Increasing a ceiling fan 's speed from its lowest setting of 61 rpm , which resulted in 0.77 m 3 /s of airflow , to its highest setting of 176 rpm , which resulted in 2.5 m 3 /s of airflow , or having the fan blow either upward or downward had no statistically significant effect on the efficacy of upper - room ultraviolet germicidal irradiation ( UVGI ) .
 1	Increasing	increase	VERB	VBG	VerbForm=Ger	52	advcl	_	Seg=B-seg
 2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	Seg=O
@@ -4973,7 +4973,7 @@
 34	.	.	PUNCT	.	_	17	punct	_	Seg=O
 
 # sent_id = 107ed9d88147de29cb5c3e2a61a57fd074a3f0e0-0
-# newdoc_id = 107ed9d88147de29cb5c3e2a61a57fd074a3f0e0
+# newdoc id = 107ed9d88147de29cb5c3e2a61a57fd074a3f0e0
 # text = Pericytes , as a key cellular part of the blood - brain barrier , play an important role in the maintenance of brain neurovascular unit .
 1	Pericytes	pericyte	NOUN	NNS	Number=Plur	15	nsubj	_	Seg=B-seg
 2	,	,	PUNCT	,	_	1	punct	_	Seg=O
@@ -5178,7 +5178,7 @@
 37	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 123589feb77f17e27c7b93326aaae484bff34424-0
-# newdoc_id = 123589feb77f17e27c7b93326aaae484bff34424
+# newdoc id = 123589feb77f17e27c7b93326aaae484bff34424
 # text = This study is aimed at defining the relationship between a set of environmental factors and childhood HFMD and then at estimating the related effect .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	study	study	NOUN	NN	Number=Sing	4	nsubj:pass	_	Seg=O
@@ -5471,7 +5471,7 @@
 9	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 146171e5a6075515b4218b0a11d05ebc829bd08b-0
-# newdoc_id = 146171e5a6075515b4218b0a11d05ebc829bd08b
+# newdoc id = 146171e5a6075515b4218b0a11d05ebc829bd08b
 # text = Coronavirus disease 2019 has become a pandemic disease globally .
 1	Coronavirus	Coronavirus	PROPN	NNP	Number=Sing	2	compound	_	Seg=B-seg
 2	disease	disease	NOUN	NN	Number=Sing	5	nsubj	_	Seg=O
@@ -5649,7 +5649,7 @@
 36	.	.	PUNCT	.	_	17	punct	_	Seg=O
 
 # sent_id = 15be47d73265c344c81f51bc1d87f4264ea63c85-0
-# newdoc_id = 15be47d73265c344c81f51bc1d87f4264ea63c85
+# newdoc id = 15be47d73265c344c81f51bc1d87f4264ea63c85
 # text = We describe the clinical course of 57 children with coronavirus disease 2019 ( COVID-19 ) cared for through a single hospital system .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	describe	describe	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -5715,7 +5715,7 @@
 15	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 1682a84266e105445b492f14d6dc1da178027820-0
-# newdoc_id = 1682a84266e105445b492f14d6dc1da178027820
+# newdoc id = 1682a84266e105445b492f14d6dc1da178027820
 # text = The 2020 COVID-19 crisis can spur research on firms ' corporate finance decisions and their macroeconomic implications , similar to the wave of important research on banking and household finance triggered by the 2008 financial crisis .
 1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	Seg=B-seg
 2	2020	2020	NUM	CD	NumType=Card	4	compound	_	Seg=O
@@ -5841,7 +5841,7 @@
 10	)	)	PUNCT	-RRB-	_	3	punct	_	Seg=O
 
 # sent_id = 168a175917680c5b44265ca7c2047b9be68bc5f0-0
-# newdoc_id = 168a175917680c5b44265ca7c2047b9be68bc5f0
+# newdoc id = 168a175917680c5b44265ca7c2047b9be68bc5f0
 # text = Porcine epidemic diarrhea virus ( PEDV ) is a burdensome pathogen in the swine industry .
 1	Porcine	porcine	ADJ	JJ	Degree=Pos	4	amod	_	Seg=B-seg
 2	epidemic	epidemic	ADJ	JJ	Degree=Pos	4	amod	_	Seg=O
@@ -5993,7 +5993,7 @@
 22	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 1735d918984252bfb2ef6e6615c9f1b5d8cebac6-0
-# newdoc_id = 1735d918984252bfb2ef6e6615c9f1b5d8cebac6
+# newdoc id = 1735d918984252bfb2ef6e6615c9f1b5d8cebac6
 # text = Poly(A ) tails are functionally important features of all picornavirus RNA genomes .
 1	Poly(A	Poly(A	PROPN	NNP	Number=Sing	3	compound	_	Seg=B-seg
 2	)	)	PUNCT	-RRB-	_	1	punct	_	Seg=O
@@ -6278,7 +6278,7 @@
 25	.	.	PUNCT	.	_	13	punct	_	Seg=O
 
 # sent_id = 180a37cecacf1df23085e9dc702d07342c9c0ce2-0
-# newdoc_id = 180a37cecacf1df23085e9dc702d07342c9c0ce2
+# newdoc id = 180a37cecacf1df23085e9dc702d07342c9c0ce2
 # text = We present an epidemic model capable of describing key features of the present Covid-19 pandemic .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -6353,7 +6353,7 @@
 17	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 1b154ff0f22d4ac97b61cc3fbc65a21020010468-0
-# newdoc_id = 1b154ff0f22d4ac97b61cc3fbc65a21020010468
+# newdoc id = 1b154ff0f22d4ac97b61cc3fbc65a21020010468
 # text = Air pollution is the most significant environmental risk factor for all - cause mortality , and it has caused substantial disability - adjusted life - years and economic loss .
 1	Air	air	NOUN	NN	Number=Sing	2	compound	_	Seg=B-seg
 2	pollution	pollution	NOUN	NN	Number=Sing	9	nsubj	_	Seg=O
@@ -6544,7 +6544,7 @@
 26	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = 1b8a085682d10dad4baf90417a8cbcde144cc8c9-0
-# newdoc_id = 1b8a085682d10dad4baf90417a8cbcde144cc8c9
+# newdoc id = 1b8a085682d10dad4baf90417a8cbcde144cc8c9
 # text = The evaluation of infectious and noninfectious disease management can be done through the use of a time series analysis .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	evaluation	evaluation	NOUN	NN	Number=Sing	11	nsubj:pass	_	Seg=O
@@ -6653,7 +6653,7 @@
 22	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 1be50b82b258db680534fd344a0da386ee461361-0
-# newdoc_id = 1be50b82b258db680534fd344a0da386ee461361
+# newdoc id = 1be50b82b258db680534fd344a0da386ee461361
 # text = Forced viral adaptation is a powerful technique employed to study the ways viruses may overcome various selective pressures that reduce viral replication .
 1	Forced	forced	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	Seg=B-seg
 2	viral	viral	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -6734,7 +6734,7 @@
 51	2018	2018	NUM	CD	NumForm=Digit|NumType=Card	49	nmod:tmod	_	Seg=O
 
 # sent_id = 1dc4f757f425b080168840089f1f4d29bac75f51-0
-# newdoc_id = 1dc4f757f425b080168840089f1f4d29bac75f51
+# newdoc id = 1dc4f757f425b080168840089f1f4d29bac75f51
 # text = Compared with temperate areas , the understanding of seasonal variations of influenza infections is lacking in subtropical and tropical regions .
 1	Compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	15	advcl	_	Seg=B-seg
 2	with	with	ADP	IN	_	4	case	_	Seg=O
@@ -6960,7 +6960,7 @@
 10	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 1ea8699c1a259ed2a4c0d1c70e1c842eac6c2063-0
-# newdoc_id = 1ea8699c1a259ed2a4c0d1c70e1c842eac6c2063
+# newdoc id = 1ea8699c1a259ed2a4c0d1c70e1c842eac6c2063
 # text = Avian metapneumovirus ( aMPV ) is one of the major causes of serious respiratory infections of poultry and leads to considerable economic losses to food animal production worldwide .
 1	Avian	Avian	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	metapneumovirus	metapneumovirus	NOUN	NN	Number=Sing	7	nsubj	_	Seg=O
@@ -7115,7 +7115,7 @@
 27	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = 1f2bbc79b56c51c0ae26ced2d7d8ccf10360fa72-0
-# newdoc_id = 1f2bbc79b56c51c0ae26ced2d7d8ccf10360fa72
+# newdoc id = 1f2bbc79b56c51c0ae26ced2d7d8ccf10360fa72
 # text = Ribonuclease L ( RNase L ) is a metal - ion - independent endoribonuclease associated with antiviral and antibacterial defense , cancer and lifespan .
 1	Ribonuclease	Ribonuclease	PROPN	NNP	Number=Sing	2	compound	_	Seg=B-seg
 2	L	L	PROPN	NNP	Number=Sing	14	nsubj	_	Seg=O
@@ -7392,7 +7392,7 @@
 33	.	.	PUNCT	.	_	20	punct	_	Seg=O
 
 # sent_id = 1f7c4b6fc91f3143baa4824a7f8050f16d9bcccd-0
-# newdoc_id = 1f7c4b6fc91f3143baa4824a7f8050f16d9bcccd
+# newdoc id = 1f7c4b6fc91f3143baa4824a7f8050f16d9bcccd
 # text = Background :
 1	Background	background	NOUN	NN	Number=Sing	0	root	_	Seg=B-seg
 2	:	:	PUNCT	:	_	1	punct	_	Seg=O
@@ -7720,7 +7720,7 @@
 21	.	.	PUNCT	.	_	14	punct	_	Seg=O
 
 # sent_id = 202409fc9fbc3fdc1a7dd3ef3e690880287c117c-0
-# newdoc_id = 202409fc9fbc3fdc1a7dd3ef3e690880287c117c
+# newdoc id = 202409fc9fbc3fdc1a7dd3ef3e690880287c117c
 # text = Localization of neutralizing , serotype specific epitopes of infectious bronchitis virus has been difficult because these epitopes are conformationally dependent .
 1	Localization	localization	NOUN	NN	Number=Sing	14	nsubj	_	Seg=B-seg
 2	of	of	ADP	IN	_	3	case	_	Seg=O
@@ -7864,7 +7864,7 @@
 28	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = 24c534c1f480d949f6ceeab0a60c1d7958ee34af-0
-# newdoc_id = 24c534c1f480d949f6ceeab0a60c1d7958ee34af
+# newdoc id = 24c534c1f480d949f6ceeab0a60c1d7958ee34af
 # text = Topic modeling is frequently employed for discovering structures ( or patterns ) in a corpus of documents .
 1	Topic	topic	NOUN	NN	Number=Sing	2	compound	_	Seg=B-seg
 2	modeling	modeling	NOUN	NN	Number=Sing	5	nsubj:pass	_	Seg=O
@@ -8178,7 +8178,7 @@
 46	.	.	PUNCT	.	_	22	punct	_	Seg=O
 
 # sent_id = 26634be503e7252551c4829fa563245b729bf213-0
-# newdoc_id = 26634be503e7252551c4829fa563245b729bf213
+# newdoc id = 26634be503e7252551c4829fa563245b729bf213
 # text = The present study is intended to analyze the effect of global quality , perceived value , general satisfaction , and emotions on future behavior patterns among participants in the European Duathlon Championship .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	Seg=B-seg
 2	present	present	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -8397,7 +8397,7 @@
 26	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 269a5e6f3c8a46d3ef96ffc2eede944f372bfac6-0
-# newdoc_id = 269a5e6f3c8a46d3ef96ffc2eede944f372bfac6
+# newdoc id = 269a5e6f3c8a46d3ef96ffc2eede944f372bfac6
 # text = A convex polyhedron is the convex hull of a finite set of points in R 3 .
 1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	Seg=B-seg
 2	convex	convex	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -8497,7 +8497,7 @@
 21	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = 273377715ca866a5763943b5b86583bf6d6f91f1-0
-# newdoc_id = 273377715ca866a5763943b5b86583bf6d6f91f1
+# newdoc id = 273377715ca866a5763943b5b86583bf6d6f91f1
 # text = For infectious - disease outbreaks , clinical solutions typically focus on efficient pathogen destruction .
 1	For	for	ADP	IN	_	5	case	_	Seg=B-seg
 2	infectious	infectious	ADJ	JJ	Degree=Pos	4	amod	_	Seg=O
@@ -8697,7 +8697,7 @@
 46	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 2857cb1d4c6c446ac30ab4d0cabca0b42d62c465-0
-# newdoc_id = 2857cb1d4c6c446ac30ab4d0cabca0b42d62c465
+# newdoc id = 2857cb1d4c6c446ac30ab4d0cabca0b42d62c465
 # text = Background :
 1	Background	background	NOUN	NN	Number=Sing	0	root	_	Seg=B-seg
 2	:	:	PUNCT	:	_	1	punct	_	Seg=O
@@ -9084,7 +9084,7 @@
 29	.	.	PUNCT	.	_	21	punct	_	Seg=O
 
 # sent_id = 2a35cb9b73eda5248a85c9d84532b651ab8a3b3a-0
-# newdoc_id = 2a35cb9b73eda5248a85c9d84532b651ab8a3b3a
+# newdoc id = 2a35cb9b73eda5248a85c9d84532b651ab8a3b3a
 # text = Improved diagnostic tools for rapid detection , quantitation , and subgrouping of human respiratory syncytial virus ( RSV ) are needed to aid the development and evaluation of novel intervention strategies .
 1	Improved	improve	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	Seg=B-seg
 2	diagnostic	diagnostic	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -9323,7 +9323,7 @@
 20	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 2a7c951e191425fd9fa5ac108f07a1f02eb75872-0
-# newdoc_id = 2a7c951e191425fd9fa5ac108f07a1f02eb75872
+# newdoc id = 2a7c951e191425fd9fa5ac108f07a1f02eb75872
 # text = It has been nearly a century since the early description of microglia by Rio - Hortega ; since then many more biological and pathological features of microglia have been recognized .
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Seg=B-seg
 2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	Seg=O
@@ -9551,7 +9551,7 @@
 36	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = 2b7bf7d309d5b7e2c16feb83d0ebdcb0d3363d76-0
-# newdoc_id = 2b7bf7d309d5b7e2c16feb83d0ebdcb0d3363d76
+# newdoc id = 2b7bf7d309d5b7e2c16feb83d0ebdcb0d3363d76
 # text = How different cultures react and respond given a crisis is predominant in a society 's norms and political will to combat the situation .
 1	How	how	SCONJ	WRB	PronType=Int	4	mark	_	Seg=B-seg
 2	different	different	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -9863,7 +9863,7 @@
 23	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = 2c08714eb56aedc24e6e4243784ca66870a234c1-0
-# newdoc_id = 2c08714eb56aedc24e6e4243784ca66870a234c1
+# newdoc id = 2c08714eb56aedc24e6e4243784ca66870a234c1
 # text = Children of today have been surrounded by digital technology since their birth .
 1	Children	child	NOUN	NNS	Number=Plur	6	nsubj:pass	_	Seg=B-seg
 2	of	of	ADP	IN	_	3	case	_	Seg=O
@@ -10116,7 +10116,7 @@
 72	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 2d0664c3be770994d502f1d1baae42684652aad4-0
-# newdoc_id = 2d0664c3be770994d502f1d1baae42684652aad4
+# newdoc id = 2d0664c3be770994d502f1d1baae42684652aad4
 # text = Vaccination is one of the cheapest health - care interventions that have saved more lives than any other drugs or therapies .
 1	Vaccination	vaccination	NOUN	NN	Number=Sing	3	nsubj	_	Seg=B-seg
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Seg=O
@@ -10358,7 +10358,7 @@
 26	.	.	PUNCT	.	_	9	punct	_	Seg=O
 
 # sent_id = 2d9482a26d740c255bf3108d1c628e97fae3cc7a-0
-# newdoc_id = 2d9482a26d740c255bf3108d1c628e97fae3cc7a
+# newdoc id = 2d9482a26d740c255bf3108d1c628e97fae3cc7a
 # text = The canine respiratory coronavirus ( CRCoV ) K37 strain of the family Coronaviridae , group 2 , was isolated in South Korea .
 1	The	the	DET	DT	Definite=Def|PronType=Art	9	det	_	Seg=B-seg
 2	canine	canine	NOUN	NN	Number=Sing	9	compound	_	Seg=O
@@ -10529,7 +10529,7 @@
 24	.	.	PUNCT	.	_	13	punct	_	Seg=O
 
 # sent_id = 2dd56fdde263e4c8b6a2e54123a89b858a1ecf46-0
-# newdoc_id = 2dd56fdde263e4c8b6a2e54123a89b858a1ecf46
+# newdoc id = 2dd56fdde263e4c8b6a2e54123a89b858a1ecf46
 # text = Human coronavirus HKU1 ( HCoV - HKU1 ) , which mainly causes acute selflimited respiratory - tract infections , belongs to group A of the Betacoronavirus genus .
 1	Human	human	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	coronavirus	coronavirus	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -10764,7 +10764,7 @@
 8	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 2dfa1f27d87881bc93d1521011a48c234f500113-0
-# newdoc_id = 2dfa1f27d87881bc93d1521011a48c234f500113
+# newdoc id = 2dfa1f27d87881bc93d1521011a48c234f500113
 # text = Background
 1	Background	background	NOUN	NN	Number=Sing	0	root	_	Seg=B-seg
 
@@ -11149,7 +11149,7 @@
 18	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = 2ee2bfaa3b2b8d6b098b28103960403ecc7a3188-0
-# newdoc_id = 2ee2bfaa3b2b8d6b098b28103960403ecc7a3188
+# newdoc id = 2ee2bfaa3b2b8d6b098b28103960403ecc7a3188
 # text = This review highlights the clinical scoring tools used for the management of acute pharyngotonsillitis in primary care clinics .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	review	review	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -11302,7 +11302,7 @@
 28	.	.	PUNCT	.	_	11	punct	_	Seg=O
 
 # sent_id = 2f904674d4fd87023b02950eeff6497be222926b-0
-# newdoc_id = 2f904674d4fd87023b02950eeff6497be222926b
+# newdoc id = 2f904674d4fd87023b02950eeff6497be222926b
 # text = Massive molecular testing for COVID-19 has been pointed as fundamental to moderate the spread of the disease .
 1	Massive	Massive	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	molecular	molecular	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -11471,7 +11471,7 @@
 11	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = 3053729be9dadd6180b0b30ed2048dec12bd0401-0
-# newdoc_id = 3053729be9dadd6180b0b30ed2048dec12bd0401
+# newdoc id = 3053729be9dadd6180b0b30ed2048dec12bd0401
 # text = Gastroenteritis is a common illness causing considerable morbidity and mortality worldwide .
 1	Gastroenteritis	gastroenteritis	NOUN	NN	Number=Sing	5	nsubj	_	Seg=B-seg
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Seg=O
@@ -11700,7 +11700,7 @@
 37	.	.	PUNCT	.	_	16	punct	_	Seg=O
 
 # sent_id = 3083c8b34f2b52c612601c0cedbd397681f79d46-0
-# newdoc_id = 3083c8b34f2b52c612601c0cedbd397681f79d46
+# newdoc id = 3083c8b34f2b52c612601c0cedbd397681f79d46
 # text = Wildlife are frequently a neglected component of One Health ; however , the linkages between the health of wildlife and human , domestic animal , and environmental health are clear .
 1	Wildlife	Wildlife	NOUN	NN	Number=Sing	6	nsubj	_	Seg=B-seg
 2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Seg=O
@@ -11843,7 +11843,7 @@
 29	.	.	PUNCT	.	_	16	punct	_	Seg=O
 
 # sent_id = 308feddda1dfd44c1ebb38dcc2d06bb6b2d5dddf-0
-# newdoc_id = 308feddda1dfd44c1ebb38dcc2d06bb6b2d5dddf
+# newdoc id = 308feddda1dfd44c1ebb38dcc2d06bb6b2d5dddf
 # text = This research examines whether cities are getting more equally accessible and connected via high - speed rail ( HSR ) in China over the period from 2010 to 2015 .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	research	research	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -12076,7 +12076,7 @@
 32	.	.	PUNCT	.	_	15	punct	_	Seg=O
 
 # sent_id = 30d2d2d37c2a884db55ab21d1cbd92abcff95fa2-0
-# newdoc_id = 30d2d2d37c2a884db55ab21d1cbd92abcff95fa2
+# newdoc id = 30d2d2d37c2a884db55ab21d1cbd92abcff95fa2
 # text = Angiotensin II ( Ang II ) plays an important role in cardiomyocyte hypertrophy .
 1	Angiotensin	Angiotensin	PROPN	NNP	Number=Sing	7	nsubj	_	Seg=B-seg
 2	II	ii	NUM	CD	NumType=Card	1	nummod	_	Seg=O
@@ -12359,7 +12359,7 @@
 23	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 30e3307d100a7954c970537d7c295bd689551e31-0
-# newdoc_id = 30e3307d100a7954c970537d7c295bd689551e31
+# newdoc id = 30e3307d100a7954c970537d7c295bd689551e31
 # text = In the paper , by virtue of the binomial inversion formula , a general formula of higher order derivatives for a ratio of two differentiable function , and other techniques , the authors compute several sums in terms of the beta function and its partial derivatives , polygamma functions , the Gauss hypergeometric function , and a determinant .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	Seg=O
@@ -12433,7 +12433,7 @@
 8	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 332fcb86ed263f7c46ee3aea82c682c8198074ed-0
-# newdoc_id = 332fcb86ed263f7c46ee3aea82c682c8198074ed
+# newdoc id = 332fcb86ed263f7c46ee3aea82c682c8198074ed
 # text = Coronavirus 2019 is challenging nurse leaders to adopt new decisionmaking practices .
 1	Coronavirus	Coronavirus	PROPN	NNP	Number=Sing	6	nsubj	_	Seg=B-seg
 2	2019	2019	NUM	CD	NumType=Card	1	nmod:tmod	_	Seg=O
@@ -12535,7 +12535,7 @@
 34	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 339795c794c410e24bee37d47d07c7a3c5081063-0
-# newdoc_id = 339795c794c410e24bee37d47d07c7a3c5081063
+# newdoc id = 339795c794c410e24bee37d47d07c7a3c5081063
 # text = Diagnostic testing for the novel coronavirus is an important tool to fight the coronavirus disease ( Covid-19 ) pandemic .
 1	Diagnostic	Diagnostic	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	testing	testing	NOUN	NN	Number=Sing	10	nsubj	_	Seg=O
@@ -12683,7 +12683,7 @@
 16	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 33db9d032b967485d628f73408ebfb6953db40a7-0
-# newdoc_id = 33db9d032b967485d628f73408ebfb6953db40a7
+# newdoc id = 33db9d032b967485d628f73408ebfb6953db40a7
 # text = 2019-nCoV is a novel coronavirus was isolated and identified in 2019 in Wuhan , China .
 1	2019-nCoV	2019-ncov	NUM	CD	NumType=Card	4	nsubj	_	Seg=B-seg
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Seg=O
@@ -12900,7 +12900,7 @@
 10	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 343fbf921e4d8fab5e51739b0914eb6e05ec4e34-0
-# newdoc_id = 343fbf921e4d8fab5e51739b0914eb6e05ec4e34
+# newdoc id = 343fbf921e4d8fab5e51739b0914eb6e05ec4e34
 # text = Background .
 1	Background	background	NOUN	NN	Number=Sing	0	root	_	Seg=B-seg
 2	.	.	PUNCT	.	_	1	punct	_	Seg=O
@@ -13218,7 +13218,7 @@
 17	.	.	PUNCT	.	_	16	punct	_	Seg=O
 
 # sent_id = 351d20dcf8e841056a5e9884ab688e120db82620-0
-# newdoc_id = 351d20dcf8e841056a5e9884ab688e120db82620
+# newdoc id = 351d20dcf8e841056a5e9884ab688e120db82620
 # text = Avian infectious bronchitis ( IB ) is a major cause of economic losses in poultry industry .
 1	Avian	Avian	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	infectious	infectious	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -13534,7 +13534,7 @@
 15	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = 351fca8e4bd7321d75ec0227794deb0db3567540-0
-# newdoc_id = 351fca8e4bd7321d75ec0227794deb0db3567540
+# newdoc id = 351fca8e4bd7321d75ec0227794deb0db3567540
 # text = Porcine epidemic diarrhea virus ( PEDV ) , which emerged in the United States in 2013 , has spread throughout North America .
 1	Porcine	porcine	ADJ	JJ	Degree=Pos	4	amod	_	Seg=B-seg
 2	epidemic	epidemic	ADJ	JJ	Degree=Pos	4	amod	_	Seg=O
@@ -13737,7 +13737,7 @@
 21	.	.	PUNCT	.	_	14	punct	_	Seg=O
 
 # sent_id = 36d1ce29e9a96454ecd03db6c5e970052cb82abb-0
-# newdoc_id = 36d1ce29e9a96454ecd03db6c5e970052cb82abb
+# newdoc id = 36d1ce29e9a96454ecd03db6c5e970052cb82abb
 # text = In this study , the susceptibility of porcine peripheral blood monocytes ( BMo ) , peritoneal macrophages ( PMf ) and alveolar macrophages ( AMf ) to PRRSV was examined .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -14068,7 +14068,7 @@
 41	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 3835ee8683c9c63e71a30ea92a36903117d467b9-0
-# newdoc_id = 3835ee8683c9c63e71a30ea92a36903117d467b9
+# newdoc id = 3835ee8683c9c63e71a30ea92a36903117d467b9
 # text = As the ongoing COVID-19 pandemic posed a huge challenge to global public health , emphasis on personal hygiene caused extraordinary daily use of detergents and household cleaning products .
 1	As	as	SCONJ	IN	_	6	mark	_	Seg=B-seg
 2	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	Seg=O
@@ -14265,7 +14265,7 @@
 19	.	.	PUNCT	.	_	13	punct	_	Seg=O
 
 # sent_id = 38824de74c353c895d96ee1a20ce43956363ff9b-0
-# newdoc_id = 38824de74c353c895d96ee1a20ce43956363ff9b
+# newdoc id = 38824de74c353c895d96ee1a20ce43956363ff9b
 # text = Viruses use cell machinery to replicate their genome and produce viral proteins .
 1	Viruses	virus	NOUN	NNS	Number=Plur	2	nsubj	_	Seg=B-seg
 2	use	use	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -14517,7 +14517,7 @@
 26	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = 388f183cd243466d793691e37972dd09b651348a-0
-# newdoc_id = 388f183cd243466d793691e37972dd09b651348a
+# newdoc id = 388f183cd243466d793691e37972dd09b651348a
 # text = People most at risk of influenza complications are the elderly with impaired immunity .
 1	People	person	NOUN	NNS	Number=Plur	10	nsubj	_	Seg=B-seg
 2	most	most	ADJ	JJS	Degree=Sup	1	amod	_	Seg=O
@@ -14752,7 +14752,7 @@
 24	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 39037d14bf47bea9a4721c8f331da9661f18fef5-0
-# newdoc_id = 39037d14bf47bea9a4721c8f331da9661f18fef5
+# newdoc id = 39037d14bf47bea9a4721c8f331da9661f18fef5
 # text = In this work we construct a mathematical model for the transmission and spread of coronavirus disease 2019 or COVID-19 .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -15011,7 +15011,7 @@
 29	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 3a8a064e3c2e791777f54f39a797baf90c97b653-0
-# newdoc_id = 3a8a064e3c2e791777f54f39a797baf90c97b653
+# newdoc id = 3a8a064e3c2e791777f54f39a797baf90c97b653
 # text = The COVID-19 epidemic has resulted in many hospitals and practices to cancel in - person outpatient clinic visits , where head and neck patients receive their critical longitudinal care .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	Seg=B-seg
 2	COVID-19	COVID-19	PROPN	NNP	Number=Sing	3	compound	_	Seg=O
@@ -15149,7 +15149,7 @@
 37	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = 3dc5bf516803b9db568e51276d44ce5f1562d098-0
-# newdoc_id = 3dc5bf516803b9db568e51276d44ce5f1562d098
+# newdoc id = 3dc5bf516803b9db568e51276d44ce5f1562d098
 # text = The current explosive outbreak of coronavirus is posing serious threats to public health and economy around the world .
 1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	Seg=B-seg
 2	current	current	ADJ	JJ	Degree=Pos	4	amod	_	Seg=O
@@ -15309,7 +15309,7 @@
 14	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 3efed917d1be127696f7c6c8194b9ce2ed9cec6a-0
-# newdoc_id = 3efed917d1be127696f7c6c8194b9ce2ed9cec6a
+# newdoc id = 3efed917d1be127696f7c6c8194b9ce2ed9cec6a
 # text = This article examines the political and criminological history of anti - money controls , including the involvement of Asian countries and the varied motivations and interests engaged .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	article	article	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -15450,7 +15450,7 @@
 25	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = 3f8693d47aa1365387a666ecb41f5ced3ee2fc3e-0
-# newdoc_id = 3f8693d47aa1365387a666ecb41f5ced3ee2fc3e
+# newdoc id = 3f8693d47aa1365387a666ecb41f5ced3ee2fc3e
 # text = Use of pecan shell fiber in human food is presently limited , but could increase pending demonstration of safety .
 1	Use	use	NOUN	NN	Number=Sing	11	nsubj:pass	_	Seg=B-seg
 2	of	of	ADP	IN	_	5	case	_	Seg=O
@@ -15713,7 +15713,7 @@
 38	.	.	PUNCT	.	_	9	punct	_	Seg=O
 
 # sent_id = 3fe0d4ab3e3152159123b351f7adc98186d01449-0
-# newdoc_id = 3fe0d4ab3e3152159123b351f7adc98186d01449
+# newdoc id = 3fe0d4ab3e3152159123b351f7adc98186d01449
 # text = Coronavirus disease 2019 , i.e. COVID-19 has imposed the public health measure of keeping social distancing for preventing mass transmission of COVID-19 .
 1	Coronavirus	Coronavirus	PROPN	NNP	Number=Sing	2	compound	_	Seg=B-seg
 2	disease	disease	NOUN	NN	Number=Sing	8	nsubj	_	Seg=O
@@ -15957,7 +15957,7 @@
 42	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 4033e2eca1d60dd76eb5d894dad074202cb21d96-0
-# newdoc_id = 4033e2eca1d60dd76eb5d894dad074202cb21d96
+# newdoc id = 4033e2eca1d60dd76eb5d894dad074202cb21d96
 # text = The standard of reference for confirming COVID-19 relies on microbiological tests such as real - time polymerase chain reaction ( RT - PCR ) or sequencing .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	standard	standard	NOUN	NN	Number=Sing	8	nsubj	_	Seg=O
@@ -16054,7 +16054,7 @@
 20	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = 4043a852290c8823faa76b7592c9f9927c7d0928-0
-# newdoc_id = 4043a852290c8823faa76b7592c9f9927c7d0928
+# newdoc id = 4043a852290c8823faa76b7592c9f9927c7d0928
 # text = Patients with severe acute respiratory syndrome ( SARS ) may present with extra - pulmonary symptoms .
 1	Patients	patient	NOUN	NNS	Number=Plur	11	nsubj	_	Seg=B-seg
 2	with	with	ADP	IN	_	6	case	_	Seg=O
@@ -16152,7 +16152,7 @@
 17	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = 41a35d16de1630c28ba07b3ab3b7ab78ccef25ac-0
-# newdoc_id = 41a35d16de1630c28ba07b3ab3b7ab78ccef25ac
+# newdoc id = 41a35d16de1630c28ba07b3ab3b7ab78ccef25ac
 # text = Mesenchymal stem cells ( MSCs ) have been extensively investigated for the treatment of various diseases .
 1	Mesenchymal	mesenchymal	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	stem	stem	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -16349,7 +16349,7 @@
 19	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 4395141eef1089f1c75a14912fade412fd694c19-0
-# newdoc_id = 4395141eef1089f1c75a14912fade412fd694c19
+# newdoc id = 4395141eef1089f1c75a14912fade412fd694c19
 # text = The glycosylated membrane protein M of the severe acute respiratory syndrome associated coronavirus ( SARS - CoV ) is the main structural component of the virion and mediates assembly and budding of viral particles .
 1	The	the	DET	DT	Definite=Def|PronType=Art	5	det	_	Seg=B-seg
 2	glycosylated	glycosylate	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	_	Seg=O
@@ -16570,7 +16570,7 @@
 54	.	.	PUNCT	.	_	8	punct	_	Seg=O
 
 # sent_id = 43b340eb1776b4c487c7893797fd744fc3fdb04e-0
-# newdoc_id = 43b340eb1776b4c487c7893797fd744fc3fdb04e
+# newdoc id = 43b340eb1776b4c487c7893797fd744fc3fdb04e
 # text = In this paper , we suggest a real - time online shopper behavior prediction system which predicts the visitor 's shopping intent as soon as the website is visited .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -16673,7 +16673,7 @@
 18	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 43c284998733a1d7cc474d14c378f08e4b509c63-0
-# newdoc_id = 43c284998733a1d7cc474d14c378f08e4b509c63
+# newdoc id = 43c284998733a1d7cc474d14c378f08e4b509c63
 # text = The mosquito - borne chikungunya virus ( CHIKV ) causes chikungunya fever , with clinical presentations such as severe back and small joint pain , and debilitating arthritis associated with crippling pains that persist for weeks and even years .
 1	The	the	DET	DT	Definite=Def|PronType=Art	6	det	_	Seg=B-seg
 2	mosquito	mosquito	NOUN	NN	Number=Sing	4	compound	_	Seg=O
@@ -16926,7 +16926,7 @@
 19	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 43d2016cbba1ca1e17e68352c290dd58c52349ab-0
-# newdoc_id = 43d2016cbba1ca1e17e68352c290dd58c52349ab
+# newdoc id = 43d2016cbba1ca1e17e68352c290dd58c52349ab
 # text = Background
 1	Background	background	NOUN	NN	Number=Sing	0	root	_	Seg=B-seg
 
@@ -17170,7 +17170,7 @@
 9	J.	J.	PROPN	NNP	Number=Sing	6	nmod	_	Seg=O
 
 # sent_id = 44436dae14d853ef48bf49b19ffb683eea51f798-0
-# newdoc_id = 44436dae14d853ef48bf49b19ffb683eea51f798
+# newdoc id = 44436dae14d853ef48bf49b19ffb683eea51f798
 # text = The uncertainties of healthcare payment and delivery reform on income and care process have created a sense of foreboding , concern , and fear that a career in medicine is not what it used to be and that a career in infectious diseases in particular may no longer be viable .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	uncertainties	uncertainty	NOUN	NNS	Number=Plur	15	nsubj	_	Seg=O
@@ -17344,7 +17344,7 @@
 24	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 444cc65fbe22dd6583120260c488dd621ebadab4-0
-# newdoc_id = 444cc65fbe22dd6583120260c488dd621ebadab4
+# newdoc id = 444cc65fbe22dd6583120260c488dd621ebadab4
 # text = Background :
 1	Background	background	NOUN	NN	Number=Sing	0	root	_	Seg=B-seg
 2	:	:	PUNCT	:	_	1	punct	_	Seg=O
@@ -17644,7 +17644,7 @@
 14	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = 44970b3883429431bcec3d70c78b5f9ac5171eae-0
-# newdoc_id = 44970b3883429431bcec3d70c78b5f9ac5171eae
+# newdoc id = 44970b3883429431bcec3d70c78b5f9ac5171eae
 # text = Novel pathogens have the potential to become critical issues of national security , public health and economic welfare .
 1	Novel	Novel	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	pathogens	pathogen	NOUN	NNS	Number=Plur	3	nsubj	_	Seg=O
@@ -17965,7 +17965,7 @@
 15	:	:	PUNCT	:	_	10	punct	_	Seg=O
 
 # sent_id = 45566b6f9efb4bb0f40394a60c10c14bc2a70471-0
-# newdoc_id = 45566b6f9efb4bb0f40394a60c10c14bc2a70471
+# newdoc id = 45566b6f9efb4bb0f40394a60c10c14bc2a70471
 # text = In a preliminary clinical study , we observed that the combination of hydroxychloroquine and azithromycin was effective against SARS - CoV-2 by shortening the duration of viral load in Covid-19 patients .
 1	In	in	ADP	IN	_	5	case	_	Seg=B-seg
 2	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	Seg=O
@@ -18081,7 +18081,7 @@
 55	.	.	PUNCT	.	_	21	punct	_	Seg=O
 
 # sent_id = 4589d4013cf69c396e0fdb67131022fc11119654-0
-# newdoc_id = 4589d4013cf69c396e0fdb67131022fc11119654
+# newdoc id = 4589d4013cf69c396e0fdb67131022fc11119654
 # text = In early 2013 , a novel avian - origin influenza A(H7N9 ) virus emerged in China , and has caused sporadic human infections .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	early	early	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -18361,7 +18361,7 @@
 12	.	.	PUNCT	.	_	9	punct	_	Seg=O
 
 # sent_id = 45ca49b78fd033c5e37ec5482918b446f5841c93-0
-# newdoc_id = 45ca49b78fd033c5e37ec5482918b446f5841c93
+# newdoc id = 45ca49b78fd033c5e37ec5482918b446f5841c93
 # text = The antigenic structure of transmissible gastroenteritis ( TGE ) virus E2 glycoprotein has been defined at three levels : antigenic sites , antigenic subsites and epitopes .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	Seg=B-seg
 2	antigenic	antigenic	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -18683,7 +18683,7 @@
 21	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 45edbd85cb93950fecbc8da86f684a9e45c1d8f1-0
-# newdoc_id = 45edbd85cb93950fecbc8da86f684a9e45c1d8f1
+# newdoc id = 45edbd85cb93950fecbc8da86f684a9e45c1d8f1
 # text = The control of infectious diseases such as swine influenza viruses ( SwIV ) plays an important role in food production both from the animal health and from the public health point of view .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	control	control	NOUN	NN	Number=Sing	14	nsubj	_	Seg=O
@@ -19049,7 +19049,7 @@
 41	.	.	PUNCT	.	_	20	punct	_	Seg=O
 
 # sent_id = 480f67bf4f825dbc367fb67ec6de5b1664299eb5-0
-# newdoc_id = 480f67bf4f825dbc367fb67ec6de5b1664299eb5
+# newdoc id = 480f67bf4f825dbc367fb67ec6de5b1664299eb5
 # text = A highly infectious disease ( HID ) that is transmissible from person to person causes life - threatening illness and presents a serious hazard in the healthcare setting and in the community that requires specific control measures .
 1	A	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	Seg=B-seg
 2	highly	highly	ADV	RB	_	3	advmod	_	Seg=O
@@ -19244,7 +19244,7 @@
 28	.	.	PUNCT	.	_	15	punct	_	Seg=O
 
 # sent_id = 48522c9977177ec26e13ed9809b541d614b78160-0
-# newdoc_id = 48522c9977177ec26e13ed9809b541d614b78160
+# newdoc id = 48522c9977177ec26e13ed9809b541d614b78160
 # text = The outbreak of COVID-2019 initiated at Wuhan , China has become a global threat by rapid transmission and severe fatalities .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	outbreak	outbreak	NOUN	NN	Number=Sing	11	nsubj	_	Seg=O
@@ -19437,7 +19437,7 @@
 21	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 4a7a1d6fa1a47905fb52c387ace37f8bca5fae42-0
-# newdoc_id = 4a7a1d6fa1a47905fb52c387ace37f8bca5fae42
+# newdoc id = 4a7a1d6fa1a47905fb52c387ace37f8bca5fae42
 # text = Background :
 1	Background	background	NOUN	NN	Number=Sing	0	root	_	Seg=B-seg
 2	:	:	PUNCT	:	_	1	punct	_	Seg=O
@@ -19820,7 +19820,7 @@
 39	.	.	PUNCT	.	_	24	punct	_	Seg=O
 
 # sent_id = 4db77ad7a1c0aaa52615c22c0f58e9b2ddd96a02-0
-# newdoc_id = 4db77ad7a1c0aaa52615c22c0f58e9b2ddd96a02
+# newdoc id = 4db77ad7a1c0aaa52615c22c0f58e9b2ddd96a02
 # text = Coronavirus epidemic caused announcing emergency case in South Korea .
 1	Coronavirus	Coronavirus	PROPN	NNP	Number=Sing	2	compound	_	Seg=B-seg
 2	epidemic	epidemic	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -20039,7 +20039,7 @@
 23	.	.	PUNCT	.	_	8	punct	_	Seg=O
 
 # sent_id = 4e20e6a3d99bde2aea75bc215333524538fe17ef-0
-# newdoc_id = 4e20e6a3d99bde2aea75bc215333524538fe17ef
+# newdoc id = 4e20e6a3d99bde2aea75bc215333524538fe17ef
 # text = Respiratory infections are the most frequent reason for primary health care consultation .
 1	Respiratory	respiratory	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	infections	infection	NOUN	NNS	Number=Plur	7	nsubj	_	Seg=O
@@ -20285,7 +20285,7 @@
 16	.	.	PUNCT	.	_	15	punct	_	Seg=O
 
 # sent_id = 4fc5ea08bc8213609b854d5e4ffd02bd609298a7-0
-# newdoc_id = 4fc5ea08bc8213609b854d5e4ffd02bd609298a7
+# newdoc id = 4fc5ea08bc8213609b854d5e4ffd02bd609298a7
 # text = Though viruses have generally been characterized by their pathogenic and more generally harmful effects , many examples of mutualistic viruses exist .
 1	Though	though	SCONJ	IN	_	6	mark	_	Seg=B-seg
 2	viruses	viruse	NOUN	NNS	Number=Plur	6	nsubj:pass	_	Seg=O
@@ -20429,7 +20429,7 @@
 25	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 5054b46cdd142f945f9583e393706d5e139f760b-0
-# newdoc_id = 5054b46cdd142f945f9583e393706d5e139f760b
+# newdoc id = 5054b46cdd142f945f9583e393706d5e139f760b
 # text = This content analysis provides an overview of articles specific to technology integration in the field of counseling published in American Counseling Association ( ACA ) journals between the years 2000 and 2018 .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=B-seg
 2	content	content	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -20545,7 +20545,7 @@
 22	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 54943a77892dcdfac090664c4c09ff219b28c6d7-0
-# newdoc_id = 54943a77892dcdfac090664c4c09ff219b28c6d7
+# newdoc id = 54943a77892dcdfac090664c4c09ff219b28c6d7
 # text = Simultaneous extraction and separation of liquiritin , glycyrrhizic acid , and glabridin from licorice were developed by liquidliquid extraction with liquid chromatography separation .
 1	Simultaneous	simultaneous	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	extraction	extraction	NOUN	NN	Number=Sing	16	nsubj:pass	_	Seg=O
@@ -20724,7 +20724,7 @@
 38	.	.	PUNCT	.	_	24	punct	_	Seg=O
 
 # sent_id = 54cbb1fc4b77ae332cdb8f44a321f9db35afe2f1-0
-# newdoc_id = 54cbb1fc4b77ae332cdb8f44a321f9db35afe2f1
+# newdoc id = 54cbb1fc4b77ae332cdb8f44a321f9db35afe2f1
 # text = This paper highlights the enormous economic and social impact of COVID-19 with respect to articles that have either prognosticated such a large - scale event , and its economic consequences , or have assessed the impacts of other epidemics and pandemics .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	paper	paper	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -20841,7 +20841,7 @@
 36	.	.	PUNCT	.	_	17	punct	_	Seg=O
 
 # sent_id = 587118e335a8dd365f56caf0db8c2230cb9aa7cd-0
-# newdoc_id = 587118e335a8dd365f56caf0db8c2230cb9aa7cd
+# newdoc id = 587118e335a8dd365f56caf0db8c2230cb9aa7cd
 # text = In late 2019 , the world encountered an unexpected new virus , resulting in a highly challenging new pandemic .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	late	late	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -21000,7 +21000,7 @@
 17	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = 59fe5a3ec925d965c06ea6764db86bca9fb0b8b6-0
-# newdoc_id = 59fe5a3ec925d965c06ea6764db86bca9fb0b8b6
+# newdoc id = 59fe5a3ec925d965c06ea6764db86bca9fb0b8b6
 # text = The novel coronavirus disease 2019 ( COVID-19 ) pandemic is a major global threat affecting millions of lives throughout the world physically and psychologically .
 1	The	the	DET	DT	Definite=Def|PronType=Art	9	det	_	Seg=B-seg
 2	novel	novel	ADJ	JJ	Degree=Pos	9	amod	_	Seg=O
@@ -21227,7 +21227,7 @@
 7	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 5b775e63051b1d160f67b9734aa57f1b56df5e5d-0
-# newdoc_id = 5b775e63051b1d160f67b9734aa57f1b56df5e5d
+# newdoc id = 5b775e63051b1d160f67b9734aa57f1b56df5e5d
 # text = Invasive , non - native species are a major threat to global biodiversity .
 1	Invasive	Invasive	ADJ	JJ	Degree=Pos	6	amod	_	Seg=B-seg
 2	,	,	PUNCT	,	_	6	punct	_	Seg=O
@@ -21402,7 +21402,7 @@
 10	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = 5cd27ed55a88051c9919a142ae44719c2274eb5a-0
-# newdoc_id = 5cd27ed55a88051c9919a142ae44719c2274eb5a
+# newdoc id = 5cd27ed55a88051c9919a142ae44719c2274eb5a
 # text = The world is facing a medical crisis amid the CoViD-19 pandemic and the role of adequate hygiene and hand sanitisers is inevitable in controlling the spread of infection in public places and healthcare institutions .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	world	world	NOUN	NN	Number=Sing	4	nsubj	_	Seg=O
@@ -21629,7 +21629,7 @@
 37	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = 5d2ed78357c0c88b4500d644f4a717d0192a0d2d-0
-# newdoc_id = 5d2ed78357c0c88b4500d644f4a717d0192a0d2d
+# newdoc id = 5d2ed78357c0c88b4500d644f4a717d0192a0d2d
 # text = In the present studies , we report the cloning and structural characterization of the HFGL2 gene and its functional role in human fulminant hepatitis .
 1	In	in	ADP	IN	_	4	case	_	Seg=B-seg
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	Seg=O
@@ -21907,7 +21907,7 @@
 22	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 5daee51840f3c189675dbb151da2abb907ab6a96-0
-# newdoc_id = 5daee51840f3c189675dbb151da2abb907ab6a96
+# newdoc id = 5daee51840f3c189675dbb151da2abb907ab6a96
 # text = The COVID19 pandemic , designated as a public health crisis by the World Health Organization ( WHO ) , is rapidly spreading around the world impacting the health and economy of almost all the countries .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	Seg=B-seg
 2	COVID19	COVID19	PROPN	NNP	Number=Sing	3	compound	_	Seg=O
@@ -22101,7 +22101,7 @@
 23	.	.	PUNCT	.	_	15	punct	_	Seg=O
 
 # sent_id = 5dc2712f3e118ac903e215c2e0d155f2ede7ad39-0
-# newdoc_id = 5dc2712f3e118ac903e215c2e0d155f2ede7ad39
+# newdoc id = 5dc2712f3e118ac903e215c2e0d155f2ede7ad39
 # text = The pathology of 2 zoonotic human viral infections that recently emerged , severe acute respiratory syndrome ( SARS ) due to coronavirus ( SARS - CoV ) and avian influenza A subtype H5N1 , is reviewed and compared based on the literature and the cases examined by the authors .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	pathology	pathology	NOUN	NN	Number=Sing	36	nsubj:pass	_	Seg=O
@@ -22334,7 +22334,7 @@
 7	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = 5ddc3c732b0e2be8ffe373107ca6e56e49c4513e-0
-# newdoc_id = 5ddc3c732b0e2be8ffe373107ca6e56e49c4513e
+# newdoc id = 5ddc3c732b0e2be8ffe373107ca6e56e49c4513e
 # text = A molecular docking study was performed on several structurally diverse A 2A AR antagonists , including xanthines , and non - xanthine type antagonists to investigate their binding modes with A 2A adenosine receptor ( AR ) , one of the four subtypes of AR , which is currently of great interest as a target for therapeutic intervention , in particular for Parkinson 's disease .
 1	A	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	Seg=B-seg
 2	molecular	molecular	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -22511,7 +22511,7 @@
 25	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = 6140703a4f59d2feadfcc54c1185770cbaa651dc-0
-# newdoc_id = 6140703a4f59d2feadfcc54c1185770cbaa651dc
+# newdoc id = 6140703a4f59d2feadfcc54c1185770cbaa651dc
 # text = As SARS - COV-2 and the disease COVID-19 is sweeping through countries after countries around the globe , it is critical to understand potential burden of a future outbreak in cities of Colombia .
 1	As	as	ADP	IN	_	2	case	_	Seg=B-seg
 2	SARS	SARS	PROPN	NNP	Number=Sing	21	obl	_	Seg=O
@@ -22836,7 +22836,7 @@
 24	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = 6170c6d5c7e660f19226bfd026159c4ba6915fda-0
-# newdoc_id = 6170c6d5c7e660f19226bfd026159c4ba6915fda
+# newdoc id = 6170c6d5c7e660f19226bfd026159c4ba6915fda
 # text = We compared the prevalence of 8 polymorphisms in the tumor necrosis factor and mannose - binding lectin genes among 105 children and young adults with fatal infl uenza with US population estimates and determined in subanalyses whether these polymorphisms were associated with sudden death and bacterial co - infection among persons with fatal infl uenza .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	compared	compare	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Seg=O
@@ -23031,7 +23031,7 @@
 26	.	.	PUNCT	.	_	19	punct	_	Seg=O
 
 # sent_id = 61bd28fd5d95c6873aa7644a692e7a191326df44-0
-# newdoc_id = 61bd28fd5d95c6873aa7644a692e7a191326df44
+# newdoc id = 61bd28fd5d95c6873aa7644a692e7a191326df44
 # text = Digital contact tracing applications are being developed by governments across the world , to track and trace contacts .
 1	Digital	digital	ADJ	JJ	Degree=Pos	4	amod	_	Seg=B-seg
 2	contact	contact	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -23113,7 +23113,7 @@
 31	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = 62eb733bffcf9bbbe0eebb0a85133e1b0692525b-0
-# newdoc_id = 62eb733bffcf9bbbe0eebb0a85133e1b0692525b
+# newdoc id = 62eb733bffcf9bbbe0eebb0a85133e1b0692525b
 # text = One hundred and sixty - eight ganglia from 54 cattle aged 10 days to 10 years were examined microscopically .
 1	One	one	NUM	CD	NumType=Card	2	nummod	_	Seg=B-seg
 2	hundred	hundred	NUM	CD	NumType=Card	7	nummod	_	Seg=O
@@ -23329,7 +23329,7 @@
 17	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = 63751161a879bf0d284633c4364091ae729003ec-0
-# newdoc_id = 63751161a879bf0d284633c4364091ae729003ec
+# newdoc id = 63751161a879bf0d284633c4364091ae729003ec
 # text = Globalization may be viewed as the growing interdependence of countries worldwide through the increasing volume and variety of cross - border transactions in goods and services , and also through the more rapid and widespread diffusion of technology .
 1	Globalization	globalization	NOUN	NN	Number=Sing	4	nsubj:pass	_	Seg=B-seg
 2	may	may	AUX	MD	VerbForm=Fin	4	aux	_	Seg=O
@@ -23752,7 +23752,7 @@
 39	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = 652a0d29d11f0cf636c350e3a1a8c82c0340bb09-0
-# newdoc_id = 652a0d29d11f0cf636c350e3a1a8c82c0340bb09
+# newdoc id = 652a0d29d11f0cf636c350e3a1a8c82c0340bb09
 # text = In this study , we explore the usage of e - scooter sharing services in Austin , Texas over about a sixmonth period .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -23988,7 +23988,7 @@
 53	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 6726c162b4f4584114ad508ebfb14a3726ff2837-0
-# newdoc_id = 6726c162b4f4584114ad508ebfb14a3726ff2837
+# newdoc id = 6726c162b4f4584114ad508ebfb14a3726ff2837
 # text = Genomics - based neoantigen discovery can be enhanced by proteomic evidence , but there remains a lack of consensus on the performance of different quality control methods for variant peptide identification in proteogenomics .
 1	Genomics	genomic	NOUN	NN	Number=Sing	3	compound	_	Seg=B-seg
 2	-	-	PUNCT	HYPH	_	1	punct	_	Seg=O
@@ -24169,7 +24169,7 @@
 27	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = 69403975272536434ad77f177871ffa4c828873e-0
-# newdoc_id = 69403975272536434ad77f177871ffa4c828873e
+# newdoc id = 69403975272536434ad77f177871ffa4c828873e
 # text = The availability of monoclonal antibodies ( mAbs ) specific for the SARS - coronavirus ( SARS - CoV ) is important for the development of both diagnostic tools and treatment of infection .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	availability	availability	NOUN	NN	Number=Sing	21	nsubj	_	Seg=O
@@ -24421,7 +24421,7 @@
 38	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 698d5442e3e3a15439c7222d5abd9016a14f7fbe-0
-# newdoc_id = 698d5442e3e3a15439c7222d5abd9016a14f7fbe
+# newdoc id = 698d5442e3e3a15439c7222d5abd9016a14f7fbe
 # text = With growing evidence of inhalation of small infectious particles as an important mode of transmission for SARS - CoV-2 , workplace risk assessments should focus on eliminating or minimizing such exposures by applying the hierarchy of controls .
 1	With	with	ADP	IN	_	3	case	_	Seg=B-seg
 2	growing	grow	VERB	VBG	VerbForm=Ger	3	amod	_	Seg=O
@@ -24611,7 +24611,7 @@
 24	.	.	PUNCT	.	_	12	punct	_	Seg=O
 
 # sent_id = 69bce356ec4ad3fcc2a0d7ba9ecfaf0d90d8e423-0
-# newdoc_id = 69bce356ec4ad3fcc2a0d7ba9ecfaf0d90d8e423
+# newdoc id = 69bce356ec4ad3fcc2a0d7ba9ecfaf0d90d8e423
 # text = Most biological processes are described as a series of interactions between proteins and other molecules , and interactions are in turn described in terms of atomic structures .
 1	Most	most	ADJ	JJS	Degree=Sup	3	amod	_	Seg=B-seg
 2	biological	biological	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -24850,7 +24850,7 @@
 26	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 6ad3708c2049874524e4242c18e8fb41c673ccde-0
-# newdoc_id = 6ad3708c2049874524e4242c18e8fb41c673ccde
+# newdoc id = 6ad3708c2049874524e4242c18e8fb41c673ccde
 # text = Interferons ( IFNs ) are secreted proteins of the cytokine family that regulate innate and adaptive immune responses to infection .
 1	Interferons	interferon	NOUN	NNS	Number=Plur	6	nsubj:pass	_	Seg=B-seg
 2	(	(	PUNCT	-LRB-	_	3	punct	_	Seg=O
@@ -24951,7 +24951,7 @@
 39	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 6c26acf9ba8059cbd9caa58acb1a64538cfb7df9-0
-# newdoc_id = 6c26acf9ba8059cbd9caa58acb1a64538cfb7df9
+# newdoc id = 6c26acf9ba8059cbd9caa58acb1a64538cfb7df9
 # text = H9N2 Avian influenza virus has repeatedly infected humans and other mammals , which highlights the need to determine the pathogenicity and the corresponding mechanism of this virus for mammals .
 1	H9N2	H9N2	PROPN	NNP	Number=Sing	4	compound	_	Seg=B-seg
 2	Avian	Avian	ADJ	JJ	Degree=Pos	4	amod	_	Seg=O
@@ -25312,7 +25312,7 @@
 30	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = 6c7490b3cf8a1eb555a400f3f2685d332be814e0-0
-# newdoc_id = 6c7490b3cf8a1eb555a400f3f2685d332be814e0
+# newdoc id = 6c7490b3cf8a1eb555a400f3f2685d332be814e0
 # text = This paper revisits Jessop 's governance of welfare framework , suggesting that in the post - financial crisis era of austerity we need to look again at its analytical dimensions .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	paper	paper	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -25397,7 +25397,7 @@
 45	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 6cc9687cc3d778c4599f09cf044627beffb07dca-0
-# newdoc_id = 6cc9687cc3d778c4599f09cf044627beffb07dca
+# newdoc id = 6cc9687cc3d778c4599f09cf044627beffb07dca
 # text = There is an urgent need for new therapeutic strategies to contain the spread of the novel coronavirus disease 2019 and to curtail its most severe complications .
 1	There	there	PRON	EX	_	2	expl	_	Seg=B-seg
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -25597,7 +25597,7 @@
 30	.	.	PUNCT	.	_	10	punct	_	Seg=O
 
 # sent_id = 6eca16767700a8bd776371e815cf5e85d5195f11-0
-# newdoc_id = 6eca16767700a8bd776371e815cf5e85d5195f11
+# newdoc id = 6eca16767700a8bd776371e815cf5e85d5195f11
 # text = The coronavirus disease ( COVID-19 ) pandemic has posed a challenge for healthcare systems , and healthcare workers ( HCWs ) are at high risk of exposure .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	Seg=B-seg
 2	coronavirus	coronavirus	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -25909,7 +25909,7 @@
 39	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 70051fcbe18013e7d3e7476158e7893ed2cc7cc8-0
-# newdoc_id = 70051fcbe18013e7d3e7476158e7893ed2cc7cc8
+# newdoc id = 70051fcbe18013e7d3e7476158e7893ed2cc7cc8
 # text = Knowledge about the molecular basis of SARS - CoV-2 infection is incipient .
 1	Knowledge	knowledge	NOUN	NN	Number=Sing	12	nsubj	_	Seg=B-seg
 2	about	about	ADP	IN	_	5	case	_	Seg=O
@@ -26103,7 +26103,7 @@
 27	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 715bb1882a9b2b1bb0561bbd02a158f6deae2745-0
-# newdoc_id = 715bb1882a9b2b1bb0561bbd02a158f6deae2745
+# newdoc id = 715bb1882a9b2b1bb0561bbd02a158f6deae2745
 # text = Viral influenza is a seasonal infection associated with significant morbidity and mortality .
 1	Viral	viral	NOUN	NN	Number=Sing	2	compound	_	Seg=B-seg
 2	influenza	influenza	NOUN	NN	Number=Sing	6	nsubj	_	Seg=O
@@ -26338,7 +26338,7 @@
 15	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = 73924069b04d70bd1ef34a879ed7001f63c1111c-0
-# newdoc_id = 73924069b04d70bd1ef34a879ed7001f63c1111c
+# newdoc id = 73924069b04d70bd1ef34a879ed7001f63c1111c
 # text = COVID-19 has emerged as global medical emergency in recentdecades .
 1	COVID-19	COVID-19	PROPN	NNP	Number=Sing	3	nsubj	_	Seg=B-seg
 2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Seg=O
@@ -26594,7 +26594,7 @@
 25	.	.	PUNCT	.	_	12	punct	_	Seg=O
 
 # sent_id = 7740faa25788c48ed6796fc578d102bcb13879bf-0
-# newdoc_id = 7740faa25788c48ed6796fc578d102bcb13879bf
+# newdoc id = 7740faa25788c48ed6796fc578d102bcb13879bf
 # text = To trace the possible route of introduction of porcine epidemic diarrhea virus ( PEDV ) , the phylogenetic relationships of PEDV strains in the regions of epidemicity in the Philippines to PEDV strains that are endemic in other countries were investigated .
 1	To	to	PART	TO	_	2	mark	_	Seg=B-seg
 2	trace	trace	VERB	VB	VerbForm=Inf	41	advcl	_	Seg=O
@@ -26685,7 +26685,7 @@
 14	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = 791bb7fd75fdeed7781334dfb35f216bcea492df-0
-# newdoc_id = 791bb7fd75fdeed7781334dfb35f216bcea492df
+# newdoc id = 791bb7fd75fdeed7781334dfb35f216bcea492df
 # text = The carbamate group is a key structural motif in many approved drugs and prodrugs .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	Seg=B-seg
 2	carbamate	carbamate	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -26769,7 +26769,7 @@
 34	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = 7a305e42035041d1c17926738a1ae7aeaad71444-0
-# newdoc_id = 7a305e42035041d1c17926738a1ae7aeaad71444
+# newdoc id = 7a305e42035041d1c17926738a1ae7aeaad71444
 # text = Boolean programs with multiple recursive threads can be captured as pushdown automata with multiple stacks .
 1	Boolean	boolean	NOUN	NN	Number=Sing	2	compound	_	Seg=B-seg
 2	programs	program	NOUN	NNS	Number=Plur	9	nsubj:pass	_	Seg=O
@@ -26948,7 +26948,7 @@
 32	.	.	PUNCT	.	_	11	punct	_	Seg=O
 
 # sent_id = 7c5cc45af01353704cf642ff1a7af510c6232521-0
-# newdoc_id = 7c5cc45af01353704cf642ff1a7af510c6232521
+# newdoc id = 7c5cc45af01353704cf642ff1a7af510c6232521
 # text = We describe an explicit mechanism for the emergence of a dynamical holographic bulk from the structure of entanglement in a quantum state .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	describe	describe	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -27220,7 +27220,7 @@
 9	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = 7c8f40872fb6e8d5289fec4b0573cc22e15fa180-0
-# newdoc_id = 7c8f40872fb6e8d5289fec4b0573cc22e15fa180
+# newdoc id = 7c8f40872fb6e8d5289fec4b0573cc22e15fa180
 # text = In recent years , the incidence of severe infectious diseases has increased , and the number of emerging infectious diseases continues to increase .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	recent	recent	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -27453,7 +27453,7 @@
 63	.	.	PUNCT	.	_	14	punct	_	Seg=O
 
 # sent_id = 7ff1d5c7e68d082ee1f2e6fdfbb6ae1ff931e0db-0
-# newdoc_id = 7ff1d5c7e68d082ee1f2e6fdfbb6ae1ff931e0db
+# newdoc id = 7ff1d5c7e68d082ee1f2e6fdfbb6ae1ff931e0db
 # text = COVID-19 can affect the hematopoietic system .
 1	COVID-19	COVID-19	PROPN	NNP	Number=Sing	3	nsubj	_	Seg=B-seg
 2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	Seg=O
@@ -27688,7 +27688,7 @@
 23	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = 8edf35c1ee0ae65d00ecd1d87b98f48bcce861ee-0
-# newdoc_id = 8edf35c1ee0ae65d00ecd1d87b98f48bcce861ee
+# newdoc id = 8edf35c1ee0ae65d00ecd1d87b98f48bcce861ee
 # text = Mortality from coronavirus disease 2019 is strongly associated with cardiovascular disease , diabetes , and hypertension .
 1	Mortality	mortality	NOUN	NN	Number=Sing	8	nsubj:pass	_	Seg=B-seg
 2	from	from	ADP	IN	_	4	case	_	Seg=O
@@ -27890,7 +27890,7 @@
 33	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = 986a03b193e684ba1acfbc5f275bd7935b3507ec-0
-# newdoc_id = 986a03b193e684ba1acfbc5f275bd7935b3507ec
+# newdoc id = 986a03b193e684ba1acfbc5f275bd7935b3507ec
 # text = Motivated by the covid-19 pandemic , we developed a novel Shewhart chart to visualize and learn from variation in reported deaths in an epidemic .
 1	Motivated	motivate	VERB	VBN	Tense=Past|VerbForm=Part	8	advcl	_	Seg=B-seg
 2	by	by	ADP	IN	_	5	case	_	Seg=O
@@ -28206,7 +28206,7 @@
 20	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = abf6f66d8e18b652d10944bb21e19debca5dc5e8-0
-# newdoc_id = abf6f66d8e18b652d10944bb21e19debca5dc5e8
+# newdoc id = abf6f66d8e18b652d10944bb21e19debca5dc5e8
 # text = The Scutellaria species ( Lamiaceae ) is used as a source of flavonoids to treat a variety of diseases in traditional medicine .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	Seg=B-seg
 2	Scutellaria	Scutellaria	PROPN	NNP	Number=Sing	3	compound	_	Seg=O
@@ -28530,7 +28530,7 @@
 27	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = ad71472308fc72f2b3fe0044ac4bc2f08c4481b6-0
-# newdoc_id = ad71472308fc72f2b3fe0044ac4bc2f08c4481b6
+# newdoc id = ad71472308fc72f2b3fe0044ac4bc2f08c4481b6
 # text = Feline infectious peritonitis is a devastating , fatal disease of domestic cats caused by a pathogenic mutant virus derived from the ubiquitous feline enteric coronavirus ( FECV ) .
 1	Feline	feline	NOUN	NN	Number=Sing	3	compound	_	Seg=B-seg
 2	infectious	infectious	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -28790,7 +28790,7 @@
 31	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = ae382b26740aa78bdfb76f6e470dcf71a3263db9-0
-# newdoc_id = ae382b26740aa78bdfb76f6e470dcf71a3263db9
+# newdoc id = ae382b26740aa78bdfb76f6e470dcf71a3263db9
 # text = Previous analysis of porcine respiratory coronavirus ( PRCV ) mRNA species showed that mRNAs 2 and 3 were smaller than the corresponding transmissible gastroenteritis virus ( TGEV ) mRNA species ( Page et al . ( 1991 ) J. Gen. Virol . 72 , 579 - 587 ) .
 1	Previous	previous	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	analysis	analysis	NOUN	NN	Number=Sing	12	nsubj	_	Seg=O
@@ -29076,7 +29076,7 @@
 11	.	.	PUNCT	.	_	10	punct	_	Seg=O
 
 # sent_id = afac086b9492b66969c0f1af5c95e804d111cb3c-0
-# newdoc_id = afac086b9492b66969c0f1af5c95e804d111cb3c
+# newdoc id = afac086b9492b66969c0f1af5c95e804d111cb3c
 # text = It is increasingly evident that China has attached more attention to discursive power in foreign policy since the early 21st century .
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	Seg=B-seg
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Seg=O
@@ -29360,7 +29360,7 @@
 33	.	.	PUNCT	.	_	14	punct	_	Seg=O
 
 # sent_id = c0aab944289f83044c72b64bf0726624f1b244ce-0
-# newdoc_id = c0aab944289f83044c72b64bf0726624f1b244ce
+# newdoc id = c0aab944289f83044c72b64bf0726624f1b244ce
 # text = Recently developed vaccines provide a new way of controlling rotavirus in sub - Saharan Africa .
 1	Recently	recently	ADV	RB	_	2	advmod	_	Seg=B-seg
 2	developed	develop	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	Seg=O
@@ -29661,7 +29661,7 @@
 42	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = c74ce5464f754301499d7537e87810f46e69c454-0
-# newdoc_id = c74ce5464f754301499d7537e87810f46e69c454
+# newdoc id = c74ce5464f754301499d7537e87810f46e69c454
 # text = The mechanisms of inflammation and cancer are intertwined by complex networks of signaling pathways .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	mechanisms	mechanism	NOUN	NNS	Number=Plur	8	nsubj:pass	_	Seg=O
@@ -29846,7 +29846,7 @@
 37	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = cbf2a8ce743bc19fbf8b89bccaec836b25897cfe-0
-# newdoc_id = cbf2a8ce743bc19fbf8b89bccaec836b25897cfe
+# newdoc id = cbf2a8ce743bc19fbf8b89bccaec836b25897cfe
 # text = Compelling evidence supports the role of oxidative stress in Alzheimer 's disease ( AD ) pathophysiology .
 1	Compelling	compelling	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	evidence	evidence	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -30111,7 +30111,7 @@
 21	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = cc0c8d1b722d78c17b7023fd6058fd11efbd0567-0
-# newdoc_id = cc0c8d1b722d78c17b7023fd6058fd11efbd0567
+# newdoc id = cc0c8d1b722d78c17b7023fd6058fd11efbd0567
 # text = OBJECTIVE :
 1	OBJECTIVE	objective	ADJ	JJ	Degree=Pos	0	root	_	Seg=B-seg
 2	:	:	PUNCT	:	_	1	punct	_	Seg=O
@@ -30457,7 +30457,7 @@
 52	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = d25529180f950874e0b4f62a976959d683a2ceaf-0
-# newdoc_id = d25529180f950874e0b4f62a976959d683a2ceaf
+# newdoc id = d25529180f950874e0b4f62a976959d683a2ceaf
 # text = The N - terminal domain of the coronavirus nucleocapsid ( N ) protein adopts a fold resembling a right hand with a flexible , positively charged b - hairpin and a hydrophobic palm .
 1	The	the	DET	DT	Definite=Def|PronType=Art	5	det	_	Seg=B-seg
 2	N	N	NOUN	NN	Number=Sing	4	compound	_	Seg=O
@@ -30713,7 +30713,7 @@
 16	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = e28346ba72cc0451ddb4afe2179ae0f070b54aed-0
-# newdoc_id = e28346ba72cc0451ddb4afe2179ae0f070b54aed
+# newdoc id = e28346ba72cc0451ddb4afe2179ae0f070b54aed
 # text = Acquired myasthenia gravis was diagnosed in a five - year - old domestic shorthair , neutered , female cat with generalised muscle weakness , tremors , dysphagia and alterations in voice .
 1	Acquired	acquire	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	Seg=B-seg
 2	myasthenia	myasthenia	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -30866,7 +30866,7 @@
 22	.	.	PUNCT	.	_	12	punct	_	Seg=O
 
 # sent_id = e4c385d140cb5798b6fe90aabe8fefcc0dabfd99-0
-# newdoc_id = e4c385d140cb5798b6fe90aabe8fefcc0dabfd99
+# newdoc id = e4c385d140cb5798b6fe90aabe8fefcc0dabfd99
 # text = Surface modified bioactive virus - mimicking organic nanovesicles represent themselves as complex biomimetic structures that have abilities to dissect the functions of individual entities in a complex biochemical system .
 1	Surface	surface	NOUN	NN	Number=Sing	2	compound	_	Seg=B-seg
 2	modified	modify	VERB	VBN	Tense=Past|VerbForm=Part	8	amod	_	Seg=O
@@ -30973,7 +30973,7 @@
 32	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = e9dda9694a2e4c405b84595621b777223793d69a-0
-# newdoc_id = e9dda9694a2e4c405b84595621b777223793d69a
+# newdoc id = e9dda9694a2e4c405b84595621b777223793d69a
 # text = Functional protein microarrays are emerging as a promising new tool for large - scale and highthroughput studies .
 1	Functional	Functional	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	protein	protein	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -31117,7 +31117,7 @@
 22	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = eaccbbd4d93f295b6c22ae217f159c288b29deb6-0
-# newdoc_id = eaccbbd4d93f295b6c22ae217f159c288b29deb6
+# newdoc id = eaccbbd4d93f295b6c22ae217f159c288b29deb6
 # text = Porcine reproductive and respiratory syndrome ( PRRS ) has been one of the most economically important diseases affecting swine industry worldwide and causes great economic losses each year .
 1	Porcine	porcine	ADJ	JJ	Degree=Pos	5	amod	_	Seg=B-seg
 2	reproductive	reproductive	ADJ	JJ	Degree=Pos	5	amod	_	Seg=O
@@ -31450,7 +31450,7 @@
 33	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = ec79ce88059cfd9ffc56a62863ab0b2de34c4d1d-0
-# newdoc_id = ec79ce88059cfd9ffc56a62863ab0b2de34c4d1d
+# newdoc id = ec79ce88059cfd9ffc56a62863ab0b2de34c4d1d
 # text = Background :
 1	Background	background	NOUN	NN	Number=Sing	0	root	_	Seg=B-seg
 2	:	:	PUNCT	:	_	1	punct	_	Seg=O
@@ -31827,7 +31827,7 @@
 25	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = ece140f2d510d370f594707b718066f7173a39e1-0
-# newdoc_id = ece140f2d510d370f594707b718066f7173a39e1
+# newdoc id = ece140f2d510d370f594707b718066f7173a39e1
 # text = Since it emerged in Brazil in May 2015 , the mosquito - borne Zika virus ( ZIKV ) has raised global concern due to its association with a significant rise in the number of infants born with microcephaly and neurological disorders such as Guillain - Barré syndrome
 1	Since	since	SCONJ	IN	_	3	mark	_	Seg=B-seg
 2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Seg=O
@@ -32108,7 +32108,7 @@
 33	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = edfc9c542b75092b7000be09fd4496c4122c28d7-0
-# newdoc_id = edfc9c542b75092b7000be09fd4496c4122c28d7
+# newdoc id = edfc9c542b75092b7000be09fd4496c4122c28d7
 # text = By equipping a previously reported dynamic causal model of COVID-19 with an isolation state , we modelled the effects of self - isolation consequent on tracking and tracing .
 1	By	by	SCONJ	IN	_	2	mark	_	Seg=B-seg
 2	equipping	equip	VERB	VBG	VerbForm=Ger	17	advcl	_	Seg=O
@@ -32425,7 +32425,7 @@
 35	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = ef5ed79925e5ef75119e387b2de2680fea9b3e1f-0
-# newdoc_id = ef5ed79925e5ef75119e387b2de2680fea9b3e1f
+# newdoc id = ef5ed79925e5ef75119e387b2de2680fea9b3e1f
 # text = Streptobacillus felis is a fastidious microorganism and a novel member of the potentially zoonotic bacteria causing rat bite fever .
 1	Streptobacillus	Streptobacillus	PROPN	NNP	Number=Sing	2	compound	_	Seg=B-seg
 2	felis	felis	NOUN	NN	Number=Sing	6	nsubj	_	Seg=O
@@ -32614,7 +32614,7 @@
 26	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = f54b1d2032db8537d80fc36e29bc6fcdfb878435-0
-# newdoc_id = f54b1d2032db8537d80fc36e29bc6fcdfb878435
+# newdoc id = f54b1d2032db8537d80fc36e29bc6fcdfb878435
 # text = H1N1 swine influenza viruses ( SIV ) are prevalent in pigs globally , and occasionally emerge in humans , which raises concern about their pandemic threats .
 1	H1N1	h1n1	NOUN	NN	Number=Sing	4	compound	_	Seg=B-seg
 2	swine	swine	NOUN	NN	Number=Sing	4	compound	_	Seg=O
@@ -32872,7 +32872,7 @@
 24	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = f950928cf284b3633029222291dc8d26dca43124-0
-# newdoc_id = f950928cf284b3633029222291dc8d26dca43124
+# newdoc id = f950928cf284b3633029222291dc8d26dca43124
 # text = Amid the global pandemic of a novel Coronavirus Disease 2019 ( COVID-19 ) , healthcare delivery system is being stretched .
 1	Amid	amid	ADP	IN	_	4	case	_	Seg=B-seg
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	Seg=O

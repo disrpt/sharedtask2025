@@ -1,4 +1,4 @@
-# newdoc_id = nlpabs19_Chi
+# newdoc id = nlpabs19_Chi
 # sent_id = nlpabs19_Chi-1
 1	该文	该文	NOUN	NN	_	2	nsubj	_	Seg=B-seg
 2	研究	研究	VERB	VV	_	0	root	_	Seg=O
@@ -286,7 +286,7 @@
 21	。	。	PUNCT	.	_	16	punct	_	Seg=O
 
 # sent_id = nlpabs19_Chi-9
-# newdoc_id = nlpabs1_Chi
+# newdoc id = nlpabs1_Chi
 # sent_id = nlpabs1_Chi-1
 1	﻿信息	﻿信息	NOUN	NN	_	2	nsubj	_	Seg=B-seg
 2	抽取	抽取	VERB	VV	_	4	amod	_	Seg=O
@@ -448,7 +448,7 @@
 25	。	。	PUNCT	.	_	16	punct	_	Seg=O
 
 # sent_id = nlpabs1_Chi-5
-# newdoc_id = nlpabs21_Chi
+# newdoc id = nlpabs21_Chi
 # sent_id = nlpabs21_Chi-1
 1	内容	内容	NOUN	NN	_	3	nmod	_	Seg=B-seg
 2	分发	分发	NOUN	NN	_	3	nmod	_	Seg=O
@@ -830,7 +830,7 @@
 63	。	。	PUNCT	.	_	56	punct	_	Seg=O
 
 # sent_id = nlpabs21_Chi-9
-# newdoc_id = nlpabs22_Chi
+# newdoc id = nlpabs22_Chi
 # sent_id = nlpabs22_Chi-1
 1	社交	社交	NOUN	NN	_	2	nmod	_	Seg=B-seg
 2	媒体	媒体	NOUN	NN	_	4	nsubj	_	Seg=O
@@ -969,7 +969,7 @@
 21	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs22_Chi-6
-# newdoc_id = nlpabs23_Chi
+# newdoc id = nlpabs23_Chi
 # sent_id = nlpabs23_Chi-1
 1	广告	广告	VERB	VV	_	2	compound	_	Seg=B-seg
 2	语	语	PART	SFN	_	14	nsubj	_	Seg=O
@@ -1144,7 +1144,7 @@
 50	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs23_Chi-7
-# newdoc_id = nlpabs24_Chi
+# newdoc id = nlpabs24_Chi
 # sent_id = nlpabs24_Chi-1
 1	机器	机器	NOUN	NN	_	3	nmod	_	Seg=B-seg
 2	阅读	阅读	NOUN	NN	_	3	nmod	_	Seg=O
@@ -1256,7 +1256,7 @@
 27	。	。	PUNCT	.	_	24	punct	_	Seg=O
 
 # sent_id = nlpabs24_Chi-4
-# newdoc_id = nlpabs25_Chi
+# newdoc id = nlpabs25_Chi
 # sent_id = nlpabs25_Chi-1
 1	甲骨	甲骨	NOUN	NN	_	2	compound	_	Seg=B-seg
 2	文	文	PART	SFN	_	20	nsubj	_	Seg=O
@@ -1434,7 +1434,7 @@
 16	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs25_Chi-8
-# newdoc_id = nlpabs27_Chi
+# newdoc id = nlpabs27_Chi
 # sent_id = nlpabs27_Chi-1
 1	机器	机器	NOUN	NN	_	4	nmod	_	Seg=B-seg
 2	翻译	翻译	NOUN	NN	_	4	nmod	_	Seg=O
@@ -1686,7 +1686,7 @@
 28	。	。	PUNCT	.	_	16	punct	_	Seg=O
 
 # sent_id = nlpabs27_Chi-6
-# newdoc_id = nlpabs28_Chi
+# newdoc id = nlpabs28_Chi
 # sent_id = nlpabs28_Chi-1
 1	为	为	ADP	IN	_	2	case	_	Seg=B-seg
 2	提升	提升	VERB	VV	_	12	xcomp	_	Seg=O
@@ -1892,7 +1892,7 @@
 60	。	。	PUNCT	.	_	20	punct	_	Seg=O
 
 # sent_id = nlpabs28_Chi-5
-# newdoc_id = nlpabs2_Chi
+# newdoc id = nlpabs2_Chi
 # sent_id = nlpabs2_Chi-1
 1	﻿话题	﻿话题	NOUN	NN	_	2	nmod	_	Seg=B-seg
 2	检测	检测	NOUN	NN	_	24	nsubj	_	Seg=O
@@ -2049,7 +2049,7 @@
 36	。	。	PUNCT	.	_	31	punct	_	Seg=O
 
 # sent_id = nlpabs2_Chi-5
-# newdoc_id = nlpabs30_Chi
+# newdoc id = nlpabs30_Chi
 # sent_id = nlpabs30_Chi-1
 1	乌孜别克	乌孜别克	PROPN	NNP	_	2	compound	_	Seg=B-seg
 2	语名	语名	PART	SFN	_	5	nmod	_	Seg=O
@@ -2205,7 +2205,7 @@
 19	。	。	PUNCT	.	_	15	punct	_	Seg=O
 
 # sent_id = nlpabs30_Chi-5
-# newdoc_id = nlpabs31_Chi
+# newdoc id = nlpabs31_Chi
 # sent_id = nlpabs31_Chi-1
 1	短语	短语	NOUN	NN	_	11	nsubj	_	Seg=B-seg
 2	作	作	VERB	VV	_	11	advcl	_	Seg=O
@@ -2347,7 +2347,7 @@
 60	。	。	PUNCT	.	_	47	punct	_	Seg=O
 
 # sent_id = nlpabs31_Chi-5
-# newdoc_id = nlpabs32_Chi
+# newdoc id = nlpabs32_Chi
 # sent_id = nlpabs32_Chi-1
 1	自动	自动	ADJ	JJ	_	2	advmod	_	Seg=B-seg
 2	拼写	拼写	VERB	VV	_	3	advcl	_	Seg=O
@@ -2528,7 +2528,7 @@
 24	。	。	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = nlpabs32_Chi-6
-# newdoc_id = nlpabs33_Chi
+# newdoc id = nlpabs33_Chi
 # sent_id = nlpabs33_Chi-1
 1	非	非	PART	PFA	_	3	case:pref	_	Seg=B-seg
 2	结构	结构	NOUN	NN	_	3	compound	_	Seg=O
@@ -2708,7 +2708,7 @@
 54	。	。	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = nlpabs33_Chi-4
-# newdoc_id = nlpabs34_Chi
+# newdoc id = nlpabs34_Chi
 # sent_id = nlpabs34_Chi-1
 1	作	作	VERB	VV	_	30	advcl	_	Seg=B-seg
 2	为	为	VERB	VC	_	1	mark	_	Seg=O
@@ -3012,7 +3012,7 @@
 26	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs34_Chi-9
-# newdoc_id = nlpabs35_Chi
+# newdoc id = nlpabs35_Chi
 # sent_id = nlpabs35_Chi-1
 1	带有	带有	VERB	VV	_	7	acl:relcl	_	Seg=B-seg
 2	时间	时间	NOUN	NN	_	3	nmod	_	Seg=O
@@ -3178,7 +3178,7 @@
 43	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs35_Chi-4
-# newdoc_id = nlpabs36_Chi
+# newdoc id = nlpabs36_Chi
 # sent_id = nlpabs36_Chi-1
 1	中文	中文	PROPN	NNP	_	4	nmod	_	Seg=B-seg
 2	产科	产科	NOUN	NN	_	4	nmod	_	Seg=O
@@ -3394,7 +3394,7 @@
 24	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs36_Chi-7
-# newdoc_id = nlpabs37_Chi
+# newdoc id = nlpabs37_Chi
 # sent_id = nlpabs37_Chi-1
 1	社交	社交	NOUN	NN	_	2	nmod	_	Seg=B-seg
 2	媒体	媒体	NOUN	NN	_	4	nmod	_	Seg=O
@@ -3646,7 +3646,7 @@
 43	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs37_Chi-7
-# newdoc_id = nlpabs47_Chi
+# newdoc id = nlpabs47_Chi
 # sent_id = nlpabs47_Chi-1
 1	该文	该文	NOUN	NN	_	15	nsubj	_	Seg=B-seg
 2	对	对	ADP	IN	_	10	case	_	Seg=O
@@ -3863,7 +3863,7 @@
 30	。	。	PUNCT	.	_	22	punct	_	Seg=O
 
 # sent_id = nlpabs47_Chi-7
-# newdoc_id = nlpabs52_Chi
+# newdoc id = nlpabs52_Chi
 # sent_id = nlpabs52_Chi-1
 1	现有	现有	VERB	VV	_	8	acl:relcl	_	Seg=B-seg
 2	的	的	PART	DEC	_	1	mark:relcl	_	Seg=O

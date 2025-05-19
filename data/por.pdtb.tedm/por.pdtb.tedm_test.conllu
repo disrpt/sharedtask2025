@@ -1,4 +1,4 @@
-# newdoc_id = talk_1976_pt_tok
+# newdoc id = talk_1976_pt_tok
 # sent_id = talk_1976_pt_tok-1
 # text = O universo está repleto de planetas .
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -1650,7 +1650,7 @@
 1	Obrigado	obrigar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	0:root	Conn=O
 2	.	.	PUNCT	_	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = talk_1978_pt_tok
+# newdoc id = talk_1978_pt_tok
 # sent_id = talk_1978_pt_tok-1
 # text = Senti -me muito feliz porque o meu primeiro trabalho foi trabalhar no Museu de Arte Moderna em_ uma retrospetiva de_ a pintora Elizabeth Murray .
 1	Senti	sentir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Conn=O
@@ -3944,7 +3944,7 @@
 # text = Obrigada
 1	Obrigada	obrigado	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	0:root	Conn=O
 
-# newdoc_id = talk_2009_pt_tok
+# newdoc id = talk_2009_pt_tok
 # sent_id = talk_2009_pt_tok-1
 # text = Em pequena , sempre imaginei que um dia fugiria .
 1	Em	em	ADP	_	_	2	case	2:case	Conn=O
@@ -4851,7 +4851,7 @@
 # text = Obrigado
 1	Obrigado	obrigar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	0:root	Conn=O
 
-# newdoc_id = talk_2150_pt_tok
+# newdoc id = talk_2150_pt_tok
 # sent_id = talk_2150_pt_tok-1
 # text = Quando pensamos em mapas de cidades , pensamos habitualmente em estradas e ruas e edifícios e a narrativa explicativa que levou à sua criação , ou podemos pensar na visão ousada de um paisagista urbano , mas há outras formas de pensar em mapas de cidades e na forma como devem ser feitos .
 1	Quando	quando	SCONJ	_	_	2	mark	2:mark	Conn=B-conn

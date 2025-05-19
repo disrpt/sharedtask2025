@@ -1,4 +1,4 @@
-# newdoc_id = news_38_06-07-1999
+# newdoc id = news_38_06-07-1999
 # sent_id = news_38_06-07-1999-1
 # text = Tonneaux à Montreux-Vieux : trois blessés graves
 1	Tonneaux	tonneau	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	Seg=B-seg
@@ -251,7 +251,7 @@
 14	usage	usage	NOUN	NOUN	Gender=Masc|Number=Sing	12	nmod	_	Seg=O
 15	.	.	PUNCT	PUNCT	_	10	punct	_	Seg=O
 
-# newdoc_id = news_39_04-05-2002
+# newdoc id = news_39_04-05-2002
 # sent_id = news_39_04-05-2002-1
 # text = Les anniversaires d' avril à la maison Belot
 1	Les	le	DET	DET	Definite=Def|Number=Plur|PronType=Art	2	det	_	Seg=B-seg
@@ -658,7 +658,7 @@
 33	belote	belote	NOUN	NOUN	Gender=Fem|Number=Sing	15	conj	_	Seg=O
 34	.	.	PUNCT	PUNCT	_	12	punct	_	Seg=O
 
-# newdoc_id = news_36_24-08-1999
+# newdoc id = news_36_24-08-1999
 # sent_id = news_36_24-08-1999-1
 # text = Tapage rural
 1	Tapage	tapage	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	Seg=B-seg
@@ -956,7 +956,7 @@
 11	champ	champ	NOUN	NOUN	Gender=Masc|Number=Sing	8	obl	_	Seg=O
 12	?	?	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
-# newdoc_id = wik1_31_02-04-2006
+# newdoc id = wik1_31_02-04-2006
 # sent_id = wik1_31_02-04-2006-1
 # text = Serment du Jeu de paume Le serment du Jeu de paume est un engagement d’ union pris le 20 juin 1789 à la salle du Jeu de paume , à Versailles , par les 577 députés du tiers état aux états généraux de 1789 .
 1	Serment	serment	NOUN	NOUN	Gender=Masc|Number=Sing	14	nsubj	_	Seg=B-seg
@@ -1951,7 +1951,7 @@
 22	unique	unique	ADJ	ADJ	Number=Sing	21	amod	_	Seg=O
 23	.	.	PUNCT	PUNCT	_	8	punct	_	Seg=O
 
-# newdoc_id = wik1_30_02-04-2006
+# newdoc id = wik1_30_02-04-2006
 # sent_id = wik1_30_02-04-2006-1
 # text = Black Widow
 1	Black	Black	PROPN	PROPN	Gender=Masc|Number=Sing	0	root	_	Seg=B-seg
@@ -2753,7 +2753,7 @@
 16	démoniaque	démoniaque	NOUN	NOUN	Gender=Fem|Number=Sing	12	amod	_	Seg=O
 17	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=O
 
-# newdoc_id = wik1_32_02-04-2006
+# newdoc id = wik1_32_02-04-2006
 # sent_id = wik1_32_02-04-2006-1
 # text = Serments de Strasbourg
 1	Serments	serment	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	Seg=B-seg
@@ -2991,7 +2991,7 @@
 11	Charlemagne	Charlemagne	PROPN	PROPN	Gender=Fem|Number=Sing	9	nmod	_	Seg=O
 12	)	)	PUNCT	PUNCT	_	4	punct	_	Seg=O
 
-# newdoc_id = news_37_12-06-1999
+# newdoc id = news_37_12-06-1999
 # sent_id = news_37_12-06-1999-1
 # text = Pablo Correa portera encore le maillot de l' ASNL la saison prochaine .
 1	Pablo	Pablo	PROPN	PROPN	Gender=Masc|Number=Sing	3	nsubj	_	Seg=B-seg
@@ -3425,7 +3425,7 @@
 27	»	»	PROPN	PROPN	_	21	punct	_	Seg=O
 28	.	.	PUNCT	PUNCT	_	10	punct	_	Seg=O
 
-# newdoc_id = wik1_33_02-04-2006
+# newdoc id = wik1_33_02-04-2006
 # sent_id = wik1_33_02-04-2006-1
 # text = Biyouna Biyouna est une chanteuse , danseuse , actrice algérienne née en 1954 dans le Quartier de Belcourt ( Alger )
 1	Biyouna	biyouna	NOUN	NOUN	Gender=Masc|Number=Sing	5	nsubj	_	Seg=B-seg
@@ -4172,7 +4172,7 @@
 52	Calvario	Calvario	PROPN	PROPN	_	51	flat:name	_	Seg=O
 53	.	.	PUNCT	PUNCT	_	8	punct	_	Seg=O
 
-# newdoc_id = wik2_vinDeChampagne_vinification
+# newdoc id = wik2_vinDeChampagne_vinification
 # sent_id = wik2_vinDeChampagne_vinification-1
 # text = Vinification .
 1	Vinification	vinification	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	Seg=B-seg
@@ -5003,7 +5003,7 @@
 25	expédition	expédition	NOUN	NOUN	Gender=Fem|Number=Sing	23	nmod	_	Seg=O
 26	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=O
 
-# newdoc_id = geop_3_spatiaux
+# newdoc id = geop_3_spatiaux
 # sent_id = geop_3_spatiaux-1
 # text = Les programmes spatiaux militaires pour 2003 .
 1	Les	le	DET	DET	Definite=Def|Number=Plur|PronType=Art	2	det	_	Seg=B-seg
@@ -5449,7 +5449,7 @@
 9	définitifs	définitif	ADJ	ADJ	Gender=Masc|Number=Plur	0	root	_	Seg=O
 10	.	.	PUNCT	PUNCT	_	9	punct	_	Seg=O
 
-# newdoc_id = ling_leon_contenuDinformation
+# newdoc id = ling_leon_contenuDinformation
 # sent_id = ling_leon_contenuDinformation-1
 # text = En fait , on peut faire l’ hypothèse que contenu
 1	En	en	ADP	ADP	_	6	advmod	_	Seg=B-seg

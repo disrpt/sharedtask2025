@@ -1,4 +1,4 @@
-# newdoc_id = etemad007
+# newdoc id = etemad007
 1	تسلط	_	_	_	_	_	_	_	Seg=B-seg
 2	اقتدار	_	_	_	_	_	_	_	Seg=O
 3	مردانه	_	_	_	_	_	_	_	Seg=O
@@ -493,7 +493,7 @@
 491	دارد	_	_	_	_	_	_	_	Seg=O
 492	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad008
+# newdoc id = etemad008
 1	دستگیری	_	_	_	_	_	_	_	Seg=B-seg
 2	کارگران	_	_	_	_	_	_	_	Seg=O
 3	شرکت	_	_	_	_	_	_	_	Seg=O
@@ -1018,7 +1018,7 @@
 516	بیاید	_	_	_	_	_	_	_	Seg=O
 517	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad009
+# newdoc id = etemad009
 1	نرخ	_	_	_	_	_	_	_	Seg=B-seg
 2	ارز	_	_	_	_	_	_	_	Seg=O
 3	در	_	_	_	_	_	_	_	Seg=O
@@ -1405,7 +1405,7 @@
 384	است	_	_	_	_	_	_	_	Seg=O
 385	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad023
+# newdoc id = etemad023
 1	استانهای	_	_	_	_	_	_	_	Seg=B-seg
 2	مرزی	_	_	_	_	_	_	_	Seg=O
 3	در	_	_	_	_	_	_	_	Seg=O
@@ -1976,7 +1976,7 @@
 567	شود	_	_	_	_	_	_	_	Seg=O
 568	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad024
+# newdoc id = etemad024
 1	تاثیرات	_	_	_	_	_	_	_	Seg=B-seg
 2	حضور	_	_	_	_	_	_	_	Seg=O
 3	کیروش	_	_	_	_	_	_	_	Seg=O
@@ -2579,7 +2579,7 @@
 598	برگردند	_	_	_	_	_	_	_	Seg=O
 599	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad027
+# newdoc id = etemad027
 1	امروز	_	_	_	_	_	_	_	Seg=B-seg
 2	در	_	_	_	_	_	_	_	Seg=O
 3	کشور	_	_	_	_	_	_	_	Seg=O
@@ -3089,7 +3089,7 @@
 505	است	_	_	_	_	_	_	_	Seg=O
 506	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad029
+# newdoc id = etemad029
 1	سال	_	_	_	_	_	_	_	Seg=B-seg
 2	١۳۵۶	_	_	_	_	_	_	_	Seg=O
 3	وقتی	_	_	_	_	_	_	_	Seg=O
@@ -3346,7 +3346,7 @@
 252	است	_	_	_	_	_	_	_	Seg=O
 253	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad036
+# newdoc id = etemad036
 1	منطق	_	_	_	_	_	_	_	Seg=B-seg
 2	پرداخت	_	_	_	_	_	_	_	Seg=O
 3	یارانه	_	_	_	_	_	_	_	Seg=O
@@ -4141,7 +4141,7 @@
 788	داد	_	_	_	_	_	_	_	Seg=O
 789	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad056
+# newdoc id = etemad056
 1	اروپا	_	_	_	_	_	_	_	Seg=B-seg
 2	به	_	_	_	_	_	_	_	Seg=O
 3	آنچه	_	_	_	_	_	_	_	Seg=O
@@ -4914,7 +4914,7 @@
 769	باشند	_	_	_	_	_	_	_	Seg=O
 770	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad058
+# newdoc id = etemad058
 1	دریاخواری	_	_	_	_	_	_	_	Seg=B-seg
 2	،	_	_	_	_	_	_	_	Seg=O
 3	واژهای	_	_	_	_	_	_	_	Seg=O
@@ -5512,7 +5512,7 @@
 591	.	_	_	_	_	_	_	_	Seg=O
 592	»	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad060
+# newdoc id = etemad060
 1	در	_	_	_	_	_	_	_	Seg=B-seg
 2	بیان	_	_	_	_	_	_	_	Seg=O
 3	ضرورت	_	_	_	_	_	_	_	Seg=O
@@ -6198,7 +6198,7 @@
 681	نیست	_	_	_	_	_	_	_	Seg=O
 682	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan002
+# newdoc id = meidan002
 1	بهدنبال	_	_	_	_	_	_	_	Seg=B-seg
 2	شیوع	_	_	_	_	_	_	_	Seg=O
 3	گسترده	_	_	_	_	_	_	_	Seg=O
@@ -6463,7 +6463,7 @@
 262	پیدا	_	_	_	_	_	_	_	Seg=O
 263	میکند	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan010
+# newdoc id = meidan010
 1	ناهید	_	_	_	_	_	_	_	Seg=B-seg
 2	خداکرمی	_	_	_	_	_	_	_	Seg=O
 3	عضو	_	_	_	_	_	_	_	Seg=O
@@ -6734,7 +6734,7 @@
 268	دارد	_	_	_	_	_	_	_	Seg=O
 269	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan048
+# newdoc id = meidan048
 1	دلیل	_	_	_	_	_	_	_	Seg=B-seg
 2	تاخیر	_	_	_	_	_	_	_	Seg=O
 3	صدور	_	_	_	_	_	_	_	Seg=O
@@ -6899,7 +6899,7 @@
 162	شود	_	_	_	_	_	_	_	Seg=O
 163	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh031
+# newdoc id = shargh031
 1	در	_	_	_	_	_	_	_	Seg=B-seg
 2	هفتههای	_	_	_	_	_	_	_	Seg=O
 3	پایانی	_	_	_	_	_	_	_	Seg=O

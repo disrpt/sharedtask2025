@@ -1,4 +1,4 @@
-# newdoc_id = talk_1976_en
+# newdoc id = talk_1976_en
 1	The	_	_	_	_	_	_	_	Conn=O
 2	universe	_	_	_	_	_	_	_	Conn=O
 3	is	_	_	_	_	_	_	_	Conn=O
@@ -1555,7 +1555,7 @@
 1510	you	_	_	_	_	_	_	_	Conn=O
 1511	.	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = talk_1978_en
+# newdoc id = talk_1978_en
 1	I	_	_	_	_	_	_	_	Conn=O
 2	feel	_	_	_	_	_	_	_	Conn=O
 3	so	_	_	_	_	_	_	_	Conn=O
@@ -3577,7 +3577,7 @@
 1990	you	_	_	_	_	_	_	_	Conn=O
 1991	.	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = talk_2009_en
+# newdoc id = talk_2009_en
 1	As	_	_	_	_	_	_	_	Conn=O
 2	a	_	_	_	_	_	_	_	Conn=O
 3	little	_	_	_	_	_	_	_	Conn=O
@@ -4361,7 +4361,7 @@
 778	you	_	_	_	_	_	_	_	Conn=O
 779	.	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = talk_2150_en
+# newdoc id = talk_2150_en
 1	When	_	_	_	_	_	_	_	Conn=B-conn
 2	we	_	_	_	_	_	_	_	Conn=O
 3	think	_	_	_	_	_	_	_	Conn=O

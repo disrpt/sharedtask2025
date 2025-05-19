@@ -1,4 +1,4 @@
-# newdoc_id = 0705000001
+# newdoc id = 0705000001
 1	eccomi	_	_	_	_	_	_	_	Conn=O
 2	quà	_	_	_	_	_	_	_	Conn=O
 3	<PER>	_	_	_	_	_	_	_	Conn=O
@@ -482,7 +482,7 @@
 463	giornata	_	_	_	_	_	_	_	Conn=O
 464	ciao	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0705000002
+# newdoc id = 0705000002
 1	helpdesk	_	_	_	_	_	_	_	Conn=O
 2	buongiorno	_	_	_	_	_	_	_	Conn=O
 3	sono	_	_	_	_	_	_	_	Conn=O
@@ -1118,7 +1118,7 @@
 617	molte	_	_	_	_	_	_	_	Conn=O
 618	buongiorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0705000003
+# newdoc id = 0705000003
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	signora	_	_	_	_	_	_	_	Conn=O
 3	mi	_	_	_	_	_	_	_	Conn=O
@@ -1551,7 +1551,7 @@
 426	buongiorno	_	_	_	_	_	_	_	Conn=O
 427	giorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0705000004
+# newdoc id = 0705000004
 1	okay	_	_	_	_	_	_	_	Conn=O
 2	allora	_	_	_	_	_	_	_	Conn=O
 3	mi	_	_	_	_	_	_	_	Conn=O
@@ -2076,7 +2076,7 @@
 497	buongiorno	_	_	_	_	_	_	_	Conn=O
 498	salve	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0705000008
+# newdoc id = 0705000008
 1	signora	_	_	_	_	_	_	_	Conn=O
 2	sì	_	_	_	_	_	_	_	Conn=O
 3	eccomi	_	_	_	_	_	_	_	Conn=O
@@ -2717,7 +2717,7 @@
 621	giornata	_	_	_	_	_	_	_	Conn=O
 622	signora	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0705000009
+# newdoc id = 0705000009
 1	eccomi	_	_	_	_	_	_	_	Conn=O
 2	qua	_	_	_	_	_	_	_	Conn=O
 3	signora	_	_	_	_	_	_	_	Conn=O
@@ -3506,7 +3506,7 @@
 761	altrettanto	_	_	_	_	_	_	_	Conn=O
 762	salve	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0705230001
+# newdoc id = 0705230001
 1	okay	_	_	_	_	_	_	_	Conn=O
 2	okay	_	_	_	_	_	_	_	Conn=O
 3	allora	_	_	_	_	_	_	_	Conn=O
@@ -4042,7 +4042,7 @@
 506	buongiorno	_	_	_	_	_	_	_	Conn=O
 507	buongiorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0705230003
+# newdoc id = 0705230003
 1	signora	_	_	_	_	_	_	_	Conn=O
 2	sì	_	_	_	_	_	_	_	Conn=O
 3	eccomi	_	_	_	_	_	_	_	Conn=O
@@ -4163,7 +4163,7 @@
 116	giornata	_	_	_	_	_	_	_	Conn=O
 117	salve	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0705230007
+# newdoc id = 0705230007
 1	okay	_	_	_	_	_	_	_	Conn=O
 2	signora	_	_	_	_	_	_	_	Conn=O
 3	mi	_	_	_	_	_	_	_	Conn=O
@@ -4593,7 +4593,7 @@
 418	la	_	_	_	_	_	_	_	Conn=O
 419	saluto	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0705230010
+# newdoc id = 0705230010
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	dunque	_	_	_	_	_	_	_	Conn=O
 3	<PER>	_	_	_	_	_	_	_	Conn=O
@@ -5097,7 +5097,7 @@
 491	buondì	_	_	_	_	_	_	_	Conn=O
 492	salve	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0705230011
+# newdoc id = 0705230011
 1	acc	_	_	_	_	_	_	_	Conn=O
 2	sì	_	_	_	_	_	_	_	Conn=O
 3	eccomi	_	_	_	_	_	_	_	Conn=O
@@ -5339,7 +5339,7 @@
 232	ci	_	_	_	_	_	_	_	Conn=O
 233	salve	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0705230012
+# newdoc id = 0705230012
 1	okay	_	_	_	_	_	_	_	Conn=O
 2	signora	_	_	_	_	_	_	_	Conn=O
 3	sì	_	_	_	_	_	_	_	Conn=O

@@ -1,4 +1,4 @@
-# newdoc_id = talk_1976_tr
+# newdoc id = talk_1976_tr
 # sent_id = talk_1976_tr-1
 # text = Evren gezegenlerle dolu.
 1	Evren	evren	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nsubj	3:nsubj	Conn=O
@@ -1403,7 +1403,7 @@
 2	ler	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres	1	cop	1:cop	Conn=O
 3	.	.	PUNCT	Punc	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = talk_1978_tr
+# newdoc id = talk_1978_tr
 # sent_id = talk_1978_tr-1
 # text = İlk işim Modern Sanat Müzesi'nde ressam Elizabeth Murray'in retrospektifinde çalışmak olduğu için kendimi çok şanslı hissediyorum.
 1	İlk	ilk	ADJ	Adj	_	2	amod	2:amod	Conn=O
@@ -3170,7 +3170,7 @@
 2	ler	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres	1	cop	1:cop	Conn=O
 3	.	.	PUNCT	Punc	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = talk_2009_tr
+# newdoc id = talk_2009_tr
 # sent_id = talk_2009_tr-1
 # text = Küçük bir kız olarak, bir gün kaçan giden biri olmayı hayal ettim.
 1	Küçük	küçük	ADJ	Adj	_	3	amod	3:amod	Conn=O
@@ -3858,7 +3858,7 @@
 2	ler	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres	1	cop	1:cop	Conn=O
 3	.	.	PUNCT	Punc	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = talk_2150_tr
+# newdoc id = talk_2150_tr
 # sent_id = talk_2150_tr-1
 # text = Şehirlerin haritalarını oluşturmayı düşündüğümüzde yollar, sokaklar, caddeler, binalar ve şehirlerin oluşumuna yol açan yerleşim hikayeleri aklımıza gelir.
 1	Şehirlerin	şehir	NOUN	Noun	Case=Gen|Number=Plur|Person=3	2	nmod:poss	2:nmod:poss	Conn=O

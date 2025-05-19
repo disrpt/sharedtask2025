@@ -1,4 +1,4 @@
-# newdoc_id = GMB0502
+# newdoc id = GMB0502
 # sent_id = GMB0502-1
 # text = Gizentasun erigarriaren tratamendu kirurgikoa .
 1	Gizentasun	gizentasun	NOUN	NOUN	_	3	nmod	_	Seg=B-seg
@@ -249,7 +249,7 @@
 11	dira	izan	AUX	AUX	Mood=Ind|Number[abs]=Plur|Person[abs]=3	10	aux	_	Seg=O
 12	.	.	PUNCT	PUNCT	_	10	punct	_	Seg=O
 
-# newdoc_id = GMB0703
+# newdoc id = GMB0703
 # sent_id = GMB0703-1
 # text = Galtzarbearen gongoil inbasioaren egiazko intzidentzia T1 bularreko minbizian , geure biztanleen artean .
 1	Galtzarbearen	galtzarbe	NOUN	NOUN	Animacy=Inan|Case=Gen|Definite=Def|Number=Sing	3	nmod	_	Seg=B-seg
@@ -649,7 +649,7 @@
 14	dutenak	ukan	VERB	VERB	Aspect=Prog|Case=Abs|Definite=Def|Mood=Ind|Number=Plur|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=3	6	appos	_	Seg=O
 15	.	.	PUNCT	PUNCT	_	6	punct	_	Seg=O
 
-# newdoc_id = INF06
+# newdoc id = INF06
 # sent_id = INF06-1
 # text = Industri Automatizazioan kontrol-programak berrerabiltzeko bidean .
 1	Industri	industria	NOUN	NOUN	_	2	compound	_	Seg=B-seg
@@ -831,7 +831,7 @@
 26	dezan	*ezan	AUX	AUX	Mood=Sub|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3	25	aux	_	Seg=O
 27	.	.	PUNCT	PUNCT	_	7	punct	_	Seg=O
 
-# newdoc_id = INF11
+# newdoc id = INF11
 # sent_id = INF11-1
 # text = LATEX : euskarazko dokumentu zientifiko-teknikoen ediziorako baliabideak .
 1	LATEX	late	NOUN	NOUN	Animacy=Inan|Case=Abs|Definite=Ind	0	root	_	Seg=B-seg
@@ -952,7 +952,7 @@
 15	dira	izan	AUX	AUX	Mood=Ind|Number[abs]=Plur|Person[abs]=3	14	aux	_	Seg=O
 16	.	.	PUNCT	PUNCT	_	14	punct	_	Seg=O
 
-# newdoc_id = LAB21
+# newdoc id = LAB21
 # sent_id = LAB21-1
 # text = Zuhaitz baten historia .
 1	Zuhaitz	zuhaitz	NOUN	NOUN	_	3	nmod	_	Seg=B-seg
@@ -1389,7 +1389,7 @@
 9	ni	ni	PRON	PRON	PronType=Prs	8	obj	_	Seg=O
 10	.	.	PUNCT	PUNCT	_	3	punct	_	Seg=O
 
-# newdoc_id = LAB22
+# newdoc id = LAB22
 # sent_id = LAB22-1
 # text = GIZA-GORPUTZA ETA ELIKAGAIAK .
 1	GIZA-GORPUTZA	Giza-gorputza	PROPN	PROPN	_	0	root	_	Seg=B-seg
@@ -2560,7 +2560,7 @@
 17	dezakegu	*ezan	AUX	AUX	Mood=Pot|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1	16	aux	_	Seg=O
 18	.	.	PUNCT	PUNCT	_	16	punct	_	Seg=O
 
-# newdoc_id = LAB81
+# newdoc id = LAB81
 # sent_id = LAB81-1
 # text = Naturan dugun baliabide preziatuenetakoa ur edangarria da , gizakiak ezinbestekoa baitu bizitzeko .
 1	Naturan	natura	NOUN	NOUN	Animacy=Inan|Case=Ine|Definite=Def|Number=Sing	2	obl	_	Seg=B-seg
@@ -2664,7 +2664,7 @@
 28	gara	izan	VERB	VERB	Aspect=Prog|Mood=Ind|Number[abs]=Plur|Person[abs]=1	13	conj	_	Seg=O
 29	.	.	PUNCT	PUNCT	_	4	punct	_	Seg=O
 
-# newdoc_id = MIS1
+# newdoc id = MIS1
 # sent_id = MIS1-1
 # text = Abortuaren Lege berria aplikatzeko asmoa duen galdetuko dio EH Bilduk Urkulluri Gobernu espainolak onartu duen Abortuaren Lege berriaren aurrean nola jokatuko duen argitzeko eskatuko dio EH Bilduk Iñigo Urkullu lehendakariari Gasteizko Legebiltzarrean .
 1	Abortuaren	abortu	NOUN	NOUN	Case=Gen|Definite=Def|Number=Sing	2	nmod	_	Seg=B-seg
@@ -2857,7 +2857,7 @@
 70	»	»	PUNCT	PUNCT	_	68	punct	_	Seg=O
 71	.	.	PUNCT	PUNCT	_	16	punct	_	Seg=O
 
-# newdoc_id = MIS12
+# newdoc id = MIS12
 # sent_id = MIS12-1
 # text = Egunkaria-mundua ( 2000/08/02 ) Egunkaria Agentziak Manila Filipinetan hiru hildako bonba leherketan .
 1	Egunkaria-mundua	egunkaria+-+mundu	NOUN	NOUN	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	0	root	_	Seg=B-seg
@@ -3077,7 +3077,7 @@
 13	arabera	arabera	ADP	ADP	Definite=Def|Number=Sing	12	case	_	Seg=O
 14	.	.	PUNCT	PUNCT	_	10	punct	_	Seg=O
 
-# newdoc_id = MIS13
+# newdoc id = MIS13
 # sent_id = MIS13-1
 # text = Egunkaria-europa ( 2000/07/02 ) Egunkaria Agentziak Mosku-Grozni 11 soldadu errusiar hil dira Txetxenian .
 1	Egunkaria-europa	Egunkaria-europa	PROPN	PROPN	Case=Abs|Definite=Def|Number=Sing	6	nmod	_	Seg=B-seg
@@ -3268,7 +3268,7 @@
 14	errusiarrei	errusiar	ADJ	ADJ	Case=Dat|Definite=Def|Number=Plur	13	amod	_	Seg=O
 15	.	.	PUNCT	PUNCT	_	3	punct	_	Seg=O
 
-# newdoc_id = OSA01
+# newdoc id = OSA01
 # sent_id = OSA01-1
 # text = Osteosarkomaren toxizitate markatzaile genetiko berriak tratamendua pertsonalizatzeko .
 1	Osteosarkomaren	Osteosarkoma	PROPN	PROPN	Case=Gen|Definite=Def|Number=Sing	3	nmod	_	Seg=B-seg
@@ -3589,7 +3589,7 @@
 21	daitezke	*edin	AUX	AUX	Mood=Pot|Number[abs]=Plur|Person[abs]=3	20	aux	_	Seg=O
 22	.	.	PUNCT	PUNCT	_	19	punct	_	Seg=O
 
-# newdoc_id = OSA03
+# newdoc id = OSA03
 # sent_id = OSA03-1
 # text = a-amino muturrean azetilazioa eta minbiziaren garapena .
 1	a-amino	a-amino	NOUN	NOUN	_	2	nmod	_	Seg=B-seg
@@ -3809,7 +3809,7 @@
 11	garatzeko	garatu	VERB	VERB	Case=Abs|Definite=Ind	5	advcl	_	Seg=O
 12	.	.	PUNCT	PUNCT	_	5	punct	_	Seg=O
 
-# newdoc_id = OSA13
+# newdoc id = OSA13
 # sent_id = OSA13-1
 # text = Nortasun nahasteak ebaluatzeko tresnak euskaraz .
 1	Nortasun	nortasun	NOUN	NOUN	_	3	nsubj	_	Seg=B-seg
@@ -4060,7 +4060,7 @@
 16	da	izan	AUX	AUX	Mood=Ind|Number[abs]=Sing|Person[abs]=3	14	aux	_	Seg=O
 17	.	.	PUNCT	PUNCT	_	14	punct	_	Seg=O
 
-# newdoc_id = OSA17
+# newdoc id = OSA17
 # sent_id = OSA17-1
 # text = Resberatrolak hipoxia-iskemiak eragindako burmuin-kaltea murrizten du .
 1	Resberatrolak	Resberatrola	PROPN	PROPN	Case=Erg|Definite=Def|Number=Sing	5	nsubj	_	Seg=B-seg
@@ -4581,7 +4581,7 @@
 23	hobetuz	hobetu	VERB	VERB	Case=Ins|Definite=Ind|VerbForm=Part	19	conj	_	Seg=O
 24	.	.	PUNCT	PUNCT	_	3	punct	_	Seg=O
 
-# newdoc_id = SENTARG06
+# newdoc id = SENTARG06
 # sent_id = SENTARG06-1
 # text = Odolaren deia / Iñaki Irasizabal / Elkar , 2014 Ildo berean Saioa Ruiz Gonzalez / Argia , 2014-05-25 Aspaldi elkar ikusi gabeko bi anaien harremanari buruzko istorioarekin itzuli da Iñaki Irasizabal .
 1	Odolaren	odol	NOUN	NOUN	Animacy=Inan|Case=Gen|Definite=Def|Number=Sing	2	nmod	_	Seg=B-seg
@@ -5059,7 +5059,7 @@
 22	espero	espero	NOUN	NOUN	Case=Abs|Definite=Ind	10	conj	_	Seg=O
 23	.	.	PUNCT	PUNCT	_	10	punct	_	Seg=O
 
-# newdoc_id = SENTBER06
+# newdoc id = SENTBER06
 # sent_id = SENTBER06-1
 # text = Hutsegiteen garaia / Mohamed Xukri ( Arantzazu Royo ) / Igela , 2014 Epopeia latza Alex Gurrutxaga / Berria,2015-01-11 Hutsegiteen garaia Mohamed Xukriren trilogia autobiografikoaren bigarren liburua da , Ogi hutsa-ren ondorengoa .
 1	Hutsegiteen	hutsegite	NOUN	NOUN	Animacy=Inan|Case=Gen|Definite=Def|Number=Plur	2	nmod	_	Seg=B-seg
@@ -5699,7 +5699,7 @@
 4	ere	ere	CCONJ	CCONJ	_	1	advmod	_	Seg=O
 5	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
-# newdoc_id = SENTPUT01
+# newdoc id = SENTPUT01
 # sent_id = SENTPUT01-1
 # text = Paperezko hegazkinak / Lutxo Egia / Susa , 2002 Paperezko hegazkinak Koldobika Ezberdin / Putz,2002-10 .
 1	Paperezko	paperezko	ADJ	ADJ	_	2	amod	_	Seg=B-seg
@@ -6182,7 +6182,7 @@
 12	eta	eta	CCONJ	CCONJ	_	10	mark	_	Seg=O
 13	.	.	PUNCT	PUNCT	_	3	punct	_	Seg=O
 
-# newdoc_id = TERM17
+# newdoc id = TERM17
 # sent_id = TERM17-1
 # text = Terminologia-funtzioak galizieran : metodologia-arazoak eta dagozkion konponbideak .
 1	Terminologia-funtzioak	terminologia+-+funtzio	NOUN	NOUN	Case=Abs|Definite=Def|Number=Plur	0	root	_	Seg=B-seg
@@ -6423,7 +6423,7 @@
 23	terminologikoan	terminologiko	ADJ	ADJ	Case=Ine|Definite=Def|Number=Sing	22	amod	_	Seg=O
 24	.	.	PUNCT	PUNCT	_	11	punct	_	Seg=O
 
-# newdoc_id = TERM25
+# newdoc id = TERM25
 # sent_id = TERM25-1
 # text = Terminologia , itzulpena eta diskurtso juridikoa : euskararen kasua .
 1	Terminologia	terminologia	NOUN	NOUN	Case=Abs	0	root	_	Seg=B-seg
@@ -6644,7 +6644,7 @@
 38	itzulpena	itzulpen	NOUN	NOUN	Case=Abs|Definite=Def|Number=Sing	36	conj	_	Seg=O
 39	.	.	PUNCT	PUNCT	_	11	punct	_	Seg=O
 
-# newdoc_id = TERM28
+# newdoc id = TERM28
 # sent_id = TERM28-1
 # text = Lege-testu itzulietako euskal terminologiaren hustuketarako metodologia .
 1	Lege-testu	lege-testu	NOUN	NOUN	_	2	nmod	_	Seg=B-seg
@@ -6904,7 +6904,7 @@
 56	dugu	ukan	VERB	VERB	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1	5	conj	_	Seg=O
 57	.	.	PUNCT	PUNCT	_	5	punct	_	Seg=O
 
-# newdoc_id = TERM31
+# newdoc id = TERM31
 # sent_id = TERM31-1
 # text = Terminologiaren erauzketa automatikoa eta bere aplikazioa euskararako .
 1	Terminologiaren	terminologia	NOUN	NOUN	Animacy=Inan|Case=Gen|Definite=Def|Number=Sing	2	nmod	_	Seg=B-seg
@@ -7569,7 +7569,7 @@
 11	daiteke	*edin	AUX	AUX	Mood=Pot|Number[abs]=Sing|Person[abs]=3	10	aux	_	Seg=O
 12	.	.	PUNCT	PUNCT	_	9	punct	_	Seg=O
 
-# newdoc_id = ZTF1
+# newdoc id = ZTF1
 # sent_id = ZTF1-1
 # text = Ekosistemen osasunaren ebaluazioa .
 1	Ekosistemen	ekosistema	NOUN	NOUN	Animacy=Inan|Case=Gen|Definite=Def|Number=Plur	2	nmod	_	Seg=B-seg
@@ -8204,7 +8204,7 @@
 41	)	)	PUNCT	PUNCT	_	3	punct	_	Seg=O
 42	.	.	PUNCT	PUNCT	_	34	punct	_	Seg=O
 
-# newdoc_id = ZTF10
+# newdoc id = ZTF10
 # sent_id = ZTF10-1
 # text = Fe-Al oinarritzat duten intermetalikoak .
 1	Fe-Al	Fe-Al	PROPN	PROPN	Case=Abs|Definite=Def|Number=Sing	3	obj	_	Seg=B-seg
@@ -8623,7 +8623,7 @@
 30	2007	2007	NUM	NUM	NumType=Card	29	flat	_	Seg=O
 31	.	.	PUNCT	PUNCT	_	7	punct	_	Seg=O
 
-# newdoc_id = ZTF5
+# newdoc id = ZTF5
 # sent_id = ZTF5-1
 # text = Nanopartikulen toxikotasuna .
 1	Nanopartikulen	nanopartikul	NOUN	NOUN	Case=Gen|Definite=Def|Number=Plur	2	nmod	_	Seg=B-seg

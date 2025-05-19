@@ -1,4 +1,4 @@
-# newdoc_id = BMCS_ESP5-GS
+# newdoc id = BMCS_ESP5-GS
 1	Aula	_	_	_	_	_	_	_	Seg=B-seg
 2	Virtual	_	_	_	_	_	_	_	Seg=O
 3	de	_	_	_	_	_	_	_	Seg=O
@@ -431,7 +431,7 @@
 430	.es	_	_	_	_	_	_	_	Seg=O
 431	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = CCICE_ESP5-GS
+# newdoc id = CCICE_ESP5-GS
 1	Inditex	_	_	_	_	_	_	_	Seg=B-seg
 2	elige	_	_	_	_	_	_	_	Seg=O
 3	China	_	_	_	_	_	_	_	Seg=O
@@ -613,7 +613,7 @@
 179	tiendas	_	_	_	_	_	_	_	Seg=O
 180	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = EEP_ESP8-GS
+# newdoc id = EEP_ESP8-GS
 1	Concierto	_	_	_	_	_	_	_	Seg=B-seg
 2	Capella	_	_	_	_	_	_	_	Seg=O
 3	de	_	_	_	_	_	_	_	Seg=O
@@ -823,7 +823,7 @@
 207	experiencias	_	_	_	_	_	_	_	Seg=O
 208	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = FCEC_ESP2-GS
+# newdoc id = FCEC_ESP2-GS
 1	Objetivos	_	_	_	_	_	_	_	Seg=B-seg
 2	y	_	_	_	_	_	_	_	Seg=O
 3	fines	_	_	_	_	_	_	_	Seg=O
@@ -1373,7 +1373,7 @@
 547	Misión	_	_	_	_	_	_	_	Seg=O
 548	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = FICB_ESP5-GS
+# newdoc id = FICB_ESP5-GS
 1	IV	_	_	_	_	_	_	_	Seg=B-seg
 2	Congreso	_	_	_	_	_	_	_	Seg=O
 3	Internacional	_	_	_	_	_	_	_	Seg=O
@@ -1543,7 +1543,7 @@
 167	turístico	_	_	_	_	_	_	_	Seg=O
 168	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ICP_ESP7-GS
+# newdoc id = ICP_ESP7-GS
 1	Catálogo	_	_	_	_	_	_	_	Seg=B-seg
 2	bibliográfico	_	_	_	_	_	_	_	Seg=O
 3	en	_	_	_	_	_	_	_	Seg=O
@@ -1891,7 +1891,7 @@
 345	tecnología	_	_	_	_	_	_	_	Seg=O
 346	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ICP_ESP8-GS
+# newdoc id = ICP_ESP8-GS
 1	Diplomas	_	_	_	_	_	_	_	Seg=B-seg
 2	DELE	_	_	_	_	_	_	_	Seg=O
 3	Los	_	_	_	_	_	_	_	Seg=B-seg
@@ -2280,7 +2280,7 @@
 386	manifiestan	_	_	_	_	_	_	_	Seg=O
 387	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = TERM50_ESP-GS
+# newdoc id = TERM50_ESP-GS
 1	Contraste	_	_	_	_	_	_	_	Seg=B-seg
 2	de	_	_	_	_	_	_	_	Seg=O
 3	los	_	_	_	_	_	_	_	Seg=O
@@ -3054,7 +3054,7 @@
 771	recursos	_	_	_	_	_	_	_	Seg=O
 772	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = TERM51_ESP-GS
+# newdoc id = TERM51_ESP-GS
 1	La	_	_	_	_	_	_	_	Seg=B-seg
 2	problemática	_	_	_	_	_	_	_	Seg=O
 3	de	_	_	_	_	_	_	_	Seg=O

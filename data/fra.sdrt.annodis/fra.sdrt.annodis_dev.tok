@@ -1,4 +1,4 @@
-# newdoc_id = news_32_28-01-2003
+# newdoc id = news_32_28-01-2003
 1	Le	_	_	_	_	_	_	_	Seg=B-seg
 2	voyage	_	_	_	_	_	_	_	Seg=O
 3	d'	_	_	_	_	_	_	_	Seg=O
@@ -303,7 +303,7 @@
 302	déjeuner	_	_	_	_	_	_	_	Seg=O
 303	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = news_33_21-01-2003
+# newdoc id = news_33_21-01-2003
 1	Les	_	_	_	_	_	_	_	Seg=B-seg
 2	projets	_	_	_	_	_	_	_	Seg=O
 3	se	_	_	_	_	_	_	_	Seg=O
@@ -865,7 +865,7 @@
 559	travail	_	_	_	_	_	_	_	Seg=O
 560	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = news_34_10-06-2002
+# newdoc id = news_34_10-06-2002
 1	Venu	_	_	_	_	_	_	_	Seg=B-seg
 2	armé	_	_	_	_	_	_	_	Seg=O
 3	pour	_	_	_	_	_	_	_	Seg=B-seg
@@ -1275,7 +1275,7 @@
 407	20	_	_	_	_	_	_	_	Seg=O
 408	h.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = news_35_03-11-2002
+# newdoc id = news_35_03-11-2002
 1	Photo	_	_	_	_	_	_	_	Seg=B-seg
 2	M7	_	_	_	_	_	_	_	Seg=O
 3	:	_	_	_	_	_	_	_	Seg=O
@@ -1622,7 +1622,7 @@
 344	!	_	_	_	_	_	_	_	Seg=O
 345	»	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = wik1_27_02-04-2006
+# newdoc id = wik1_27_02-04-2006
 1	Capharnaüm	_	_	_	_	_	_	_	Seg=B-seg
 2	Capharnaüm	_	_	_	_	_	_	_	Seg=B-seg
 3	ou	_	_	_	_	_	_	_	Seg=O
@@ -2100,7 +2100,7 @@
 475	1982	_	_	_	_	_	_	_	Seg=O
 476	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = wik1_28_02-04-2006
+# newdoc id = wik1_28_02-04-2006
 1	La	_	_	_	_	_	_	_	Seg=B-seg
 2	bisexualité	_	_	_	_	_	_	_	Seg=O
 3	dans	_	_	_	_	_	_	_	Seg=O
@@ -2514,7 +2514,7 @@
 411	termes	_	_	_	_	_	_	_	Seg=O
 412	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = wik1_29_02-04-2006
+# newdoc id = wik1_29_02-04-2006
 1	Bitnet	_	_	_	_	_	_	_	Seg=B-seg
 2	BITNET	_	_	_	_	_	_	_	Seg=B-seg
 3	était	_	_	_	_	_	_	_	Seg=O
@@ -3064,7 +3064,7 @@
 547	eux	_	_	_	_	_	_	_	Seg=O
 548	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = wik1_26_02-04-2006
+# newdoc id = wik1_26_02-04-2006
 1	Le	_	_	_	_	_	_	_	Seg=B-seg
 2	piano	_	_	_	_	_	_	_	Seg=O
 3	moderne	_	_	_	_	_	_	_	Seg=O
@@ -3402,7 +3402,7 @@
 335	départ	_	_	_	_	_	_	_	Seg=O
 336	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = wik2_selectionNaturelle_selection
+# newdoc id = wik2_selectionNaturelle_selection
 1	Principes	_	_	_	_	_	_	_	Seg=B-seg
 2	de	_	_	_	_	_	_	_	Seg=O
 3	la	_	_	_	_	_	_	_	Seg=O
@@ -4039,7 +4039,7 @@
 634	modernes	_	_	_	_	_	_	_	Seg=O
 635	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = geop_3_space
+# newdoc id = geop_3_space
 1	La	_	_	_	_	_	_	_	Seg=B-seg
 2	Space	_	_	_	_	_	_	_	Seg=O
 3	Launcher	_	_	_	_	_	_	_	Seg=O
@@ -4643,7 +4643,7 @@
 601	SLI	_	_	_	_	_	_	_	Seg=O
 602	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ling_fuchs_section2
+# newdoc id = ling_fuchs_section2
 1	Théorie	_	_	_	_	_	_	_	Seg=B-seg
 2	psychomécanique	_	_	_	_	_	_	_	Seg=O
 3	et	_	_	_	_	_	_	_	Seg=O

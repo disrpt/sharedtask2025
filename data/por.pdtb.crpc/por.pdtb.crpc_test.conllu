@@ -1,4 +1,4 @@
-# newdoc_id = mcarv1_1
+# newdoc id = mcarv1_1
 # sent_id = mcarv1_1-1
 # text = em_ um arranha-céus de Lisboa , a_ a Avenida João XXI , trabalhava certo escriturário que primava em ser o primeiro a chegar a_ a firma « Rainbow & Sunshine , Jacob Benoliel , SARL » , sediada no sexto andar .
 1	em_	em_	ADP	_	_	3	case	3:case	Conn=O
@@ -812,7 +812,7 @@
 9	conduzem	conduzir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	5:acl:relcl	Conn=O
 10	.	.	PUNCT	_	_	3	punct	3:punct	Conn=O
 
-# newdoc_id = dn81219
+# newdoc id = dn81219
 # sent_id = dn81219-1
 # text = Por decreto de Manuel de_ a Silva Passos , de 19 de Setembro de 1836 , as corridas de touros , em Lisboa , foram proibidas , por serem « divertimento bárbaro e impróprio de_ as nações civilizadas , servindo só para habituar os homens a_ o crime e a_ a ferocidade » .
 1	Por	por	ADP	_	_	2	case	2:case	Conn=B-conn
@@ -3039,7 +3039,7 @@
 49	Imprensa	Imprensa	PROPN	_	Number=Sing	46	nmod	46:nmod	Conn=O
 50	.	.	PUNCT	_	_	7	punct	7:punct	Conn=O
 
-# newdoc_id = dn81319
+# newdoc id = dn81319
 # sent_id = dn81319-1
 # text = « O Sesimbra terá que ter muitos cuidados em_ a partida de_ a segunda « «mão » , com o Lodi , pois os italianos , quando jogam fora , são muito frios e calculistas » .
 1	«	«	PUNCT	_	_	6	punct	6:punct	Conn=O
@@ -3686,7 +3686,7 @@
 71	»	»	PUNCT	_	_	56	punct	56:punct	Conn=O
 72	.	.	PUNCT	_	_	2	punct	2:punct	Conn=O
 
-# newdoc_id = dn87312
+# newdoc id = dn87312
 # sent_id = dn87312-1
 # text = PAULA MARIA Soares Romão , uma jovem licenciada em Biologia , acaba de defender , em_ a Faculdade de Ciências de Lisboa , uma tese sobre as propriedades de_ a saliva em_ a recuperação de obras de arte .
 1	PAULA	PAULA	PROPN	_	Gender=Fem|Number=Sing	12	nsubj	12:nsubj	Conn=O
@@ -4443,7 +4443,7 @@
 22	salvador	salvador	ADJ	_	Gender=Masc|Number=Sing	21	amod	21:amod	Conn=O
 23	...	...	PUNCT	_	_	18	punct	18:punct	Conn=O
 
-# newdoc_id = dn87313
+# newdoc id = dn87313
 # sent_id = dn87313-1
 # text = UMA RESIDÊNCIA em_ a Rua Dr. Pereira Bernardes foi assaltada , tendo os gatunos levado objectos diversos em_ o valor de cerca de 400 contos .
 1	UMA	um	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -4978,7 +4978,7 @@
 34	delitos	delito	NOUN	_	Gender=Masc|Number=Plur	31	nmod	31:nmod	Conn=O
 35	.	.	PUNCT	_	_	4	punct	4:punct	Conn=O
 
-# newdoc_id = dn87314
+# newdoc id = dn87314
 # sent_id = dn87314-1
 # text = A QUADRILHA " FP-27 " , em_ um total de 23 réus , começa hoje a ser julgada em_ o Tribunal de Monsanto , em Lisboa , em_ um processo em que é acusada de mais de 30 assaltos a_ a mão armada . de_ os réus , quatro encontram -se em liberdade sob caução , quatro são julgados a_ a revelia e os restantes , incluindo Faustino Cavaco , encontram -se sob prisão preventiva , disse uma fonte de_ o tribunal .
 1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -5566,7 +5566,7 @@
 51	Cruz	Cruz	PROPN	_	Number=Sing	48	nmod	48:nmod	Conn=O
 52	.	.	PUNCT	_	_	17	punct	17:punct	Conn=O
 
-# newdoc_id = dn87315
+# newdoc id = dn87315
 # sent_id = dn87315-1
 # text = UM GRUPO de cientistas de_ a Universidade de Oxford ( Inglaterra ) desenvolveu um novo medicamento que tem todas as probabilidades de ser eficaz em_ a luta contra a Sida .
 1	UM	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -6030,7 +6030,7 @@
 15	positivos	positivo	ADJ	_	Gender=Masc|Number=Plur	8	conj	8:conj	Conn=O
 16	.	.	PUNCT	_	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = dn87316
+# newdoc id = dn87316
 # sent_id = dn87316-1
 # text = WERNER FORNOS , presidente de_ o organismo privado Population Instituteú , afirma que as principais consequências de_ o superpovoamento de_ o globo serão as fomes e as doenças que atingirão populações sem recursos , a eliminação de_ as áreas arborizadas de_ o planeta , a destruição de_ os " habitats " naturais , o agravamento de_ o fenómeno de_ as chuvas ácidas .
 1	WERNER	Werner	PROPN	_	Gender=Masc|Number=Sing	12	nsubj	12:nsubj	Conn=O
@@ -6454,7 +6454,7 @@
 28	2000	2000	NUM	_	NumType=Card	27	nummod	27:nummod	Conn=O
 29	.	.	PUNCT	_	_	8	punct	8:punct	Conn=O
 
-# newdoc_id = dn87318
+# newdoc id = dn87318
 # sent_id = dn87318-1
 # text = CERIMÓNIA SIMPLES aquela , em que se viam pessoas sentadas em_ o chão , para ouvirem os sons melodiosos de obras de compositores de_ a escola flamenga de_ os séculos XVII e XVIII , praticamente desconhecidos em Portugal .
 1	CERIMÓNIA	cerimónia	NOUN	_	Gender=Fem|Number=Sing	0	root	0:root	Conn=O
@@ -6996,7 +6996,7 @@
 36	Mafra	Mafra	PROPN	_	Number=Sing	34	nmod	34:nmod	Conn=O
 37	.	.	PUNCT	_	_	3	punct	3:punct	Conn=O
 
-# newdoc_id = dn87319
+# newdoc id = dn87319
 # sent_id = dn87319-1
 # text = Foi uma temperatura que pode considerar -se amena a que a comitiva de_ o FC Porto veio encontrar em Kiev , onde os termómetros registavam entre cinco e seis graus , com as previsões meteorológicas a não darem indicações de o tempo piorar .
 1	Foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	Conn=O
@@ -8035,7 +8035,7 @@
 65	Kiev	Kiev	PROPN	_	Number=Sing	62	nmod	62:nmod	Conn=O
 66	.	.	PUNCT	_	_	13	punct	13:punct	Conn=O
 
-# newdoc_id = dn87323
+# newdoc id = dn87323
 # sent_id = dn87323-1
 # text = As quatro indústrias portuguesas de celulose vão exportar este ano 60 milhões de contos de pasta de papel , o que corresponde a um acréscimo de 17 , 2 por cento relativamente a 1986 .
 1	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	3:det	Conn=O
@@ -8945,7 +8945,7 @@
 53	sector	sector	NOUN	_	Gender=Masc|Number=Sing	49	nmod	49:nmod	Conn=O
 54	.	.	PUNCT	_	_	2	punct	2:punct	Conn=O
 
-# newdoc_id = dn87324
+# newdoc id = dn87324
 # sent_id = dn87324-1
 # text = O ministro de_ a Finanças está autorizado a conceder incentivos fiscais a_ as seguradoras , que pretendam especializar -se , circunscrevendo as suas actividades ou a_ o ramo " Vida " ou a_ os ramos " Não vida " - estabelece um decreto-lei ontem publicado .
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -9223,7 +9223,7 @@
 55	decreto	decreto	NOUN	_	Gender=Masc|Number=Sing	52	nmod	52:nmod	Conn=O
 56	.	.	PUNCT	_	_	5	punct	5:punct	Conn=O
 
-# newdoc_id = dn87325
+# newdoc id = dn87325
 # sent_id = dn87325-1
 # text = Há um dia em que todo o escritor se encontra com_ si mesmo .
 1	Há	haver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O
@@ -9732,7 +9732,7 @@
 4	Holmes	Holmes	PROPN	_	Number=Sing	3	flat:name	3:flat:name	Conn=O
 5	.	.	PUNCT	_	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = dn87401
+# newdoc id = dn87401
 # sent_id = dn87401-1
 # text = em_ um ENCONTRO com os jornalistas , ontem a_ a tarde , em_ a residência de_ o embaixador Costa Lobo , o Presidente de_ a República reafirmou que Portugal não pode converter -se em " santuário " de_ os movimentos que combatem os Governos legítimos de Angola e Moçambique .
 1	em_	em_	ADP	_	_	3	case	3:case	Conn=O
@@ -10962,7 +10962,7 @@
 33	autodeterminação	autodeterminação	NOUN	_	Gender=Fem|Number=Sing	29	nmod	29:nmod	Conn=O
 34	".	".	PUNCT	_	_	2	punct	2:punct	Conn=O
 
-# newdoc_id = dn87402
+# newdoc id = dn87402
 # sent_id = dn87402-1
 # text = O ENCARREGADO de_ o Governo de Macau , Carlos Monjardino , defendeu que o futuro governador deveria ser " alguém que conhecesse o território e que mantivesse a sua continuidade administrativa ".
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -11406,7 +11406,7 @@
 22	mortos	matar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	21	acl	21:acl	Conn=O
 23	.	.	PUNCT	_	_	5	punct	5:punct	Conn=O
 
-# newdoc_id = dn87403
+# newdoc id = dn87403
 # sent_id = dn87403-1
 # text = OS MINISTROS de_ os Negócios Estrangeiros português e moçambicano mostraram -se satisfeitos com os resultados obtidos em_ a deslocação de_ os chefes de_ as diplomacias de_ os cinco países africanos de língua portuguesa a Lisboa .
 1	OS	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	2:det	Conn=O
@@ -11912,7 +11912,7 @@
 42	Portuguesa	Portuguesa	PROPN	_	Number=Sing	41	flat:name	41:flat:name	Conn=O
 43	.	.	PUNCT	_	_	3	punct	3:punct	Conn=O
 
-# newdoc_id = dn87404
+# newdoc id = dn87404
 # sent_id = dn87404-1
 # text = " EXISTEM em_ este momento cerca de 200 mil crianças , de_ os sete a_ os 13 anos , a trabalhar ilegalmente em Portugal " , disse ontem Álvaro Rana , dirigente de_ a CGTP e candidato a deputado por_ a CDU .
 1	"	«	PUNCT	_	_	2	punct	2:punct	Conn=O
@@ -12419,7 +12419,7 @@
 23	legislativas	legislativo	ADJ	_	Gender=Fem|Number=Plur	22	amod	22:amod	Conn=O
 24	.	.	PUNCT	_	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = dn87405
+# newdoc id = dn87405
 # sent_id = dn87405-1
 # text = A ÚNICA CERTEZA é a de que cada um de_ os partidos se confrontou com as suas reais possibilidades e força , sendo , portanto , de esperar que este conhecimento possa de algum modo fazer cair a intransigência que se tinha estabelecido entre os partidos , e que havia procado a convocação de_ as eleições antecipadas , como única solução .
 1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	Conn=O
@@ -13204,7 +13204,7 @@
 24	quatro	quatro	NUM	_	NumType=Card	20	obl	20:obl	Conn=O
 25	.	.	PUNCT	_	_	7	punct	7:punct	Conn=O
 
-# newdoc_id = dn87406
+# newdoc id = dn87406
 # sent_id = dn87406-1
 # text = O prazo para a inscrição em_ o cadastro de estabelecimentos comerciais foi recentemente prorrogado e tem agora como data limite o dia 30 deste mês .
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -13628,7 +13628,7 @@
 39	autónoma	autónomo	ADJ	_	Gender=Fem|Number=Sing	38	amod	38:amod	Conn=O
 40	.	.	PUNCT	_	_	5	punct	5:punct	Conn=O
 
-# newdoc_id = dn87407
+# newdoc id = dn87407
 # sent_id = dn87407-1
 # text = CERCA DE 30 MIL crianças sofrem de maus tratos em Portugal , demonstrou um estudo de Fausto Amaro , publicado em_ os Cadernos CEJ , de_ o Ministério de_ a Justiça .
 1	CERCA	cerca	ADV	_	_	3	advmod	3:advmod	Conn=O
@@ -14186,7 +14186,7 @@
 28	Amiga	Amiga	PROPN	_	Number=Sing	27	flat:name	27:flat:name	Conn=O
 29	".	".	PUNCT	_	_	27	punct	27:punct	Conn=O
 
-# newdoc_id = dn87408
+# newdoc id = dn87408
 # sent_id = dn87408-1
 # text = EM DECLARAÇÕES em_ o segundo processo de_ as FP-25 , Otelo Saraiva de Carvalho disse ter -se apercebido , durante o julgamento de_ o primeiro processo , de que saiu condenado , de_ a existência de duas direcções político-militares , uma de_ elas , decalque de_ a componente Projecto Global .
 1	EM	em	ADP	_	_	2	case	2:case	Conn=O
@@ -14479,7 +14479,7 @@
 22	Polisário	Polisário	PROPN	_	Number=Sing	21	flat:name	21:flat:name	Conn=O
 23	.	.	PUNCT	_	_	16	punct	16:punct	Conn=O
 
-# newdoc_id = dn87409
+# newdoc id = dn87409
 # sent_id = dn87409-1
 # text = A SENTENÇA de_ o processo conhecido por " FP-27 " , cujo julgamento decorre em Monsanto , envolvendo 23 réus , entre os quais Faustino Cavaco , só será conhecida em Outubro , disse o juíz-presidente de_ o tribunal .
 1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -14655,7 +14655,7 @@
 26	preventiva	preventivo	ADJ	_	Gender=Fem|Number=Sing	25	amod	25:amod	Conn=O
 27	.	.	PUNCT	_	_	6	punct	6:punct	Conn=O
 
-# newdoc_id = dn87410
+# newdoc id = dn87410
 # sent_id = dn87410-1
 # text = A RÉPLICA de_ a caravela foi encomendada por_ a comunidade portuguesa de_ a África de_ o Sul , conforme o DN já noticiou , com o objectivo de participar em_ as comemorações de_ o V Centenário de_ a passagem de_ o cabo de_ a Boa Esperança .
 1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -15198,7 +15198,7 @@
 47	navegador	navegador	NOUN	_	Gender=Masc|Number=Sing	44	nmod	44:nmod	Conn=O
 48	.	.	PUNCT	_	_	5	punct	5:punct	Conn=O
 
-# newdoc_id = dn87411
+# newdoc id = dn87411
 # sent_id = dn87411-1
 # text = O MINISTRO de Estado e de_ a Administração Interna disse segunda-feira em Vieira de_ o Minho que a GNR " está sempre mobilizada para garantir a legalidade democrática e actuar em_ o grau de intervenção que as circunstâncias exigirem ".
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -15406,7 +15406,7 @@
 27	circunstâncias	circunstância	NOUN	_	Gender=Fem|Number=Plur	22	obl	22:obl	Conn=O
 28	."	.i	PUNCT	_	_	3	punct	3:punct	Conn=O
 
-# newdoc_id = dn87412
+# newdoc id = dn87412
 # sent_id = dn87412-1
 # text = ESTEVE presente , ainda , em_ a cerimónia , o secretário de Estado de_ as Vias de Comunicação e o Secretário de Estado de_ a Construção e Habitação .
 1	ESTEVE	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	2:cop	Conn=O
@@ -15788,7 +15788,7 @@
 43	contos	conto	NOUN	_	Gender=Masc|Number=Plur	40	nmod	40:nmod	Conn=O
 44	.	.	PUNCT	_	_	3	punct	3:punct	Conn=O
 
-# newdoc_id = dn87413
+# newdoc id = dn87413
 # sent_id = dn87413-1
 # text = O SECRETÁRIO de Estado de_ a Administração Local e Ordenamento de_ o Território homologou a proposta de adjudicação de_ a construção de_ o auditório e edifício-sede de_ o coral Luísa Todi em Setúbal .
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -15966,7 +15966,7 @@
 37	empreendimento	empreendimento	NOUN	_	Gender=Masc|Number=Sing	36	obj	36:obj	Conn=O
 38	.	.	PUNCT	_	_	4	punct	4:punct	Conn=O
 
-# newdoc_id = ex88420
+# newdoc id = ex88420
 # sent_id = ex88420-1
 # text = Amanhã , em Paris , quando Pedro Delgado for proclamado o vencedor de_ a Volta a_ a França , o repique festivo de_ os sinos deverá ensurdecer Segóvia , a sua terra natal .
 1	Amanhã	amanhã	ADV	_	_	27	advmod	27:advmod	Conn=O
@@ -17778,7 +17778,7 @@
 33	cantigas	cantiga	NOUN	_	Gender=Fem|Number=Plur	11	conj	11:conj	Conn=O
 34	...	...	PUNCT	_	_	11	punct	11:punct	Conn=O
 
-# newdoc_id = ex88601
+# newdoc id = ex88601
 # sent_id = ex88601-1
 # text = Quinta-feira , dia 17 , será o " dia D " de_ as rádios livres com uma emissão em cadeia com cobertura integral de_ o território nacional , envolvendo mais de 200 estações de todo o país , descontentes com o actual processo de regulamentação de_ o sector ( ver pág .
 1	Quinta-feira	quinta-feira	NOUN	_	Gender=Fem|Number=Sing	9	nmod	9:nmod	Conn=O
@@ -18228,7 +18228,7 @@
 49	inactividade	inactividade	NOUN	_	Gender=Fem|Number=Sing	47	nmod	47:nmod	Conn=O
 50	.	.	PUNCT	_	_	5	punct	5:punct	Conn=O
 
-# newdoc_id = pu92210
+# newdoc id = pu92210
 # sent_id = pu92210-1
 # text = " TODA a gente vai comer - de_ o Norte a_ o Sul , de_ o Leste a_ o Oeste , a chuva vai cobrir toda a França !
 1	"	«	PUNCT	_	_	6	punct	6:punct	Conn=O
@@ -18692,7 +18692,7 @@
 26	boca	boca	NOUN	_	Gender=Fem|Number=Sing	23	nmod	23:nmod	Conn=O
 27	.	.	PUNCT	_	_	12	punct	12:punct	Conn=O
 
-# newdoc_id = pu92211
+# newdoc id = pu92211
 # sent_id = pu92211-1
 # text = Debaixo de um céu sem nuvens , sob o signo de_ a seca começou anteontem a Ovibeja em nona edição .
 1	Debaixo	debaixo	ADV	_	_	14	advmod	14:advmod	Conn=O
@@ -19739,7 +19739,7 @@
 31	"	«	PUNCT	_	_	26	punct	26:punct	Conn=O
 32	.	.	PUNCT	_	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = pu92212
+# newdoc id = pu92212
 # sent_id = pu92212-1
 # text = A Primavera de_ os fogos chegou este fim-de-semana a_ a Região Centro , com proporções inesperadas para bombeiros e populações , sem tempo para esquecerem os grandes incêndios de Verão .
 1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	Conn=O

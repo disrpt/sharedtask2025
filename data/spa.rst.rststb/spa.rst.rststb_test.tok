@@ -1,4 +1,4 @@
-# newdoc_id = as00016
+# newdoc id = as00016
 1	LA	_	_	_	_	_	_	_	Seg=B-seg
 2	MISION	_	_	_	_	_	_	_	Seg=O
 3	CIENTÍFICA	_	_	_	_	_	_	_	Seg=O
@@ -111,7 +111,7 @@
 110	PNE	_	_	_	_	_	_	_	Seg=O
 111	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = as00017
+# newdoc id = as00017
 1	El	_	_	_	_	_	_	_	Seg=B-seg
 2	sol	_	_	_	_	_	_	_	Seg=O
 3	,	_	_	_	_	_	_	_	Seg=O
@@ -254,7 +254,7 @@
 140	Tierra	_	_	_	_	_	_	_	Seg=O
 141	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = de00003
+# newdoc id = de00003
 1	La	_	_	_	_	_	_	_	Seg=B-seg
 2	incursión	_	_	_	_	_	_	_	Seg=O
 3	de	_	_	_	_	_	_	_	Seg=O
@@ -459,7 +459,7 @@
 202	global	_	_	_	_	_	_	_	Seg=O
 203	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ec00015
+# newdoc id = ec00015
 1	El	_	_	_	_	_	_	_	Seg=B-seg
 2	viejo	_	_	_	_	_	_	_	Seg=O
 3	dilema	_	_	_	_	_	_	_	Seg=O
@@ -640,7 +640,7 @@
 178	común	_	_	_	_	_	_	_	Seg=O
 179	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ec00016
+# newdoc id = ec00016
 1	La	_	_	_	_	_	_	_	Seg=B-seg
 2	preocupación	_	_	_	_	_	_	_	Seg=O
 3	por	_	_	_	_	_	_	_	Seg=O
@@ -847,7 +847,7 @@
 204	municipio	_	_	_	_	_	_	_	Seg=O
 205	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = in00003
+# newdoc id = in00003
 1	Este	_	_	_	_	_	_	_	Seg=B-seg
 2	artículo	_	_	_	_	_	_	_	Seg=O
 3	describe	_	_	_	_	_	_	_	Seg=O
@@ -1049,7 +1049,7 @@
 199	portante	_	_	_	_	_	_	_	Seg=O
 200	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = li00042
+# newdoc id = li00042
 1	Contraste	_	_	_	_	_	_	_	Seg=B-seg
 2	de	_	_	_	_	_	_	_	Seg=O
 3	los	_	_	_	_	_	_	_	Seg=O
@@ -1807,7 +1807,7 @@
 755	recursos	_	_	_	_	_	_	_	Seg=O
 756	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = li00043
+# newdoc id = li00043
 1	La	_	_	_	_	_	_	_	Seg=B-seg
 2	problemática	_	_	_	_	_	_	_	Seg=O
 3	de	_	_	_	_	_	_	_	Seg=O
@@ -2586,7 +2586,7 @@
 776	y	_	_	_	_	_	_	_	Seg=O
 777	preguntas	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = li00044
+# newdoc id = li00044
 1	La	_	_	_	_	_	_	_	Seg=B-seg
 2	categorización	_	_	_	_	_	_	_	Seg=O
 3	de	_	_	_	_	_	_	_	Seg=O
@@ -2769,7 +2769,7 @@
 180	investigación	_	_	_	_	_	_	_	Seg=O
 181	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = li00045
+# newdoc id = li00045
 1	En	_	_	_	_	_	_	_	Seg=B-seg
 2	el	_	_	_	_	_	_	_	Seg=O
 3	presente	_	_	_	_	_	_	_	Seg=O
@@ -2907,7 +2907,7 @@
 135	recientes	_	_	_	_	_	_	_	Seg=O
 136	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = li00046
+# newdoc id = li00046
 1	La	_	_	_	_	_	_	_	Seg=B-seg
 2	mayoría	_	_	_	_	_	_	_	Seg=O
 3	de	_	_	_	_	_	_	_	Seg=O
@@ -3043,7 +3043,7 @@
 133	XML-Schema	_	_	_	_	_	_	_	Seg=O
 134	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ma00071b
+# newdoc id = ma00071b
 1	Coeficientes	_	_	_	_	_	_	_	Seg=B-seg
 2	de	_	_	_	_	_	_	_	Seg=O
 3	Reflexión	_	_	_	_	_	_	_	Seg=O
@@ -3135,7 +3135,7 @@
 89	natural	_	_	_	_	_	_	_	Seg=O
 90	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ma00072b
+# newdoc id = ma00072b
 1	Mínimos	_	_	_	_	_	_	_	Seg=B-seg
 2	Cuadrados	_	_	_	_	_	_	_	Seg=O
 3	Lineales	_	_	_	_	_	_	_	Seg=O
@@ -3208,7 +3208,7 @@
 70	actuales	_	_	_	_	_	_	_	Seg=O
 71	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ma00073b
+# newdoc id = ma00073b
 1	Sobre	_	_	_	_	_	_	_	Seg=B-seg
 2	funciones	_	_	_	_	_	_	_	Seg=O
 3	hipergeométricas	_	_	_	_	_	_	_	Seg=O
@@ -3269,7 +3269,7 @@
 58	Bk	_	_	_	_	_	_	_	Seg=O
 59	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ma00074b
+# newdoc id = ma00074b
 1	Problemas	_	_	_	_	_	_	_	Seg=B-seg
 2	sobre	_	_	_	_	_	_	_	Seg=O
 3	sumas	_	_	_	_	_	_	_	Seg=O
@@ -3386,7 +3386,7 @@
 114	)	_	_	_	_	_	_	_	Seg=O
 115	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ma00075b
+# newdoc id = ma00075b
 1	Los	_	_	_	_	_	_	_	Seg=B-seg
 2	teoremas	_	_	_	_	_	_	_	Seg=O
 3	de	_	_	_	_	_	_	_	Seg=O
@@ -3556,7 +3556,7 @@
 167	espectro	_	_	_	_	_	_	_	Seg=O
 168	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ma00076b
+# newdoc id = ma00076b
 1	Estimación	_	_	_	_	_	_	_	Seg=B-seg
 2	de	_	_	_	_	_	_	_	Seg=O
 3	una	_	_	_	_	_	_	_	Seg=O
@@ -3610,7 +3610,7 @@
 51	estimadores	_	_	_	_	_	_	_	Seg=O
 52	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ma00077a
+# newdoc id = ma00077a
 1	Sobre	_	_	_	_	_	_	_	Seg=B-seg
 2	la	_	_	_	_	_	_	_	Seg=O
 3	propiedad	_	_	_	_	_	_	_	Seg=O
@@ -3669,7 +3669,7 @@
 56	funcionales	_	_	_	_	_	_	_	Seg=O
 57	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ma00078b
+# newdoc id = ma00078b
 1	Paralelización	_	_	_	_	_	_	_	Seg=B-seg
 2	de	_	_	_	_	_	_	_	Seg=O
 3	un	_	_	_	_	_	_	_	Seg=O
@@ -3768,7 +3768,7 @@
 96	%	_	_	_	_	_	_	_	Seg=O
 97	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = me00029
+# newdoc id = me00029
 1	Demencia	_	_	_	_	_	_	_	Seg=B-seg
 2	de	_	_	_	_	_	_	_	Seg=O
 3	rápida	_	_	_	_	_	_	_	Seg=O
@@ -3942,7 +3942,7 @@
 171	hipóxico	_	_	_	_	_	_	_	Seg=O
 172	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = me00030
+# newdoc id = me00030
 1	Analgesia	_	_	_	_	_	_	_	Seg=B-seg
 2	preventiva	_	_	_	_	_	_	_	Seg=O
 3	en	_	_	_	_	_	_	_	Seg=O
@@ -4486,7 +4486,7 @@
 541	substancia	_	_	_	_	_	_	_	Seg=O
 542	intraarticular	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = me00031
+# newdoc id = me00031
 1	Reducción	_	_	_	_	_	_	_	Seg=B-seg
 2	de	_	_	_	_	_	_	_	Seg=O
 3	la	_	_	_	_	_	_	_	Seg=O
@@ -4714,7 +4714,7 @@
 225	glenohumeral	_	_	_	_	_	_	_	Seg=O
 226	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = me00032
+# newdoc id = me00032
 1	RESUMEN	_	_	_	_	_	_	_	Seg=B-seg
 2	.	_	_	_	_	_	_	_	Seg=O
 3	Se	_	_	_	_	_	_	_	Seg=B-seg
@@ -4847,7 +4847,7 @@
 130	0.001	_	_	_	_	_	_	_	Seg=O
 131	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ps00028b
+# newdoc id = ps00028b
 1	Terapia	_	_	_	_	_	_	_	Seg=B-seg
 2	Sexual	_	_	_	_	_	_	_	Seg=O
 3	:	_	_	_	_	_	_	_	Seg=O
@@ -5003,7 +5003,7 @@
 153	pareja	_	_	_	_	_	_	_	Seg=O
 154	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ps00029b
+# newdoc id = ps00029b
 1	Agresión	_	_	_	_	_	_	_	Seg=B-seg
 2	sexual	_	_	_	_	_	_	_	Seg=O
 3	hacia	_	_	_	_	_	_	_	Seg=O
@@ -5278,7 +5278,7 @@
 272	psicológico	_	_	_	_	_	_	_	Seg=O
 273	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ps00030b
+# newdoc id = ps00030b
 1	La	_	_	_	_	_	_	_	Seg=B-seg
 2	relación	_	_	_	_	_	_	_	Seg=O
 3	familiar	_	_	_	_	_	_	_	Seg=O
@@ -5451,7 +5451,7 @@
 170	las	_	_	_	_	_	_	_	Seg=O
 171	adolescentes	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ps00031b
+# newdoc id = ps00031b
 1	Pareja	_	_	_	_	_	_	_	Seg=B-seg
 2	y	_	_	_	_	_	_	_	Seg=O
 3	adolescencia	_	_	_	_	_	_	_	Seg=O
@@ -5596,7 +5596,7 @@
 142	investigación	_	_	_	_	_	_	_	Seg=O
 143	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = se00037
+# newdoc id = se00037
 1	Enfermedades	_	_	_	_	_	_	_	Seg=B-seg
 2	de	_	_	_	_	_	_	_	Seg=O
 3	Transmisión	_	_	_	_	_	_	_	Seg=O
@@ -6785,7 +6785,7 @@
 1186	humano	_	_	_	_	_	_	_	Seg=O
 1187	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = se00038
+# newdoc id = se00038
 1	Vamos	_	_	_	_	_	_	_	Seg=B-seg
 2	a	_	_	_	_	_	_	_	Seg=O
 3	platicar	_	_	_	_	_	_	_	Seg=O
@@ -7194,7 +7194,7 @@
 406	!	_	_	_	_	_	_	_	Seg=O
 407	!	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = se00039
+# newdoc id = se00039
 1	El	_	_	_	_	_	_	_	Seg=B-seg
 2	SIDA	_	_	_	_	_	_	_	Seg=O
 3	El	_	_	_	_	_	_	_	Seg=B-seg
@@ -7522,7 +7522,7 @@
 325	niño	_	_	_	_	_	_	_	Seg=O
 326	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = se00040
+# newdoc id = se00040
 1	CHLAMYDIA	_	_	_	_	_	_	_	Seg=B-seg
 2	Las	_	_	_	_	_	_	_	Seg=B-seg
 3	infecciones	_	_	_	_	_	_	_	Seg=O
@@ -7761,7 +7761,7 @@
 236	se	_	_	_	_	_	_	_	Seg=O
 237	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = se00041
+# newdoc id = se00041
 1	SIFILIS	_	_	_	_	_	_	_	Seg=B-seg
 2	La	_	_	_	_	_	_	_	Seg=B-seg
 3	sífilis	_	_	_	_	_	_	_	Seg=O

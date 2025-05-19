@@ -31,7 +31,8 @@ from glob import glob
 
 DATA_DIR = "data"
 HEADER_rels = "doc\tunit1_toks\tunit2_toks\tunit1_txt\tunit2_txt\tu1_raw\tu2_raw\ts1_toks\ts2_toks\tunit1_sent\tunit2_sent\tdir\trel_type\torig_label\tlabel"
-META_DOCID = "# newdoc id = "
+META_DOCID = "# newdoc_id = " # modified in 2025
+META_DOCID_GUM = "# newdoc id = " # Temporary fix, but data should be modified
 META_TEXT = "# text = "
 GUM_DOCS = {
 	"GUM_reddit_macroeconomics": [
@@ -415,7 +416,7 @@ def harvest_text(files: list) -> dict:
 		text = text.replace(".START","")  # Remove PDTB .START codes
 		text = re.sub(r'\s','', text)  # Remove all whitespace
 		docs[docname] = text # = soupe de characters
-		
+	print("Text harvested, nb doc:", len(docs.keys()))
 	return docs
 
 def restore_GUM_docs(path_to_underscores: str, text_dict: dict) -> None:
@@ -463,10 +464,10 @@ def rebuild_GUM_tok_files_from_dep_files(files: list) -> None:
 		for i, line in enumerate(lines):
 			line = line.strip()
 			if line.startswith("#"):
-				if line.startswith(META_DOCID) and i == 0:
+				if line.startswith(META_DOCID_GUM) and i == 0: # quick fix
 					output.append(line)
 					tokid = 0
-				elif line.startswith(META_DOCID) and i > 0:
+				elif line.startswith(META_DOCID_GUM) and i > 0: # quick fix
 					output.append(f"\n{line}")
 					tokid = 0
 				else:
@@ -557,7 +558,7 @@ def get_mweid(tokid: int, conllid) -> str:
 def get_tok_label_from_dep_label(label:str) -> str:
 	""" Get clean label for tok file from dep file where label column may have multiple unrelated labels.
 	"""
-	options = ["Conn=O","Conn=B-conn","Conn=I-conn","Seg=O","Seg=B-seg"] # "_" (MWE-contracted), "Conn=O" (ellips)
+	options = ["Conn=O","Conn=B-conn","Conn=I-conn","Seg=O","Seg=B-seg", "Seg=B-Seg"] # "_" (MWE-contracted), "Conn=O" (ellips) / hack for the last one TODO remove 
 	newlabel = "_"
 
 	if label == "_": # ellips ? => "_"
@@ -566,6 +567,9 @@ def get_tok_label_from_dep_label(label:str) -> str:
 	for it in options:
 		if it in label:
 			newlabel = it
+			if newlabel == "Seg=B-Seg":
+				newlabel = "Seg=B-seg" # quick fix
+	#print(label, newlabel)
 
 	return newlabel
 
@@ -599,8 +603,8 @@ def restore_GUM_dep_files(files, text_dict) -> dict:
 		for line in lines:
 			line = line.strip()
 
-			if line.startswith(META_DOCID): # newdoc
-				docname = re.sub(META_DOCID, "", line)
+			if line.startswith(META_DOCID_GUM): # newdoc
+				docname = re.sub(META_DOCID_GUM, "", line)
 				my_dict[docname] = {}
 				
 				tid = 0
@@ -740,7 +744,7 @@ def restore_dep_files(files: list, text_dict) -> dict:
 
 		with open(f"{file_}", 'w', encoding='utf-8', newline="\n") as fo:
 			fo.write("\n".join(output) + "\n")
-			#print(my_dict.keys())
+	# print(my_dict.keys())
 	return my_dict
 
 def fill_text_with_char(cid: int, text_doc: str, masked: str) -> str :
@@ -805,7 +809,7 @@ def restore_GUM_rel_files(files: list, idx_dict: dict) -> None:
 		#store toks
 		tok_path = re.sub(".rels",".tok", file_)
 		tok_dict = get_tokenized_text(tok_path) # pour tout le file.tok . relevant to get 1-based id document based.
-
+		
 		#store rels
 		lines = open(file_, 'r', encoding='utf-8').readlines()
 		output = [] # List of new lines
@@ -869,15 +873,27 @@ def get_tokenized_text(path: str) -> dict:
 	
 	tok_dict = {}
 	with open(path, "r", encoding="utf-8") as ft:
+		# print(path)
 		t_data = ft.readlines()
 		k = ""
 		v =[]
 	for i, line in enumerate(t_data):
 		line =line.strip()
-		if line.startswith("# newdoc id") and i == 0:
-			k = re.sub("# newdoc id = ", "", line)
-		elif line.startswith("# newdoc id"): ### redondant ----------------- ??
-			k = re.sub("# newdoc id = ", "", line)
+		# print(line)
+		# change in 2025 META_DOCID "# newdoc_id = "
+		if line.startswith(META_DOCID) and i == 0: 
+			k = re.sub(META_DOCID, "", line)
+		elif line.startswith(META_DOCID_GUM) and i == 0: # TODO: temporary fix, but gum data shoud be modified
+			k = re.sub(META_DOCID_GUM, "", line)
+		elif line.startswith(META_DOCID): ### redondant ----------------- ??
+			k = re.sub(META_DOCID, "", line)
+		elif line.startswith(META_DOCID_GUM): ### redondant ----------------- ??
+			k = re.sub(META_DOCID_GUM, "", line)
+		# old version:
+		# if line.startswith("# newdoc id") and i == 0:
+		# 	k = re.sub("# newdoc id = ", "", line)
+		# elif line.startswith("# newdoc id"): ### redondant ----------------- ??
+		# 	k = re.sub("# newdoc id = ", "", line)
 		elif line == "" :
 			tok_dict[k] = v
 			v = []
@@ -1076,6 +1092,7 @@ if __name__ == "__main__":
 				sys.exit(0)
 			files = glob(os.sep.join([rstdt_path,"RSTtrees-WSJ-main-1.0","TRAINING","*.edus"])) + glob(os.sep.join([rstdt_path,"RSTtrees-WSJ-main-1.0","TEST","*.edus"]))
 			docs2text = harvest_text(files)
+			print("DISRPT data have to be in:", os.sep.join(["..",DATA_DIR,"eng.rst.rstdt"]))
 			restore_docs(os.sep.join(["..",DATA_DIR,"eng.rst.rstdt"]),docs2text)
 
 

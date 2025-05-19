@@ -1,4 +1,4 @@
-# newdoc_id = T00178.tsv
+# newdoc id = T00178.tsv
 # sent_id = T00178.tsv-1
 # text = "มีชัย"แจงเหตุไม่เลือก"นาม-แก้วสรร"นั่ง
 1	"	_	PUNCT	PUNC	_	2	punct	2:punct	Conn=O
@@ -1149,7 +1149,7 @@
 56	แหละ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
 57	"	_	PUNCT	PUNC	_	56	punct	56:punct	Conn=O
 
-# newdoc_id = T00214.tsv
+# newdoc id = T00214.tsv
 # sent_id = T00214.tsv-1
 # text = "ความสุขของกะทิ"ซิวซีไรต์กรรมการเผยยังมีจุด
 1	"	_	PUNCT	PUNC	_	3	punct	3:punct	Conn=O
@@ -2084,7 +2084,7 @@
 35	สเปน	_	NOUN	NCMN	_	34	obj	34:obj	Conn=O
 36	และ	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=O
 
-# newdoc_id = T00240.tsv
+# newdoc id = T00240.tsv
 # sent_id = T00240.tsv-1
 # text = ทักษิณแจงยิบผบ.เหล่าทัพ คาร์บอมบ์ลอบสังหารของจริง
 1	ทักษิณ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
@@ -2541,7 +2541,7 @@
 49	สร้าง	_	VERB	VACT	_	48	acl	48:acl	Conn=O
 50	สถานการณ์	_	NOUN	NCMN	_	49	obj	49:obj	Conn=O
 
-# newdoc_id = T00441.tsv
+# newdoc id = T00441.tsv
 # sent_id = T00441.tsv-1
 # text = มุ่งปมการเมืองยิงอดีตนายกเล็กป่าบอน
 1	มุ่ง	_	VERB	VACT	_	8	csubj	8:csubj	Conn=O
@@ -2943,7 +2943,7 @@
 58	เร็ว	_	ADJ	VATT	_	55	xcomp	55:xcomp	Conn=O
 59	ๆ	_	NOUN	NCMN	_	58	obj	58:obj	Conn=O
 
-# newdoc_id = T00442.tsv
+# newdoc id = T00442.tsv
 # sent_id = T00442.tsv-1
 # text = "รุ่ง"ไม่ค้านถ่ายโอนบัญชี 2 โอนทั้งหมดเว้น"พระราชดำริ"โรงเรียนในฝันก็ไม่รอด
 1	"	_	PUNCT	PUNC	_	2	punct	2:punct	Conn=O
@@ -3595,7 +3595,7 @@
 47	ต้อง	_	AUX	XVMM	_	48	aux	48:aux	Conn=O
 48	ดำเนิน	_	VERB	VACT	_	6	conj	6:conj	Conn=O
 
-# newdoc_id = T00450.tsv
+# newdoc id = T00450.tsv
 # sent_id = T00450.tsv-1
 # text = อัดรัฐส่งผบ.ทบ.ดับไฟใต้โยนทหารรับผิดแก้ไขปัญหา
 1	อัด	_	PROPN	NPRP	_	11	nsubj	11:nsubj	Conn=O
@@ -5733,7 +5733,7 @@
 105	มาเลเซีย	_	AUX	XVAE	_	94	nmod:poss	94:nmod:poss	Conn=O
 106	ด้วย	_	ADV	ADVN	_	85	advmod	85:advmod	Conn=O
 
-# newdoc_id = T00453.tsv
+# newdoc id = T00453.tsv
 # sent_id = T00453.tsv-1
 # text = โจรใต้ยิงหัว 4 นัดตร.ชุมพรดับ เผาอาคารเรียนวอดทั้งหลัง
 1	โจร	_	NOUN	NCMN	_	3	nsubj	3:nsubj	Conn=O
@@ -6132,7 +6132,7 @@
 49	ไม่	_	PART	NEG	_	50	advmod	50:advmod	Conn=O
 50	สงบ	_	VERB	VSTA	_	39	ccomp	39:ccomp	Conn=O
 
-# newdoc_id = T00479.tsv
+# newdoc id = T00479.tsv
 # sent_id = T00479.tsv-1
 # text = บึ้ม 6 จุดกลางเมืองหาดใหญ่ ตายแล้ว 5 บาดเจ็บ 67 ราย
 1	บึ้ม	_	NOUN	NCMN	_	6	nsubj	6:nsubj	Conn=O
@@ -7005,7 +7005,7 @@
 67	ทราบ	_	VERB	VSTA	_	66	acl	66:acl	Conn=O
 68	ทันที	_	ADV	ADVN	_	65	advmod	65:advmod	Conn=O
 
-# newdoc_id = T00525.tsv
+# newdoc id = T00525.tsv
 # sent_id = T00525.tsv-1
 # text = นักเรียนดูงานวิทย์ขากลับเสย 10 ล้อดับ 3 ศพ
 1	นักเรียน	_	NOUN	NCMN	_	6	nsubj	6:nsubj	Conn=O
@@ -8182,7 +8182,7 @@
 74	น้ำ	_	NOUN	NCMN	_	73	compound	73:compound	Conn=O
 75	จะ	_	AUX	XVBM	_	71	aux	71:aux	Conn=O
 
-# newdoc_id = T00587.tsv
+# newdoc id = T00587.tsv
 # sent_id = T00587.tsv-1
 # text = น้ำท่วมโรงเรียนม.6 ศธ.ยันไม่เลื่อนสอบโอเน็ต
 1	น้ำ	_	NOUN	NCMN	_	9	nsubj	9:nsubj	Conn=O
@@ -10574,7 +10574,7 @@
 95	ชุมชน	_	NOUN	NCMN	_	89	nmod:poss	89:nmod:poss	Conn=O
 96	วัดโคกสมานคุณ	_	VERB	VACT	_	95	acl	95:acl	Conn=O
 
-# newdoc_id = T00625.tsv
+# newdoc id = T00625.tsv
 # sent_id = T00625.tsv-1
 # text = ออกหมายจับ-ระดมกำลังล่าร.ต.ท.ยิงรองผกก.
 1	ออก	_	VERB	VACT	_	7	nsubj	7:nsubj	Conn=O
@@ -11368,7 +11368,7 @@
 21	อย่าง	_	PART	FIXV	_	16	acl	16:acl	Conn=O
 22	รวดเร็ว	_	ADJ	VATT	_	21	amod	21:amod	Conn=O
 
-# newdoc_id = T00713.tsv
+# newdoc id = T00713.tsv
 # sent_id = T00713.tsv-1
 # text = รอจับคนร้ายข่มขืนลูกม.3 เคารพศพขอกองปราบ
 1	รอ	_	VERB	VSTA	_	2	nsubj	2:nsubj	Conn=O
@@ -12224,7 +12224,7 @@
 12	ต่าง	_	PRON	PDMN	_	10	compound	10:compound	Conn=O
 13	ๆ	_	PUNCT	PUNC	_	3	punct	3:punct	Conn=O
 
-# newdoc_id = T00775.tsv
+# newdoc id = T00775.tsv
 # sent_id = T00775.tsv-1
 # text = รร.เมืองแพร่วอนคนช่วย อุ้มตองเหลืองเรียนหนังสืองบอาหารฝืด
 1	รร.	_	NOUN	NCMN	_	3	nsubj	3:nsubj	Conn=O
@@ -14061,7 +14061,7 @@
 13	ระบาย	_	VERB	VACT	_	12	acl	12:acl	Conn=O
 14	ภาพ	_	NOUN	NCMN	_	13	obj	13:obj	Conn=O
 
-# newdoc_id = T00793.tsv
+# newdoc id = T00793.tsv
 # sent_id = T00793.tsv-1
 # text = เนชั่นฯผนึกพันธมิตร เปิดติว"แอดมิชชั่นส์"นร.แห่สมัคร 5.8 หมื่น
 1	เนชั่น	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
@@ -14431,7 +14431,7 @@
 44	ทบทวน	_	VERB	VACT	_	40	conj	40:conj	Conn=O
 45	ข้อสอบ	_	NOUN	NCMN	_	44	obj	44:obj	Conn=O
 
-# newdoc_id = T00810.tsv
+# newdoc id = T00810.tsv
 # sent_id = T00810.tsv-1
 # text = "สุรยุทธ์"หารือปรับครม.วันนี้ เน้นคนใน-นักวิชาการ
 1	"	_	PUNCT	PUNC	_	2	punct	2:punct	Conn=O
@@ -19869,7 +19869,7 @@
 6	หนัก	_	ADJ	VATT	_	5	amod	5:amod	Conn=O
 7	มาก	_	ADV	ADVN	_	4	advmod	4:advmod	Conn=O
 
-# newdoc_id = T00822.tsv
+# newdoc id = T00822.tsv
 # sent_id = T00822.tsv-1
 # text = สั่งตรวจสอบเข้มรถเข้าทำเนียบ หวั่นวางยาพิษนายกฯ"ทักษิณ"
 1	สั่ง	_	VERB	VACT	_	2	nsubj	2:nsubj	Conn=O
@@ -22519,7 +22519,7 @@
 48	พัน	_	VERB	VSTA	_	45	obj	45:obj	Conn=O
 49	คน	_	NOUN	CNIT	_	48	obj	48:obj	Conn=O
 
-# newdoc_id = T00827.tsv
+# newdoc id = T00827.tsv
 # sent_id = T00827.tsv-1
 # text = บึ้มรถผบ.ฉก.ยะลาพ.อ.ดับคาที่ ลูกน้องร่วมคณะเดินทางเจ็บ 5
 1	บึ้ม	_	NOUN	NCMN	_	11	nsubj:pass	11:nsubj:pass	Conn=O
@@ -22852,7 +22852,7 @@
 39	ทราบ	_	VERB	VSTA	_	7	xcomp	7:xcomp	Conn=O
 40	ชื่อ	_	NOUN	NCMN	_	39	obj	39:obj	Conn=O
 
-# newdoc_id = T01200.tsv
+# newdoc id = T01200.tsv
 # sent_id = T01200.tsv-1
 # text = สภาใหม่วุ่นแม่บ้านทหารโวยถูกบิ๊กสีเขียวขู่ย้ายสามีลงใต้
 1	สภา	_	NOUN	NCMN	_	8	nsubj:pass	8:nsubj:pass	Conn=O
@@ -23997,7 +23997,7 @@
 38	ของ	_	ADP	RPRE	_	39	case	39:case	Conn=O
 39	ตนเอง	_	PRON	PDMN	_	37	nmod:poss	37:nmod:poss	Conn=O
 
-# newdoc_id = T01243.tsv
+# newdoc id = T01243.tsv
 # sent_id = T01243.tsv-1
 # text = แจ้งตร.ตีลูกเซ่นผุดสภาครูโยธินโต้เด็กหนีเรียน
 1	แจ้ง	_	NOUN	NCMN	_	13	nsubj	13:nsubj	Conn=O
@@ -25655,7 +25655,7 @@
 32	เรียบร้อย	_	ADJ	VATT	_	29	advmod	29:advmod	Conn=O
 33	แล้ว	_	AUX	XVAE	_	29	aux	29:aux	Conn=O
 
-# newdoc_id = T01260.tsv
+# newdoc id = T01260.tsv
 # sent_id = T01260.tsv-1
 # text = สพฐ.สั่งขรก.กลับบ้านหลังพันธมิตรชุมนุมใหญ่
 1	สพฐ.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
@@ -26144,7 +26144,7 @@
 33	เกือบ	_	DET	DIBQ	_	31	det	31:det	Conn=O
 34	หมด	_	ADV	ADVN	_	30	advmod	30:advmod	Conn=O
 
-# newdoc_id = T01266.tsv
+# newdoc id = T01266.tsv
 # sent_id = T01266.tsv-1
 # text = รัฐบาลย้อนเกล็ดพันธมิตรให้ศาลสั่งเลิกชุมนุม
 1	รัฐบาล	_	NOUN	NCMN	_	2	nsubj	2:nsubj	Conn=O
@@ -29594,7 +29594,7 @@
 25	ใน	_	ADP	RPRE	_	26	case	26:case	Conn=O
 26	ข้อเท็จจริง	_	NOUN	NCMN	_	24	obl	24:obl	Conn=O
 
-# newdoc_id = T01454.tsv
+# newdoc id = T01454.tsv
 # sent_id = T01454.tsv-1
 # text = นักวิชาการยอมรับ ถึงทางตันต้องปฏิวัติ
 1	นัก	_	NOUN	NCMN	_	3	nsubj	3:nsubj	Conn=O

@@ -1,4 +1,4 @@
-# newdoc_id = GMB0502
+# newdoc id = GMB0502
 1	Gizentasun	_	_	_	_	_	_	_	Seg=B-seg
 2	erigarriaren	_	_	_	_	_	_	_	Seg=O
 3	tratamendu	_	_	_	_	_	_	_	Seg=O
@@ -214,7 +214,7 @@
 213	dira	_	_	_	_	_	_	_	Seg=O
 214	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = GMB0703
+# newdoc id = GMB0703
 1	Galtzarbearen	_	_	_	_	_	_	_	Seg=B-seg
 2	gongoil	_	_	_	_	_	_	_	Seg=O
 3	inbasioaren	_	_	_	_	_	_	_	Seg=O
@@ -576,7 +576,7 @@
 359	dutenak	_	_	_	_	_	_	_	Seg=O
 360	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = INF06
+# newdoc id = INF06
 1	Industri	_	_	_	_	_	_	_	Seg=B-seg
 2	Automatizazioan	_	_	_	_	_	_	_	Seg=O
 3	kontrol-programak	_	_	_	_	_	_	_	Seg=O
@@ -732,7 +732,7 @@
 153	dezan	_	_	_	_	_	_	_	Seg=O
 154	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = INF11
+# newdoc id = INF11
 1	LATEX	_	_	_	_	_	_	_	Seg=B-seg
 2	:	_	_	_	_	_	_	_	Seg=O
 3	euskarazko	_	_	_	_	_	_	_	Seg=O
@@ -836,7 +836,7 @@
 101	dira	_	_	_	_	_	_	_	Seg=O
 102	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = LAB21
+# newdoc id = LAB21
 1	Zuhaitz	_	_	_	_	_	_	_	Seg=B-seg
 2	baten	_	_	_	_	_	_	_	Seg=O
 3	historia	_	_	_	_	_	_	_	Seg=O
@@ -1187,7 +1187,7 @@
 348	ni	_	_	_	_	_	_	_	Seg=O
 349	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = LAB22
+# newdoc id = LAB22
 1	GIZA-GORPUTZA	_	_	_	_	_	_	_	Seg=B-seg
 2	ETA	_	_	_	_	_	_	_	Seg=O
 3	ELIKAGAIAK	_	_	_	_	_	_	_	Seg=O
@@ -2167,7 +2167,7 @@
 977	dezakegu	_	_	_	_	_	_	_	Seg=O
 978	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = LAB81
+# newdoc id = LAB81
 1	Naturan	_	_	_	_	_	_	_	Seg=B-seg
 2	dugun	_	_	_	_	_	_	_	Seg=O
 3	baliabide	_	_	_	_	_	_	_	Seg=O
@@ -2260,7 +2260,7 @@
 90	gara	_	_	_	_	_	_	_	Seg=O
 91	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = MIS1
+# newdoc id = MIS1
 1	Abortuaren	_	_	_	_	_	_	_	Seg=B-seg
 2	Lege	_	_	_	_	_	_	_	Seg=O
 3	berria	_	_	_	_	_	_	_	Seg=O
@@ -2439,7 +2439,7 @@
 176	»	_	_	_	_	_	_	_	Seg=O
 177	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = MIS12
+# newdoc id = MIS12
 1	Egunkaria-mundua	_	_	_	_	_	_	_	Seg=B-seg
 2	(	_	_	_	_	_	_	_	Seg=O
 3	2000/08/02	_	_	_	_	_	_	_	Seg=O
@@ -2621,7 +2621,7 @@
 179	arabera	_	_	_	_	_	_	_	Seg=O
 180	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = MIS13
+# newdoc id = MIS13
 1	Egunkaria-europa	_	_	_	_	_	_	_	Seg=B-seg
 2	(	_	_	_	_	_	_	_	Seg=O
 3	2000/07/02	_	_	_	_	_	_	_	Seg=O
@@ -2789,7 +2789,7 @@
 165	errusiarrei	_	_	_	_	_	_	_	Seg=O
 166	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = OSA01
+# newdoc id = OSA01
 1	Osteosarkomaren	_	_	_	_	_	_	_	Seg=B-seg
 2	toxizitate	_	_	_	_	_	_	_	Seg=O
 3	markatzaile	_	_	_	_	_	_	_	Seg=O
@@ -3057,7 +3057,7 @@
 265	daitezke	_	_	_	_	_	_	_	Seg=O
 266	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = OSA03
+# newdoc id = OSA03
 1	a-amino	_	_	_	_	_	_	_	Seg=B-seg
 2	muturrean	_	_	_	_	_	_	_	Seg=O
 3	azetilazioa	_	_	_	_	_	_	_	Seg=O
@@ -3245,7 +3245,7 @@
 185	garatzeko	_	_	_	_	_	_	_	Seg=O
 186	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = OSA13
+# newdoc id = OSA13
 1	Nortasun	_	_	_	_	_	_	_	Seg=B-seg
 2	nahasteak	_	_	_	_	_	_	_	Seg=O
 3	ebaluatzeko	_	_	_	_	_	_	_	Seg=O
@@ -3464,7 +3464,7 @@
 216	da	_	_	_	_	_	_	_	Seg=O
 217	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = OSA17
+# newdoc id = OSA17
 1	Resberatrolak	_	_	_	_	_	_	_	Seg=B-seg
 2	hipoxia-iskemiak	_	_	_	_	_	_	_	Seg=O
 3	eragindako	_	_	_	_	_	_	_	Seg=O
@@ -3932,7 +3932,7 @@
 465	hobetuz	_	_	_	_	_	_	_	Seg=O
 466	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = SENTARG06
+# newdoc id = SENTARG06
 1	Odolaren	_	_	_	_	_	_	_	Seg=B-seg
 2	deia	_	_	_	_	_	_	_	Seg=O
 3	/	_	_	_	_	_	_	_	Seg=O
@@ -4345,7 +4345,7 @@
 410	espero	_	_	_	_	_	_	_	Seg=O
 411	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = SENTBER06
+# newdoc id = SENTBER06
 1	Hutsegiteen	_	_	_	_	_	_	_	Seg=B-seg
 2	garaia	_	_	_	_	_	_	_	Seg=O
 3	/	_	_	_	_	_	_	_	Seg=O
@@ -4908,7 +4908,7 @@
 560	ere	_	_	_	_	_	_	_	Seg=O
 561	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = SENTPUT01
+# newdoc id = SENTPUT01
 1	Paperezko	_	_	_	_	_	_	_	Seg=B-seg
 2	hegazkinak	_	_	_	_	_	_	_	Seg=O
 3	/	_	_	_	_	_	_	_	Seg=O
@@ -5314,7 +5314,7 @@
 403	eta	_	_	_	_	_	_	_	Seg=O
 404	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = TERM17
+# newdoc id = TERM17
 1	Terminologia-funtzioak	_	_	_	_	_	_	_	Seg=B-seg
 2	galizieran	_	_	_	_	_	_	_	Seg=O
 3	:	_	_	_	_	_	_	_	Seg=O
@@ -5532,7 +5532,7 @@
 215	terminologikoan	_	_	_	_	_	_	_	Seg=O
 216	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = TERM25
+# newdoc id = TERM25
 1	Terminologia	_	_	_	_	_	_	_	Seg=B-seg
 2	,	_	_	_	_	_	_	_	Seg=O
 3	itzulpena	_	_	_	_	_	_	_	Seg=O
@@ -5730,7 +5730,7 @@
 195	itzulpena	_	_	_	_	_	_	_	Seg=O
 196	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = TERM28
+# newdoc id = TERM28
 1	Lege-testu	_	_	_	_	_	_	_	Seg=B-seg
 2	itzulietako	_	_	_	_	_	_	_	Seg=O
 3	euskal	_	_	_	_	_	_	_	Seg=O
@@ -5964,7 +5964,7 @@
 231	dugu	_	_	_	_	_	_	_	Seg=O
 232	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = TERM31
+# newdoc id = TERM31
 1	Terminologiaren	_	_	_	_	_	_	_	Seg=B-seg
 2	erauzketa	_	_	_	_	_	_	_	Seg=O
 3	automatikoa	_	_	_	_	_	_	_	Seg=O
@@ -6513,7 +6513,7 @@
 546	daiteke	_	_	_	_	_	_	_	Seg=O
 547	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ZTF1
+# newdoc id = ZTF1
 1	Ekosistemen	_	_	_	_	_	_	_	Seg=B-seg
 2	osasunaren	_	_	_	_	_	_	_	Seg=O
 3	ebaluazioa	_	_	_	_	_	_	_	Seg=O
@@ -7077,7 +7077,7 @@
 561	)	_	_	_	_	_	_	_	Seg=O
 562	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ZTF10
+# newdoc id = ZTF10
 1	Fe-Al	_	_	_	_	_	_	_	Seg=B-seg
 2	oinarritzat	_	_	_	_	_	_	_	Seg=O
 3	duten	_	_	_	_	_	_	_	Seg=O
@@ -7446,7 +7446,7 @@
 366	2007	_	_	_	_	_	_	_	Seg=O
 367	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ZTF5
+# newdoc id = ZTF5
 1	Nanopartikulen	_	_	_	_	_	_	_	Seg=B-seg
 2	toxikotasuna	_	_	_	_	_	_	_	Seg=O
 3	.	_	_	_	_	_	_	_	Seg=O

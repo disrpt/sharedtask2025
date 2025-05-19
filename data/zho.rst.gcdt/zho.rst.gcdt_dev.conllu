@@ -1,4 +1,4 @@
-# newdoc_id = gcdt_academic_peoples
+# newdoc id = gcdt_academic_peoples
 # sent_id = gcdt_academic_peoples-gcdt_academic_peoples-1
 # text = 疫情期间主流媒体的传播策略研究——以人民日报抖音号为例
 1	疫情	疫情	NN	NN	_	2	compound:nn	_	Seg=B-seg
@@ -1737,7 +1737,7 @@
 29	效果	效果	NN	NN	_	23	dobj	_	Seg=O
 30	。	。	PU	PU	_	14	punct	_	Seg=O
 
-# newdoc_id = gcdt_bio_byron
+# newdoc id = gcdt_bio_byron
 # sent_id = gcdt_bio_byron-gcdt_bio_byron-1
 # text = 拜伦勋爵
 1	拜伦	拜伦	NR	NR	_	2	nmod:assmod	_	Seg=B-seg
@@ -3810,7 +3810,7 @@
 37	-RSB-	-RSB-	NN	NN	_	30	dobj	_	Seg=O
 38	。	。	PU	PU	_	6	punct	_	Seg=O
 
-# newdoc_id = gcdt_interview_ward
+# newdoc id = gcdt_interview_ward
 # sent_id = gcdt_interview_ward-gcdt_interview_ward-1
 # text = 史提芬·沃德：人们开始生活在虚假的现实中
 1	史提芬·沃德	史提芬·沃德	NR	NR	_	5	nmod:topic	_	Seg=B-seg
@@ -5250,7 +5250,7 @@
 37	次数	次数	NN	NN	_	26	dobj	_	Seg=O
 38	。	。	PU	PU	_	9	punct	_	Seg=O
 
-# newdoc_id = gcdt_news_famine
+# newdoc id = gcdt_news_famine
 # sent_id = gcdt_news_famine-gcdt_news_famine-1
 # text = 十月革命百年 乌克兰纪念大饥荒
 1	十月	十月	NT	NT	_	6	nmod:tmod	_	Seg=B-seg
@@ -6570,7 +6570,7 @@
 36	大	大	VA	VA	_	22	conj	_	Seg=O
 37	。	。	PU	PU	_	22	punct	_	Seg=O
 
-# newdoc_id = gcdt_whow_hiking
+# newdoc id = gcdt_whow_hiking
 # sent_id = gcdt_whow_hiking-gcdt_whow_hiking-1
 # text = 如何徒步旅行
 1	如何	如何	AD	AD	_	3	advmod	_	Seg=B-seg

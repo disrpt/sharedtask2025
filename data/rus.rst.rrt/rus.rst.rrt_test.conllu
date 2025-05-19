@@ -1,4 +1,4 @@
-# newdoc_id = blogs_100
+# newdoc id = blogs_100
 # sent_id = blogs_100-1
 # text = https://ru-travel.livejournal.com/33778768.html Покупка отзывов на Букинге Букинг позволяет написать отзыв об отеле только после подтвержденного проживания в нем .
 1	https://ru-travel.livejournal.com/33778768.html	https://ru-travel.livejournal.com/33778768.html	PROPN	PROPN	Foreign=Yes	7	nsubj	_	Seg=B-seg
@@ -834,7 +834,7 @@
 7	Букинга	Букинг	PROPN	PROPN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Seg=O
 8	?	?	PUNCT	PUNCT	_	4	punct	_	Seg=0-seg
 
-# newdoc_id = blogs_16
+# newdoc id = blogs_16
 # sent_id = blogs_16-1
 # text = https://my-first-time.livejournal.com/569291.html Первое маленькое " не слабО " Когда мне было лет эдак 12 в наш сибирский городок с первыми лучами мнимой свободы и вседозволенности неожиданно нагрянул заграничный Лунапарк .
 1	https://my-first-time.livejournal.com/569291.html	https://my-first-time.livejournal.com/569291.html	PROPN	PROPN	Foreign=Yes	6	nsubj	_	Seg=B-seg
@@ -1754,7 +1754,7 @@
 11	поставила	ставить	VERB	VERB	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Seg=O
 12	.	.	PUNCT	PUNCT	_	11	punct	_	Seg=0-seg
 
-# newdoc_id = blogs_17
+# newdoc id = blogs_17
 # sent_id = blogs_17-1
 # text = https://my-first-time.livejournal.com/568230.html МОИ ПЕРВЫЕ ПОИСКИ ПРОПАВШЕГО ЧЕЛОВЕКА ( ТРЕНИРОВКА ) Потеря близкого человека - настоящая беда .
 1	https://my-first-time.livejournal.com/568230.html	https://my-first-time.livejournal.com/568230.html	PROPN	PROPN	Foreign=Yes	15	nsubj	_	Seg=B-seg
@@ -2652,7 +2652,7 @@
 4	друга	друг	NOUN	NOUN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	fixed	_	Seg=O
 5	!	!	PUNCT	PUNCT	_	2	punct	_	Seg=0-seg
 
-# newdoc_id = blogs_19
+# newdoc id = blogs_19
 # sent_id = blogs_19-1
 # text = https://odin-moy-den.livejournal.com/2211666.html Один день в Вене с Питером Брейгелем Добрый день , меня зовут Катерина , я живу в Иерусалиме и работаю старшей ( и единственной ) медицинской сестрой в маленькой районной поликлинике .
 1	https://odin-moy-den.livejournal.com/2211666.html	https://odin-moy-den.livejournal.com/2211666.html	PROPN	PROPN	Foreign=Yes	10	nsubj	_	Seg=B-seg
@@ -5048,7 +5048,7 @@
 21	конца	конец	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	obl	_	Seg=O
 22	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
 
-# newdoc_id = blogs_2
+# newdoc id = blogs_2
 # sent_id = blogs_2-1
 # text = https://kosmetista.ru/blog/uhodovaya-kosmetika/95993.html Регенерация как она есть ?
 1	https://kosmetista.ru/blog/uhodovaya-kosmetika/95993.html	https://kosmetista.ru/blog/uhodovaya-kosmetika/95993.html	PROPN	PROPN	Foreign=Yes	0	root	_	Seg=B-seg
@@ -6578,7 +6578,7 @@
 20	:	:	PUNCT	PUNCT	_	19	punct	_	Seg=O
 21	4	4	NUM	NUM	_	19	punct	_	Seg=0-seg
 
-# newdoc_id = blogs_45
+# newdoc id = blogs_45
 # sent_id = blogs_45-1
 # text = https://blog.byndyu.ru/2015/05/kanban.html Стендапы в стиле Kanban Stand-up meeting , Daily Scrum Meeting или просто планёрки стали привычной практикой в IT .
 1	https://blog.byndyu.ru/2015/05/kanban.html	https://blog.byndyu.ru/2015/05/kanban.html	PROPN	PROPN	Foreign=Yes	15	nsubj	_	Seg=B-seg
@@ -8226,7 +8226,7 @@
 36	подойдет	подойти	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	parataxis	_	Seg=O
 37	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=0-seg
 
-# newdoc_id = blogs_48
+# newdoc id = blogs_48
 # sent_id = blogs_48-1
 # text = https://eax.me/avoid-new-toys/ Десять веских причин не тащить в продакшн новые игрушки Типичная ситуация .
 1	https://eax.me/avoid-new-toys/	https://eax.me/avoid-new-toys/	PROPN	PROPN	Foreign=Yes	12	nsubj	_	Seg=B-seg
@@ -9894,7 +9894,7 @@
 20	пользователи	пользователь	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	Seg=O
 21	.	.	PUNCT	PUNCT	_	6	punct	_	Seg=0-seg
 
-# newdoc_id = blogs_52
+# newdoc id = blogs_52
 # sent_id = blogs_52-1
 # text = ﻿https://alexandr-rogers.livejournal.com/1162607.html 11:11 pm : Наркобарыги и ПМЭФ IMG
 1	﻿https://alexandr-rogers.livejournal.com/1162607.html	﻿https://alexandr-rogers.livejournal.com/1162607.html	PROPN	PROPN	Foreign=Yes	0	root	_	Seg=B-seg
@@ -11162,7 +11162,7 @@
 5	клетку	клетка	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	Seg=O
 6	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=0-seg
 
-# newdoc_id = blogs_57
+# newdoc id = blogs_57
 # sent_id = blogs_57-1
 # text = https://putnik1.livejournal.com/7594285.html#cutid1 КВАНТУНСКАЯ ВОЛОСТЬ IMG-TXT Для начала констатируем очевидное : если даже в самые хорошие , самые скрепные времена Россия экспортировала в развитые страны только сырье , лес и сельхозпродукты , то сейчас , как видим , целых 5.9 % российского экспорта составляют продукты отечественного производства , - и это бесспорное свидетельство прорыва в дестилетие ярких побед .
 1	https://putnik1.livejournal.com/7594285.html#cutid1	https://putnik1.livejournal.com/7594285.html#cutid1	PROPN	PROPN	Foreign=Yes	7	nsubj	_	Seg=B-seg
@@ -11641,7 +11641,7 @@
 41	правопреемнику	правопреемник	NOUN	NOUN	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	30	conj	_	Seg=O
 42	...	...	PUNCT	PUNCT	_	14	punct	_	Seg=0-seg
 
-# newdoc_id = blogs_7
+# newdoc id = blogs_7
 # sent_id = blogs_7-1
 # text = https://kosmetista.ru/blog/uhodovaya-kosmetika/96561.html Klairs Rich Moist Soothing Cream - Увлажняющий и успокаивающий крем от Klairs IMG Здравствуйте , уважаемые читатели !
 1	https://kosmetista.ru/blog/uhodovaya-kosmetika/96561.html	https://kosmetista.ru/blog/uhodovaya-kosmetika/96561.html	PROPN	PROPN	Foreign=Yes	15	nsubj	_	Seg=B-seg
@@ -12129,7 +12129,7 @@
 5	Jolsie	Jolsie	PROPN	PROPN	Foreign=Yes	1	flat:foreign	_	Seg=B-seg
 6	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
 
-# newdoc_id = blogs_97
+# newdoc id = blogs_97
 # sent_id = blogs_97-1
 # text = https://ru-travel.livejournal.com/33781977.html Грузия : Кватахеви и Магалаанткари .
 1	https://ru-travel.livejournal.com/33781977.html	https://ru-travel.livejournal.com/33781977.html	PROPN	PROPN	Foreign=Yes	0	root	_	Seg=B-seg
@@ -15406,7 +15406,7 @@
 28	пешком	пешком	ADV	ADV	Degree=Pos	11	conj	_	Seg=O
 29	.	.	PUNCT	PUNCT	_	6	punct	_	Seg=0-seg
 
-# newdoc_id = news1_74
+# newdoc id = news1_74
 # sent_id = news1_74-1
 # text = ##### ﻿Несмотря на частые заверения в обратном , фундаментальная проблема на Ближнем Востоке состоит не во вмешательстве Запада .
 1	#####	#####	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	Seg=B-seg
@@ -16314,7 +16314,7 @@
 9	самонадеянности	самонадеянность	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	Seg=O
 10	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
 
-# newdoc_id = news1_75
+# newdoc id = news1_75
 # sent_id = news1_75-1
 # text = ##### Бывший сирийский член парламента и политический заключенный Мамун аль-Хомси , курдский активист Дженгизхан Хассо из Исполнительного Совета Национальной Ассамблеи Курдистана и я недавно встретились с президентом Джорджем В. Бушем в его кабинете в Белом Доме .
 1	#####	#####	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	_	Seg=B-seg
@@ -16995,7 +16995,7 @@
 9	Америки	Америка	PROPN	PROPN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	Seg=O
 10	?	?	PUNCT	PUNCT	_	4	punct	_	Seg=0-seg
 
-# newdoc_id = news1_76
+# newdoc id = news1_76
 # sent_id = news1_76-1
 # text = ##### В то время как внимание всего мира сосредоточено на Ираке , Северной Корее и возможном конфликте с Ираном в связи с его ядерной программой , Косово сошло с экранов радаров .
 1	#####	#####	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	28	nsubj	_	Seg=B-seg
@@ -17647,7 +17647,7 @@
 12	Косово	Косово	PROPN	PROPN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	Seg=O
 13	.	.	PUNCT	PUNCT	_	6	punct	_	Seg=0-seg
 
-# newdoc_id = news1_77
+# newdoc id = news1_77
 # sent_id = news1_77-1
 # text = ##### Кремль опять провоцирует Запад в связи с долгим и болезненным процессом предоставления формальной независимости Косово .
 1	#####	#####	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Seg=B-seg
@@ -18672,7 +18672,7 @@
 11	холоднее	холодный	ADJ	ADJ	Degree=Cmp	9	obl	_	Seg=O
 12	.	.	PUNCT	PUNCT	_	8	punct	_	Seg=0-seg
 
-# newdoc_id = news1_78
+# newdoc id = news1_78
 # sent_id = news1_78-1
 # text = ##### Недавно Соединенные Штаты добились сомнительной чести похвастаться самым большим на земле количеством заключенных , содержащихся в тюрьмах и изоляторах предварительного заключения .
 1	#####	#####	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	Seg=B-seg
@@ -19885,7 +19885,7 @@
 22	устройство	устройство	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	conj	_	Seg=O
 23	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=0-seg
 
-# newdoc_id = news1_79
+# newdoc id = news1_79
 # sent_id = news1_79-1
 # text = ##### Радикальная исламистская группировка " Ансар аль-Сунна " взяла на себя ответственность за взрывы в Волгограде , совершенные в декабре прошлого года .
 1	#####	#####	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	Seg=B-seg
@@ -20224,7 +20224,7 @@
 12	Кавказе	Кавказ	PROPN	PROPN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	Seg=O
 13	...	...	PUNCT	PUNCT	_	2	punct	_	Seg=0-seg
 
-# newdoc_id = news1_8
+# newdoc id = news1_8
 # sent_id = news1_8-1
 # text = ##### По всей видимости , протон-антипротонный коллайдер Теватрон , расположенный в Фермилаб в Чикаго будет закрыт в октябре 2011 года .
 1	#####	#####	PUNCT	PUNCT	_	16	punct	_	Seg=B-seg
@@ -20572,7 +20572,7 @@
 32	США	США	PROPN	PROPN	Animacy=Inan|Case=Gen|Number=Plur	31	nmod	_	Seg=O
 33	.	.	PUNCT	PUNCT	_	9	punct	_	Seg=0-seg
 
-# newdoc_id = news1_9
+# newdoc id = news1_9
 # sent_id = news1_9-1
 # text = ##### Агрессия НАТО против Югославии , случившаяся 10 лет назад ( 23 марта — 10 июня 1999 года ) , вызвала в России очень сильную эмоциональную реакцию и , как у нас водится , подверглась сильнейшей мифологизации .
 1	#####	#####	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	Seg=B-seg
@@ -21956,7 +21956,7 @@
 16	может	мочь	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Seg=O
 17	.	.	PUNCT	PUNCT	_	16	punct	_	Seg=0-seg
 
-# newdoc_id = sci.comp_53
+# newdoc id = sci.comp_53
 # sent_id = sci.comp_53-1
 # text = ﻿ ОЦЕНКА ХАРАКТЕРИСТИК ФУНКЦИОНИРОВАНИЯ КОРПОРАТИВНЫХ ИНФОРМАЦИОННЫХ СИСТЕМ С НЕОДНОРОДНОЙ НАГРУЗКОЙ И. В. Калинин " , Э. Махаревсь , Л. А. Муравьева- Витковская11 a Университет ИТМО , Санкт-Петербург , 197101 , Российская Федерация ь Балтийская международная академия , Рига , LV-1019 , Латвия Адрес для переписки : muravyeva- vitkovskaya@cs.ifmo.ru Информация о статье Поступила в редакцию 10.07.15 , принята к печати 27.07.15 doi:10.17586/2226-1494-2015-15-5-863-868 Язык статьи - русский Ссылка для цитирования : Калинин И. В. , Махаревс Э. , Муравьева-Витковская Л. А. Оценка характеристик функционирования корпоративных информационных систем с неоднородной нагрузкой // Научно-технический вестник информационных технологий , механики и оптики . 2015 .
 1	﻿	﻿	PUNCT	PUNCT	_	2	amod	_	Seg=B-seg
@@ -25329,7 +25329,7 @@
 122	,	,	PUNCT	PUNCT	_	66	punct	_	Seg=O
 123	muravyeva-vitkovskaya@cs.ifmo.ru	muravyeva-vitkovskaya@cs.ifmo.ru	PROPN	PROPN	Foreign=Yes	1	punct	_	Seg=0-seg
 
-# newdoc_id = sci.comp_54
+# newdoc id = sci.comp_54
 # sent_id = sci.comp_54-1
 # text = УДК 004.056 АЛГОРИТМ КОНТРОЛЯ ЦЕЛОСТНОСТИ ДЕПЕРСОНАЛИЗИРОВАННЫХ ДАННЫХ В ИНФОРМАЦИОННЫХ СИСТЕМАХ ПЕРСОНАЛЬНЫХ ДАННЫХ Ю. А. Гатчин , О. А. Теплоухова , А. С. Куракин Рассматривается проблема обеспечения целостности информации , обрабатываемой в информационных системах персональных данных , при использовании алгоритма деперсонализации данных .
 1	УДК	удк	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	24	nsubj:pass	_	Seg=B-seg
@@ -27604,7 +27604,7 @@
 63	,	,	PUNCT	PUNCT	_	62	punct	_	Seg=O
 64	nirt@mai1.ru	nirt@mai1.ru	PROPN	PROPN	Foreign=Yes	62	punct	_	Seg=0-seg
 
-# newdoc_id = sci.comp_6
+# newdoc id = sci.comp_6
 # sent_id = sci.comp_6-1
 # text = ОПТОИНФОРМАТИКА УДК 681.3 ИССЛЕДОВАНИЕ АЛГОРИТМОВ СЖАТИЯ С ПОТЕРЯМИ НА ОСНОВЕ ПРОСТРАНСТВЕННОЙ ДЕКОМПОЗИЦИИ СИГНАЛА Ю. В. Лужков , А. Ю. Тропченко
 1	ОПТОИНФОРМАТИКА	оптоинформатикай	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	Seg=B-seg
@@ -29804,7 +29804,7 @@
 37	,	,	PUNCT	PUNCT	_	36	punct	_	Seg=O
 38	tau@d1.ifmo.ru	tau@d1.ifmo.ru	PROPN	PROPN	Foreign=Yes	1	punct	_	Seg=0-seg
 
-# newdoc_id = sci.comp_7
+# newdoc id = sci.comp_7
 # sent_id = sci.comp_7-1
 # text = ПРЕДОТВРАЩЕНИЕ УГРОЗЫ ВИРУСНЫХ АТАК В АВТОМАТИЗИРОВАННЫХ СИСТЕМАХ С. В. Егоров , М. С. Иванов , Ю. И. Рядчин Научный руководитель - доктор технических наук , профессор Ю. А. Гатчин Антивирусные программы являются неотъемлемой частью любой системы защиты информации .
 1	ПРЕДОТВРАЩЕНИЕ	предотвращение	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	32	nsubj	_	Seg=B-seg
@@ -32178,7 +32178,7 @@
 11	3\.	3\.	PROPN	PROPN	Foreign=Yes	8	flat:foreign	_	Seg=B-seg
 12	http://www.securitylab.ru/analytics/216387.php	http://www.securitylab.ru/analytics/216387.php	PROPN	PROPN	Foreign=Yes	8	flat:foreign	_	Seg=0-seg
 
-# newdoc_id = sci.comp_8
+# newdoc id = sci.comp_8
 # sent_id = sci.comp_8-1
 # text = ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ И СИСТЕМЫ УДК 004.056 И. В. Котенко , М. В. Степашкин , Д. И. Котенко , Е. В. Дойникова ОЦЕНИВАНИЕ ЗАЩИЩЕННОСТИ ИНФОРМАЦИОННЫХ СИСТЕМ НА ОСНОВЕ ПОСТРОЕНИЯ ДЕРЕВЬЕВ СОЦИОИНЖЕНЕРНЫХ АТАК Представлен подход к оценке защищенности информационных систем на основе построения деревьев атак , являющийся развитием подхода , предложенного авторами ранее ( введены понятия , модели и конструкции , связанные с возможностью учета социоинженерных атак ) .
 1	ИНФОРМАЦИОННЫЕ	информационный	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	Seg=B-seg
@@ -34409,7 +34409,7 @@
 8	:	:	PUNCT	PUNCT	_	6	punct	_	Seg=O
 9	<http://nvd.nist.gov>.	<http://nvd.nist.gov>.	PROPN	PROPN	Foreign=Yes	6	punct	_	Seg=B-seg
 
-# newdoc_id = sci.ling_57
+# newdoc id = sci.ling_57
 # sent_id = sci.ling_57-1
 # text = Адрес статьи : www.gramota.net/materials/272015/7-1/30.html Источник Филологические науки . Вопросы теории и практики Тамбов : Грамота , 2015 . № 7 ( 49 ) : в 2-х ч. Ч. I. C. 115-118 .
 1	Адрес	адрес	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	Seg=B-seg
@@ -36900,7 +36900,7 @@
 5	12	12	NUM	NUM	_	3	nummod	_	Seg=O
 6	p.	путр	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	punct	_	Seg=0-seg
 
-# newdoc_id = sci.ling_58
+# newdoc id = sci.ling_58
 # sent_id = sci.ling_58-1
 # text = Адрес статьи : www.gramota.net/materials/2/2015/10-1/21 . html Источник Филологические науки . Вопросы теории и практики Тамбов : Грамота , 2015 . № 10 ( 52 ) : в 2-х ч. Ч. I. C. 101-104 .
 1	Адрес	адрес	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	Seg=B-seg
@@ -39656,7 +39656,7 @@
 8	424	424	NUM	NUM	_	6	nummod	_	Seg=O
 9	S.	S.	PROPN	PROPN	Foreign=Yes	1	punct	_	Seg=0-seg
 
-# newdoc_id = sci.ling_6
+# newdoc id = sci.ling_6
 # sent_id = sci.ling_6-1
 # text = Адрес статьи : www.gramota.net/materials/3/2015/1-1/3.html Источник Исторические , философские , политические и юридические науки , культурология и искусствоведение .
 1	Адрес	адрес	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	Seg=B-seg
@@ -41978,7 +41978,7 @@
 19	metaphor	metaphor	PROPN	PROPN	Foreign=Yes	1	flat:foreign	_	Seg=O
 20	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
 
-# newdoc_id = sci.ling_7
+# newdoc id = sci.ling_7
 # sent_id = sci.ling_7-1
 # text = А. Г Минченков ВОЗМОЖНОСТИ ПРОВЕДЕНИЯ МЫСЛИТЕЛЬНЫХ ОПЕРАЦИЙ С КОНЦЕПТАМИ В ПРОЦЕССЕ ПЕРЕВОДА Цель данной статьи состоит в том , чтобы показать возможности проведения мыслительных операций с концептами на той стадии переводческого процесса , когда переводчик , на базе исходного текста и используя имеющиеся у него фоновые знания и знания контекста , сформировал в своем сознании определенную концептуальную структуру и переходит к объективации этой структуры на языке перевода путем совмещения составляющих структуру концептов со значениями единиц языка перевода .
 1	А.	А.	PROPN	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	Seg=B-seg
@@ -45241,7 +45241,7 @@
 2	28	28	NUM	NUM	_	1	nummod	_	Seg=B-seg
 3	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
 
-# newdoc_id = sci.ling_8
+# newdoc id = sci.ling_8
 # sent_id = sci.ling_8-1
 # text = Сер . 9 . 2007 . Вып . 2 .
 1	Сер	сера	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	Seg=B-seg
@@ -46714,7 +46714,7 @@
 7	2006	2006	NUM	NUM	_	5	nummod	_	Seg=O
 8	г	год	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	Seg=0-seg
 
-# newdoc_id = sci.ling_9
+# newdoc id = sci.ling_9
 # sent_id = sci.ling_9-1
 # text = ОСОБЕННОСТИ ФУНКЦИОНИРОВАНИЯ СУЩЕСТВИТЕЛЬНОГО REASON В ДИАЛОГИЧЕСКОЙ РЕЧИ ( А. В. Прожога , Ю. В. Потапкина Причина как логико-семантическая единица является важным элементом с точки зрения коммуникации , и описание ее реализации в речи редко может играть второстепенную роль .
 1	ОСОБЕННОСТИ	особенность	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	20	nsubj	_	Seg=B-seg

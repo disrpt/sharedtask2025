@@ -1,4 +1,4 @@
-# newdoc_id = 0704000001
+# newdoc id = 0704000001
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	mi	_	_	_	_	_	_	_	Conn=O
 3	mi	_	_	_	_	_	_	_	Conn=O
@@ -526,7 +526,7 @@
 499	buongiorno	_	_	_	_	_	_	_	Conn=O
 500	buongiorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000003
+# newdoc id = 0704000003
 1	signora	_	_	_	_	_	_	_	Conn=O
 2	<PER>	_	_	_	_	_	_	_	Conn=O
 3	sì	_	_	_	_	_	_	_	Conn=O
@@ -792,7 +792,7 @@
 258	signora	_	_	_	_	_	_	_	Conn=O
 259	salve	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000004
+# newdoc id = 0704000004
 1	eccomi	_	_	_	_	_	_	_	Conn=O
 2	qua	_	_	_	_	_	_	_	Conn=O
 3	allora	_	_	_	_	_	_	_	Conn=O
@@ -1031,7 +1031,7 @@
 230	giornata	_	_	_	_	_	_	_	Conn=O
 231	ciao	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000005
+# newdoc id = 0704000005
 1	signora	_	_	_	_	_	_	_	Conn=O
 2	mi	_	_	_	_	_	_	_	Conn=O
 3	dice	_	_	_	_	_	_	_	Conn=O
@@ -1341,7 +1341,7 @@
 293	giornata	_	_	_	_	_	_	_	Conn=O
 294	salve	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000007
+# newdoc id = 0704000007
 1	<PER>	_	_	_	_	_	_	_	Conn=O
 2	sì	_	_	_	_	_	_	_	Conn=O
 3	eccomi	_	_	_	_	_	_	_	Conn=O
@@ -1553,7 +1553,7 @@
 201	grazie	_	_	_	_	_	_	_	Conn=O
 202	grazie	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000008
+# newdoc id = 0704000008
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	mi	_	_	_	_	_	_	_	Conn=O
 3	ha	_	_	_	_	_	_	_	Conn=O
@@ -1983,7 +1983,7 @@
 412	ci	_	_	_	_	_	_	_	Conn=O
 413	buongiorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000010
+# newdoc id = 0704000010
 1	helpdesk	_	_	_	_	_	_	_	Conn=O
 2	buongiorno	_	_	_	_	_	_	_	Conn=O
 3	sono	_	_	_	_	_	_	_	Conn=O
@@ -2109,7 +2109,7 @@
 118	buona	_	_	_	_	_	_	_	Conn=O
 119	giornata	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000012
+# newdoc id = 0704000012
 1	signora	_	_	_	_	_	_	_	Conn=O
 2	sì	_	_	_	_	_	_	_	Conn=O
 3	eccomi	_	_	_	_	_	_	_	Conn=O
@@ -2751,7 +2751,7 @@
 624	grazie	_	_	_	_	_	_	_	Conn=O
 625	buongiorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000014
+# newdoc id = 0704000014
 1	signora	_	_	_	_	_	_	_	Conn=O
 2	sì	_	_	_	_	_	_	_	Conn=O
 3	ecco	_	_	_	_	_	_	_	Conn=O
@@ -3426,7 +3426,7 @@
 652	buona	_	_	_	_	_	_	_	Conn=O
 653	giornata	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000015
+# newdoc id = 0704000015
 1	signora	_	_	_	_	_	_	_	Conn=O
 2	mi	_	_	_	_	_	_	_	Conn=O
 3	stava	_	_	_	_	_	_	_	Conn=O
@@ -3911,7 +3911,7 @@
 464	grazie	_	_	_	_	_	_	_	Conn=O
 465	buongiorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000016
+# newdoc id = 0704000016
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	signora	_	_	_	_	_	_	_	Conn=O
 3	mi	_	_	_	_	_	_	_	Conn=O
@@ -4777,7 +4777,7 @@
 839	buongiorno	_	_	_	_	_	_	_	Conn=O
 840	salve	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000017
+# newdoc id = 0704000017
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	mi	_	_	_	_	_	_	_	Conn=O
 3	diceva	_	_	_	_	_	_	_	Conn=O
@@ -5093,7 +5093,7 @@
 306	ci	_	_	_	_	_	_	_	Conn=O
 307	grazie	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000019
+# newdoc id = 0704000019
 1	signora	_	_	_	_	_	_	_	Conn=O
 2	sì	_	_	_	_	_	_	_	Conn=O
 3	eccomi	_	_	_	_	_	_	_	Conn=O
@@ -5396,7 +5396,7 @@
 285	buon	_	_	_	_	_	_	_	Conn=O
 286	giorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000020
+# newdoc id = 0704000020
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	eccoci	_	_	_	_	_	_	_	Conn=O
 3	qua	_	_	_	_	_	_	_	Conn=O
@@ -5888,7 +5888,7 @@
 465	buon	_	_	_	_	_	_	_	Conn=O
 466	giorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000021
+# newdoc id = 0704000021
 1	help	_	_	_	_	_	_	_	Conn=O
 2	desk	_	_	_	_	_	_	_	Conn=O
 3	buongiorno	_	_	_	_	_	_	_	Conn=O
@@ -6166,7 +6166,7 @@
 270	ciao	_	_	_	_	_	_	_	Conn=O
 271	ciao	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000022
+# newdoc id = 0704000022
 1	helpdesk	_	_	_	_	_	_	_	Conn=O
 2	buongiorno	_	_	_	_	_	_	_	Conn=O
 3	sono	_	_	_	_	_	_	_	Conn=O
@@ -6399,7 +6399,7 @@
 224	salve	_	_	_	_	_	_	_	Conn=O
 225	buongiorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000023
+# newdoc id = 0704000023
 1	mi	_	_	_	_	_	_	_	Conn=O
 2	diceva	_	_	_	_	_	_	_	Conn=O
 3	la	_	_	_	_	_	_	_	Conn=O
@@ -6681,7 +6681,7 @@
 271	arriveder	_	_	_	_	_	_	_	Conn=O
 272	ci	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000025
+# newdoc id = 0704000025
 1	okay	_	_	_	_	_	_	_	Conn=O
 2	allora	_	_	_	_	_	_	_	Conn=O
 3	m'	_	_	_	_	_	_	_	Conn=O
@@ -7253,7 +7253,7 @@
 544	buona	_	_	_	_	_	_	_	Conn=O
 545	giornata	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000028
+# newdoc id = 0704000028
 1	buon	_	_	_	_	_	_	_	Conn=O
 2	giorno	_	_	_	_	_	_	_	Conn=O
 3	sono	_	_	_	_	_	_	_	Conn=O
@@ -7544,7 +7544,7 @@
 281	giornata	_	_	_	_	_	_	_	Conn=O
 282	salve	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000029
+# newdoc id = 0704000029
 1	okay	_	_	_	_	_	_	_	Conn=O
 2	allora	_	_	_	_	_	_	_	Conn=O
 3	mi	_	_	_	_	_	_	_	Conn=O
@@ -8067,7 +8067,7 @@
 503	salve	_	_	_	_	_	_	_	Conn=O
 504	grazie	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000031
+# newdoc id = 0704000031
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	mi	_	_	_	_	_	_	_	Conn=O
 3	stava	_	_	_	_	_	_	_	Conn=O
@@ -8713,7 +8713,7 @@
 620	salve	_	_	_	_	_	_	_	Conn=O
 621	buonasera	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000032
+# newdoc id = 0704000032
 1	<PER>	_	_	_	_	_	_	_	Conn=O
 2	sì	_	_	_	_	_	_	_	Conn=O
 3	eccomi	_	_	_	_	_	_	_	Conn=O
@@ -8909,7 +8909,7 @@
 191	arriveder	_	_	_	_	_	_	_	Conn=O
 192	ci	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000033
+# newdoc id = 0704000033
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	signora	_	_	_	_	_	_	_	Conn=O
 3	mi	_	_	_	_	_	_	_	Conn=O
@@ -9435,7 +9435,7 @@
 506	giornata	_	_	_	_	_	_	_	Conn=O
 507	salve	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000034
+# newdoc id = 0704000034
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	mi	_	_	_	_	_	_	_	Conn=O
 3	diceva	_	_	_	_	_	_	_	Conn=O
@@ -9718,7 +9718,7 @@
 270	buona	_	_	_	_	_	_	_	Conn=O
 271	giornata	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000035
+# newdoc id = 0704000035
 1	signora	_	_	_	_	_	_	_	Conn=O
 2	<PER>	_	_	_	_	_	_	_	Conn=O
 3	sì	_	_	_	_	_	_	_	Conn=O
@@ -10041,7 +10041,7 @@
 312	giornata	_	_	_	_	_	_	_	Conn=O
 313	salve	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000036
+# newdoc id = 0704000036
 1	signora	_	_	_	_	_	_	_	Conn=O
 2	<PER>	_	_	_	_	_	_	_	Conn=O
 3	sì	_	_	_	_	_	_	_	Conn=O
@@ -10800,7 +10800,7 @@
 735	giorno	_	_	_	_	_	_	_	Conn=O
 736	salve	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000039
+# newdoc id = 0704000039
 1	scusi	_	_	_	_	_	_	_	Conn=O
 2	sì	_	_	_	_	_	_	_	Conn=O
 3	dovrebbe	_	_	_	_	_	_	_	Conn=O
@@ -11194,7 +11194,7 @@
 375	buona	_	_	_	_	_	_	_	Conn=O
 376	giornata	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000040
+# newdoc id = 0704000040
 1	eccomi	_	_	_	_	_	_	_	Conn=O
 2	qua	_	_	_	_	_	_	_	Conn=O
 3	allora	_	_	_	_	_	_	_	Conn=O
@@ -11930,7 +11930,7 @@
 698	arriveder	_	_	_	_	_	_	_	Conn=O
 699	ci	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000041
+# newdoc id = 0704000041
 1	okay	_	_	_	_	_	_	_	Conn=O
 2	allora	_	_	_	_	_	_	_	Conn=O
 3	mi	_	_	_	_	_	_	_	Conn=O
@@ -12342,7 +12342,7 @@
 399	buona	_	_	_	_	_	_	_	Conn=O
 400	giornata	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000043
+# newdoc id = 0704000043
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	dicevamo	_	_	_	_	_	_	_	Conn=O
 3	sì	_	_	_	_	_	_	_	Conn=O
@@ -13143,7 +13143,7 @@
 775	salve	_	_	_	_	_	_	_	Conn=O
 776	buongiorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000044
+# newdoc id = 0704000044
 1	mi	_	_	_	_	_	_	_	Conn=O
 2	diceva	_	_	_	_	_	_	_	Conn=O
 3	che	_	_	_	_	_	_	_	Conn=O
@@ -13417,7 +13417,7 @@
 258	ci	_	_	_	_	_	_	_	Conn=O
 259	buongiorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000047
+# newdoc id = 0704000047
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	signora	_	_	_	_	_	_	_	Conn=O
 3	<PER>	_	_	_	_	_	_	_	Conn=O
@@ -13674,7 +13674,7 @@
 248	buona	_	_	_	_	_	_	_	Conn=O
 249	giornata	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000050
+# newdoc id = 0704000050
 1	adesso	_	_	_	_	_	_	_	Conn=O
 2	va	_	_	_	_	_	_	_	Conn=O
 3	signora	_	_	_	_	_	_	_	Conn=O
@@ -14058,7 +14058,7 @@
 372	buongiorno	_	_	_	_	_	_	_	Conn=O
 373	grazie	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000051
+# newdoc id = 0704000051
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	mi	_	_	_	_	_	_	_	Conn=O
 3	diceva	_	_	_	_	_	_	_	Conn=O
@@ -14367,7 +14367,7 @@
 299	buon	_	_	_	_	_	_	_	Conn=O
 300	giorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000052
+# newdoc id = 0704000052
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	dicevamo	_	_	_	_	_	_	_	Conn=O
 3	eccoci	_	_	_	_	_	_	_	Conn=O
@@ -14790,7 +14790,7 @@
 408	dopo	_	_	_	_	_	_	_	Conn=O
 409	salve	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000054
+# newdoc id = 0704000054
 1	eccomi	_	_	_	_	_	_	_	Conn=O
 2	qua	_	_	_	_	_	_	_	Conn=O
 3	<PER>	_	_	_	_	_	_	_	Conn=O
@@ -15147,7 +15147,7 @@
 343	salve	_	_	_	_	_	_	_	Conn=O
 344	grazie	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000055
+# newdoc id = 0704000055
 1	scusi	_	_	_	_	_	_	_	Conn=O
 2	l'	_	_	_	_	_	_	_	Conn=O
 3	attesa	_	_	_	_	_	_	_	Conn=O
@@ -15270,7 +15270,7 @@
 115	giornata	_	_	_	_	_	_	_	Conn=O
 116	buongiorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000056
+# newdoc id = 0704000056
 1	helpdesk	_	_	_	_	_	_	_	Conn=O
 2	buongiorno	_	_	_	_	_	_	_	Conn=O
 3	sono	_	_	_	_	_	_	_	Conn=O
@@ -15895,7 +15895,7 @@
 601	ci	_	_	_	_	_	_	_	Conn=O
 602	salve	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000057
+# newdoc id = 0704000057
 1	allora	_	_	_	_	_	_	_	Conn=O
 2	mi	_	_	_	_	_	_	_	Conn=O
 3	diceva	_	_	_	_	_	_	_	Conn=O
@@ -16276,7 +16276,7 @@
 370	ci	_	_	_	_	_	_	_	Conn=O
 371	buo	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000058
+# newdoc id = 0704000058
 1	helpdesk	_	_	_	_	_	_	_	Conn=O
 2	buongiorno	_	_	_	_	_	_	_	Conn=O
 3	sono	_	_	_	_	_	_	_	Conn=O
@@ -16650,7 +16650,7 @@
 358	buongiorno	_	_	_	_	_	_	_	Conn=O
 359	buongiorno	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000059
+# newdoc id = 0704000059
 1	signora	_	_	_	_	_	_	_	Conn=O
 2	sì	_	_	_	_	_	_	_	Conn=O
 3	eccomi	_	_	_	_	_	_	_	Conn=O
@@ -16883,7 +16883,7 @@
 221	ciao	_	_	_	_	_	_	_	Conn=O
 222	ciao	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = 0704000061
+# newdoc id = 0704000061
 1	okay	_	_	_	_	_	_	_	Conn=O
 2	è	_	_	_	_	_	_	_	Conn=O
 3	a	_	_	_	_	_	_	_	Conn=O

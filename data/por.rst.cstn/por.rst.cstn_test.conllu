@@ -1,4 +1,4 @@
-# newdoc_id = D1_C30_Folha_07-08-2007_09h19
+# newdoc id = D1_C30_Folha_07-08-2007_09h19
 # sent_id = D1_C30_Folha_07-08-2007_09h19-1
 # text = O banco Itaú registrou lucro líquido de R$ 4,016 bilhões no primeiro semestre deste ano .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Seg=B-seg
@@ -475,7 +475,7 @@
 31	período	período	NOUN	NOUN	Gender=Masc|Number=Sing	13	obl	_	Seg=O
 32	.	.	PUNCT	PUNCT	_	13	punct	_	Seg=O
 
-# newdoc_id = D1_C31_Folha_17-10-2007_09h39
+# newdoc id = D1_C31_Folha_17-10-2007_09h39
 # sent_id = D1_C31_Folha_17-10-2007_09h39-1
 # text = A ginasta Jade Barbosa , que obteve três medalhas nos Jogos Pan-Americanos do Rio , em julho , venceu votação na internet e será a representante brasileira no revezamento da tocha olímpica para Pequim-2008 .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Seg=B-seg
@@ -605,7 +605,7 @@
 15	Pequim	Pequim	PROPN	PROPN	Number=Sing	13	nmod	_	Seg=O
 16	.	.	PUNCT	PUNCT	_	3	punct	_	Seg=O
 
-# newdoc_id = D1_C37_OGlobo_17-10-2007_12h21
+# newdoc id = D1_C37_OGlobo_17-10-2007_12h21
 # sent_id = D1_C37_OGlobo_17-10-2007_12h21-1
 # text = Após quase 24 horas de tensão , terminou no fim da manhã desta quarta-feira a rebelião na Central de Custódia de Presos de Justiça ( CCJP ) no Maranhão .
 1	Após	após	ADP	ADP	_	4	case	_	Seg=B-seg
@@ -1011,7 +1011,7 @@
 12	mês	mês	NOUN	NOUN	Gender=Masc|Number=Sing	5	nmod	_	Seg=O
 13	.	.	PUNCT	PUNCT	_	5	punct	_	Seg=O
 
-# newdoc_id = D1_C38_Folha_17-07-2007_12h15
+# newdoc id = D1_C38_Folha_17-07-2007_12h15
 # sent_id = D1_C38_Folha_17-07-2007_12h15-1
 # text = A equipe formada por Thiago Pereira , Rodrigo Castro , Lucas Salatta e Nicolas Oliveira deu ao Brasil nesta terça-feira o terceiro ouro nos Jogos Pan-Americanos do Rio-2007 , na prova do revezamento 4 x 200 m livre da natação .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Seg=B-seg
@@ -1267,7 +1267,7 @@
 34	timoneiro	timoneiro	NOUN	NOUN	Gender=Masc|Number=Sing	31	nmod	_	Seg=O
 35	.	.	PUNCT	PUNCT	_	3	punct	_	Seg=O
 
-# newdoc_id = D2_C30_Estadao_07-08-2007_07h59
+# newdoc id = D2_C30_Estadao_07-08-2007_07h59
 # sent_id = D2_C30_Estadao_07-08-2007_07h59-1
 # text = O Itaú , segundo maior banco privado do País , obteve lucro líquido de R$ 4,016 bilhões no primeiro semestre desse ano , superando o rival Bradesco e registrando o maior lucro entre bancos privados nos últimos 20 anos .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Seg=B-seg
@@ -1800,7 +1800,7 @@
 48	)	)	PUNCT	PUNCT	_	37	punct	_	Seg=O
 49	.	.	PUNCT	PUNCT	_	20	punct	_	Seg=O
 
-# newdoc_id = D2_C37_GPovo_17-10-2007_13h24
+# newdoc id = D2_C37_GPovo_17-10-2007_13h24
 # sent_id = D2_C37_GPovo_17-10-2007_13h24-1
 # text = Terminou a rebelião de presos no Centro de Custódia de Presos de Justiça ( CCPJ ) , em São Luís , no começo da tarde desta quarta-feira ( 17 ) .
 1	Terminou	terminar	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Seg=B-seg
@@ -2100,7 +2100,7 @@
 14	homens	homem	NOUN	NOUN	Gender=Masc|Number=Plur	12	obj	_	Seg=O
 15	.	.	PUNCT	PUNCT	_	3	punct	_	Seg=O
 
-# newdoc_id = D2_C38_Estadao_17-07-2007_12h03
+# newdoc id = D2_C38_Estadao_17-07-2007_12h03
 # sent_id = D2_C38_Estadao_17-07-2007_12h03-1
 # text = A equipe de revezamento 4x200 metros livre conquistou nesta terça-feira a segunda medalha de ouro da natação brasileira nos Jogos Pan-Americanos do Rio .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Seg=B-seg
@@ -2530,7 +2530,7 @@
 29	7min17s73	7min17s73	NOUN	NOUN	Gender=Masc|Number=Plur	24	obl	_	Seg=O
 30	.	.	PUNCT	PUNCT	_	14	punct	_	Seg=O
 
-# newdoc_id = D2_C39_Estadao_07-08-2007_14h18
+# newdoc id = D2_C39_Estadao_07-08-2007_14h18
 # sent_id = D2_C39_Estadao_07-08-2007_14h18-1
 # text = O Ministério Público Federal apreendeu nesta terça-feira , 7 , os registros dos últimos cinco anos do livro de ocorrências da torre de controle do Aeroporto de Congonhas , zona sul de São Paulo , durante um mandado de busca e apreensão .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Seg=B-seg
@@ -2963,7 +2963,7 @@
 25	Guarulhos	Guarulhos	PROPN	PROPN	Number=Sing	21	nmod	_	Seg=O
 26	.	.	PUNCT	PUNCT	_	8	punct	_	Seg=O
 
-# newdoc_id = D3_C30_OGlobo_07-08-2007_09h10
+# newdoc id = D3_C30_OGlobo_07-08-2007_09h10
 # sent_id = D3_C30_OGlobo_07-08-2007_09h10-1
 # text = O Itaú obteve nos primeiros seis meses deste ano o maio lucro já registrado por um banco privado do país nos últimos vinte anos .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Seg=B-seg
@@ -3575,7 +3575,7 @@
 29	2006	2006	NUM	NUM	NumType=Card	27	nmod	_	Seg=O
 30	.	.	PUNCT	PUNCT	_	12	punct	_	Seg=O
 
-# newdoc_id = D3_C39_OGlobo_07-08-2007_13h31
+# newdoc id = D3_C39_OGlobo_07-08-2007_13h31
 # sent_id = D3_C39_OGlobo_07-08-2007_13h31-1
 # text = A Polícia Federal e o Ministério Público realizam nesta terça-feira operações simultâneas de busca e apreensão nos departamentos de controle de tráfego aéreo de Cumbica , em Guarulhos , de Congonhas , na capital paulista , e no Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo ( Cindacta I ) , em Brasília , para recolher registros de ocorrência dos últimos cinco anos envolvendo falhas e acidentes aéreos .
 1	A	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Seg=B-seg
@@ -3988,7 +3988,7 @@
 42	Direito	direito	NOUN	NOUN	Gender=Masc|Number=Sing	39	nmod	_	Seg=O
 43	.	.	PUNCT	PUNCT	_	7	punct	_	Seg=O
 
-# newdoc_id = D4_C38_JB
+# newdoc id = D4_C38_JB
 # sent_id = D4_C38_JB-1
 # text = O brasileiro Thiago Pereira conquista com folga o primeiro lugar nos 4x200m medley , levando a medalha de ouro , segundo do Brasil .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Seg=B-seg
@@ -4112,7 +4112,7 @@
 20	Domingo	Domingo	PROPN	PROPN	Number=Sing	19	flat:name	_	Seg=O
 21	.	.	PUNCT	PUNCT	_	7	punct	_	Seg=O
 
-# newdoc_id = D4_C39_JB
+# newdoc id = D4_C39_JB
 # sent_id = D4_C39_JB-1
 # text = O Ministério Público Federal ( MPF ) e a Superintendência da Polícia Federal , em Brasília , iniciaram nesta terça-feira uma operação de busca e apreensão simultânea no Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo ( Cindacta I ) , de Brasília , e nos departamentos de controle de tráfego aéreo de Guarulhos ( Cumbica ) e São Paulo ( Congonhas ) .
 1	O	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Seg=B-seg

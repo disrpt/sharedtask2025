@@ -1,4 +1,4 @@
-# newdoc_id = gcdt_academic_dingzhen
+# newdoc id = gcdt_academic_dingzhen
 # sent_id = gcdt_academic_dingzhen-gcdt_academic_dingzhen-1
 # text = 狂欢与凝视：颜值消费与田园回归——以“藏族小伙丁真爆红”事件为例
 1	狂欢	狂欢	NN	NN	_	3	conj	_	Seg=B-seg
@@ -1952,7 +1952,7 @@
 39	升华	升华	NN	NN	_	30	dobj	_	Seg=O
 40	。	。	PU	PU	_	19	punct	_	Seg=O
 
-# newdoc_id = gcdt_bio_dvorak
+# newdoc id = gcdt_bio_dvorak
 # sent_id = gcdt_bio_dvorak-gcdt_bio_dvorak-1
 # text = 安东宁·德沃夏克
 1	安东宁·德沃夏克	安东宁·德沃夏克	NR	NR	_	0	root	_	Seg=B-seg
@@ -4088,7 +4088,7 @@
 19	第八	第八	OD	OD	_	18	nmod:range	_	Seg=O
 20	。	。	PU	PU	_	18	punct	_	Seg=O
 
-# newdoc_id = gcdt_interview_wimax
+# newdoc id = gcdt_interview_wimax
 # sent_id = gcdt_interview_wimax-gcdt_interview_wimax-1
 # text = WiMAX未来怎么演变 资安、网络业者双赢
 1	WiMAX	WiMAX	NN	NN	_	4	nsubj	_	Seg=B-seg
@@ -5212,7 +5212,7 @@
 17	影响	影响	NN	NN	_	14	dobj	_	Seg=O
 18	。	。	PU	PU	_	14	punct	_	Seg=O
 
-# newdoc_id = gcdt_news_simplified
+# newdoc id = gcdt_news_simplified
 # sent_id = gcdt_news_simplified-gcdt_news_simplified-1
 # text = 陈章太说：2008年起联合国使用的中文一律用简体字
 1	陈章太	陈章太	NR	NR	_	2	nsubj	_	Seg=B-seg
@@ -6659,7 +6659,7 @@
 81	”	”	PU	PU	_	2	punct	_	Seg=O
 82	。	。	PU	PU	_	2	punct	_	Seg=O
 
-# newdoc_id = gcdt_whow_thanksgiving
+# newdoc id = gcdt_whow_thanksgiving
 # sent_id = gcdt_whow_thanksgiving-gcdt_whow_thanksgiving-1
 # text = 如何庆祝感恩节
 1	如何	如何	AD	AD	_	2	advmod	_	Seg=B-seg

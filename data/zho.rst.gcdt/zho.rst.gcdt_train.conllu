@@ -1,4 +1,4 @@
-# newdoc_id = gcdt_academic_aging
+# newdoc id = gcdt_academic_aging
 # sent_id = gcdt_academic_aging-gcdt_academic_aging-1
 # text = 老龄化对言语感知的影响
 1	老龄化	老龄化	NN	NN	_	6	dep	_	Seg=B-seg
@@ -1417,7 +1417,7 @@
 22	能力	能力	NN	NN	_	17	dobj	_	Seg=O
 23	。	。	PU	PU	_	2	punct	_	Seg=O
 
-# newdoc_id = gcdt_academic_governance
+# newdoc id = gcdt_academic_governance
 # sent_id = gcdt_academic_governance-gcdt_academic_governance-1
 # text = 突发疫情下的政府治理研究——以新冠疫情为例
 1	突发	突发	JJ	JJ	_	2	amod	_	Seg=B-seg
@@ -2819,7 +2819,7 @@
 97	体制	体制	NN	NN	_	90	dobj	_	Seg=O
 98	。	。	PU	PU	_	9	punct	_	Seg=O
 
-# newdoc_id = gcdt_academic_iconicity
+# newdoc id = gcdt_academic_iconicity
 # sent_id = gcdt_academic_iconicity-gcdt_academic_iconicity-1
 # text = 英语中动态的象似性分析
 1	英语	英语	NN	NN	_	2	compound:nn	_	Seg=B-seg
@@ -4111,7 +4111,7 @@
 33	条件	条件	NN	NN	_	27	dobj	_	Seg=O
 34	。	。	PU	PU	_	5	punct	_	Seg=O
 
-# newdoc_id = gcdt_academic_rabies
+# newdoc id = gcdt_academic_rabies
 # sent_id = gcdt_academic_rabies-gcdt_academic_rabies-1
 # text = 狂犬病疫苗研究进展
 1	狂犬病	狂犬病	NN	NN	_	2	compound:nn	_	Seg=B-seg
@@ -5609,7 +5609,7 @@
 11	人类	人类	NN	NN	_	10	dobj	_	Seg=O
 12	。	。	PU	PU	_	10	punct	_	Seg=O
 
-# newdoc_id = gcdt_academic_socialized
+# newdoc id = gcdt_academic_socialized
 # sent_id = gcdt_academic_socialized-gcdt_academic_socialized-1
 # text = 习近平人类命运共同体思想的哲学基础——基于马克思“社会化的人类”概念的理论分析
 1	习近平	习近平	VV	VV	_	8	acl	_	Seg=B-seg
@@ -7356,7 +7356,7 @@
 57	实现	实现	NN	NN	_	12	conj	_	Seg=O
 58	。	。	PU	PU	_	12	punct	_	Seg=O
 
-# newdoc_id = gcdt_academic_supervision
+# newdoc id = gcdt_academic_supervision
 # sent_id = gcdt_academic_supervision-gcdt_academic_supervision-1
 # text = 法治视角下抖音虚假新闻的监管机制研究
 1	法治	法治	NN	NN	_	2	compound:nn	_	Seg=B-seg
@@ -8949,7 +8949,7 @@
 49	挑战	挑战	NN	NN	_	47	dobj	_	Seg=O
 50	。	。	PU	PU	_	18	punct	_	Seg=O
 
-# newdoc_id = gcdt_academic_taoist
+# newdoc id = gcdt_academic_taoist
 # sent_id = gcdt_academic_taoist-gcdt_academic_taoist-1
 # text = 道家生态美学思想及其当代价值
 1	道家	道家	NN	NN	_	4	compound:nn	_	Seg=B-seg
@@ -10581,7 +10581,7 @@
 43	规律	规律	NN	NN	_	40	dobj	_	Seg=O
 44	。	。	PU	PU	_	20	punct	_	Seg=O
 
-# newdoc_id = gcdt_academic_yun
+# newdoc id = gcdt_academic_yun
 # sent_id = gcdt_academic_yun-gcdt_academic_yun-1
 # text = “云”在网络语言中的副词化特征
 1	“	“	PU	PU	_	2	punct	_	Seg=B-seg
@@ -12055,7 +12055,7 @@
 41	特征	特征	NN	NN	_	33	dobj	_	Seg=O
 42	。	。	PU	PU	_	33	punct	_	Seg=O
 
-# newdoc_id = gcdt_bio_bernoulli
+# newdoc id = gcdt_bio_bernoulli
 # sent_id = gcdt_bio_bernoulli-gcdt_bio_bernoulli-1
 # text = 丹尼尔·伯努利
 1	丹尼尔·伯努利	丹尼尔·伯努利	NR	NR	_	0	root	_	Seg=B-seg
@@ -13066,7 +13066,7 @@
 20	”	”	PU	PU	_	19	punct	_	Seg=O
 21	。	。	PU	PU	_	10	punct	_	Seg=O
 
-# newdoc_id = gcdt_bio_chao
+# newdoc id = gcdt_bio_chao
 # sent_id = gcdt_bio_chao-gcdt_bio_chao-1
 # text = 赵元任
 1	赵元任	赵元任	NR	NR	_	0	root	_	Seg=B-seg
@@ -14753,7 +14753,7 @@
 84	16	16	CD	CD	_	85	dep	_	Seg=O
 85	-RSB-	-RSB-	NN	NN	_	15	conj	_	Seg=O
 
-# newdoc_id = gcdt_bio_emperor
+# newdoc id = gcdt_bio_emperor
 # sent_id = gcdt_bio_emperor-gcdt_bio_emperor-1
 # text = 诺顿一世
 1	诺顿	诺顿	NR	NR	_	2	name	_	Seg=B-seg
@@ -16910,7 +16910,7 @@
 11	回复	回复	VV	VV	_	7	conj	_	Seg=O
 12	。	。	PU	PU	_	7	punct	_	Seg=O
 
-# newdoc_id = gcdt_bio_galois
+# newdoc id = gcdt_bio_galois
 # sent_id = gcdt_bio_galois-gcdt_bio_galois-1
 # text = 埃瓦里斯特·伽罗瓦
 1	埃瓦里斯特·伽罗瓦	埃瓦里斯特·伽罗瓦	NR	NR	_	0	root	_	Seg=B-seg
@@ -18446,7 +18446,7 @@
 16	理论	理论	NN	NN	_	13	dobj	_	Seg=O
 17	。	。	PU	PU	_	13	punct	_	Seg=O
 
-# newdoc_id = gcdt_bio_hadid
+# newdoc id = gcdt_bio_hadid
 # sent_id = gcdt_bio_hadid-gcdt_bio_hadid-1
 # text = 扎哈·哈迪德
 1	扎哈·哈迪德	扎哈·哈迪德	NR	NR	_	0	root	_	Seg=B-seg
@@ -19781,7 +19781,7 @@
 30	-RSB-	-RSB-	NN	NN	_	15	dobj	_	Seg=O
 31	。	。	PU	PU	_	6	punct	_	Seg=O
 
-# newdoc_id = gcdt_bio_higuchi
+# newdoc id = gcdt_bio_higuchi
 # sent_id = gcdt_bio_higuchi-gcdt_bio_higuchi-1
 # text = 樋口一叶
 1	樋口一叶	樋口一叶	VV	VV	_	0	root	_	Seg=B-seg
@@ -20548,7 +20548,7 @@
 53	）	）	PU	PU	_	52	punct	_	Seg=O
 54	。	。	PU	PU	_	6	punct	_	Seg=O
 
-# newdoc_id = gcdt_bio_jerome
+# newdoc id = gcdt_bio_jerome
 # sent_id = gcdt_bio_jerome-gcdt_bio_jerome-1
 # text = 哲罗姆
 1	哲罗姆	哲罗姆	NR	NR	_	0	root	_	Seg=B-seg
@@ -22084,7 +22084,7 @@
 16	18	18	CD	CD	_	17	dep	_	Seg=O
 17	-RSB-	-RSB-	NN	NN	_	9	dobj	_	Seg=O
 
-# newdoc_id = gcdt_bio_marbles
+# newdoc id = gcdt_bio_marbles
 # sent_id = gcdt_bio_marbles-gcdt_bio_marbles-1
 # text = 珍娜·玛柏
 1	珍娜·玛柏	珍娜·玛柏	NR	NR	_	0	root	_	Seg=B-seg
@@ -22931,7 +22931,7 @@
 70	-RSB-	-RSB-	NN	NN	_	60	dobj	_	Seg=O
 71	。	。	PU	PU	_	2	punct	_	Seg=O
 
-# newdoc_id = gcdt_interview_cycle
+# newdoc id = gcdt_interview_cycle
 # sent_id = gcdt_interview_cycle-gcdt_interview_cycle-1
 # text = 2008国际自由车环台赛 礼仪小姐服装设计 让颁奖典礼更国际化
 1	2008	2008	CD	CD	_	6	dep	_	Seg=B-seg
@@ -23792,7 +23792,7 @@
 142	代表性	代表性	NN	NN	_	141	dobj	_	Seg=O
 143	。	。	PU	PU	_	3	punct	_	Seg=O
 
-# newdoc_id = gcdt_interview_exiderdome
+# newdoc id = gcdt_interview_exiderdome
 # sent_id = gcdt_interview_exiderdome-gcdt_interview_exiderdome-1
 # text = 半导体展外一章 西门子自动化之城 展现企业形象
 1	半导体	半导体	NN	NN	_	2	compound:nn	_	Seg=B-seg
@@ -25095,7 +25095,7 @@
 25	焦点	焦点	NN	NN	_	19	dobj	_	Seg=O
 26	。	。	PU	PU	_	1	punct	_	Seg=O
 
-# newdoc_id = gcdt_interview_falkvinge
+# newdoc id = gcdt_interview_falkvinge
 # sent_id = gcdt_interview_falkvinge-gcdt_interview_falkvinge-1
 # text = 维基新闻专访瑞典海盗党领袖里卡德·福尔克文
 1	维基	维基	NR	NR	_	3	compound:nn	_	Seg=B-seg
@@ -26676,7 +26676,7 @@
 24	议题	议题	NN	NN	_	21	dobj	_	Seg=O
 25	。	。	PU	PU	_	12	punct	_	Seg=O
 
-# newdoc_id = gcdt_interview_game
+# newdoc id = gcdt_interview_game
 # sent_id = gcdt_interview_game-gcdt_interview_game-1
 # text = 维基新闻专访：浅谈街机音游新趋势─实体竞赛
 1	维基	维基	NR	NR	_	3	compound:nn	_	Seg=B-seg
@@ -27696,7 +27696,7 @@
 95	重视	重视	NN	NN	_	88	dobj	_	Seg=O
 96	。	。	PU	PU	_	12	punct	_	Seg=O
 
-# newdoc_id = gcdt_interview_graaf
+# newdoc id = gcdt_interview_graaf
 # sent_id = gcdt_interview_graaf-gcdt_interview_graaf-1
 # text = 2020年美国总统大选7月竞选活动
 1	2020年	2020年	NT	NT	_	7	compound:nn	_	Seg=B-seg
@@ -28840,7 +28840,7 @@
 18	专页	专页	NN	NN	_	10	dobj	_	Seg=O
 19	。	。	PU	PU	_	2	punct	_	Seg=O
 
-# newdoc_id = gcdt_interview_ideal
+# newdoc id = gcdt_interview_ideal
 # sent_id = gcdt_interview_ideal-gcdt_interview_ideal-1
 # text = 爱地雅科技：自行车应摆脱传统 朝健身机能发展
 1	爱地雅	爱地雅	NR	NR	_	2	nmod:assmod	_	Seg=B-seg
@@ -29915,7 +29915,7 @@
 36	提升	提升	NN	NN	_	32	dobj	_	Seg=O
 37	。	。	PU	PU	_	9	punct	_	Seg=O
 
-# newdoc_id = gcdt_interview_keyman
+# newdoc id = gcdt_interview_keyman
 # sent_id = gcdt_interview_keyman-gcdt_interview_keyman-1
 # text = 专访香港著名足球评述员马启仁
 1	专访	专访	VV	VV	_	0	root	_	Seg=B-seg
@@ -31865,7 +31865,7 @@
 12	祝福语	祝福语	NN	NN	_	10	dobj	_	Seg=O
 13	。	。	PU	PU	_	1	punct	_	Seg=O
 
-# newdoc_id = gcdt_interview_stardust
+# newdoc id = gcdt_interview_stardust
 # sent_id = gcdt_interview_stardust-gcdt_interview_stardust-1
 # text = 维基记者独家采访星尘计划负责人
 1	维基	维基	NR	NR	_	2	compound:nn	_	Seg=B-seg
@@ -33095,7 +33095,7 @@
 2	的	的	SP	SP	_	3	discourse	_	Seg=O
 3	.	.	PU	PU	_	0	root	_	Seg=O
 
-# newdoc_id = gcdt_news_apple
+# newdoc id = gcdt_news_apple
 # sent_id = gcdt_news_apple-gcdt_news_apple-1
 # text = 2021年Apple秋季新品发布会：iPhone 13系列等新产品上市
 1	2021年	2021年	NT	NT	_	13	nmod:tmod	_	Seg=B-seg
@@ -34345,7 +34345,7 @@
 15	美元	美元	M	M	_	14	mark:clf	_	Seg=O
 16	。	。	PU	PU	_	4	punct	_	Seg=O
 
-# newdoc_id = gcdt_news_bubble
+# newdoc id = gcdt_news_bubble
 # sent_id = gcdt_news_bubble-gcdt_news_bubble-1
 # text = 据报台湾与帕劳的“旅游泡泡”有重大进展
 1	据报	据报	VV	VV	_	8	acl	_	Seg=B-seg
@@ -35677,7 +35677,7 @@
 10	菲律宾海	菲律宾海	NR	NR	_	6	conj	_	Seg=O
 11	。	。	PU	PU	_	6	punct	_	Seg=O
 
-# newdoc_id = gcdt_news_estate
+# newdoc id = gcdt_news_estate
 # sent_id = gcdt_news_estate-gcdt_news_estate-1
 # text = 美国考虑加大力度扭转房地产颓势
 1	美国	美国	NR	NR	_	2	nsubj	_	Seg=B-seg
@@ -36905,7 +36905,7 @@
 35	利率	利率	NN	NN	_	33	dobj	_	Seg=O
 36	。	。	PU	PU	_	12	punct	_	Seg=O
 
-# newdoc_id = gcdt_news_five
+# newdoc id = gcdt_news_five
 # sent_id = gcdt_news_five-gcdt_news_five-1
 # text = 抗议薪资不公 天堂执法者亚裔演员走人
 1	抗议	抗议	NN	NN	_	2	compound:nn	_	Seg=B-seg
@@ -38277,7 +38277,7 @@
 13	。	。	PU	PU	_	2	punct	_	Seg=O
 14	”	”	PU	PU	_	2	punct	_	Seg=O
 
-# newdoc_id = gcdt_news_hubei
+# newdoc id = gcdt_news_hubei
 # sent_id = gcdt_news_hubei-gcdt_news_hubei-1
 # text = 湖北多地为疫情进行交通管制
 1	湖北	湖北	NR	NR	_	6	nsubj	_	Seg=B-seg
@@ -39547,7 +39547,7 @@
 10	航班	航班	NN	NN	_	8	dobj	_	Seg=O
 11	。	。	PU	PU	_	4	punct	_	Seg=O
 
-# newdoc_id = gcdt_news_kangle
+# newdoc id = gcdt_news_kangle
 # sent_id = gcdt_news_kangle-gcdt_news_kangle-1
 # text = 康文署重开康乐设施
 1	康文署	康文署	NN	NN	_	2	nsubj	_	Seg=B-seg
@@ -40732,7 +40732,7 @@
 12	安排	安排	NN	NN	_	10	dobj	_	Seg=O
 13	。	。	PU	PU	_	5	punct	_	Seg=O
 
-# newdoc_id = gcdt_news_tiktok
+# newdoc id = gcdt_news_tiktok
 # sent_id = gcdt_news_tiktok-gcdt_news_tiktok-1
 # text = TikTok出售或须先得北京同意
 1	TikTok	TikTok	NR	NR	_	2	nsubj	_	Seg=B-seg
@@ -41531,7 +41531,7 @@
 10	用户	用户	NN	NN	_	7	dobj	_	Seg=O
 11	。	。	PU	PU	_	5	punct	_	Seg=O
 
-# newdoc_id = gcdt_news_unemployment
+# newdoc id = gcdt_news_unemployment
 # sent_id = gcdt_news_unemployment-gcdt_news_unemployment-1
 # text = 香港最新失业率创十六年来高位
 1	香港	香港	NR	NR	_	3	nmod	_	Seg=B-seg
@@ -42928,7 +42928,7 @@
 13	下载	下载	VV	VV	_	0	root	_	Seg=O
 14	。	。	PU	PU	_	13	punct	_	Seg=O
 
-# newdoc_id = gcdt_whow_basil
+# newdoc id = gcdt_whow_basil
 # sent_id = gcdt_whow_basil-gcdt_whow_basil-1
 # text = 如何种植罗勒
 1	如何	如何	AD	AD	_	2	advmod	_	Seg=B-seg
@@ -44365,7 +44365,7 @@
 30	5	5	CD	CD	_	31	dep	_	Seg=O
 31	-RSB-	-RSB-	NN	NN	_	3	dep	_	Seg=O
 
-# newdoc_id = gcdt_whow_flirt
+# newdoc id = gcdt_whow_flirt
 # sent_id = gcdt_whow_flirt-gcdt_whow_flirt-1
 # text = 如何用短信调情
 1	如何	如何	AD	AD	_	4	advmod	_	Seg=B-seg
@@ -46637,7 +46637,7 @@
 23	出来	出来	VV	VV	_	22	advmod:rcomp	_	Seg=O
 24	。	。	PU	PU	_	10	punct	_	Seg=O
 
-# newdoc_id = gcdt_whow_glowstick
+# newdoc id = gcdt_whow_glowstick
 # sent_id = gcdt_whow_glowstick-gcdt_whow_glowstick-1
 # text = 如何制作荧光棒
 1	如何	如何	AD	AD	_	2	advmod	_	Seg=B-seg
@@ -48134,7 +48134,7 @@
 25	好	好	VA	VA	_	16	ccomp	_	Seg=O
 26	。	。	PU	PU	_	9	punct	_	Seg=O
 
-# newdoc_id = gcdt_whow_mice
+# newdoc id = gcdt_whow_mice
 # sent_id = gcdt_whow_mice-gcdt_whow_mice-1
 # text = 如何以自然方法驱逐老鼠
 1	如何	如何	AD	AD	_	5	advmod	_	Seg=B-seg
@@ -49202,7 +49202,7 @@
 14	鸟类	鸟类	NN	NN	_	7	dobj	_	Seg=O
 15	。	。	PU	PU	_	7	punct	_	Seg=O
 
-# newdoc_id = gcdt_whow_pool
+# newdoc id = gcdt_whow_pool
 # sent_id = gcdt_whow_pool-gcdt_whow_pool-1
 # text = 如何摆放台球
 1	如何	如何	AD	AD	_	2	advmod	_	Seg=B-seg
@@ -50006,7 +50006,7 @@
 17	下端	下端	VA	VA	_	14	ccomp	_	Seg=O
 18	。	。	PU	PU	_	8	punct	_	Seg=O
 
-# newdoc_id = gcdt_whow_procrastinating
+# newdoc id = gcdt_whow_procrastinating
 # sent_id = gcdt_whow_procrastinating-gcdt_whow_procrastinating-1
 # text = 如何停止拖延
 1	如何	如何	AD	AD	_	2	advmod	_	Seg=B-seg
@@ -52365,7 +52365,7 @@
 19	惩罚	惩罚	NN	NN	_	18	dobj	_	Seg=O
 20	。	。	PU	PU	_	18	punct	_	Seg=O
 
-# newdoc_id = gcdt_whow_quinoa
+# newdoc id = gcdt_whow_quinoa
 # sent_id = gcdt_whow_quinoa-gcdt_whow_quinoa-1
 # text = 如何烹饪奎藜
 1	如何	如何	AD	AD	_	2	advmod	_	Seg=B-seg
@@ -53049,7 +53049,7 @@
 8	了	了	AS	AS	_	7	aux:asp	_	Seg=O
 9	。	。	PU	PU	_	7	punct	_	Seg=O
 
-# newdoc_id = gcdt_whow_skittles
+# newdoc id = gcdt_whow_skittles
 # sent_id = gcdt_whow_skittles-gcdt_whow_skittles-1
 # text = 如何制作彩虹伏特加
 1	如何	如何	AD	AD	_	2	advmod	_	Seg=B-seg

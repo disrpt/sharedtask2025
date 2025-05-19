@@ -1,4 +1,4 @@
-# newdoc_id = etemad002
+# newdoc id = etemad002
 1	آثار	_	_	_	_	_	_	_	Seg=B-seg
 2	نظامیگنجوی	_	_	_	_	_	_	_	Seg=O
 3	تواناییهای	_	_	_	_	_	_	_	Seg=O
@@ -620,7 +620,7 @@
 614	باشند	_	_	_	_	_	_	_	Seg=O
 615	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad003
+# newdoc id = etemad003
 1	طرح	_	_	_	_	_	_	_	Seg=B-seg
 2	شفافیت	_	_	_	_	_	_	_	Seg=O
 3	آرای	_	_	_	_	_	_	_	Seg=O
@@ -1162,7 +1162,7 @@
 539	است	_	_	_	_	_	_	_	Seg=O
 540	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad004
+# newdoc id = etemad004
 1	اقتصاد	_	_	_	_	_	_	_	Seg=B-seg
 2	هر	_	_	_	_	_	_	_	Seg=O
 3	کشوری	_	_	_	_	_	_	_	Seg=O
@@ -1826,7 +1826,7 @@
 660	ندارد	_	_	_	_	_	_	_	Seg=O
 661	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad005
+# newdoc id = etemad005
 1	نرخ	_	_	_	_	_	_	_	Seg=B-seg
 2	ارز	_	_	_	_	_	_	_	Seg=O
 3	تحتتاثیر	_	_	_	_	_	_	_	Seg=O
@@ -2236,7 +2236,7 @@
 406	بود	_	_	_	_	_	_	_	Seg=O
 407	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad006
+# newdoc id = etemad006
 1	من	_	_	_	_	_	_	_	Seg=B-seg
 2	منتقد	_	_	_	_	_	_	_	Seg=O
 3	رفتارها	_	_	_	_	_	_	_	Seg=O
@@ -2969,7 +2969,7 @@
 726	زد	_	_	_	_	_	_	_	Seg=O
 727	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad010
+# newdoc id = etemad010
 1	باید	_	_	_	_	_	_	_	Seg=B-seg
 2	مبارزه	_	_	_	_	_	_	_	Seg=O
 3	با	_	_	_	_	_	_	_	Seg=O
@@ -3457,7 +3457,7 @@
 484	میشوند	_	_	_	_	_	_	_	Seg=O
 485	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad011
+# newdoc id = etemad011
 1	شهرداری	_	_	_	_	_	_	_	Seg=B-seg
 2	پایتخت	_	_	_	_	_	_	_	Seg=O
 3	در	_	_	_	_	_	_	_	Seg=O
@@ -3885,7 +3885,7 @@
 423	کند	_	_	_	_	_	_	_	Seg=O
 424	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad012
+# newdoc id = etemad012
 1	مذاکره	_	_	_	_	_	_	_	Seg=B-seg
 2	یکی	_	_	_	_	_	_	_	Seg=O
 3	از	_	_	_	_	_	_	_	Seg=O
@@ -4237,7 +4237,7 @@
 348	است	_	_	_	_	_	_	_	Seg=O
 349	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad013
+# newdoc id = etemad013
 1	آقای	_	_	_	_	_	_	_	Seg=B-seg
 2	جهانگیری	_	_	_	_	_	_	_	Seg=O
 3	یکی	_	_	_	_	_	_	_	Seg=O
@@ -4476,7 +4476,7 @@
 236	کند	_	_	_	_	_	_	_	Seg=O
 237	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad014
+# newdoc id = etemad014
 1	علاقهمندی	_	_	_	_	_	_	_	Seg=B-seg
 2	نهادهای	_	_	_	_	_	_	_	Seg=O
 3	مختلف	_	_	_	_	_	_	_	Seg=O
@@ -4810,7 +4810,7 @@
 329	نشود	_	_	_	_	_	_	_	Seg=O
 330	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad015
+# newdoc id = etemad015
 1	مایکل	_	_	_	_	_	_	_	Seg=B-seg
 2	کوهن	_	_	_	_	_	_	_	Seg=O
 3	؛	_	_	_	_	_	_	_	Seg=O
@@ -5227,7 +5227,7 @@
 414	درهانوی	_	_	_	_	_	_	_	Seg=O
 415	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad016
+# newdoc id = etemad016
 1	متشکل	_	_	_	_	_	_	_	Seg=B-seg
 2	شدن	_	_	_	_	_	_	_	Seg=O
 3	را	_	_	_	_	_	_	_	Seg=O
@@ -5746,7 +5746,7 @@
 513	کند	_	_	_	_	_	_	_	Seg=O
 514	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad017
+# newdoc id = etemad017
 1	بنیاد	_	_	_	_	_	_	_	Seg=B-seg
 2	مستضعفان	_	_	_	_	_	_	_	Seg=O
 3	از	_	_	_	_	_	_	_	Seg=O
@@ -6055,7 +6055,7 @@
 303	بردارند	_	_	_	_	_	_	_	Seg=O
 304	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad018
+# newdoc id = etemad018
 1	چرایی	_	_	_	_	_	_	_	Seg=B-seg
 2	دنبال	_	_	_	_	_	_	_	Seg=O
 3	کردن	_	_	_	_	_	_	_	Seg=O
@@ -6374,7 +6374,7 @@
 316	نکردهاند	_	_	_	_	_	_	_	Seg=O
 317	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad019
+# newdoc id = etemad019
 1	قانون	_	_	_	_	_	_	_	Seg=B-seg
 2	اساسی	_	_	_	_	_	_	_	Seg=O
 3	جمهوری	_	_	_	_	_	_	_	Seg=O
@@ -6728,7 +6728,7 @@
 351	بگیرد	_	_	_	_	_	_	_	Seg=O
 352	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad020
+# newdoc id = etemad020
 1	بعد	_	_	_	_	_	_	_	Seg=B-seg
 2	از	_	_	_	_	_	_	_	Seg=O
 3	اظهارنظرهای	_	_	_	_	_	_	_	Seg=O
@@ -7196,7 +7196,7 @@
 460	کنند	_	_	_	_	_	_	_	Seg=O
 461	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad021
+# newdoc id = etemad021
 1	انصراف	_	_	_	_	_	_	_	Seg=B-seg
 2	دو	_	_	_	_	_	_	_	Seg=O
 3	خریدار	_	_	_	_	_	_	_	Seg=O
@@ -7580,7 +7580,7 @@
 381	است	_	_	_	_	_	_	_	Seg=O
 382	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad022
+# newdoc id = etemad022
 1	«	_	_	_	_	_	_	_	Seg=B-seg
 2	مشق	_	_	_	_	_	_	_	Seg=O
 3	شب	_	_	_	_	_	_	_	Seg=O
@@ -8217,7 +8217,7 @@
 633	نشوند	_	_	_	_	_	_	_	Seg=O
 634	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad025
+# newdoc id = etemad025
 1	مردمان	_	_	_	_	_	_	_	Seg=B-seg
 2	جنوب	_	_	_	_	_	_	_	Seg=O
 3	در	_	_	_	_	_	_	_	Seg=O
@@ -8766,7 +8766,7 @@
 538	میگیرند	_	_	_	_	_	_	_	Seg=O
 539	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad026
+# newdoc id = etemad026
 1	به	_	_	_	_	_	_	_	Seg=B-seg
 2	صورت	_	_	_	_	_	_	_	Seg=O
 3	بدیهی	_	_	_	_	_	_	_	Seg=O
@@ -9121,7 +9121,7 @@
 352	شود	_	_	_	_	_	_	_	Seg=O
 353	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad028
+# newdoc id = etemad028
 1	تنگه	_	_	_	_	_	_	_	Seg=B-seg
 2	هرمز	_	_	_	_	_	_	_	Seg=O
 3	یکی	_	_	_	_	_	_	_	Seg=O
@@ -9581,7 +9581,7 @@
 456	دارد	_	_	_	_	_	_	_	Seg=O
 457	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad030
+# newdoc id = etemad030
 1	سال	_	_	_	_	_	_	_	Seg=B-seg
 2	۶۰	_	_	_	_	_	_	_	Seg=O
 3	و	_	_	_	_	_	_	_	Seg=O
@@ -9933,7 +9933,7 @@
 348	کند	_	_	_	_	_	_	_	Seg=O
 349	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad031
+# newdoc id = etemad031
 1	بانک	_	_	_	_	_	_	_	Seg=B-seg
 2	مرکزی	_	_	_	_	_	_	_	Seg=O
 3	در	_	_	_	_	_	_	_	Seg=O
@@ -10317,7 +10317,7 @@
 381	شود	_	_	_	_	_	_	_	Seg=O
 382	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad032
+# newdoc id = etemad032
 1	رواج	_	_	_	_	_	_	_	Seg=B-seg
 2	پولشویی	_	_	_	_	_	_	_	Seg=O
 3	در	_	_	_	_	_	_	_	Seg=O
@@ -11061,7 +11061,7 @@
 739	ببرند	_	_	_	_	_	_	_	Seg=O
 740	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad033
+# newdoc id = etemad033
 1	دیروز	_	_	_	_	_	_	_	Seg=B-seg
 2	مجلس	_	_	_	_	_	_	_	Seg=O
 3	،	_	_	_	_	_	_	_	Seg=O
@@ -11458,7 +11458,7 @@
 390	نمیکنند	_	_	_	_	_	_	_	Seg=O
 391	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad034
+# newdoc id = etemad034
 1	سفر	_	_	_	_	_	_	_	Seg=B-seg
 2	رییسجمهور	_	_	_	_	_	_	_	Seg=O
 3	به	_	_	_	_	_	_	_	Seg=O
@@ -12110,7 +12110,7 @@
 649	خم	_	_	_	_	_	_	_	Seg=O
 650	است	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad035
+# newdoc id = etemad035
 1	چند	_	_	_	_	_	_	_	Seg=B-seg
 2	سال	_	_	_	_	_	_	_	Seg=O
 3	است	_	_	_	_	_	_	_	Seg=O
@@ -12469,7 +12469,7 @@
 355	نیست	_	_	_	_	_	_	_	Seg=O
 356	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad037
+# newdoc id = etemad037
 1	حسین	_	_	_	_	_	_	_	Seg=B-seg
 2	شاه	_	_	_	_	_	_	_	Seg=O
 3	حسینی	_	_	_	_	_	_	_	Seg=O
@@ -12726,7 +12726,7 @@
 250	ماند	_	_	_	_	_	_	_	Seg=O
 251	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad038
+# newdoc id = etemad038
 1	در	_	_	_	_	_	_	_	Seg=B-seg
 2	خبرها	_	_	_	_	_	_	_	Seg=O
 3	آمده	_	_	_	_	_	_	_	Seg=O
@@ -13318,7 +13318,7 @@
 587	ببینیم	_	_	_	_	_	_	_	Seg=O
 588	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad042
+# newdoc id = etemad042
 1	اوایل	_	_	_	_	_	_	_	Seg=B-seg
 2	دهه	_	_	_	_	_	_	_	Seg=O
 3	۴۰	_	_	_	_	_	_	_	Seg=O
@@ -13827,7 +13827,7 @@
 506	ایران	_	_	_	_	_	_	_	Seg=O
 507	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad043
+# newdoc id = etemad043
 1	مطالعات	_	_	_	_	_	_	_	Seg=B-seg
 2	کمی	_	_	_	_	_	_	_	Seg=O
 3	و	_	_	_	_	_	_	_	Seg=O
@@ -14399,7 +14399,7 @@
 568	ببیند	_	_	_	_	_	_	_	Seg=O
 569	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad044
+# newdoc id = etemad044
 1	چند	_	_	_	_	_	_	_	Seg=B-seg
 2	روز	_	_	_	_	_	_	_	Seg=O
 3	پیش	_	_	_	_	_	_	_	Seg=O
@@ -15300,7 +15300,7 @@
 895	باشد	_	_	_	_	_	_	_	Seg=O
 896	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad045
+# newdoc id = etemad045
 1	شاید	_	_	_	_	_	_	_	Seg=B-seg
 2	اغراق	_	_	_	_	_	_	_	Seg=O
 3	نباشد	_	_	_	_	_	_	_	Seg=O
@@ -16125,7 +16125,7 @@
 820	هست	_	_	_	_	_	_	_	Seg=O
 821	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad046
+# newdoc id = etemad046
 1	این	_	_	_	_	_	_	_	Seg=B-seg
 2	روزها	_	_	_	_	_	_	_	Seg=O
 3	فصل	_	_	_	_	_	_	_	Seg=O
@@ -16319,7 +16319,7 @@
 189	نباشیم	_	_	_	_	_	_	_	Seg=O
 190	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad047
+# newdoc id = etemad047
 1	این	_	_	_	_	_	_	_	Seg=B-seg
 2	روزها	_	_	_	_	_	_	_	Seg=O
 3	شمال	_	_	_	_	_	_	_	Seg=O
@@ -17033,7 +17033,7 @@
 710	نمیشود	_	_	_	_	_	_	_	Seg=O
 711	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad048
+# newdoc id = etemad048
 1	آن	_	_	_	_	_	_	_	Seg=B-seg
 2	مقدار	_	_	_	_	_	_	_	Seg=O
 3	از	_	_	_	_	_	_	_	Seg=O
@@ -17675,7 +17675,7 @@
 635	شود	_	_	_	_	_	_	_	Seg=O
 636	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad049
+# newdoc id = etemad049
 1	پیشرفت	_	_	_	_	_	_	_	Seg=B-seg
 2	روابط	_	_	_	_	_	_	_	Seg=O
 3	معمول	_	_	_	_	_	_	_	Seg=O
@@ -18009,7 +18009,7 @@
 330	باشد	_	_	_	_	_	_	_	Seg=O
 331	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad050
+# newdoc id = etemad050
 1	برابر	_	_	_	_	_	_	_	Seg=B-seg
 2	اصل	_	_	_	_	_	_	_	Seg=O
 3	١٢۴	_	_	_	_	_	_	_	Seg=O
@@ -18454,7 +18454,7 @@
 442	دارد	_	_	_	_	_	_	_	Seg=O
 443	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad051
+# newdoc id = etemad051
 1	آتش	_	_	_	_	_	_	_	Seg=B-seg
 2	سوزی	_	_	_	_	_	_	_	Seg=O
 3	و	_	_	_	_	_	_	_	Seg=O
@@ -19057,7 +19057,7 @@
 599	کند	_	_	_	_	_	_	_	Seg=O
 600	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad052
+# newdoc id = etemad052
 1	طبیعی	_	_	_	_	_	_	_	Seg=B-seg
 2	است	_	_	_	_	_	_	_	Seg=O
 3	که	_	_	_	_	_	_	_	Seg=O
@@ -19566,7 +19566,7 @@
 504	برسند	_	_	_	_	_	_	_	Seg=O
 505	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad053
+# newdoc id = etemad053
 1	بخشی	_	_	_	_	_	_	_	Seg=B-seg
 2	از	_	_	_	_	_	_	_	Seg=O
 3	کودکان	_	_	_	_	_	_	_	Seg=O
@@ -20161,7 +20161,7 @@
 588	باشیم	_	_	_	_	_	_	_	Seg=O
 589	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad054
+# newdoc id = etemad054
 1	دو	_	_	_	_	_	_	_	Seg=B-seg
 2	سال	_	_	_	_	_	_	_	Seg=O
 3	پیش	_	_	_	_	_	_	_	Seg=O
@@ -20896,7 +20896,7 @@
 732	بماند	_	_	_	_	_	_	_	Seg=O
 733	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad055
+# newdoc id = etemad055
 1	نزدیک	_	_	_	_	_	_	_	Seg=B-seg
 2	به	_	_	_	_	_	_	_	Seg=O
 3	۹	_	_	_	_	_	_	_	Seg=O
@@ -21316,7 +21316,7 @@
 416	پذیرد	_	_	_	_	_	_	_	Seg=O
 417	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad057
+# newdoc id = etemad057
 1	شرکت	_	_	_	_	_	_	_	Seg=B-seg
 2	دخانیات	_	_	_	_	_	_	_	Seg=O
 3	ایران	_	_	_	_	_	_	_	Seg=O
@@ -21596,7 +21596,7 @@
 276	است	_	_	_	_	_	_	_	Seg=O
 277	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = etemad059
+# newdoc id = etemad059
 1	کوروش	_	_	_	_	_	_	_	Seg=B-seg
 2	نریمانی	_	_	_	_	_	_	_	Seg=O
 3	همچنان	_	_	_	_	_	_	_	Seg=O
@@ -22153,7 +22153,7 @@
 544	.	_	_	_	_	_	_	_	Seg=O
 545	»	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = irantransportation
+# newdoc id = irantransportation
 1	اگر	_	_	_	_	_	_	_	Seg=B-seg
 2	در	_	_	_	_	_	_	_	Seg=O
 3	یک	_	_	_	_	_	_	_	Seg=O
@@ -22893,7 +22893,7 @@
 735	است	_	_	_	_	_	_	_	Seg=O
 736	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan004
+# newdoc id = meidan004
 1	متصرفان	_	_	_	_	_	_	_	Seg=B-seg
 2	زمینهای	_	_	_	_	_	_	_	Seg=O
 3	پناهگاه	_	_	_	_	_	_	_	Seg=O
@@ -23263,7 +23263,7 @@
 365	کردهاند	_	_	_	_	_	_	_	Seg=O
 366	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan006
+# newdoc id = meidan006
 1	رییس	_	_	_	_	_	_	_	Seg=B-seg
 2	دفتر	_	_	_	_	_	_	_	Seg=O
 3	حسن	_	_	_	_	_	_	_	Seg=O
@@ -23481,7 +23481,7 @@
 215	است	_	_	_	_	_	_	_	Seg=O
 216	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan007
+# newdoc id = meidan007
 1	شورای	_	_	_	_	_	_	_	Seg=B-seg
 2	شهر	_	_	_	_	_	_	_	Seg=O
 3	تهران	_	_	_	_	_	_	_	Seg=O
@@ -23803,7 +23803,7 @@
 318	نماید	_	_	_	_	_	_	_	Seg=O
 319	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan008
+# newdoc id = meidan008
 1	حسین	_	_	_	_	_	_	_	Seg=B-seg
 2	فلاح	_	_	_	_	_	_	_	Seg=O
 3	جوشقانی	_	_	_	_	_	_	_	Seg=O
@@ -24037,7 +24037,7 @@
 231	مییابد	_	_	_	_	_	_	_	Seg=O
 232	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan009
+# newdoc id = meidan009
 1	معاون	_	_	_	_	_	_	_	Seg=B-seg
 2	پیشگیری	_	_	_	_	_	_	_	Seg=O
 3	و	_	_	_	_	_	_	_	Seg=O
@@ -24415,7 +24415,7 @@
 374	»	_	_	_	_	_	_	_	Seg=O
 375	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan011
+# newdoc id = meidan011
 1	همسایه	_	_	_	_	_	_	_	Seg=B-seg
 2	معروف	_	_	_	_	_	_	_	Seg=O
 3	ورزشگاه	_	_	_	_	_	_	_	Seg=O
@@ -24592,7 +24592,7 @@
 171	.	_	_	_	_	_	_	_	Seg=O
 172	»	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan012
+# newdoc id = meidan012
 1	رییس	_	_	_	_	_	_	_	Seg=B-seg
 2	سازمان	_	_	_	_	_	_	_	Seg=O
 3	غذا	_	_	_	_	_	_	_	Seg=O
@@ -24796,7 +24796,7 @@
 201	میشود	_	_	_	_	_	_	_	Seg=O
 202	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan013
+# newdoc id = meidan013
 1	دبیر	_	_	_	_	_	_	_	Seg=B-seg
 2	کارگروه	_	_	_	_	_	_	_	Seg=O
 3	مدیریت	_	_	_	_	_	_	_	Seg=O
@@ -24993,7 +24993,7 @@
 190	ند	_	_	_	_	_	_	_	Seg=O
 191	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan014
+# newdoc id = meidan014
 1	هرکیلوگرم	_	_	_	_	_	_	_	Seg=B-seg
 2	پرتقال	_	_	_	_	_	_	_	Seg=O
 3	صادراتی	_	_	_	_	_	_	_	Seg=O
@@ -25232,7 +25232,7 @@
 236	.	_	_	_	_	_	_	_	Seg=O
 237	»	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan016
+# newdoc id = meidan016
 1	موج	_	_	_	_	_	_	_	Seg=B-seg
 2	کمسابقه	_	_	_	_	_	_	_	Seg=O
 3	گرما	_	_	_	_	_	_	_	Seg=O
@@ -25433,7 +25433,7 @@
 197	است	_	_	_	_	_	_	_	Seg=O
 198	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan017
+# newdoc id = meidan017
 1	یک	_	_	_	_	_	_	_	Seg=B-seg
 2	پژوهشگر	_	_	_	_	_	_	_	Seg=O
 3	ارشد	_	_	_	_	_	_	_	Seg=O
@@ -25680,7 +25680,7 @@
 243	دارد	_	_	_	_	_	_	_	Seg=O
 244	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan018
+# newdoc id = meidan018
 1	رییس	_	_	_	_	_	_	_	Seg=B-seg
 2	انجمن	_	_	_	_	_	_	_	Seg=O
 3	زغالسنگ	_	_	_	_	_	_	_	Seg=O
@@ -25895,7 +25895,7 @@
 212	میکنند	_	_	_	_	_	_	_	Seg=O
 213	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan019
+# newdoc id = meidan019
 1	به	_	_	_	_	_	_	_	Seg=B-seg
 2	گفته	_	_	_	_	_	_	_	Seg=O
 3	برخی	_	_	_	_	_	_	_	Seg=O
@@ -26146,7 +26146,7 @@
 248	دهند	_	_	_	_	_	_	_	Seg=O
 249	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan020
+# newdoc id = meidan020
 1	نسبت	_	_	_	_	_	_	_	Seg=B-seg
 2	دانشآموزان	_	_	_	_	_	_	_	Seg=O
 3	مدارس	_	_	_	_	_	_	_	Seg=O
@@ -26380,7 +26380,7 @@
 230	است	_	_	_	_	_	_	_	Seg=O
 231	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan021
+# newdoc id = meidan021
 1	معاون	_	_	_	_	_	_	_	Seg=B-seg
 2	آبخیزداری	_	_	_	_	_	_	_	Seg=O
 3	سازمان	_	_	_	_	_	_	_	Seg=O
@@ -26562,7 +26562,7 @@
 178	شدهاند	_	_	_	_	_	_	_	Seg=O
 179	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan022
+# newdoc id = meidan022
 1	مردم	_	_	_	_	_	_	_	Seg=B-seg
 2	آبادان	_	_	_	_	_	_	_	Seg=O
 3	در	_	_	_	_	_	_	_	Seg=O
@@ -26792,7 +26792,7 @@
 224	است	_	_	_	_	_	_	_	Seg=O
 225	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan023
+# newdoc id = meidan023
 1	یک	_	_	_	_	_	_	_	Seg=B-seg
 2	مادر	_	_	_	_	_	_	_	Seg=O
 3	به	_	_	_	_	_	_	_	Seg=O
@@ -26990,7 +26990,7 @@
 192	است	_	_	_	_	_	_	_	Seg=O
 193	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan024
+# newdoc id = meidan024
 1	سخنگوی	_	_	_	_	_	_	_	Seg=B-seg
 2	سازمان	_	_	_	_	_	_	_	Seg=O
 3	هواپیمایی	_	_	_	_	_	_	_	Seg=O
@@ -27237,7 +27237,7 @@
 244	نیست	_	_	_	_	_	_	_	Seg=O
 245	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan026
+# newdoc id = meidan026
 1	معاون	_	_	_	_	_	_	_	Seg=B-seg
 2	توسعه	_	_	_	_	_	_	_	Seg=O
 3	سازمان	_	_	_	_	_	_	_	Seg=O
@@ -27544,7 +27544,7 @@
 302	»	_	_	_	_	_	_	_	Seg=O
 303	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan027
+# newdoc id = meidan027
 1	انوشیروان	_	_	_	_	_	_	_	Seg=B-seg
 2	محسنی	_	_	_	_	_	_	_	Seg=O
 3	بندپی	_	_	_	_	_	_	_	Seg=O
@@ -27790,7 +27790,7 @@
 242	زدهاند	_	_	_	_	_	_	_	Seg=O
 243	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan028
+# newdoc id = meidan028
 1	شهرداری	_	_	_	_	_	_	_	Seg=B-seg
 2	و	_	_	_	_	_	_	_	Seg=O
 3	بنیاد	_	_	_	_	_	_	_	Seg=O
@@ -27992,7 +27992,7 @@
 198	شود	_	_	_	_	_	_	_	Seg=O
 199	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan029
+# newdoc id = meidan029
 1	یک	_	_	_	_	_	_	_	Seg=B-seg
 2	شرکت	_	_	_	_	_	_	_	Seg=O
 3	مشاور	_	_	_	_	_	_	_	Seg=O
@@ -28248,7 +28248,7 @@
 253	داشت	_	_	_	_	_	_	_	Seg=O
 254	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan030
+# newdoc id = meidan030
 1	با	_	_	_	_	_	_	_	Seg=B-seg
 2	بالا	_	_	_	_	_	_	_	Seg=O
 3	رفتن	_	_	_	_	_	_	_	Seg=O
@@ -28489,7 +28489,7 @@
 238	است	_	_	_	_	_	_	_	Seg=O
 239	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan031
+# newdoc id = meidan031
 1	نشت	_	_	_	_	_	_	_	Seg=B-seg
 2	نفت	_	_	_	_	_	_	_	Seg=O
 3	از	_	_	_	_	_	_	_	Seg=O
@@ -28754,7 +28754,7 @@
 261	هستند	_	_	_	_	_	_	_	Seg=O
 262	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan032
+# newdoc id = meidan032
 1	یکی	_	_	_	_	_	_	_	Seg=B-seg
 2	از	_	_	_	_	_	_	_	Seg=O
 3	کارشناسان	_	_	_	_	_	_	_	Seg=O
@@ -29093,7 +29093,7 @@
 335	است	_	_	_	_	_	_	_	Seg=O
 336	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan033
+# newdoc id = meidan033
 1	رییس	_	_	_	_	_	_	_	Seg=B-seg
 2	سازمان	_	_	_	_	_	_	_	Seg=O
 3	تعزیرات	_	_	_	_	_	_	_	Seg=O
@@ -29419,7 +29419,7 @@
 323	بود	_	_	_	_	_	_	_	Seg=O
 324	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan034
+# newdoc id = meidan034
 1	خبرگزاری	_	_	_	_	_	_	_	Seg=B-seg
 2	ایسنا	_	_	_	_	_	_	_	Seg=O
 3	در	_	_	_	_	_	_	_	Seg=O
@@ -29857,7 +29857,7 @@
 434	نرسید	_	_	_	_	_	_	_	Seg=O
 435	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan036
+# newdoc id = meidan036
 1	در	_	_	_	_	_	_	_	Seg=B-seg
 2	آستانه	_	_	_	_	_	_	_	Seg=O
 3	روز	_	_	_	_	_	_	_	Seg=O
@@ -30100,7 +30100,7 @@
 240	دارد	_	_	_	_	_	_	_	Seg=O
 241	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan037
+# newdoc id = meidan037
 1	وزیر	_	_	_	_	_	_	_	Seg=B-seg
 2	آموزش	_	_	_	_	_	_	_	Seg=O
 3	و	_	_	_	_	_	_	_	Seg=O
@@ -30448,7 +30448,7 @@
 344	میکند	_	_	_	_	_	_	_	Seg=O
 345	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan038
+# newdoc id = meidan038
 1	رییس	_	_	_	_	_	_	_	Seg=B-seg
 2	سازمان	_	_	_	_	_	_	_	Seg=O
 3	سیما	_	_	_	_	_	_	_	Seg=O
@@ -30641,7 +30641,7 @@
 190	داشت	_	_	_	_	_	_	_	Seg=O
 191	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan039
+# newdoc id = meidan039
 1	بنابر	_	_	_	_	_	_	_	Seg=B-seg
 2	آمار	_	_	_	_	_	_	_	Seg=O
 3	خطاهای	_	_	_	_	_	_	_	Seg=O
@@ -30926,7 +30926,7 @@
 282	است	_	_	_	_	_	_	_	Seg=O
 283	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan040
+# newdoc id = meidan040
 1	دمای	_	_	_	_	_	_	_	Seg=B-seg
 2	شهرهای	_	_	_	_	_	_	_	Seg=O
 3	مختلف	_	_	_	_	_	_	_	Seg=O
@@ -31111,7 +31111,7 @@
 182	شد	_	_	_	_	_	_	_	Seg=O
 183	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan041
+# newdoc id = meidan041
 1	دانشگاه	_	_	_	_	_	_	_	Seg=B-seg
 2	فرهنگیان	_	_	_	_	_	_	_	Seg=O
 3	،	_	_	_	_	_	_	_	Seg=O
@@ -31255,7 +31255,7 @@
 141	است	_	_	_	_	_	_	_	Seg=O
 142	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan042
+# newdoc id = meidan042
 1	معاون	_	_	_	_	_	_	_	Seg=B-seg
 2	صید	_	_	_	_	_	_	_	Seg=O
 3	و	_	_	_	_	_	_	_	Seg=O
@@ -31476,7 +31476,7 @@
 218	میکند	_	_	_	_	_	_	_	Seg=O
 219	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan043
+# newdoc id = meidan043
 1	دولت	_	_	_	_	_	_	_	Seg=B-seg
 2	یازدهم	_	_	_	_	_	_	_	Seg=O
 3	قصد	_	_	_	_	_	_	_	Seg=O
@@ -31748,7 +31748,7 @@
 269	اند	_	_	_	_	_	_	_	Seg=O
 270	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan044
+# newdoc id = meidan044
 1	معاون	_	_	_	_	_	_	_	Seg=B-seg
 2	اقتصادی	_	_	_	_	_	_	_	Seg=O
 3	وزارت	_	_	_	_	_	_	_	Seg=O
@@ -31979,7 +31979,7 @@
 227	کند	_	_	_	_	_	_	_	Seg=O
 228	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan045
+# newdoc id = meidan045
 1	رییس	_	_	_	_	_	_	_	Seg=B-seg
 2	موسسه	_	_	_	_	_	_	_	Seg=O
 3	مطالعات	_	_	_	_	_	_	_	Seg=O
@@ -32201,7 +32201,7 @@
 218	کنند	_	_	_	_	_	_	_	Seg=O
 219	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan046
+# newdoc id = meidan046
 1	یک	_	_	_	_	_	_	_	Seg=B-seg
 2	حقوقدان	_	_	_	_	_	_	_	Seg=O
 3	میگوید	_	_	_	_	_	_	_	Seg=O
@@ -32464,7 +32464,7 @@
 260	میشود	_	_	_	_	_	_	_	Seg=O
 261	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = meidan047
+# newdoc id = meidan047
 1	دولت	_	_	_	_	_	_	_	Seg=B-seg
 2	فرانسه	_	_	_	_	_	_	_	Seg=O
 3	نشان	_	_	_	_	_	_	_	Seg=O
@@ -32588,7 +32588,7 @@
 121	زد	_	_	_	_	_	_	_	Seg=O
 122	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh002
+# newdoc id = shargh002
 1	امیرکبیر	_	_	_	_	_	_	_	Seg=B-seg
 2	،	_	_	_	_	_	_	_	Seg=O
 3	یکی	_	_	_	_	_	_	_	Seg=O
@@ -33077,7 +33077,7 @@
 483	ماند	_	_	_	_	_	_	_	Seg=O
 484	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh003
+# newdoc id = shargh003
 1	در	_	_	_	_	_	_	_	Seg=B-seg
 2	روزهای	_	_	_	_	_	_	_	Seg=O
 3	اخیر	_	_	_	_	_	_	_	Seg=O
@@ -33783,7 +33783,7 @@
 701	باشند	_	_	_	_	_	_	_	Seg=O
 702	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh004
+# newdoc id = shargh004
 1	قانوننویسی	_	_	_	_	_	_	_	Seg=B-seg
 2	و	_	_	_	_	_	_	_	Seg=O
 3	قانونگذاری	_	_	_	_	_	_	_	Seg=O
@@ -34613,7 +34613,7 @@
 825	میافکند	_	_	_	_	_	_	_	Seg=O
 826	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh005
+# newdoc id = shargh005
 1	افزایش	_	_	_	_	_	_	_	Seg=B-seg
 2	قیمت	_	_	_	_	_	_	_	Seg=O
 3	بنزین	_	_	_	_	_	_	_	Seg=O
@@ -35371,7 +35371,7 @@
 754	شود	_	_	_	_	_	_	_	Seg=O
 755	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh006
+# newdoc id = shargh006
 1	درباره	_	_	_	_	_	_	_	Seg=B-seg
 2	بازتاب	_	_	_	_	_	_	_	Seg=O
 3	خبر	_	_	_	_	_	_	_	Seg=O
@@ -36084,7 +36084,7 @@
 710	بگیرد	_	_	_	_	_	_	_	Seg=O
 711	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh007
+# newdoc id = shargh007
 1	هم	_	_	_	_	_	_	_	Seg=B-seg
 2	زمان	_	_	_	_	_	_	_	Seg=O
 3	با	_	_	_	_	_	_	_	Seg=O
@@ -36501,7 +36501,7 @@
 413	شد	_	_	_	_	_	_	_	Seg=O
 414	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh008
+# newdoc id = shargh008
 1	١١۰	_	_	_	_	_	_	_	Seg=B-seg
 2	سال	_	_	_	_	_	_	_	Seg=O
 3	پس	_	_	_	_	_	_	_	Seg=O
@@ -37025,7 +37025,7 @@
 517	برداریم	_	_	_	_	_	_	_	Seg=O
 518	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh009
+# newdoc id = shargh009
 1	در	_	_	_	_	_	_	_	Seg=B-seg
 2	خبرها	_	_	_	_	_	_	_	Seg=O
 3	آمده	_	_	_	_	_	_	_	Seg=O
@@ -37674,7 +37674,7 @@
 646	شوند	_	_	_	_	_	_	_	Seg=O
 647	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh010
+# newdoc id = shargh010
 1	شورای	_	_	_	_	_	_	_	Seg=B-seg
 2	اسلامی	_	_	_	_	_	_	_	Seg=O
 3	شهر	_	_	_	_	_	_	_	Seg=O
@@ -38275,7 +38275,7 @@
 598	بود	_	_	_	_	_	_	_	Seg=O
 599	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh011
+# newdoc id = shargh011
 1	نقد	_	_	_	_	_	_	_	Seg=B-seg
 2	اصلاحات	_	_	_	_	_	_	_	Seg=O
 3	و	_	_	_	_	_	_	_	Seg=O
@@ -39068,7 +39068,7 @@
 784	دارند	_	_	_	_	_	_	_	Seg=O
 785	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh012
+# newdoc id = shargh012
 1-2	سالهاست	_	_	_	_	_	_	_	_
 1	سالها	_	_	_	_	_	_	_	Seg=B-seg
 2	ست	_	_	_	_	_	_	_	Seg=O
@@ -39854,7 +39854,7 @@
 772	اندیشمندان	_	_	_	_	_	_	_	Seg=O
 773	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh013
+# newdoc id = shargh013
 1	سعودیها	_	_	_	_	_	_	_	Seg=B-seg
 2	در	_	_	_	_	_	_	_	Seg=O
 3	کنار	_	_	_	_	_	_	_	Seg=O
@@ -40476,7 +40476,7 @@
 619	دهد	_	_	_	_	_	_	_	Seg=O
 620	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh014
+# newdoc id = shargh014
 1	خبر	_	_	_	_	_	_	_	Seg=B-seg
 2	،	_	_	_	_	_	_	_	Seg=O
 3	باورنکردنی	_	_	_	_	_	_	_	Seg=O
@@ -41047,7 +41047,7 @@
 555	ببالند	_	_	_	_	_	_	_	Seg=O
 556	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh015
+# newdoc id = shargh015
 1	بیش	_	_	_	_	_	_	_	Seg=B-seg
 2	از	_	_	_	_	_	_	_	Seg=O
 3	٢۰	_	_	_	_	_	_	_	Seg=O
@@ -41453,7 +41453,7 @@
 400	شوند	_	_	_	_	_	_	_	Seg=O
 401	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh016
+# newdoc id = shargh016
 1	زلزله	_	_	_	_	_	_	_	Seg=B-seg
 2	۵/۲	_	_	_	_	_	_	_	Seg=O
 3	ریشتری	_	_	_	_	_	_	_	Seg=O
@@ -42190,7 +42190,7 @@
 734	است	_	_	_	_	_	_	_	Seg=O
 735	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh017
+# newdoc id = shargh017
 1	علنی	_	_	_	_	_	_	_	Seg=B-seg
 2	بودن	_	_	_	_	_	_	_	Seg=O
 3	جلسههای	_	_	_	_	_	_	_	Seg=O
@@ -42708,7 +42708,7 @@
 514	نشود	_	_	_	_	_	_	_	Seg=O
 515	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh018
+# newdoc id = shargh018
 1	برای	_	_	_	_	_	_	_	Seg=B-seg
 2	یک	_	_	_	_	_	_	_	Seg=O
 3	مدیر	_	_	_	_	_	_	_	Seg=O
@@ -43134,7 +43134,7 @@
 420	باشد	_	_	_	_	_	_	_	Seg=O
 421	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh019
+# newdoc id = shargh019
 1	تاثیر	_	_	_	_	_	_	_	Seg=B-seg
 2	کلان	_	_	_	_	_	_	_	Seg=O
 3	شهر	_	_	_	_	_	_	_	Seg=O
@@ -43667,7 +43667,7 @@
 530	داشت	_	_	_	_	_	_	_	Seg=O
 531	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh020
+# newdoc id = shargh020
 1	امنیت	_	_	_	_	_	_	_	Seg=B-seg
 2	پروازهای	_	_	_	_	_	_	_	Seg=O
 3	هوایی	_	_	_	_	_	_	_	Seg=O
@@ -44199,7 +44199,7 @@
 528	برنتابند	_	_	_	_	_	_	_	Seg=O
 529	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh021
+# newdoc id = shargh021
 1	نزدیک	_	_	_	_	_	_	_	Seg=B-seg
 2	به	_	_	_	_	_	_	_	Seg=O
 3	نیم	_	_	_	_	_	_	_	Seg=O
@@ -44966,7 +44966,7 @@
 761	دهد	_	_	_	_	_	_	_	Seg=O
 762	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh023
+# newdoc id = shargh023
 1	صاحب	_	_	_	_	_	_	_	Seg=B-seg
 2	نظران	_	_	_	_	_	_	_	Seg=O
 3	درباره	_	_	_	_	_	_	_	Seg=O
@@ -45682,7 +45682,7 @@
 713	کنند	_	_	_	_	_	_	_	Seg=O
 714	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh024
+# newdoc id = shargh024
 1	حداقل	_	_	_	_	_	_	_	Seg=B-seg
 2	دستمزد	_	_	_	_	_	_	_	Seg=O
 3	،	_	_	_	_	_	_	_	Seg=O
@@ -46093,7 +46093,7 @@
 408	گرفته	_	_	_	_	_	_	_	Seg=O
 409	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh027
+# newdoc id = shargh027
 1	نکته	_	_	_	_	_	_	_	Seg=B-seg
 2	اول	_	_	_	_	_	_	_	Seg=O
 3	:	_	_	_	_	_	_	_	Seg=O
@@ -46460,7 +46460,7 @@
 364	ماندلابخواند	_	_	_	_	_	_	_	Seg=O
 365	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh028
+# newdoc id = shargh028
 1	سو	_	_	_	_	_	_	_	Seg=B-seg
 2	استفاده	_	_	_	_	_	_	_	Seg=O
 3	سیاسی	_	_	_	_	_	_	_	Seg=O
@@ -47303,7 +47303,7 @@
 839	شود	_	_	_	_	_	_	_	Seg=O
 840	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh029
+# newdoc id = shargh029
 1	این	_	_	_	_	_	_	_	Seg=B-seg
 2	روزها	_	_	_	_	_	_	_	Seg=O
 3	داعش	_	_	_	_	_	_	_	Seg=O
@@ -48131,7 +48131,7 @@
 820	دادند	_	_	_	_	_	_	_	Seg=O
 821	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh030
+# newdoc id = shargh030
 1	موضوع	_	_	_	_	_	_	_	Seg=B-seg
 2	احتمال	_	_	_	_	_	_	_	Seg=O
 3	کسری	_	_	_	_	_	_	_	Seg=O
@@ -48617,7 +48617,7 @@
 483	نمیشد	_	_	_	_	_	_	_	Seg=O
 484	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh032
+# newdoc id = shargh032
 1	انتخابات	_	_	_	_	_	_	_	Seg=B-seg
 2	ریاست	_	_	_	_	_	_	_	Seg=O
 3	جمهوری	_	_	_	_	_	_	_	Seg=O
@@ -49231,7 +49231,7 @@
 610	بود	_	_	_	_	_	_	_	Seg=O
 611	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh034
+# newdoc id = shargh034
 1	دولت	_	_	_	_	_	_	_	Seg=B-seg
 2	در	_	_	_	_	_	_	_	Seg=O
 3	تصمیم	_	_	_	_	_	_	_	Seg=O
@@ -49573,7 +49573,7 @@
 339	کنند	_	_	_	_	_	_	_	Seg=O
 340	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh035
+# newdoc id = shargh035
 1	پس	_	_	_	_	_	_	_	Seg=B-seg
 2	از	_	_	_	_	_	_	_	Seg=O
 3	شروع	_	_	_	_	_	_	_	Seg=O
@@ -49885,7 +49885,7 @@
 309	کند	_	_	_	_	_	_	_	Seg=O
 310	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh036
+# newdoc id = shargh036
 1	حمله	_	_	_	_	_	_	_	Seg=B-seg
 2	اسراییل	_	_	_	_	_	_	_	Seg=O
 3	به	_	_	_	_	_	_	_	Seg=O
@@ -50259,7 +50259,7 @@
 370	میکند	_	_	_	_	_	_	_	Seg=O
 371	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh037
+# newdoc id = shargh037
 1	افزایش	_	_	_	_	_	_	_	Seg=B-seg
 2	تقاضا	_	_	_	_	_	_	_	Seg=O
 3	برای	_	_	_	_	_	_	_	Seg=O
@@ -50655,7 +50655,7 @@
 393	میشود	_	_	_	_	_	_	_	Seg=O
 394	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh038
+# newdoc id = shargh038
 1	ماجرای	_	_	_	_	_	_	_	Seg=B-seg
 2	دستگیری	_	_	_	_	_	_	_	Seg=O
 3	نیکلا	_	_	_	_	_	_	_	Seg=O
@@ -51226,7 +51226,7 @@
 566	میگیرد	_	_	_	_	_	_	_	Seg=O
 567	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh039
+# newdoc id = shargh039
 1	حضور	_	_	_	_	_	_	_	Seg=B-seg
 2	رضا	_	_	_	_	_	_	_	Seg=O
 3	پهلوی	_	_	_	_	_	_	_	Seg=O
@@ -51623,7 +51623,7 @@
 393	کند	_	_	_	_	_	_	_	Seg=O
 394	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh040
+# newdoc id = shargh040
 1	محققان	_	_	_	_	_	_	_	Seg=B-seg
 2	یک	_	_	_	_	_	_	_	Seg=O
 3	گام	_	_	_	_	_	_	_	Seg=O
@@ -52017,7 +52017,7 @@
 389	باشد	_	_	_	_	_	_	_	Seg=O
 390	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = shargh041
+# newdoc id = shargh041
 1	تحولات	_	_	_	_	_	_	_	Seg=B-seg
 2	اوکراین	_	_	_	_	_	_	_	Seg=O
 3	به	_	_	_	_	_	_	_	Seg=O

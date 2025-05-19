@@ -1,5 +1,5 @@
 # sent_id = D14-1051-0
-# newdoc_id = D14-1051
+# newdoc id = D14-1051
 # text = Various studies highlighted that topic-based approaches give a powerful spoken content representation of documents .
 1	Various	various	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	studies	study	NOUN	NNS	Number=Plur	3	nsubj	_	Seg=O
@@ -184,7 +184,7 @@
 29	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1052-0
-# newdoc_id = D14-1052
+# newdoc id = D14-1052
 # text = This paper introduces a model of multiple-instance learning applied to the prediction of aspect ratings or judgments of specific properties of an item from user-contributed texts such as product reviews .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	paper	paper	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -354,7 +354,7 @@
 40	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = D14-1053-0
-# newdoc_id = D14-1053
+# newdoc id = D14-1053
 # text = We propose a semi-supervised bootstrapping algorithm for analyzing China's foreign relations from the People's Daily .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	propose	propose	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -445,7 +445,7 @@
 18	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1054-0
-# newdoc_id = D14-1054
+# newdoc id = D14-1054
 # text = In this paper , we propose a joint segmentation and classification framework for sentiment analysis .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -648,7 +648,7 @@
 24	.	.	PUNCT	.	_	12	punct	_	Seg=O
 
 # sent_id = D14-1055-0
-# newdoc_id = D14-1055
+# newdoc id = D14-1055
 # text = Deceptive reviews detection has attracted significant attention from both business and research communities .
 1	Deceptive	deceptive	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	reviews	review	NOUN	NNS	Number=Plur	3	compound	_	Seg=O
@@ -872,7 +872,7 @@
 15	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = D14-1056-0
-# newdoc_id = D14-1056
+# newdoc id = D14-1056
 # text = Shell nouns , such as fact and problem , occur frequently in all kinds of texts .
 1	Shell	Shell	NOUN	NN	Number=Sing	2	compound	_	Seg=B-seg
 2	nouns	noun	NOUN	NNS	Number=Plur	10	nsubj	_	Seg=O
@@ -991,7 +991,7 @@
 44	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = D14-1057-0
-# newdoc_id = D14-1057
+# newdoc id = D14-1057
 # text = We present a comparison of different selectional preference models and evaluate them on an automatic verb classification task in German .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -1069,7 +1069,7 @@
 15	.	.	PUNCT	.	_	11	punct	_	Seg=O
 
 # sent_id = D14-1058-0
-# newdoc_id = D14-1058
+# newdoc id = D14-1058
 # text = This paper presents a novel approach to learning to solve simple arithmetic word problems .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	paper	paper	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -1221,7 +1221,7 @@
 21	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = D14-1059-0
-# newdoc_id = D14-1059
+# newdoc id = D14-1059
 # text = Common-sense reasoning is important for AI applications , both in NLP and many vision and robotics tasks .
 1	Common-sense	common-sense	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	reasoning	reasoning	NOUN	NN	Number=Sing	4	nsubj	_	Seg=O
@@ -1357,7 +1357,7 @@
 38	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1060-0
-# newdoc_id = D14-1060
+# newdoc id = D14-1060
 # text = Term translation is of great importance for statistical machine translation ( SMT ) , especially document-informed SMT .
 1	Term	term	NOUN	NN	Number=Sing	2	compound	_	Seg=B-seg
 2	translation	translation	NOUN	NN	Number=Sing	6	nsubj	_	Seg=O
@@ -1536,7 +1536,7 @@
 14	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = D14-1061-0
-# newdoc_id = D14-1061
+# newdoc id = D14-1061
 # text = Inspired by previous work , where decipherment is used to improve machine translation , we propose a new idea to combine word alignment and decipherment into a single learning process .
 1	Inspired	inspire	VERB	VBN	Tense=Past|VerbForm=Part	16	advcl	_	Seg=B-seg
 2	by	by	ADP	IN	_	4	case	_	Seg=O
@@ -1643,7 +1643,7 @@
 17	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = D14-1062-0
-# newdoc_id = D14-1062
+# newdoc id = D14-1062
 # text = Phrase-based models directly trained on mix-of-domain corpora can be sub-optimal.
 1	Phrase-based	phrase-based	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	models	model	NOUN	NNS	Number=Plur	10	nsubj	_	Seg=O
@@ -1786,7 +1786,7 @@
 24	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = D14-1063-0
-# newdoc_id = D14-1063
+# newdoc id = D14-1063
 # text = In Corpus-Based Machine Translation , the search space of the translation candidates for a given input sentence is often defined by a set of ( cycle-free ) context-free grammar rules .
 1	In	in	ADP	IN	_	4	case	_	Seg=B-seg
 2	Corpus-Based	corpus-based	ADJ	NNP	Degree=Pos	3	amod	_	Seg=O
@@ -1935,7 +1935,7 @@
 27	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1064-0
-# newdoc_id = D14-1064
+# newdoc id = D14-1064
 # text = When documents and queries are presented in different languages , the common approach is to translate the query into the document language .
 1	When	when	SCONJ	WRB	PronType=Int	6	mark	_	Seg=B-seg
 2	documents	document	NOUN	NNS	Number=Plur	6	nsubj:pass	_	Seg=O
@@ -2091,7 +2091,7 @@
 27	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = D14-1065-0
-# newdoc_id = D14-1065
+# newdoc id = D14-1065
 # text = A major challenge in document clustering research arises from the growing amount of text data written in different languages .
 1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	Seg=B-seg
 2	major	major	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -2240,7 +2240,7 @@
 28	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1066-0
-# newdoc_id = D14-1066
+# newdoc id = D14-1066
 # text = In this paper we examine the lexical substitution task for the medical domain .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -2346,7 +2346,7 @@
 39	.	.	PUNCT	.	_	18	punct	_	Seg=O
 
 # sent_id = D14-1067-0
-# newdoc_id = D14-1067
+# newdoc id = D14-1067
 # text = This paper presents a system which learns to answer questions on a broad range of topics from a knowledge base using few hand-crafted features .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	paper	paper	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -2437,7 +2437,7 @@
 31	.	.	PUNCT	.	_	21	punct	_	Seg=O
 
 # sent_id = D14-1068-0
-# newdoc_id = D14-1068
+# newdoc id = D14-1068
 # text = Keyboard layout errors and homoglyphs in cross-language queries impact our ability to correctly interpret user information needs and offer relevant results .
 1	Keyboard	keyboard	NOUN	NN	Number=Sing	3	compound	_	Seg=B-seg
 2	layout	layout	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -2512,7 +2512,7 @@
 25	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = D14-1069-0
-# newdoc_id = D14-1069
+# newdoc id = D14-1069
 # text = Non-linear mappings of the form P ( ngram ) γ andlog ( 1+τP ( ngram )) log ( 1+τ ) are applied to the n-gram probabilities in five trainable open-source language identifiers .
 1	Non-linear	Non-linear	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	mappings	mapping	NOUN	NNS	Number=Plur	22	nsubj:pass	_	Seg=O
@@ -2647,7 +2647,7 @@
 18	.	.	PUNCT	.	_	9	punct	_	Seg=O
 
 # sent_id = D14-1070-0
-# newdoc_id = D14-1070
+# newdoc id = D14-1070
 # text = Text classification methods for tasks like factoid question answering typically use manually defined string matching rules or bag of words representations .
 1	Text	text	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	Seg=B-seg
 2	classification	classification	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -2794,7 +2794,7 @@
 20	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1071-0
-# newdoc_id = D14-1071
+# newdoc id = D14-1071
 # text = Transforming a natural language ( NL ) question into a corresponding logical form ( LF ) is central to the knowledge-based question answering ( KB-QA ) task .
 1	Transforming	transform	VERB	VBG	VerbForm=Ger	18	csubj	_	Seg=B-seg
 2	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	Seg=O
@@ -2903,7 +2903,7 @@
 20	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1072-0
-# newdoc_id = D14-1072
+# newdoc id = D14-1072
 # text = Wikipedia's link structure is a valuable resource for natural language processing tasks , but only a fraction of the concepts mentioned in each article are annotated with hyperlinks .
 1	Wikipedia's	Wikipedia's	PROPN	NNP	Number=Sing	3	compound	_	Seg=B-seg
 2	link	link	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -3023,7 +3023,7 @@
 24	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1073-0
-# newdoc_id = D14-1073
+# newdoc id = D14-1073
 # text = In this paper we present our task-based evaluation of query biased summarization for cross-language information retrieval ( CLIR ) using relevance prediction .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -3180,7 +3180,7 @@
 14	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1074-0
-# newdoc_id = D14-1074
+# newdoc id = D14-1074
 # text = We propose a model for Chinese poem generation based on recurrent neural networks which we argue is ideally suited to capturing poetic content and form .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	propose	propose	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -3318,7 +3318,7 @@
 20	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1075-0
-# newdoc_id = D14-1075
+# newdoc id = D14-1075
 # text = This paper explores alternate algorithms , reward functions and feature sets for performing multi-document summarization using reinforcement learning with a high focus on reproducibility .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	paper	paper	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -3492,7 +3492,7 @@
 39	.	.	PUNCT	.	_	8	punct	_	Seg=O
 
 # sent_id = D14-1076-0
-# newdoc_id = D14-1076
+# newdoc id = D14-1076
 # text = In this paper , we focus on the problem of using sentence compression techniques to improve multi-document summarization .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -3640,7 +3640,7 @@
 19	.	.	PUNCT	.	_	8	punct	_	Seg=O
 
 # sent_id = D14-1077-0
-# newdoc_id = D14-1077
+# newdoc id = D14-1077
 # text = In this study , we analyzed the effects of applying different levels of stemming approaches such as fixed-length word truncation and morphological analysis for multi-document summarization ( MDS ) on Turkish , which is an agglutinative and morphologically rich language .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -3742,7 +3742,7 @@
 28	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1078-0
-# newdoc_id = D14-1078
+# newdoc id = D14-1078
 # text = The ability to learn from user interactions can give systems access to unprecedented amounts of knowledge .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	ability	ability	NOUN	NN	Number=Sing	9	nsubj	_	Seg=O
@@ -3921,7 +3921,7 @@
 43	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = D14-1079-0
-# newdoc_id = D14-1079
+# newdoc id = D14-1079
 # text = We provide a comparative study between neural word representations and traditional vector spaces based on co-occurrence counts , in a number of compositional tasks .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	provide	provide	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -4065,7 +4065,7 @@
 42	.	.	PUNCT	.	_	10	punct	_	Seg=O
 
 # sent_id = D14-1080-0
-# newdoc_id = D14-1080
+# newdoc id = D14-1080
 # text = Recurrent neural networks ( RNNs ) are connectionist models of sequential data that are naturally applicable to the analysis of natural language .
 1	Recurrent	recurrent	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	neural	neural	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -4234,7 +4234,7 @@
 49	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = D14-1081-0
-# newdoc_id = D14-1081
+# newdoc id = D14-1081
 # text = We propose the first implementation of an infinite-order generative dependency model .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	propose	propose	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -4384,7 +4384,7 @@
 18	.	.	PUNCT	.	_	8	punct	_	Seg=O
 
 # sent_id = D14-1082-0
-# newdoc_id = D14-1082
+# newdoc id = D14-1082
 # text = Almost all current dependency parsers classify based on millions of sparse indicator features .
 1	Almost	almost	ADV	RB	_	5	advmod	_	Seg=B-seg
 2	all	all	DET	DT	_	5	det	_	Seg=O
@@ -4524,7 +4524,7 @@
 26	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = D14-1083-0
-# newdoc_id = D14-1083
+# newdoc id = D14-1083
 # text = Recent years have seen a surge of interest in stance classification in online debates .
 1	Recent	Recent	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	years	year	NOUN	NNS	Number=Plur	4	nsubj	_	Seg=O
@@ -4669,7 +4669,7 @@
 35	.	.	PUNCT	.	_	13	punct	_	Seg=O
 
 # sent_id = D14-1084-0
-# newdoc_id = D14-1084
+# newdoc id = D14-1084
 # text = State-of-the-art Chinese zero pronoun resolution systems are supervised , thus relying on training data containing manually resolved zero pronouns .
 1	State-of-the-art	state-of-the-art	ADJ	JJ	Degree=Pos	6	amod	_	Seg=B-seg
 2	Chinese	Chinese	ADJ	JJ	Degree=Pos	6	amod	_	Seg=O
@@ -4777,7 +4777,7 @@
 24	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = D14-1085-0
-# newdoc_id = D14-1085
+# newdoc id = D14-1085
 # text = We present sentence enhancement as a novel technique for text-to-text generation in abstractive summarization .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -4918,7 +4918,7 @@
 30	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1086-0
-# newdoc_id = D14-1086
+# newdoc id = D14-1086
 # text = In this paper we introduce a new game to crowd-source natural language referring expressions .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -5056,7 +5056,7 @@
 25	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = D14-1087-0
-# newdoc_id = D14-1087
+# newdoc id = D14-1087
 # text = We propose an unsupervised approach to constructing templates from a large collection of semantic category names , and use the templates as the semantic representation of categories .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	propose	propose	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -5195,7 +5195,7 @@
 32	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = D14-1088-0
-# newdoc_id = D14-1088
+# newdoc id = D14-1088
 # text = Taxonomies are the backbone of many structured , semantic knowledge resources .
 1	Taxonomies	taxonomy	NOUN	NNS	Number=Plur	4	nsubj	_	Seg=B-seg
 2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Seg=O
@@ -5369,7 +5369,7 @@
 26	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1089-0
-# newdoc_id = D14-1089
+# newdoc id = D14-1089
 # text = State-of-the-art fact extraction is heavily constrained by recall , as demonstrated by recent performance in TAC Slot Filling .
 1	State-of-the-art	state-of-the-art	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	fact	fact	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -5531,7 +5531,7 @@
 25	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = D14-1090-0
-# newdoc_id = D14-1090
+# newdoc id = D14-1090
 # text = Several state-of-the-art event extraction systems employ models based on Support Vector Machines ( SVMs ) in a pipeline architecture , which fails to exploit the joint dependencies that typically exist among events and arguments .
 1	Several	several	ADJ	JJ	Degree=Pos	5	amod	_	Seg=B-seg
 2	state-of-the-art	state-of-the-art	ADJ	JJ	Degree=Pos	5	amod	_	Seg=O
@@ -5758,7 +5758,7 @@
 36	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1091-0
-# newdoc_id = D14-1091
+# newdoc id = D14-1091
 # text = Stress is a useful cue for English word segmentation .
 1	Stress	stress	NOUN	NN	Number=Sing	5	nsubj	_	Seg=B-seg
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Seg=O
@@ -5914,7 +5914,7 @@
 22	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1092-0
-# newdoc_id = D14-1092
+# newdoc id = D14-1092
 # text = In this paper , we propose a joint model for unsupervised Chinese word segmentation ( CWS ) .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -6117,7 +6117,7 @@
 30	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1093-0
-# newdoc_id = D14-1093
+# newdoc id = D14-1093
 # text = Supervised methods have been the dominant approach for Chinese word segmentation .
 1	Supervised	supervise	VERB	VBN	Tense=Past|VerbForm=Part	2	amod	_	Seg=B-seg
 2	methods	method	NOUN	NNS	Number=Plur	7	nsubj	_	Seg=O
@@ -6257,7 +6257,7 @@
 21	.	.	PUNCT	.	_	9	punct	_	Seg=O
 
 # sent_id = D14-1094-0
-# newdoc_id = D14-1094
+# newdoc id = D14-1094
 # text = Most studies on statistical Korean word spacing do not utilize the information provided by the input sentence and assume that it was completely concatenated .
 1	Most	most	ADJ	JJS	Degree=Sup	2	amod	_	Seg=B-seg
 2	studies	study	NOUN	NNS	Number=Plur	10	nsubj	_	Seg=O
@@ -6389,7 +6389,7 @@
 16	.	.	PUNCT	.	_	15	punct	_	Seg=O
 
 # sent_id = D14-1095-0
-# newdoc_id = D14-1095
+# newdoc id = D14-1095
 # text = We explore the impact of morphological segmentation on keyword spotting ( KWS ) .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	explore	explore	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -6507,7 +6507,7 @@
 15	.	.	PUNCT	.	_	11	punct	_	Seg=O
 
 # sent_id = D14-1096-0
-# newdoc_id = D14-1096
+# newdoc id = D14-1096
 # text = In this paper we address the problem of multilingual part-of-speech tagging for resource-poor languages .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -6631,7 +6631,7 @@
 28	.	.	PUNCT	.	_	12	punct	_	Seg=O
 
 # sent_id = D14-1097-0
-# newdoc_id = D14-1097
+# newdoc id = D14-1097
 # text = Active learning ( AL ) consists of asking human annotators to annotate automatically selected data that are assumed to bring the most benefit in the creation of a classifier .
 1	Active	Active	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	learning	learning	NOUN	NN	Number=Sing	6	nsubj	_	Seg=O
@@ -6750,7 +6750,7 @@
 45	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1098-0
-# newdoc_id = D14-1098
+# newdoc id = D14-1098
 # text = In this paper , we propose novel structured language modeling methods for code mixing speech recognition by incorporating a well-known syntactic constraint for switching code , namely the Functional Head Constraint ( FHC ) .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -7101,7 +7101,7 @@
 16	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = D14-1099-0
-# newdoc_id = D14-1099
+# newdoc id = D14-1099
 # text = The introduction of dynamic oracles has considerably improved the accuracy of greedy transition-based dependency parsers , without sacrificing parsing efficiency .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	introduction	introduction	NOUN	NN	Number=Sing	8	nsubj	_	Seg=O
@@ -7201,7 +7201,7 @@
 24	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = D14-1100-0
-# newdoc_id = D14-1100
+# newdoc id = D14-1100
 # text = The syntactic ambiguity of a transitive verb ( Vt ) followed by a noun ( N ) has long been a problem in Chinese parsing .
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	Seg=B-seg
 2	syntactic	syntactic	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -7406,7 +7406,7 @@
 19	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = D14-1194-0
-# newdoc_id = D14-1194
+# newdoc id = D14-1194
 # text = We describe a convolutional neural network that learns feature representations for short textual posts using hashtags as a supervised signal.
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	describe	describe	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -7511,7 +7511,7 @@
 22	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = D14-1195-0
-# newdoc_id = D14-1195
+# newdoc id = D14-1195
 # text = In this paper , we provide a new method for decoding tree transduction based sentence compression models augmented with language model scores , by jointly decoding two components .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -7612,7 +7612,7 @@
 17	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1196-0
-# newdoc_id = D14-1196
+# newdoc id = D14-1196
 # text = The current state-of-the-art single-document summarization method generates a summary by solving a Tree Knapsack Problem ( TKP ) , which is the problem of finding the optimal rooted subtree of the dependency-based discourse tree ( DEP-DT ) of a document .
 1	The	the	DET	DT	Definite=Def|PronType=Art	6	det	_	Seg=B-seg
 2	current	current	ADJ	JJ	Degree=Pos	6	amod	_	Seg=O
@@ -7770,7 +7770,7 @@
 32	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1197-0
-# newdoc_id = D14-1197
+# newdoc id = D14-1197
 # text = We show that semantic relationships can be used to improve word alignment , in addition to the lexical and syntactic features that are typically used .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	show	show	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -7866,7 +7866,7 @@
 22	.	.	PUNCT	.	_	11	punct	_	Seg=O
 
 # sent_id = D14-1198-0
-# newdoc_id = D14-1198
+# newdoc id = D14-1198
 # text = In this paper , we propose a new framework that unifies the output of three information extraction ( IE ) tasks - entity mentions , relations and events as an information network representation , and extracts all of them using one single joint model based on structured prediction .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -7979,7 +7979,7 @@
 19	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1199-0
-# newdoc_id = D14-1199
+# newdoc id = D14-1199
 # text = The efficiency of Information Extraction systems is known to be heavily influenced by domain-specific knowledge but the cost of developing such systems is considerably high .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	efficiency	efficiency	NOUN	NN	Number=Sing	8	nsubj:pass	_	Seg=O
@@ -8054,7 +8054,7 @@
 42	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = D14-1200-0
-# newdoc_id = D14-1200
+# newdoc id = D14-1200
 # text = This paper proposes a history-based structured learning approach that jointly extracts entities and relations in a sentence .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	paper	paper	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -8146,7 +8146,7 @@
 28	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1201-0
-# newdoc_id = D14-1201
+# newdoc id = D14-1201
 # text = Open Relation Extraction ( ORE ) overcomes the limitations of traditional IE techniques , which train individual extractors for every single relation type .
 1	Open	Open	ADJ	NNP	Degree=Pos	2	amod	_	Seg=B-seg
 2	Relation	relation	PROPN	NNP	Number=Sing	3	compound	_	Seg=O
@@ -8286,7 +8286,7 @@
 14	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = D14-1202-0
-# newdoc_id = D14-1202
+# newdoc id = D14-1202
 # text = Correctly predicting abbreviations given the full forms is important in many natural language processing systems .
 1	Correctly	correctly	ADV	RB	_	2	advmod	_	Seg=B-seg
 2	predicting	predict	VERB	VBG	VerbForm=Ger	9	csubj	_	Seg=O
@@ -8478,7 +8478,7 @@
 19	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = D14-1203-0
-# newdoc_id = D14-1203
+# newdoc id = D14-1203
 # text = Distant supervision has become the leading method for training large-scale relation extractors , with nearly universal adoption in recent TAC knowledge-base population competitions .
 1	Distant	distant	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	supervision	supervision	NOUN	NN	Number=Sing	4	nsubj	_	Seg=O
@@ -8669,7 +8669,7 @@
 14	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1204-0
-# newdoc_id = D14-1204
+# newdoc id = D14-1204
 # text = We address the problem of automatically inferring the tense of events in Chinese text .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	address	address	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -8842,7 +8842,7 @@
 15	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1205-0
-# newdoc_id = D14-1205
+# newdoc id = D14-1205
 # text = Populating Knowledge Base ( KB ) with new knowledge facts from reliable text re-sources usually consists of linking name mentions to KB entities and identifying relationship between entity pairs .
 1	Populating	populate	VERB	VBG	VerbForm=Ger	16	csubj	_	Seg=B-seg
 2	Knowledge	knowledge	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -9009,7 +9009,7 @@
 28	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = D14-1206-0
-# newdoc_id = D14-1206
+# newdoc id = D14-1206
 # text = Information in visually rich formats such as PDF and HTML is often conveyed by a combination of textual and visual features .
 1	Information	information	NOUN	NN	Number=Sing	13	nsubj:pass	_	Seg=B-seg
 2	in	in	ADP	IN	_	5	case	_	Seg=O
@@ -9157,7 +9157,7 @@
 21	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = D14-1207-0
-# newdoc_id = D14-1207
+# newdoc id = D14-1207
 # text = Temporal scope adds a time dimension to facts in Knowledge Bases ( KBs ) .
 1	Temporal	temporal	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	scope	scope	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -9356,7 +9356,7 @@
 24	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1208-0
-# newdoc_id = D14-1208
+# newdoc id = D14-1208
 # text = Distant supervision , a paradigm of relation extraction where training data is created by aligning facts in a database with a large unannotated corpus , is an attractive approach for training relation extractors .
 1	Distant	distant	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	supervision	supervision	NOUN	NN	Number=Sing	29	nsubj	_	Seg=O
@@ -9517,7 +9517,7 @@
 21	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1209-0
-# newdoc_id = D14-1209
+# newdoc id = D14-1209
 # text = Parameter tuning is an important problem in statistical machine translation , but surprisingly , most existing methods such as MERT , MIRA and PRO are agnostic about search , while search errors could severely degrade translation quality .
 1	Parameter	parameter	NOUN	NN	Number=Sing	2	compound	_	Seg=B-seg
 2	tuning	tuning	NOUN	NN	Number=Sing	6	nsubj	_	Seg=O
@@ -9629,7 +9629,7 @@
 32	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = D14-1210-0
-# newdoc_id = D14-1210
+# newdoc id = D14-1210
 # text = Data-driven refinement of non-terminal categories has been demonstrated to be a reliable technique for improving monolingual parsing with PCFGs .
 1	Data-driven	data-driven	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	refinement	refinement	NOUN	NN	Number=Sing	8	nsubj:pass	_	Seg=O
@@ -9757,7 +9757,7 @@
 31	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1211-0
-# newdoc_id = D14-1211
+# newdoc id = D14-1211
 # text = We investigate the interaction of power , gender , and language use in the Enron email corpus .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	investigate	investigate	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -9924,7 +9924,7 @@
 27	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1212-0
-# newdoc_id = D14-1212
+# newdoc id = D14-1212
 # text = Latent Dirichlet allocation ( LDA ) is a topic model that has been applied to various fields , including user profiling and event summarization on Twitter .
 1	Latent	latent	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	Dirichlet	Dirichlet	PROPN	NNP	Number=Sing	3	compound	_	Seg=O
@@ -10103,7 +10103,7 @@
 32	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1213-0
-# newdoc_id = D14-1213
+# newdoc id = D14-1213
 # text = Self-disclosure , the act of revealing one-self to others , is an important social behavior that strengthens interpersonal relationships and increases social support .
 1	Self-disclosure	Self-disclosure	PROPN	NNP	Number=Sing	15	nsubj	_	Seg=B-seg
 2	,	,	PUNCT	,	_	1	punct	_	Seg=O
@@ -10326,7 +10326,7 @@
 36	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1214-0
-# newdoc_id = D14-1214
+# newdoc id = D14-1214
 # text = Social media websites provide a platform for anyone to describe significant events taking place in their lives in realtime .
 1	Social	social	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	media	media	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -10463,7 +10463,7 @@
 34	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1215-0
-# newdoc_id = D14-1215
+# newdoc id = D14-1215
 # text = Comparisons are common linguistic devices used to indicate the likeness of two things .
 1	Comparisons	comparison	NOUN	NNS	Number=Plur	5	nsubj	_	Seg=B-seg
 2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	Seg=O
@@ -10647,7 +10647,7 @@
 41	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1216-0
-# newdoc_id = D14-1216
+# newdoc id = D14-1216
 # text = We describe an algorithm for automatic classification of idiomatic and literal expressions .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	describe	describe	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -10890,7 +10890,7 @@
 5	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1217-0
-# newdoc_id = D14-1217
+# newdoc id = D14-1217
 # text = We address the grounding of natural language to concrete spatial constraints , and inference of implicit pragmatics in 3D environments .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	address	address	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -11046,7 +11046,7 @@
 22	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = D14-1218-0
-# newdoc_id = D14-1218
+# newdoc id = D14-1218
 # text = Coherence is what makes a multi-sentence text meaningful , both logically and syntactically .
 1	Coherence	coherence	NOUN	NN	Number=Sing	3	nsubj	_	Seg=B-seg
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Seg=O
@@ -11222,7 +11222,7 @@
 17	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1219-0
-# newdoc_id = D14-1219
+# newdoc id = D14-1219
 # text = In this paper , we present a discriminative approach for reranking discourse trees generated by an existing probabilistic discourse parser .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -11344,7 +11344,7 @@
 44	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1220-0
-# newdoc_id = D14-1220
+# newdoc id = D14-1220
 # text = Text-level discourse parsing remains a challenge : most approaches employ features that fail to capture the intentional , semantic , and syntactic aspects that govern discourse coherence .
 1	Text-level	text-level	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	discourse	discourse	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -11451,7 +11451,7 @@
 18	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = D14-1221-0
-# newdoc_id = D14-1221
+# newdoc id = D14-1221
 # text = We present a novel method for coreference resolution error analysis which we apply to perform a recall error analysis of four state-of-the-art English coreference resolution systems .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -11533,7 +11533,7 @@
 20	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = D14-1222-0
-# newdoc_id = D14-1222
+# newdoc id = D14-1222
 # text = Bridging resolution plays an important role in establishing ( local ) entity coherence .
 1	Bridging	brid	VERB	VBG	VerbForm=Ger	2	amod	_	Seg=B-seg
 2	resolution	resolution	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -11683,7 +11683,7 @@
 21	.	.	PUNCT	.	_	13	punct	_	Seg=O
 
 # sent_id = D14-1223-0
-# newdoc_id = D14-1223
+# newdoc id = D14-1223
 # text = Unlike traditional over-the-phone spoken dialog systems ( SDSs ) , modern dialog systems tend to have visual rendering on the device screen as an additional modality to communicate the system's response to the user .
 1	Unlike	unlike	ADP	IN	_	6	case	_	Seg=B-seg
 2	traditional	traditional	ADJ	JJ	Degree=Pos	6	amod	_	Seg=O
@@ -11852,7 +11852,7 @@
 19	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = D14-1224-0
-# newdoc_id = D14-1224
+# newdoc id = D14-1224
 # text = In this paper , we propose a Connective-driven Dependency Tree ( CDT ) scheme to represent the discourse rhetorical structure in Chinese language , with elementary discourse units as leaf nodes and connectives as non-leaf nodes , largely motivated by the Penn Discourse Treebank and the Rhetorical Structure Theory .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -11997,7 +11997,7 @@
 23	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = D14-1225-0
-# newdoc_id = D14-1225
+# newdoc id = D14-1225
 # text = We propose a novel search-based approach for greedy coreference resolution , where the mentions are processed in order and added to previous coreference clusters .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	propose	propose	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -12125,7 +12125,7 @@
 30	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = D14-1226-0
-# newdoc_id = D14-1226
+# newdoc id = D14-1226
 # text = A typical discussion thread in an online forum spans multiple pages involving participation from multiple users and thus , may contain multiple view-points and solutions .
 1	A	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	Seg=B-seg
 2	typical	typical	ADJ	JJ	Degree=Pos	4	amod	_	Seg=O
@@ -12245,7 +12245,7 @@
 11	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = P14-1124-0
-# newdoc_id = P14-1124
+# newdoc id = P14-1124
 # text = We aim to improve spoken term detection performance by incorporating contextual information beyond traditional N-gram language models .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	aim	aim	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -12407,7 +12407,7 @@
 22	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = P14-1125-0
-# newdoc_id = P14-1125
+# newdoc id = P14-1125
 # text = Recent work on Chinese analysis has led to large-scale annotations of the internal structures of words , enabling character-level analysis of Chinese syntactic structures .
 1	Recent	Recent	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	work	work	NOUN	NN	Number=Sing	7	nsubj	_	Seg=O
@@ -12517,7 +12517,7 @@
 14	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = P14-1126-0
-# newdoc_id = P14-1126
+# newdoc id = P14-1126
 # text = We present a novel approach for inducing unsupervised dependency parsers for languages that have no labeled training data , but have translated text in a resource-rich language .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -12663,7 +12663,7 @@
 22	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P14-1127-0
-# newdoc_id = P14-1127
+# newdoc id = P14-1127
 # text = We present a novel way of generating unseen words , which is useful for certain applications such as automatic speech recognition or optical character recognition in low-resource languages .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -12781,7 +12781,7 @@
 28	.	.	PUNCT	.	_	13	punct	_	Seg=O
 
 # sent_id = P14-1128-0
-# newdoc_id = P14-1128
+# newdoc id = P14-1128
 # text = This study investigates on building a better Chinese word segmentation model for statistical machine translation .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	study	study	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -12924,7 +12924,7 @@
 22	.	.	PUNCT	.	_	9	punct	_	Seg=O
 
 # sent_id = P14-1129-0
-# newdoc_id = P14-1129
+# newdoc id = P14-1129
 # text = Recent work has shown success in using neural network language models ( NNLMs ) as features in MT systems .
 1	Recent	Recent	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	work	work	NOUN	NN	Number=Sing	4	nsubj	_	Seg=O
@@ -13214,7 +13214,7 @@
 47	.	.	PUNCT	.	_	13	punct	_	Seg=O
 
 # sent_id = P14-1130-0
-# newdoc_id = P14-1130
+# newdoc id = P14-1130
 # text = Accurate scoring of syntactic structures such as head-modifier arcs in dependency parsing typically requires rich , high-dimensional feature representations .
 1	Accurate	accurate	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	scoring	scoring	NOUN	NN	Number=Sing	14	nsubj	_	Seg=O
@@ -13366,7 +13366,7 @@
 12	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = P14-1131-0
-# newdoc_id = P14-1131
+# newdoc id = P14-1131
 # text = We present CoSimRank , a graph-theoretic similarity measure that is efficient because it can compute a single node similarity without having to compute the similarities of the entire graph .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -13487,7 +13487,7 @@
 25	.	.	PUNCT	.	_	21	punct	_	Seg=O
 
 # sent_id = P14-1132-0
-# newdoc_id = P14-1132
+# newdoc id = P14-1132
 # text = Following up on recent work on establishing a mapping between vector-based semantic embeddings of words and the visual representations of the corresponding objects from natural images , we first present a simple approach to cross-modal vector-based semantics for the task of zero-shot learning , in which an image of a previously unseen object is mapped to a linguistic representation denoting its word .
 1	Following	follow	VERB	VBG	VerbForm=Ger	5	case	_	Seg=B-seg
 2	up	up	ADP	RP	_	1	compound:prt	_	Seg=O
@@ -13664,7 +13664,7 @@
 29	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = P14-1133-0
-# newdoc_id = P14-1133
+# newdoc id = P14-1133
 # text = A central challenge in semantic parsing is handling the myriad ways in which knowledge base predicates can be expressed .
 1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	Seg=B-seg
 2	central	central	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -13846,7 +13846,7 @@
 13	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = P14-1134-0
-# newdoc_id = P14-1134
+# newdoc id = P14-1134
 # text = Abstract Meaning Representation ( AMR ) is a semantic formalism for which a grow-ing set of annotated examples is available .
 1	Abstract	abstract	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	Meaning	meaning	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -13978,7 +13978,7 @@
 13	//github.com/jflanigan/jamr	//github.com/jflanigan/jamr	PROPN	NNP	Number=Sing	11	appos	_	Seg=O
 
 # sent_id = P14-1135-0
-# newdoc_id = P14-1135
+# newdoc id = P14-1135
 # text = We present an approach for learning context-dependent semantic parsers to identify and interpret time expressions .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -14068,7 +14068,7 @@
 26	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = P14-1136-0
-# newdoc_id = P14-1136
+# newdoc id = P14-1136
 # text = We present a novel technique for semantic frame identification using distributed representations of predicates and their syntactic context ; this technique leverages automatic syntactic parses and a generic set of word embeddings .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -14192,7 +14192,7 @@
 17	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = P14-1137-0
-# newdoc_id = P14-1137
+# newdoc id = P14-1137
 # text = The sense in which a word is used determines the translation of the word .
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Seg=B-seg
 2	sense	sense	NOUN	NN	Number=Sing	9	nsubj	_	Seg=O
@@ -14363,7 +14363,7 @@
 21	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P14-1138-0
-# newdoc_id = P14-1138
+# newdoc id = P14-1138
 # text = This study proposes a word alignment model based on a recurrent neural network ( RNN ) , in which an unlimited alignment history is represented by recurrently connected hidden layers .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	study	study	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -14534,7 +14534,7 @@
 46	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = P14-1139-0
-# newdoc_id = P14-1139
+# newdoc id = P14-1139
 # text = Bidirectional models of word alignment are an appealing alternative to post-hoc combinations of directional word aligners .
 1	Bidirectional	bidirectional	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	models	model	NOUN	NNS	Number=Plur	9	nsubj	_	Seg=O
@@ -14669,7 +14669,7 @@
 19	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = P14-1140-0
-# newdoc_id = P14-1140
+# newdoc id = P14-1140
 # text = In this paper , we propose a novel recursive recurrent neural network ( R2NN ) to model the end-to-end decoding process for statistical machine translation .
 1	In	in	ADP	IN	_	3	case	_	Seg=B-seg
 2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	Seg=O
@@ -14838,7 +14838,7 @@
 25	.	.	PUNCT	.	_	9	punct	_	Seg=O
 
 # sent_id = P14-1141-0
-# newdoc_id = P14-1141
+# newdoc id = P14-1141
 # text = Instructor intervention in student discussion forums is a vital component in Massive Open Online Courses ( MOOCs ) , where personalized interaction is limited .
 1	Instructor	instructor	NOUN	NN	Number=Sing	2	compound	_	Seg=B-seg
 2	intervention	intervention	NOUN	NN	Number=Sing	10	nsubj	_	Seg=O
@@ -14961,7 +14961,7 @@
 24	.	.	PUNCT	.	_	8	punct	_	Seg=O
 
 # sent_id = P14-1142-0
-# newdoc_id = P14-1142
+# newdoc id = P14-1142
 # text = It is very important for Chinese language processing with the aid of an efficient input method engine ( IME ) , of which pinyin-to-Chinese ( PTC ) conversion is the core part .
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Seg=B-seg
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Seg=O
@@ -15074,7 +15074,7 @@
 16	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = P14-1143-0
-# newdoc_id = P14-1143
+# newdoc id = P14-1143
 # text = Natural touch interfaces , common now in devices such as tablets and smartphones , make it cumbersome for users to select text .
 1	Natural	Natural	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	touch	touch	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -15246,7 +15246,7 @@
 22	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P14-1144-0
-# newdoc_id = P14-1144
+# newdoc id = P14-1144
 # text = Recently , researchers have begun exploring methods of scoring student essays with respect to particular dimensions of quality such as coherence , technical errors , and prompt adherence .
 1	Recently	recently	ADV	RB	_	5	advmod	_	Seg=B-seg
 2	,	,	PUNCT	,	_	5	punct	_	Seg=O
@@ -15354,7 +15354,7 @@
 19	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = P14-1145-0
-# newdoc_id = P14-1145
+# newdoc id = P14-1145
 # text = We introduce ConnotationWordNet , a connotation lexicon over the network of words in conjunction with senses .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	introduce	introduce	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -15466,7 +15466,7 @@
 23	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P14-1146-0
-# newdoc_id = P14-1146
+# newdoc id = P14-1146
 # text = We present a method that learns word embedding for Twitter sentiment classification in this paper .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -15682,7 +15682,7 @@
 48	.	.	PUNCT	.	_	15	punct	_	Seg=O
 
 # sent_id = P14-1147-0
-# newdoc_id = P14-1147
+# newdoc id = P14-1147
 # text = Consumers' purchase decisions are increasingly influenced by user-generated online reviews .
 1	Consumers'	Consumers'	PROPN	NNP	Number=Sing	3	compound	_	Seg=B-seg
 2	purchase	purchase	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -15851,7 +15851,7 @@
 46	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = P16-1147-0
-# newdoc_id = P16-1147
+# newdoc id = P16-1147
 # text = Traditional syntax models typically leverage part-of-speech ( POS ) information by constructing features from hand-tuned templates .
 1	Traditional	traditional	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	syntax	syntax	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -16002,7 +16002,7 @@
 35	.	.	PUNCT	.	_	18	punct	_	Seg=O
 
 # sent_id = P16-1148-0
-# newdoc_id = P16-1148
+# newdoc id = P16-1148
 # text = We examine communications in a social network to study user emotional contrast - the propensity of users to express different emotions than those expressed by their neighbors .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	examine	examine	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -16168,7 +16168,7 @@
 46	.	.	PUNCT	.	_	16	punct	_	Seg=O
 
 # sent_id = P16-1149-0
-# newdoc_id = P16-1149
+# newdoc id = P16-1149
 # text = State legislatures often rely on existing text when drafting new bills .
 1	State	state	NOUN	NN	Number=Sing	2	compound	_	Seg=B-seg
 2	legislatures	legislature	NOUN	NNS	Number=Plur	4	nsubj	_	Seg=O
@@ -16326,7 +16326,7 @@
 19	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1150-0
-# newdoc_id = P16-1150
+# newdoc id = P16-1150
 # text = We propose a new task in the field of computational argumentation in which we investigate qualitative properties of Web arguments , namely their convincingness .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	propose	propose	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -16510,7 +16510,7 @@
 15	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1151-0
-# newdoc_id = P16-1151
+# newdoc id = P16-1151
 # text = An extensive literature in computational social science examines how features of messages , advertisements , and other corpora affect individuals ' decisions , but these analyses must specify the relevant features of the text before the experiment .
 1	An	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	Seg=B-seg
 2	extensive	extensive	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -16724,7 +16724,7 @@
 31	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1152-0
-# newdoc_id = P16-1152
+# newdoc id = P16-1152
 # text = Structured prediction from bandit feedback describes a learning scenario where instead of having access to a gold standard structure , a learner only receives partial feedback in form of the loss value of a predicted structure .
 1	Structured	structure	VERB	VBN	Tense=Past|VerbForm=Part	2	amod	_	Seg=B-seg
 2	prediction	prediction	NOUN	NN	Number=Sing	6	nsubj	_	Seg=O
@@ -16830,7 +16830,7 @@
 36	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1153-0
-# newdoc_id = P16-1153
+# newdoc id = P16-1153
 # text = This paper introduces a novel architecture for reinforcement learning with deep neural networks designed to handle state and action spaces characterized by natural language , as found in text-based games .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	paper	paper	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -16950,7 +16950,7 @@
 20	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = P16-1154-0
-# newdoc_id = P16-1154
+# newdoc id = P16-1154
 # text = We address an important problem in sequence-to-sequence ( Seq2Seq ) learning referred to as copying , in which certain segments in the input sequence are selectively replicated in the output sequence .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	address	address	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -17151,7 +17151,7 @@
 17	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = P16-1155-0
-# newdoc_id = P16-1155
+# newdoc id = P16-1155
 # text = Advances in transfer learning have let go the limitations of traditional supervised machine learning algorithms for being dependent on annotated training data for training new models for every new domain .
 1	Advances	advance	NOUN	NNS	Number=Plur	6	nsubj	_	Seg=B-seg
 2	in	in	ADP	IN	_	4	case	_	Seg=O
@@ -17326,7 +17326,7 @@
 24	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = P16-1156-0
-# newdoc_id = P16-1156
+# newdoc id = P16-1156
 # text = Languages with rich inflectional morphology exhibit lexical data sparsity , since the word used to express a given concept will vary with the syntactic context .
 1	Languages	Language	NOUN	NNS	Number=Plur	6	nsubj	_	Seg=B-seg
 2	with	with	ADP	IN	_	5	case	_	Seg=O
@@ -17534,7 +17534,7 @@
 30	.	.	PUNCT	.	_	10	punct	_	Seg=O
 
 # sent_id = P16-1157-0
-# newdoc_id = P16-1157
+# newdoc id = P16-1157
 # text = Despite interest in using cross-lingual knowledge to learn word embeddings for various tasks , a systematic comparison of the possible approaches is lacking in the literature .
 1	Despite	despite	ADP	IN	_	2	case	_	Seg=B-seg
 2	interest	interest	NOUN	NN	Number=Sing	23	obl	_	Seg=O
@@ -17655,7 +17655,7 @@
 25	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1158-0
-# newdoc_id = P16-1158
+# newdoc id = P16-1158
 # text = Recent work has shown that simple vector subtraction over word embeddings is surprisingly effective at capturing different lexical relations , despite lacking explicit supervision .
 1	Recent	Recent	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	work	work	NOUN	NN	Number=Sing	4	nsubj	_	Seg=O
@@ -17809,7 +17809,7 @@
 37	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1159-0
-# newdoc_id = P16-1159
+# newdoc id = P16-1159
 # text = We propose minimum risk training for end-to-end neural machine translation .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	propose	propose	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -17906,7 +17906,7 @@
 20	.	.	PUNCT	.	_	9	punct	_	Seg=O
 
 # sent_id = P16-1160-0
-# newdoc_id = P16-1160
+# newdoc id = P16-1160
 # text = The existing machine translation systems , whether phrase-based or neural , have relied almost exclusively on word-level modelling with explicit segmentation .
 1	The	the	DET	DT	Definite=Def|PronType=Art	5	det	_	Seg=B-seg
 2	existing	exist	VERB	VBG	VerbForm=Ger	5	amod	_	Seg=O
@@ -18059,7 +18059,7 @@
 30	.	.	PUNCT	.	_	12	punct	_	Seg=O
 
 # sent_id = P16-1161-0
-# newdoc_id = P16-1161
+# newdoc id = P16-1161
 # text = Discriminative translation models utilizing source context have been shown to help statistical machine translation performance .
 1	Discriminative	discriminative	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	translation	translation	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -18189,7 +18189,7 @@
 10	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = P16-1162-0
-# newdoc_id = P16-1162
+# newdoc id = P16-1162
 # text = Neural machine translation ( NMT ) models typically operate with a fixed vocabulary , but translation is an open-vocabulary problem .
 1	Neural	neural	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	machine	machine	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -18380,7 +18380,7 @@
 58	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1163-0
-# newdoc_id = P16-1163
+# newdoc id = P16-1163
 # text = Word pairs , which are one of the most easily accessible features between two text segments , have been proven to be very useful for detecting the discourse relations held between text segments .
 1	Word	Word	NOUN	NN	Number=Sing	2	compound	_	Seg=B-seg
 2	pairs	pair	NOUN	NNS	Number=Plur	20	nsubj:pass	_	Seg=O
@@ -18543,7 +18543,7 @@
 33	.	.	PUNCT	.	_	8	punct	_	Seg=O
 
 # sent_id = P16-1164-0
-# newdoc_id = P16-1164
+# newdoc id = P16-1164
 # text = Quotation detection is the task of locating spans of quoted speech in text .
 1	Quotation	quotation	NOUN	NN	Number=Sing	2	compound	_	Seg=B-seg
 2	detection	detection	NOUN	NN	Number=Sing	5	nsubj	_	Seg=O
@@ -18680,7 +18680,7 @@
 43	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1165-0
-# newdoc_id = P16-1165
+# newdoc id = P16-1165
 # text = This paper addresses the problem of speech act recognition in written asynchronous conversations ( e.g. , fora , emails ) .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	paper	paper	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -18788,7 +18788,7 @@
 34	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = P16-1166-0
-# newdoc_id = P16-1166
+# newdoc id = P16-1166
 # text = This paper describes the first robust approach to automatically labeling clauses with their situation entity type ( Smith , 2003 ) , capturing aspectual phenomena at the clause level which are relevant for interpreting both semantics at the clause level and discourse structure .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	paper	paper	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -18937,7 +18937,7 @@
 40	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1167-0
-# newdoc_id = P16-1167
+# newdoc id = P16-1167
 # text = Activities and events in our lives are structural , be it a vacation , a camping trip , or a wedding .
 1	Activities	activity	NOUN	NNS	Number=Plur	8	nsubj	_	Seg=B-seg
 2	and	and	CCONJ	CC	_	3	cc	_	Seg=O
@@ -19085,7 +19085,7 @@
 19	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = P16-1168-0
-# newdoc_id = P16-1168
+# newdoc id = P16-1168
 # text = Automatically generating a natural language description of an image is a fundamental problem in artificial intelligence .
 1	Automatically	automatically	ADV	RB	_	13	advmod	_	Seg=B-seg
 2	generating	generate	VERB	VBG	VerbForm=Ger	13	csubj	_	Seg=O
@@ -19313,7 +19313,7 @@
 29	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1169-0
-# newdoc_id = P16-1169
+# newdoc id = P16-1169
 # text = We study the problem of automatically building hypernym taxonomies from textual and visual data .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	study	study	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -19457,7 +19457,7 @@
 22	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1170-0
-# newdoc_id = P16-1170
+# newdoc id = P16-1170
 # text = There has been an explosion of work in the vision & language community during the past few years from image captioning to video transcription , and answering questions about images .
 1	There	there	PRON	EX	_	3	expl	_	Seg=B-seg
 2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Seg=O
@@ -19698,7 +19698,7 @@
 24	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = P16-1171-0
-# newdoc_id = P16-1171
+# newdoc id = P16-1171
 # text = Linguistics studies have shown that action verbs often denote some Change of State ( CoS ) as the result of an action .
 1	Linguistics	linguistics	NOUN	NN	Number=Sing	2	compound	_	Seg=B-seg
 2	studies	study	NOUN	NNS	Number=Plur	4	nsubj	_	Seg=O
@@ -19863,7 +19863,7 @@
 16	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = P16-1172-0
-# newdoc_id = P16-1172
+# newdoc id = P16-1172
 # text = This paper presents a problem-reduction approach to extractive multi-document summarization : we propose a reduction to the problem of scoring individual sentences with their ROUGE scores based on supervised learning .
 1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	Seg=B-seg
 2	paper	paper	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O
@@ -20003,7 +20003,7 @@
 18	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1173-0
-# newdoc_id = P16-1173
+# newdoc id = P16-1173
 # text = There has been almost no work on phrase structure annotation and parsing specially designed for learner English despite the fact that they are useful for representing the structural characteristics of learner English .
 1	There	there	PRON	EX	_	3	expl	_	Seg=B-seg
 2	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Seg=O
@@ -20163,7 +20163,7 @@
 25	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = P16-1174-0
-# newdoc_id = P16-1174
+# newdoc id = P16-1174
 # text = We present half-life regression ( HLR ) , a novel model for spaced repetition practice with applications to second language acquisition .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -20302,7 +20302,7 @@
 20	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = P16-1175-0
-# newdoc_id = P16-1175
+# newdoc id = P16-1175
 # text = Foreign language learners can acquire new vocabulary by using cognate and context clues when reading .
 1	Foreign	foreign	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	language	language	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -20434,7 +20434,7 @@
 33	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = P16-1176-0
-# newdoc_id = P16-1176
+# newdoc id = P16-1176
 # text = We present a computational analysis of three language varieties : native , advanced non-native , and translation .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -20564,7 +20564,7 @@
 80	.	.	PUNCT	.	_	8	punct	_	Seg=O
 
 # sent_id = P16-1177-0
-# newdoc_id = P16-1177
+# newdoc id = P16-1177
 # text = We present a pairwise context-sensitive Autoencoder for computing text pair similarity .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -20660,7 +20660,7 @@
 35	.	.	PUNCT	.	_	21	punct	_	Seg=O
 
 # sent_id = P16-1178-0
-# newdoc_id = P16-1178
+# newdoc id = P16-1178
 # text = Online news editors ask themselves the same question many times : what is missing in this news article to go online ?
 1	Online	Online	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	news	news	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -20793,7 +20793,7 @@
 24	.	.	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = P16-1179-0
-# newdoc_id = P16-1179
+# newdoc id = P16-1179
 # text = Named Entity Disambiguation ( NED ) algorithms disambiguate mentions of named entities with respect to a knowledge-base , but sometimes the context might be poor or misleading .
 1	Named	name	VERB	VBN	Tense=Past|VerbForm=Part	7	amod	_	Seg=B-seg
 2	Entity	Entity	PROPN	NNP	Number=Sing	1	obj	_	Seg=O
@@ -20922,7 +20922,7 @@
 15	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1180-0
-# newdoc_id = P16-1180
+# newdoc id = P16-1180
 # text = Finding paraphrases in text is an important task with implications for generation , summarization and question answering , among other applications .
 1	Finding	find	VERB	VBG	VerbForm=Ger	8	csubj	_	Seg=B-seg
 2	paraphrases	paraphrase	NOUN	NNS	Number=Plur	1	obj	_	Seg=O
@@ -21055,7 +21055,7 @@
 37	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = P16-1181-0
-# newdoc_id = P16-1181
+# newdoc id = P16-1181
 # text = We cast sentence boundary detection and syntactic parsing as a joint problem , so an entire text document forms a training instance for transition-based dependency parsing .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	cast	cast	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Seg=O
@@ -21202,7 +21202,7 @@
 26	.	.	PUNCT	.	_	13	punct	_	Seg=O
 
 # sent_id = P16-1182-0
-# newdoc_id = P16-1182
+# newdoc id = P16-1182
 # text = Precise evaluation metrics are important for assessing progress in high-level language generation tasks such as machine translation or image captioning .
 1	Precise	Precise	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	evaluation	evaluation	NOUN	NN	Number=Sing	3	compound	_	Seg=O
@@ -21380,7 +21380,7 @@
 48	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1183-0
-# newdoc_id = P16-1183
+# newdoc id = P16-1183
 # text = For many applications , the query speed of N-gram language models is a computational bottleneck .
 1	For	for	ADP	IN	_	3	case	_	Seg=B-seg
 2	many	many	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -21545,7 +21545,7 @@
 9	//github.com/XapaJIaMnu/gLM	//github.com/xapajiamnu/glm	X	ADD	_	7	appos	_	Seg=O
 
 # sent_id = P16-1184-0
-# newdoc_id = P16-1184
+# newdoc id = P16-1184
 # text = Morphologically rich languages often lack the annotated linguistic resources required to develop accurate natural language processing tools .
 1	Morphologically	morphologically	ADV	RB	_	2	advmod	_	Seg=B-seg
 2	rich	rich	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -21718,7 +21718,7 @@
 29	.	.	PUNCT	.	_	8	punct	_	Seg=O
 
 # sent_id = P16-1185-0
-# newdoc_id = P16-1185
+# newdoc id = P16-1185
 # text = While end-to-end neural machine translation ( NMT ) has made remarkable progress recently , NMT systems only rely on parallel corpora for parameter estimation .
 1	While	while	SCONJ	IN	_	10	mark	_	Seg=B-seg
 2	end-to-end	end-to-end	ADJ	JJ	Degree=Pos	5	amod	_	Seg=O
@@ -21888,7 +21888,7 @@
 19	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = P16-1186-0
-# newdoc_id = P16-1186
+# newdoc id = P16-1186
 # text = Training neural network language models over large vocabularies is computationally costly compared to count-based models such as Kneser-Ney .
 1	Training	train	VERB	VBG	VerbForm=Ger	11	csubj	_	Seg=B-seg
 2	neural	neural	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -21993,7 +21993,7 @@
 23	.	.	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = P16-1187-0
-# newdoc_id = P16-1187
+# newdoc id = P16-1187
 # text = Distributional semantic models ( DSMs ) are often evaluated on artificial similarity datasets containing single words or fully compositional phrases .
 1	Distributional	distributional	ADJ	JJ	Degree=Pos	3	amod	_	Seg=B-seg
 2	semantic	semantic	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -22140,7 +22140,7 @@
 34	.	.	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = P16-1188-0
-# newdoc_id = P16-1188
+# newdoc id = P16-1188
 # text = We present a discriminative model for single-document summarization that integrally combines compression and anaphoricity constraints .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	present	present	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -22293,7 +22293,7 @@
 23	.	.	PUNCT	.	_	8	punct	_	Seg=O
 
 # sent_id = P16-1189-0
-# newdoc_id = P16-1189
+# newdoc id = P16-1189
 # text = We describe and evaluate a simple method to extract parallel sentences from comparable corpora .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	describe	describe	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -22412,7 +22412,7 @@
 29	.	.	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = P16-1190-0
-# newdoc_id = P16-1190
+# newdoc id = P16-1190
 # text = We propose a joint formulation for learning task-specific cross-lingual word embeddings , along with classifiers for that task .
 1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Seg=B-seg
 2	propose	propose	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
@@ -22569,7 +22569,7 @@
 18	.	.	PUNCT	.	_	7	punct	_	Seg=O
 
 # sent_id = P16-1191-0
-# newdoc_id = P16-1191
+# newdoc id = P16-1191
 # text = Coarse-grained semantic categories such as supersenses have proven useful for a range of downstream tasks such as question answering or machine translation .
 1	Coarse-grained	coarse-grain	VERB	VBN	Tense=Past|VerbForm=Part	3	amod	_	Seg=B-seg
 2	semantic	semantic	ADJ	JJ	Degree=Pos	3	amod	_	Seg=O
@@ -22678,7 +22678,7 @@
 29	.	.	PUNCT	.	_	12	punct	_	Seg=O
 
 # sent_id = P16-1192-0
-# newdoc_id = P16-1192
+# newdoc id = P16-1192
 # text = Parsing for a wide variety of grammar formalisms can be performed by intersecting finite tree automata .
 1	Parsing	parse	VERB	VBG	VerbForm=Ger	11	advcl	_	Seg=B-seg
 2	for	for	ADP	IN	_	5	case	_	Seg=O
@@ -22764,7 +22764,7 @@
 13	.	.	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = P16-1193-0
-# newdoc_id = P16-1193
+# newdoc id = P16-1193
 # text = Distributional semantics creates vectorspace representations that capture many forms of semantic similarity , but their relation to semantic entailment has been less clear .
 1	Distributional	distributional	ADJ	JJ	Degree=Pos	2	amod	_	Seg=B-seg
 2	semantics	semantics	NOUN	NN	Number=Sing	3	nsubj	_	Seg=O

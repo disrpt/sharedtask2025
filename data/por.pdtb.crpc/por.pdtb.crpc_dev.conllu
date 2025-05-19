@@ -1,4 +1,4 @@
-# newdoc_id = mcarv1_2
+# newdoc id = mcarv1_2
 # sent_id = mcarv1_2-1
 # text = O grande Homero a_ as vezes dormitava , garante Horácio .
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	Conn=O
@@ -2954,7 +2954,7 @@
 26	distracções	distracção	NOUN	_	Gender=Fem|Number=Plur	22	nmod	22:nmod	Conn=O
 27	.	.	PUNCT	_	_	8	punct	8:punct	Conn=O
 
-# newdoc_id = dn81115
+# newdoc id = dn81115
 # sent_id = dn81115-1
 # text = O embate de ontem , a_ a noite , entre o segundo e o terceiro classificados de_ o Nacional de_ a I Divisão foi um bocejo em_ as Antas - ou então , recorrendo a_ a sempre actual linguagem queirosiana , simplesmente uma seca !
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -4408,7 +4408,7 @@
 29	meritória	meritório	ADJ	_	Gender=Fem|Number=Sing	25	xcomp	25:xcomp	Conn=O
 30	.	.	PUNCT	_	_	5	punct	5:punct	Conn=O
 
-# newdoc_id = dn81201
+# newdoc id = dn81201
 # sent_id = dn81201-1
 # text = em_ um de_ os últimos anos de_ a sua vida longa e laboriosa , Jaspers foi visitado por um admirador que mostrou curiosidade em saber as leituras que ele estava ultimamente fazendo , a_ o que o filósofo germânico contestou dizendo que só lia jornais e revistas ... por não ter tempo para ler livros .
 1	em_	em_	ADP	_	_	2	case	2:case	Conn=O
@@ -6612,7 +6612,7 @@
 49	»	»	PUNCT	_	_	38	punct	38:punct	Conn=O
 50	...	...	PUNCT	_	_	2	punct	2:punct	Conn=O
 
-# newdoc_id = dn81217
+# newdoc id = dn81217
 # sent_id = dn81217-1
 # text = A última história amorosa de Elvis Presley , que envolveu a norte-americana Linda Thompson , vai ser posta em filme para a televisão , com o título « Elvis e a Rainha de_ a Beleza » .
 1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	Conn=O
@@ -7119,7 +7119,7 @@
 39	Tennessee	Tennessee	PROPN	_	Number=Sing	38	flat:name	38:flat:name	Conn=O
 40	.	.	PUNCT	_	_	36	punct	36:punct	Conn=O
 
-# newdoc_id = dn82502
+# newdoc id = dn82502
 # sent_id = dn82502-1
 # text = Em_ a sequência de uma decisão de_ o Conselho de Ministros , Marcelo Rebelo de Sousa , ministro para os Assuntos Parlamentares , recebeu , ontem , delegações de_ os partidos com assento em_ a Assembleia de_ a República ( excepto de_ o PCP e de_ a ASDI , que declinaram o convite ) , a quem entregou o anteprojecto de proposta de lei de organização , funcionamento e processo de_ o Tribunal Constitucional , « para apreciação e eventuais propostas de alteração » .
 1	Em_	em_	ADP	_	_	3	case	3:case	Conn=O
@@ -8209,7 +8209,7 @@
 110	cinegético	cinegético	ADJ	_	Gender=Masc|Number=Sing	109	amod	109:amod	Conn=O
 111	.	.	PUNCT	_	_	98	punct	98:punct	Conn=O
 
-# newdoc_id = dn87114
+# newdoc id = dn87114
 # sent_id = dn87114-1
 # text = Depois de_ as festas e de_ as despesas extraordinárias em que todos incorremos , decidi apresentar a_ os leitores algumas ideias engraçadas de aproveitamentos , que consigam ( vamos ver se serei capas ! ) repor , um pouco , o orçamento .
 1	Depois	depois	ADV	_	_	15	advmod	15:advmod	Conn=B-conn
@@ -8992,7 +8992,7 @@
 3	quente	quente	ADJ	_	Gender=Masc|Number=Sing	1	xcomp	1:xcomp	Conn=O
 4	.	.	PUNCT	_	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = dn87201
+# newdoc id = dn87201
 # sent_id = dn87201-1
 # text = A REVELAÇÃO foi feita já a_ a hora de_ o almoço por um responsável de_ a cooperativa , o sr. Luís , como respeitosamente o tratam , que durante grande parte de_ a manhã fez um relato de_ os problemas com que os trabalhadores se defrontam .
 1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -9683,7 +9683,7 @@
 3	.	.	PUNCT	_	_	2	punct	2:punct	Conn=O
 4	"	«	PUNCT	_	_	2	punct	2:punct	Conn=O
 
-# newdoc_id = dn87421
+# newdoc id = dn87421
 # sent_id = dn87421-1
 # text = " O crescimento ecómico não é mera função de_ as taxas de acumulação de meios produtivos " referiu Xavier Pintado , em conferência proferida em_ a Fundação Portugal Século XXI ; por_ o contrário , o desenvolvimento só pode " ser consequência de_ o grau de eficiência em_ a utilização de_ os recursos disponíveis " .
 1	"	«	PUNCT	_	_	8	punct	8:punct	Conn=O
@@ -10151,7 +10151,7 @@
 47	Genebra	Genebra	PROPN	_	Gender=Fem|Number=Sing	45	obl	45:obl	Conn=O
 48	.	.	PUNCT	_	_	11	punct	11:punct	Conn=O
 
-# newdoc_id = dn87422
+# newdoc id = dn87422
 # sent_id = dn87422-1
 # text = A Associação Nacional de_ os Empreiteiros de Obras Públicas ( AENOP ) admitiu , embora com reservas , que a produtividade de_ o trabalho em_ o sector de_ a construção possa aumentar este ano três por cento , relativamente a 1986 .
 1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -10556,7 +10556,7 @@
 45	aquisitivo	aquisitivo	ADJ	_	Gender=Masc|Number=Sing	44	amod	44:amod	Conn=O
 46	.	.	PUNCT	_	_	14	punct	14:punct	Conn=O
 
-# newdoc_id = dn87423
+# newdoc id = dn87423
 # sent_id = dn87423-1
 # text = De doutrina chocante é como a Liga de_ os Direitos de_ a Mulheres classifica este Assento de_ o Supremo Tribunal de_ a Justiça .
 1	De	de	ADP	_	_	2	case	2:case	Conn=O
@@ -11789,7 +11789,7 @@
 3	ti	tu	PRON	_	Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	obj	1:obj	Conn=O
 4	.	.	PUNCT	_	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = dn87501
+# newdoc id = dn87501
 # sent_id = dn87501-1
 # text = ADOLF HITLER tinha deixado bem claro em_ as suas declarações , e em_ o próprio Mein Kampf , o livro fundamental de_ o regime , que a Alemanha Nazi só poderia pensar em avançar sobre a União Soviética se tivesse a retaguarda protegida .
 1	ADOLF	ADOLF	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	4:nsubj	Conn=O
@@ -12783,7 +12783,7 @@
 25	arrependeu	arrepender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	acl:relcl	19:acl:relcl	Conn=O
 26	.	.	PUNCT	_	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = dn87502
+# newdoc id = dn87502
 # sent_id = dn87502-1
 # text = O SUPREMO Tribunal polaco confirmou em_ a terça-feira a proibição de criação de secções sindicais de_ o Solidariedade dentro de_ as empresas , em_ as cidades de Torum e Szczecin .
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -12989,7 +12989,7 @@
 52	interna	interno	ADJ	_	Gender=Fem|Number=Sing	51	amod	51:amod	Conn=O
 53	.	.	PUNCT	_	_	4	punct	4:punct	Conn=O
 
-# newdoc_id = dn87503
+# newdoc id = dn87503
 # sent_id = dn87503-1
 # text = O PRIMEIRO-MINISTRO espanhol , Felipe González , rejeitou qualquer hipótese de negociação política com a organização separatista basca ETA , baseando -se em_ o respeito de_ a soberania de_ o povo espanhol .
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -13292,7 +13292,7 @@
 23	franco-germânica	franco-germânico	ADJ	_	Gender=Fem|Number=Sing	20	amod	20:amod	Conn=O
 24	.	.	PUNCT	_	_	4	punct	4:punct	Conn=O
 
-# newdoc_id = dn87505
+# newdoc id = dn87505
 # sent_id = dn87505-1
 # text = " GENTE eu passo o dia defendendo bicho , como é que a_ a noite eu vou comer tartaruga ? " , exclamou a deputada Maria Abadia , segunda vice-presidente de_ a Subcomissão de_ o Meio Ambiente em_ a Constituinte , recusando a tartaruga servida de jantar a vários deputados em casa de um político em_ o Amazonas .
 1	"	«	PUNCT	_	_	4	punct	4:punct	Conn=O
@@ -13917,7 +13917,7 @@
 72	Constituinte	Constituinte	PROPN	_	Gender=Fem|Number=Sing	69	obl	69:obl	Conn=O
 73	.	.	PUNCT	_	_	40	punct	40:punct	Conn=O
 
-# newdoc_id = dn87506
+# newdoc id = dn87506
 # sent_id = dn87506-1
 # text = O MINISTRO de_ os Negócios Estrangeiros brasileiro , Roberto Abreu , disse que a paz mundial será o tema central de_ as conversações a realizar em Brasília com o seu homólogo soviético , Eduard Shevardnadze .
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -14113,7 +14113,7 @@
 16	Brasil	Brasil	PROPN	_	Gender=Masc|Number=Sing	8	nmod	8:nmod	Conn=O
 17	.	.	PUNCT	_	_	5	punct	5:punct	Conn=O
 
-# newdoc_id = dn87507
+# newdoc id = dn87507
 # sent_id = dn87507-1
 # text = HÁ ALIMENTOS que têm em_ a sua composição várias vitaminas e minerais , mas não há alimento nenhum que contenha todos estes nutrientes necessários e em_ as quantidades adequadas : esta é uma de_ as razões porque o homem deve e tem de comer , por dia , vários alimentos diferentes , em quantidades diferentes , para que em_ o conjunto desses alimentos encontre tudo o que precisa ou seja cerca de 52 nutrientes diferentes que devem fazer parte de_ a sua alimentação , para que esta se possa chamar de alimentação racional ou correcta .
 1	HÁ	haver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O
@@ -15251,7 +15251,7 @@
 15	graves	grave	ADJ	_	Gender=Fem|Number=Plur	14	amod	14:amod	Conn=O
 16	.	.	PUNCT	_	_	7	punct	7:punct	Conn=O
 
-# newdoc_id = dn87508
+# newdoc id = dn87508
 # sent_id = dn87508-1
 # text = O PRESIDENTE de_ a Secção Regional de_ o Norte de_ a Ordem de_ os Médicos disse que aquele organismo alertou os clínicos sob a sua jurisdição " para as consequências que , inadvertidamente , poderão advir de alguma colaboração oferecida por alguns laboratórios " .
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -15399,7 +15399,7 @@
 51	"	«	PUNCT	_	_	26	punct	26:punct	Conn=O
 52	.	.	PUNCT	_	_	7	punct	7:punct	Conn=O
 
-# newdoc_id = dn87509
+# newdoc id = dn87509
 # sent_id = dn87509-1
 # text = DOIS INCÊNDIOS de grandes proporções deflagraram ontem em_ os concelhos de Vila de Rei e Monforte , estando a ser combatidos por várias corporações de_ a região , com o auxílio de meios aéreos , informou o Centro Coordenador de_ a Sertã .
 1	DOIS	dois	NUM	_	NumType=Card	2	nummod	2:nummod	Conn=O
@@ -15759,7 +15759,7 @@
 38	criminal	criminal	ADJ	_	Gender=Fem|Number=Sing	37	amod	37:amod	Conn=O
 39	.	.	PUNCT	_	_	30	punct	30:punct	Conn=O
 
-# newdoc_id = dn87510
+# newdoc id = dn87510
 # sent_id = dn87510-1
 # text = AQUELE LAGO de_ a região de Valtellina , em_ o Norte de Itália , contém 15 milhões de metros cúbicos de água em consequência de_ o gigantesco deslizamento de terrenos ocorrido a 28 de Julho e que provocou a morte de 28 pessoas .
 1	AQUELE	aquele	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	2:det	Conn=O
@@ -16792,7 +16792,7 @@
 39	doenças	doença	NOUN	_	Gender=Fem|Number=Plur	36	conj	36:conj	Conn=O
 40	.	.	PUNCT	_	_	4	punct	4:punct	Conn=O
 
-# newdoc_id = dn87512
+# newdoc id = dn87512
 # sent_id = dn87512-1
 # text = CHAMAVA -SE Fernando Ramos de_ a Silva , tinha 19 anos , morava em_ uma barraca de um bairro pobre em_ os subúrbios de São Paulo , em_ o Brasil .
 1	CHAMAVA	chamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	0:root	Conn=O
@@ -17149,7 +17149,7 @@
 22	chão	chão	NOUN	_	Gender=Masc|Number=Sing	19	obl	19:obl	Conn=O
 23	.	.	PUNCT	_	_	9	punct	9:punct	Conn=O
 
-# newdoc_id = dn87513
+# newdoc id = dn87513
 # sent_id = dn87513-1
 # text = " ÁFRICA E JAZZ são sinónimos " - assim o quiseram provar os cinco músicos de_ o Art Ensemble of Chicago , em_ o último concerto duplo de_ o ciclo Jazz em Agosto 87 , que decorreu em_ o Anfiteatro de Ar Livre de_ o Centro de Arte Moderna ( CAM ) de_ a Fundação Gulbenkian .
 1	"	«	PUNCT	_	_	6	punct	6:punct	Conn=O
@@ -17817,7 +17817,7 @@
 27	.	.	PUNCT	_	_	16	punct	16:punct	Conn=O
 28	"	«	PUNCT	_	_	23	punct	23:punct	Conn=O
 
-# newdoc_id = dn87514
+# newdoc id = dn87514
 # sent_id = dn87514-1
 # text = Em_ a sequência de_ o êxito de_ os anos anteriores , o Pereiro abalançou -se este ano a transformar o seu primeiro pequeno circuito em Grande Prémio Pereiro de Mação , com três etapas a disputar sexta-feira e em_ o sábado , em_ um total de quase 300 quilómetros e em que vão estar presentes todas as equipas profissionais de ciclismo .
 1	Em_	em_	ADP	_	_	3	case	3:case	Conn=B-conn
@@ -18319,7 +18319,7 @@
 26	Zurique	Zurique	PROPN	_	Gender=Masc|Number=Sing	12	obl	12:obl	Conn=O
 27	.	.	PUNCT	_	_	10	punct	10:punct	Conn=O
 
-# newdoc_id = dn87515
+# newdoc id = dn87515
 # sent_id = dn87515-1
 # text = João Campos cuja autorização de participação em_ os Mundiais de atletismo esteve em dúvida até anteontem , informou a Federação de_ a sua indisponibilidade para integrar a comitiva nacional que parte esta tarde para Roma .
 1	João	João	PROPN	_	Gender=Masc|Number=Sing	18	nsubj	18:nsubj	Conn=O
@@ -18588,7 +18588,7 @@
 29	Ljungqvist	Ljungqvist	PROPN	_	Number=Sing	28	flat:name	28:flat:name	Conn=O
 30	.	.	PUNCT	_	_	6	punct	6:punct	Conn=O
 
-# newdoc_id = dn87516
+# newdoc id = dn87516
 # sent_id = dn87516-1
 # text = " É potencialmente muito importante para o diagnóstico clínico " , disse Ted Crown , uma autoridade em_ este síndroma , de_ o Instituto de_ o Estado de Nova Iorque para a Investigação Básica sobre Incapacidades de_ o Desenvolvimento .
 1	"	«	PUNCT	_	_	5	punct	5:punct	Conn=O
@@ -19567,7 +19567,7 @@
 48	Cancro	Cancro	PROPN	_	Number=Sing	44	nmod	44:nmod	Conn=O
 49	.	.	PUNCT	_	_	13	punct	13:punct	Conn=O
 
-# newdoc_id = dn87517
+# newdoc id = dn87517
 # sent_id = dn87517-1
 # text = FACTORES de crescimento hematológico favorecem a produção de células em doentes com cancro , Sida e deficiências renais ; tais factores estão agora a ser sujeitos a novos testes clínicos .
 1	FACTORES	factores	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	5:nsubj	Conn=O
@@ -20046,7 +20046,7 @@
 38	infecções	infecção	NOUN	_	Gender=Fem|Number=Plur	36	obj	36:obj	Conn=O
 39	.	.	PUNCT	_	_	11	punct	11:punct	Conn=O
 
-# newdoc_id = dn87601
+# newdoc id = dn87601
 # sent_id = dn87601-1
 # text = CAVACO SILVA , quando lhe foi perguntado se haveria uma decisão definitiva sobre o Alqueva até o fim de_ o ano , afirmou que o Governo não vai tomar nenhama decisão enquanto não estiver completamente determinada a relação entre os custos de_ o empreendimento e a sua vantagem prática , ponderados todos os ângulos respeitantes a_ a necessidade de_ o desenvolvimento de_ a região alentejana .
 1	CAVACO	Cavaco	PROPN	_	Gender=Masc|Number=Sing	23	nsubj	23:nsubj	Conn=O
@@ -20712,7 +20712,7 @@
 58	"	«	PUNCT	_	_	50	punct	50:punct	Conn=O
 59	.	.	PUNCT	_	_	35	punct	35:punct	Conn=O
 
-# newdoc_id = pu92215
+# newdoc id = pu92215
 # sent_id = pu92215-1
 # text = As condições atmosféricas registadas em Cabo Canaveral ( Florida , Estados Unidos ) podem comprometer o lançamento de_ o vaivém Atlantis , previsto para as 13hO1 TMG de hoje , embora a contagem decrescente prossiga normalmente desde sexta-feira passada e sem problemas de maior , anunciou ontem a NASA .
 1	As	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	2:det	Conn=O
@@ -21273,7 +21273,7 @@
 15	dólares	dólar	NOUN	_	Gender=Masc|Number=Plur	12	nmod	12:nmod	Conn=O
 16	.	.	PUNCT	_	_	10	punct	10:punct	Conn=O
 
-# newdoc_id = pu92217
+# newdoc id = pu92217
 # sent_id = pu92217-1
 # text = A DECLARAÇÃO imediata de situação de calamidade pública em_ as zonas mais afectadas por_ a seca foi ontem reclamada em Évora por centena e meia de representantes de_ as cooperativas associadas em_ a Federação Nacional de_ as Cooperativas Agrícolas de Produção ( Fenca ) , que integra unidades de_ os distritos de Santarém , Portalegre , Évora , Setúbal e Beja .
 1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	Conn=O

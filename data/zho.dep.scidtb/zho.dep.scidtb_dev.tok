@@ -1,4 +1,4 @@
-# newdoc_id = nlpabs19_Chi
+# newdoc id = nlpabs19_Chi
 1	该文	_	_	_	_	_	_	_	Seg=B-seg
 2	研究	_	_	_	_	_	_	_	Seg=O
 3	中	_	_	_	_	_	_	_	Seg=O
@@ -270,7 +270,7 @@
 269	关注	_	_	_	_	_	_	_	Seg=O
 270	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs1_Chi
+# newdoc id = nlpabs1_Chi
 1	﻿信息	_	_	_	_	_	_	_	Seg=B-seg
 2	抽取	_	_	_	_	_	_	_	Seg=O
 3	研究	_	_	_	_	_	_	_	Seg=O
@@ -424,7 +424,7 @@
 151	发展	_	_	_	_	_	_	_	Seg=O
 152	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs21_Chi
+# newdoc id = nlpabs21_Chi
 1	内容	_	_	_	_	_	_	_	Seg=B-seg
 2	分发	_	_	_	_	_	_	_	Seg=O
 3	网络	_	_	_	_	_	_	_	Seg=O
@@ -790,7 +790,7 @@
 363	效率	_	_	_	_	_	_	_	Seg=O
 364	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs22_Chi
+# newdoc id = nlpabs22_Chi
 1	社交	_	_	_	_	_	_	_	Seg=B-seg
 2	媒体	_	_	_	_	_	_	_	Seg=O
 3	快速	_	_	_	_	_	_	_	Seg=O
@@ -919,7 +919,7 @@
 126	价值	_	_	_	_	_	_	_	Seg=O
 127	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs23_Chi
+# newdoc id = nlpabs23_Chi
 1	广告	_	_	_	_	_	_	_	Seg=B-seg
 2	语	_	_	_	_	_	_	_	Seg=O
 3	是	_	_	_	_	_	_	_	Seg=O
@@ -1082,7 +1082,7 @@
 160	价值	_	_	_	_	_	_	_	Seg=O
 161	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs24_Chi
+# newdoc id = nlpabs24_Chi
 1	机器	_	_	_	_	_	_	_	Seg=B-seg
 2	阅读	_	_	_	_	_	_	_	Seg=O
 3	理解	_	_	_	_	_	_	_	Seg=O
@@ -1188,7 +1188,7 @@
 103	分析	_	_	_	_	_	_	_	Seg=O
 104	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs25_Chi
+# newdoc id = nlpabs25_Chi
 1	甲骨	_	_	_	_	_	_	_	Seg=B-seg
 2	文	_	_	_	_	_	_	_	Seg=O
 3	是	_	_	_	_	_	_	_	Seg=O
@@ -1352,7 +1352,7 @@
 161	形	_	_	_	_	_	_	_	Seg=O
 162	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs27_Chi
+# newdoc id = nlpabs27_Chi
 1	机器	_	_	_	_	_	_	_	Seg=B-seg
 2	翻译	_	_	_	_	_	_	_	Seg=O
 3	自动	_	_	_	_	_	_	_	Seg=O
@@ -1594,7 +1594,7 @@
 239	水平	_	_	_	_	_	_	_	Seg=O
 240	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs28_Chi
+# newdoc id = nlpabs28_Chi
 1	为	_	_	_	_	_	_	_	Seg=B-seg
 2	提升	_	_	_	_	_	_	_	Seg=O
 3	维汉	_	_	_	_	_	_	_	Seg=O
@@ -1792,7 +1792,7 @@
 195	效果	_	_	_	_	_	_	_	Seg=O
 196	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs2_Chi
+# newdoc id = nlpabs2_Chi
 1	﻿话题	_	_	_	_	_	_	_	Seg=B-seg
 2	检测	_	_	_	_	_	_	_	Seg=O
 3	与	_	_	_	_	_	_	_	Seg=O
@@ -1941,7 +1941,7 @@
 146	趋势	_	_	_	_	_	_	_	Seg=O
 147	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs30_Chi
+# newdoc id = nlpabs30_Chi
 1	乌孜别克	_	_	_	_	_	_	_	Seg=B-seg
 2	语名	_	_	_	_	_	_	_	Seg=O
 3	词	_	_	_	_	_	_	_	Seg=O
@@ -2089,7 +2089,7 @@
 145	分析	_	_	_	_	_	_	_	Seg=O
 146	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs31_Chi
+# newdoc id = nlpabs31_Chi
 1	短语	_	_	_	_	_	_	_	Seg=B-seg
 2	作	_	_	_	_	_	_	_	Seg=O
 3	为	_	_	_	_	_	_	_	Seg=O
@@ -2223,7 +2223,7 @@
 131	代码	_	_	_	_	_	_	_	Seg=O
 132	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs32_Chi
+# newdoc id = nlpabs32_Chi
 1	自动	_	_	_	_	_	_	_	Seg=B-seg
 2	拼写	_	_	_	_	_	_	_	Seg=O
 3	检查	_	_	_	_	_	_	_	Seg=O
@@ -2394,7 +2394,7 @@
 168	字	_	_	_	_	_	_	_	Seg=O
 169	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs33_Chi
+# newdoc id = nlpabs33_Chi
 1	非	_	_	_	_	_	_	_	Seg=B-seg
 2	结构	_	_	_	_	_	_	_	Seg=O
 3	化	_	_	_	_	_	_	_	Seg=O
@@ -2568,7 +2568,7 @@
 171	需求	_	_	_	_	_	_	_	Seg=O
 172	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs34_Chi
+# newdoc id = nlpabs34_Chi
 1	作	_	_	_	_	_	_	_	Seg=B-seg
 2	为	_	_	_	_	_	_	_	Seg=O
 3	知识	_	_	_	_	_	_	_	Seg=O
@@ -2856,7 +2856,7 @@
 285	提升	_	_	_	_	_	_	_	Seg=O
 286	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs35_Chi
+# newdoc id = nlpabs35_Chi
 1	带有	_	_	_	_	_	_	_	Seg=B-seg
 2	时间	_	_	_	_	_	_	_	Seg=O
 3	标志	_	_	_	_	_	_	_	Seg=O
@@ -3016,7 +3016,7 @@
 157	提高	_	_	_	_	_	_	_	Seg=O
 158	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs36_Chi
+# newdoc id = nlpabs36_Chi
 1	中文	_	_	_	_	_	_	_	Seg=B-seg
 2	产科	_	_	_	_	_	_	_	Seg=O
 3	电子	_	_	_	_	_	_	_	Seg=O
@@ -3220,7 +3220,7 @@
 201	效果	_	_	_	_	_	_	_	Seg=O
 202	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs37_Chi
+# newdoc id = nlpabs37_Chi
 1	社交	_	_	_	_	_	_	_	Seg=B-seg
 2	媒体	_	_	_	_	_	_	_	Seg=O
 3	的	_	_	_	_	_	_	_	Seg=O
@@ -3460,7 +3460,7 @@
 237	0.813	_	_	_	_	_	_	_	Seg=O
 238	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs47_Chi
+# newdoc id = nlpabs47_Chi
 1	该文	_	_	_	_	_	_	_	Seg=B-seg
 2	对	_	_	_	_	_	_	_	Seg=O
 3	神经	_	_	_	_	_	_	_	Seg=O
@@ -3665,7 +3665,7 @@
 202	值	_	_	_	_	_	_	_	Seg=O
 203	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = nlpabs52_Chi
+# newdoc id = nlpabs52_Chi
 1	现有	_	_	_	_	_	_	_	Seg=B-seg
 2	的	_	_	_	_	_	_	_	Seg=O
 3	维吾尔	_	_	_	_	_	_	_	Seg=O

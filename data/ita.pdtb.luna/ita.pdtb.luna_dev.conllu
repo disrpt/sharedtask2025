@@ -1,4 +1,4 @@
-# newdoc_id = 0703000001
+# newdoc id = 0703000001
 # newturn_id = 0703000001-1
 # newutterance = 0703000001-1-1
 1	helpdesk	helpdesk	NOUN	S	_	2	vocative	2:vocative	Conn=O
@@ -941,7 +941,7 @@
 1	ciao	ciao	INTJ	I	_	29	discourse	29:discourse	Conn=O
 2	ciao	ciao	INTJ	I	_	29	discourse	29:discourse	Conn=O
 
-# newdoc_id = 0703000002
+# newdoc id = 0703000002
 # newturn_id = 0703000002-1
 # newutterance = 0703000002-1-1
 1	buon	buono	ADJ	A	Gender=Masc|Number=Sing	2	amod	2:amod	Conn=O
@@ -1756,7 +1756,7 @@
 3	a	a	ADP	E	_	512	case	512:case	Conn=O
 4	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	509	obl	509:obl	Conn=O
 
-# newdoc_id = 0703000003
+# newdoc id = 0703000003
 # newturn_id = 0703000003-1
 # newutterance = 0703000003-1-1
 1	helpdesk	helpdesk	NOUN	S	_	2	vocative	2:vocative	Conn=O
@@ -2585,7 +2585,7 @@
 3	buona	buono	ADJ	A	Gender=Fem|Number=Sing	537	amod	537:amod	Conn=O
 4	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	528	conj	528:conj	Conn=O
 
-# newdoc_id = 0703000004
+# newdoc id = 0703000004
 # newturn_id = 0703000004-1
 # newutterance = 0703000004-1-1
 1	buon	buono	ADJ	A	Gender=Masc|Number=Sing	2	amod	2:amod	Conn=O
@@ -3289,7 +3289,7 @@
 5	c	c	X	X	_	471	dep	471:dep	Conn=O
 6	ciao	ciao	INTJ	I	_	472	flat:foreign	472:flat:foreign	Conn=O
 
-# newdoc_id = 0703000005
+# newdoc id = 0703000005
 # newturn_id = 0703000005-1
 # newutterance = 0703000005-1-1
 1	helpdesk	helpdesk	NOUN	S	_	2	vocative	2:vocative	Conn=O
@@ -4365,7 +4365,7 @@
 6	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	704	obj	704:obj	Conn=O
 7	ciao	ciao	INTJ	I	_	706	discourse	706:discourse	Conn=O
 
-# newdoc_id = 0703000006
+# newdoc id = 0703000006
 # newturn_id = 0703000006-1
 # newutterance = 0703000006-1-1
 1	help	help	X	SW	_	4	nmod	4:nmod	Conn=O

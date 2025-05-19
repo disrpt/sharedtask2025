@@ -1,4 +1,4 @@
-# newdoc_id = BMCS_ESP5-GS
+# newdoc id = BMCS_ESP5-GS
 1	Aula	Aula	PROPN	PROPN	_	0	root	_	Seg=B-seg
 2	Virtual	Virtual	PROPN	PROPN	_	1	flat	_	Seg=O
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	Seg=O
@@ -448,7 +448,7 @@
 10	.es	.es	NOUN	NOUN	Gender=Masc|Number=Sing	9	nmod	_	Seg=O
 11	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	Seg=O
 
-# newdoc_id = CCICE_ESP5-GS
+# newdoc id = CCICE_ESP5-GS
 1	Inditex	Inditex	PROPN	PROPN	_	2	nsubj	_	Seg=B-seg
 2	elige	elegir	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Seg=O
 3	China	China	PROPN	PROPN	_	2	obj	_	Seg=O
@@ -635,7 +635,7 @@
 27	tiendas	tienda	NOUN	NOUN	Gender=Fem|Number=Plur	23	nmod	_	Seg=O
 28	.	.	PUNCT	PUNCT	PunctType=Peri	13	punct	_	Seg=O
 
-# newdoc_id = EEP_ESP8-GS
+# newdoc id = EEP_ESP8-GS
 1	Concierto	Concierto	PROPN	PROPN	_	35	nsubj	_	Seg=B-seg
 2	Capella	Capella	PROPN	PROPN	_	1	flat	_	Seg=O
 3	de	de	ADP	ADP	AdpType=Prep	4	case	_	Seg=O
@@ -849,7 +849,7 @@
 41	experiencias	experiencia	NOUN	NOUN	Gender=Fem|Number=Plur	38	nmod	_	Seg=O
 42	.	.	PUNCT	PUNCT	PunctType=Peri	9	punct	_	Seg=O
 
-# newdoc_id = FCEC_ESP2-GS
+# newdoc id = FCEC_ESP2-GS
 1	Objetivos	objetivo	NOUN	NOUN	Gender=Masc|Number=Plur	0	root	_	Seg=B-seg
 2	y	y	CCONJ	CCONJ	_	3	cc	_	Seg=O
 3	fines	fin	NOUN	NOUN	Gender=Masc|Number=Plur	1	conj	_	Seg=O
@@ -1415,7 +1415,7 @@
 17	Misión	Misión	PROPN	PROPN	_	14	obl	_	Seg=O
 18	.	.	PUNCT	PUNCT	PunctType=Peri	6	punct	_	Seg=O
 
-# newdoc_id = FICB_ESP5-GS
+# newdoc id = FICB_ESP5-GS
 1	IV	IV	PROPN	PROPN	_	0	root	_	Seg=B-seg
 2	Congreso	Congreso	PROPN	PROPN	_	1	flat	_	Seg=O
 3	Internacional	Internacional	PROPN	PROPN	_	1	flat	_	Seg=O
@@ -1589,7 +1589,7 @@
 35	turístico	turístico	ADJ	ADJ	Gender=Masc|Number=Sing	34	amod	_	Seg=O
 36	.	.	PUNCT	PUNCT	PunctType=Peri	15	punct	_	Seg=O
 
-# newdoc_id = ICP_ESP7-GS
+# newdoc id = ICP_ESP7-GS
 1	Catálogo	catálogo	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	Seg=B-seg
 2	bibliográfico	bibliográfico	ADJ	ADJ	Gender=Masc|Number=Sing	1	amod	_	Seg=O
 3	en	en	ADP	ADP	AdpType=Prep	4	case	_	Seg=O
@@ -1944,7 +1944,7 @@
 45	tecnología	tecnología	NOUN	NOUN	Gender=Fem|Number=Sing	35	obl	_	Seg=O
 46	.	.	PUNCT	PUNCT	PunctType=Peri	24	punct	_	Seg=O
 
-# newdoc_id = ICP_ESP8-GS
+# newdoc id = ICP_ESP8-GS
 1	Diplomas	diploma	NOUN	NOUN	Gender=Masc|Number=Plur	14	nsubj	_	Seg=B-seg
 2	DELE	DELE	PROPN	PROPN	_	1	appos	_	Seg=O
 3	Los	el	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	Seg=B-seg
@@ -2346,7 +2346,7 @@
 40	manifiestan	manifestar	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	acl	_	Seg=O
 41	.	.	PUNCT	PUNCT	PunctType=Peri	10	punct	_	Seg=O
 
-# newdoc_id = TERM50_ESP-GS
+# newdoc id = TERM50_ESP-GS
 1	Contraste	contraste	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	Seg=B-seg
 2	de	de	ADP	ADP	AdpType=Prep	4	case	_	Seg=O
 3	los	el	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	Seg=O
@@ -3136,7 +3136,7 @@
 131	recursos	recurso	NOUN	NOUN	Gender=Masc|Number=Plur	126	obj	_	Seg=O
 132	.	.	PUNCT	PUNCT	PunctType=Peri	5	punct	_	Seg=O
 
-# newdoc_id = TERM51_ESP-GS
+# newdoc id = TERM51_ESP-GS
 1	La	el	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Seg=B-seg
 2	problemática	problemática	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	Seg=O
 3	de	de	ADP	ADP	AdpType=Prep	5	case	_	Seg=O

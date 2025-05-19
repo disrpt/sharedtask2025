@@ -1,4 +1,4 @@
-# newdoc_id = T00245.tsv
+# newdoc id = T00245.tsv
 # sent_id = T00245.tsv-1
 # text = พี่สาวร.ท.ผวาฆ่าตัดตอนน้องแฉเมียถูกโทรขู่กล่อมผัวรับซะ
 1	พี่	_	NOUN	NCMN	_	8	nsubj	8:nsubj	Conn=O
@@ -3358,7 +3358,7 @@
 42	พล.ต.	_	NOUN	NCMN	_	38	compound	38:compound	Conn=O
 43	ขัตติยะ	_	NOUN	NCMN	_	38	compound	38:compound	Conn=O
 
-# newdoc_id = T00252.tsv
+# newdoc id = T00252.tsv
 # sent_id = T00252.tsv-1
 # text = โจรรัวยิงดับสวป.กรุงเก่าขอค้นวัยรุ่นมั่วสุมกราบแม่ก่อนตาย
 1	โจร	_	NOUN	NCMN	_	8	nsubj	8:nsubj	Conn=O
@@ -4770,7 +4770,7 @@
 86	เป็น	_	VERB	VSTA	_	77	acl:relcl	77:acl:relcl	Conn=O
 87	ได้	_	AUX	XVAE	_	86	aux	86:aux	Conn=O
 
-# newdoc_id = T00350.tsv
+# newdoc id = T00350.tsv
 # sent_id = T00350.tsv-1
 # text = ออก 9 กฎเหล็กแทงบอลในร.ร."ทักษิณ"ชี้พนันโอกาสเจ๊ง 99%
 1	ออก	_	VERB	VACT	_	3	case	3:case	Conn=O
@@ -6393,7 +6393,7 @@
 25	ละ	_	ADP	RPRE	_	26	case	26:case	Conn=O
 26	10-5	_	NOUN	NCMN	_	24	nmod	24:nmod	Conn=O
 
-# newdoc_id = T00491.tsv
+# newdoc id = T00491.tsv
 # sent_id = T00491.tsv-1
 # text = อัดทักษิณ"ยกตนขึ้นเทียบชั้น ปธ.องคมนตรี-รัฐบุรุษเปรม
 1	อัด	_	NOUN	NCMN	_	4	nsubj	4:nsubj	Conn=O
@@ -7392,7 +7392,7 @@
 45	ดี	_	ADJ	VATT	_	22	xcomp	22:xcomp	Conn=O
 46	กว่า	_	SCONJ	JCMP	_	45	advmod	45:advmod	Conn=O
 
-# newdoc_id = T00661.tsv
+# newdoc id = T00661.tsv
 # sent_id = T00661.tsv-1
 # text = ส่งสัญญาณขึ้น"ดีเซล"สัปดาห์นี้
 1	ส่ง	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
@@ -7665,7 +7665,7 @@
 53	หมื่น	_	NOUN	CNIT	_	47	obl	47:obl	Conn=O
 54	คัน	_	NOUN	CNIT	_	53	compound	53:compound	Conn=O
 
-# newdoc_id = T00784.tsv
+# newdoc id = T00784.tsv
 # sent_id = T00784.tsv-1
 # text = จ่ายักษ์ซัดอีก 3 นายพลร่วม แฉ 2 จ่ารบพิเศษมือประกอบระเบิด
 1	จ่า	_	NOUN	NCMN	_	8	nsubj	8:nsubj	Conn=O
@@ -10930,7 +10930,7 @@
 17	ก็	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
 18	อันตราย	_	ADV	ADVP	_	17	advmod	17:advmod	Conn=O
 
-# newdoc_id = T00794.tsv
+# newdoc id = T00794.tsv
 # sent_id = T00794.tsv-1
 # text = รวบมือปล้นธ.กสิกรไทย-พบประวัติก่อเหตุหลายแห่ง
 1	รวบ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
@@ -11936,7 +11936,7 @@
 32	ภาค	_	NOUN	NCMN	_	28	compound	28:compound	Conn=O
 33	1	_	NUM	NCNM	_	32	nummod	32:nummod	Conn=O
 
-# newdoc_id = T00800.tsv
+# newdoc id = T00800.tsv
 # sent_id = T00800.tsv-1
 # text = "สิทธิชัยอ้างคำสอนบุพการีหากมีปัญหาต้องลาออก
 1	"	_	PUNCT	PUNC	_	11	punct	11:punct	Conn=O
@@ -13302,7 +13302,7 @@
 9	มี	_	VERB	VSTA	_	3	acl:relcl	3:acl:relcl	Conn=O
 10	ความหมาย	_	NOUN	NCMN	_	9	obj	9:obj	Conn=O
 
-# newdoc_id = T00883.tsv
+# newdoc id = T00883.tsv
 # sent_id = T00883.tsv-1
 # text = ระยองเสี่ยงดินถล่มอ่างเก็บน้ำรับได้อีก 15%
 1	ระยอง	_	NOUN	NCMN	_	6	nsubj	6:nsubj	Conn=O
@@ -15300,7 +15300,7 @@
 64	ตลอด	_	ADP	RPRE	_	65	case	65:case	Conn=O
 65	เวลา	_	NOUN	NCMN	_	62	obl	62:obl	Conn=O
 
-# newdoc_id = T00887.tsv
+# newdoc id = T00887.tsv
 # sent_id = T00887.tsv-1
 # text = สหรัฐเรียกร้องตาลิบันปล่อยตัวประกัน
 1	สหรัฐ	_	PROPN	NPRP	_	3	nsubj	3:nsubj	Conn=O
@@ -16867,7 +16867,7 @@
 53	ตุรกี	_	VERB	VSTA	_	39	acl:relcl	39:acl:relcl	Conn=O
 54	ด้วย	_	ADP	RPRE	_	53	case	53:case	Conn=O
 
-# newdoc_id = T00981.tsv
+# newdoc id = T00981.tsv
 # sent_id = T00981.tsv-1
 # text = วังช้างอยุธยาจัดใหญ่ อาลัยไกรทองออสซี่
 1	วัง	_	NOUN	NCMN	_	3	nsubj	3:nsubj	Conn=O
@@ -18388,7 +18388,7 @@
 97	อาการ	_	NOUN	NCMN	_	94	nmod:poss	94:nmod:poss	Conn=O
 98	ต่อไป	_	ADV	ADVN	_	88	advmod	88:advmod	Conn=O
 
-# newdoc_id = T01341.tsv
+# newdoc id = T01341.tsv
 # sent_id = T01341.tsv-1
 # text = อีสานพัฒนาลั่นไม่เอา"สมัคร" ยันมีส.ส.ร่วมโหวตค้าน 100 คน
 1	อีสานพัฒนา	_	NOUN	NCMN	_	4	nsubj	4:nsubj	Conn=O
@@ -19889,7 +19889,7 @@
 59	ได้	_	AUX	XVAE	_	60	aux	60:aux	Conn=O
 60	พิจารณา	_	VERB	VACT	_	55	ccomp	55:ccomp	Conn=O
 
-# newdoc_id = T01365.tsv
+# newdoc id = T01365.tsv
 # sent_id = T01365.tsv-1
 # text = เลห์แมนล้มละลายลูกค้าประกัน"เอไอเอ"เช็กข้อมูลวุ่น
 1	เลห์แมน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
@@ -21570,7 +21570,7 @@
 43	ได้	_	AUX	XVAE	_	42	aux	42:aux	Conn=O
 44	ยาก	_	ADV	ADVN	_	42	advmod	42:advmod	Conn=O
 
-# newdoc_id = T01388.tsv
+# newdoc id = T01388.tsv
 # sent_id = T01388.tsv-1
 # text = ก๊วนเนวินแหกมติหนุนสมชาย ขอ 6 เก้าอี้แลก-พปช.ขู่ยุบสภา
 1	ก๊วน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
@@ -25695,7 +25695,7 @@
 14	ใช่	_	VERB	VSTA	_	7	acl	7:acl	Conn=O
 15	ทหาร	_	NOUN	NCMN	_	14	obj	14:obj	Conn=O
 
-# newdoc_id = T01448.tsv
+# newdoc id = T01448.tsv
 # sent_id = T01448.tsv-1
 # text = สถานศึกษาเปิดเรียนปกติ ปิดต่อให้เป็นดุลพินิจ ผอ.
 1	สถาน	_	NOUN	NCMN	_	3	nsubj	3:nsubj	Conn=O
@@ -25974,7 +25974,7 @@
 42	รุนแรง	_	ADJ	VATT	_	41	amod	41:amod	Conn=O
 43	อะไร	_	PRON	PNTR	_	42	obl	42:obl	Conn=O
 
-# newdoc_id = T01487.tsv
+# newdoc id = T01487.tsv
 # sent_id = T01487.tsv-1
 # text = อดีตลูกหนี้ไฟแนนซ์ร้องดีเอสไอหลังปรส.เหมาหนี้ดีไปรวมเอ็นพีแอล
 1	อดีต	_	NOUN	NCMN	_	5	nsubj	5:nsubj	Conn=O
@@ -26501,7 +26501,7 @@
 26	บาท	_	NOUN	CMTR	_	23	clf	23:clf	Conn=O
 27	เท่านั้น	_	DET	DDAQ	_	26	det	26:det	Conn=O
 
-# newdoc_id = T01524.tsv
+# newdoc id = T01524.tsv
 # sent_id = T01524.tsv-1
 # text = สวช.พบ 6 โรคใหม่กับคนติดมือถือ
 1	สวช.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
@@ -27554,7 +27554,7 @@
 79	ละ	_	ADP	RPRE	_	80	case	80:case	Conn=O
 80	52.97	_	NUM	NCNM	_	75	nmod	75:nmod	Conn=O
 
-# newdoc_id = T01603.tsv
+# newdoc id = T01603.tsv
 # sent_id = T01603.tsv-1
 # text = อภิสิทธิ์วอนอย่าเบื่อการเมือง เชิญชวนเลือกตั้ง ส.ก.-ส.ข.
 1	อภิสิทธิ์	_	NOUN	NCMN	_	5	nsubj	5:nsubj	Conn=O
@@ -28404,7 +28404,7 @@
 50	ให้	_	ADP	RPRE	_	51	case	51:case	Conn=O
 51	กทม.	_	NOUN	NCMN	_	48	obl	48:obl	Conn=O
 
-# newdoc_id = T01611.tsv
+# newdoc id = T01611.tsv
 # sent_id = T01611.tsv-1
 # text = "คลิปตบ"โผล่สั่งกราบเท้า รุ่นพี่คาห้องยัวะถูกปีนเกลียว
 1	"	_	PUNCT	PUNC	_	15	punct	15:punct	Conn=O

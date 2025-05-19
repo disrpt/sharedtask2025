@@ -1,4 +1,4 @@
-# newdoc_id = talk_1927_pt_tok
+# newdoc id = talk_1927_pt_tok
 # sent_id = talk_1927_pt_tok-1
 # text = O mundo está a mudar de formas muito profundas .
 1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	2:det	Conn=O
@@ -2458,7 +2458,7 @@
 1	Obrigado	obrigar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	0:root	Conn=O
 2	.	.	PUNCT	_	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = talk_1971_pt_tok
+# newdoc id = talk_1971_pt_tok
 # sent_id = talk_1971_pt_tok-1
 # text = Nasci e fui criado na Serra Leoa , um pequeno e lindo país de_ a África Ocidental , um país rico , tanto em recursos físicos quanto em criatividade .
 1	Nasci	nascer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Conn=O

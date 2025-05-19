@@ -1,4 +1,4 @@
-# newdoc_id = 00c862a6402381a8541bcffe843696e059095300
+# newdoc id = 00c862a6402381a8541bcffe843696e059095300
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	study	_	_	_	_	_	_	_	Seg=O
@@ -127,7 +127,7 @@
 126	birds	_	_	_	_	_	_	_	Seg=O
 127	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 0146a0b36f80ebcb868c7e16fb60c1a9d2afbf83
+# newdoc id = 0146a0b36f80ebcb868c7e16fb60c1a9d2afbf83
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -289,7 +289,7 @@
 159	investigations	_	_	_	_	_	_	_	Seg=O
 160	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 0232f18e7bbf3192e9e34da1c0abe2a20b2ba1e4
+# newdoc id = 0232f18e7bbf3192e9e34da1c0abe2a20b2ba1e4
 1	Herein	_	_	_	_	_	_	_	Seg=B-seg
 2	,	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -600,7 +600,7 @@
 306	Lys549	_	_	_	_	_	_	_	Seg=O
 307	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 09bdbea1700a3826acc33484ed51e2fa8c23f047
+# newdoc id = 09bdbea1700a3826acc33484ed51e2fa8c23f047
 1	Data	_	_	_	_	_	_	_	Seg=B-seg
 2	-	_	_	_	_	_	_	_	Seg=O
 3	centric	_	_	_	_	_	_	_	Seg=O
@@ -793,7 +793,7 @@
 190	immunity	_	_	_	_	_	_	_	Seg=O
 191	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 0b362bc7e9278b56c2740ab7bc10e91c036f835a
+# newdoc id = 0b362bc7e9278b56c2740ab7bc10e91c036f835a
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	study	_	_	_	_	_	_	_	Seg=O
 3	seasonal	_	_	_	_	_	_	_	Seg=O
@@ -934,7 +934,7 @@
 138	epidemics	_	_	_	_	_	_	_	Seg=O
 139	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 0b6936373351a029b06b8784ff8077d755e7ee96
+# newdoc id = 0b6936373351a029b06b8784ff8077d755e7ee96
 1	Ebola	_	_	_	_	_	_	_	Seg=B-seg
 2	virus	_	_	_	_	_	_	_	Seg=O
 3	(	_	_	_	_	_	_	_	Seg=O
@@ -1195,7 +1195,7 @@
 257	them	_	_	_	_	_	_	_	Seg=O
 258	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 0b7581ab8ae5da78a11692b4c7d9399ec6dea283
+# newdoc id = 0b7581ab8ae5da78a11692b4c7d9399ec6dea283
 1	Background	_	_	_	_	_	_	_	Seg=B-seg
 2	:	_	_	_	_	_	_	_	Seg=O
 3	In	_	_	_	_	_	_	_	Seg=B-seg
@@ -1482,7 +1482,7 @@
 284	disease	_	_	_	_	_	_	_	Seg=O
 285	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 0c44f901baca3850ff6e79e5f26ee898faa9b68d
+# newdoc id = 0c44f901baca3850ff6e79e5f26ee898faa9b68d
 1	Emerging	_	_	_	_	_	_	_	Seg=B-seg
 2	and	_	_	_	_	_	_	_	Seg=O
 3	re	_	_	_	_	_	_	_	Seg=O
@@ -1653,7 +1653,7 @@
 168	survival	_	_	_	_	_	_	_	Seg=O
 169	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 1399e34d62b515e482ccde6c4cae500b19546909
+# newdoc id = 1399e34d62b515e482ccde6c4cae500b19546909
 1	Influenza	_	_	_	_	_	_	_	Seg=B-seg
 2	viruses	_	_	_	_	_	_	_	Seg=O
 3	are	_	_	_	_	_	_	_	Seg=O
@@ -1712,7 +1712,7 @@
 56	health	_	_	_	_	_	_	_	Seg=O
 57	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 13e4291652008b528006f89f67d55955c2aac729
+# newdoc id = 13e4291652008b528006f89f67d55955c2aac729
 1	Hepatitis	_	_	_	_	_	_	_	Seg=B-seg
 2	B	_	_	_	_	_	_	_	Seg=O
 3	virus	_	_	_	_	_	_	_	Seg=O
@@ -2014,7 +2014,7 @@
 299	response	_	_	_	_	_	_	_	Seg=O
 300	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 1723e7c27aadbc83619fd69629fcc089e700418b
+# newdoc id = 1723e7c27aadbc83619fd69629fcc089e700418b
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	COVID-19	_	_	_	_	_	_	_	Seg=O
 3	pandemic	_	_	_	_	_	_	_	Seg=O
@@ -2155,7 +2155,7 @@
 138	clearance	_	_	_	_	_	_	_	Seg=O
 139	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 17c5d5036721bc5935b23a9e23f69fde366ecc20
+# newdoc id = 17c5d5036721bc5935b23a9e23f69fde366ecc20
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	investigate	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -2416,7 +2416,7 @@
 258	measures	_	_	_	_	_	_	_	Seg=O
 259	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 1b7c700ee3a33c0a675a5f7e71a20ce62467b900
+# newdoc id = 1b7c700ee3a33c0a675a5f7e71a20ce62467b900
 1	Background	_	_	_	_	_	_	_	Seg=B-seg
 2	:	_	_	_	_	_	_	_	Seg=O
 3	Human	_	_	_	_	_	_	_	Seg=B-seg
@@ -2771,7 +2771,7 @@
 352	vaccine	_	_	_	_	_	_	_	Seg=O
 353	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 1ca87acde2d673e129b4360d84dce19f2555438b
+# newdoc id = 1ca87acde2d673e129b4360d84dce19f2555438b
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	development	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -3076,7 +3076,7 @@
 302	signs	_	_	_	_	_	_	_	Seg=O
 303	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 1d5a95f805753e4ae9c605845a395adf47cabce8
+# newdoc id = 1d5a95f805753e4ae9c605845a395adf47cabce8
 1	Newcastle	_	_	_	_	_	_	_	Seg=B-seg
 2	disease	_	_	_	_	_	_	_	Seg=O
 3	(	_	_	_	_	_	_	_	Seg=O
@@ -3219,7 +3219,7 @@
 140	negative	_	_	_	_	_	_	_	Seg=O
 141	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 1dc818a92b31dc871d7020ec659faaeb38e519c6
+# newdoc id = 1dc818a92b31dc871d7020ec659faaeb38e519c6
 1	Respiratory	_	_	_	_	_	_	_	Seg=B-seg
 2	viral	_	_	_	_	_	_	_	Seg=O
 3	infections	_	_	_	_	_	_	_	Seg=O
@@ -3324,7 +3324,7 @@
 102	vaccines	_	_	_	_	_	_	_	Seg=O
 103	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 1ea771012595cf18bfe22d4933e45b8a190881fc
+# newdoc id = 1ea771012595cf18bfe22d4933e45b8a190881fc
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	novel	_	_	_	_	_	_	_	Seg=O
 3	Coronavirus	_	_	_	_	_	_	_	Seg=O
@@ -3521,7 +3521,7 @@
 194	pattern	_	_	_	_	_	_	_	Seg=O
 195	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 2074781d7ca96edc1ef37f4cc7196856653a14e0
+# newdoc id = 2074781d7ca96edc1ef37f4cc7196856653a14e0
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -3678,7 +3678,7 @@
 153	studies	_	_	_	_	_	_	_	Seg=O
 154	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 20ec367d459abe3e88b7db18a359f087c37bd90e
+# newdoc id = 20ec367d459abe3e88b7db18a359f087c37bd90e
 1	Enteroviruses	_	_	_	_	_	_	_	Seg=B-seg
 2	are	_	_	_	_	_	_	_	Seg=O
 3	common	_	_	_	_	_	_	_	Seg=O
@@ -3964,7 +3964,7 @@
 283	disease	_	_	_	_	_	_	_	Seg=O
 284	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 2134f97f11e3c3aee6903f4971a2d1195f9620b0
+# newdoc id = 2134f97f11e3c3aee6903f4971a2d1195f9620b0
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	study	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -4136,7 +4136,7 @@
 168	settings	_	_	_	_	_	_	_	Seg=O
 169	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 21a551af356295ada6e657054646444bca9d202b
+# newdoc id = 21a551af356295ada6e657054646444bca9d202b
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	review	_	_	_	_	_	_	_	Seg=O
 3	summarizes	_	_	_	_	_	_	_	Seg=O
@@ -4292,7 +4292,7 @@
 153	defined	_	_	_	_	_	_	_	Seg=O
 154	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 21a572a6c0f75baa745480e28b596d73d4492cc8
+# newdoc id = 21a572a6c0f75baa745480e28b596d73d4492cc8
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	COVID-19	_	_	_	_	_	_	_	Seg=O
 3	pandemic	_	_	_	_	_	_	_	Seg=O
@@ -4472,7 +4472,7 @@
 177	patients	_	_	_	_	_	_	_	Seg=O
 178	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 23d06bd7a12e6e729f5b2b06bbe825eb9a91270e
+# newdoc id = 23d06bd7a12e6e729f5b2b06bbe825eb9a91270e
 1	Severe	_	_	_	_	_	_	_	Seg=B-seg
 2	acute	_	_	_	_	_	_	_	Seg=O
 3	respiratory	_	_	_	_	_	_	_	Seg=O
@@ -4665,7 +4665,7 @@
 190	programs	_	_	_	_	_	_	_	Seg=O
 191	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 247d3262ad1b15f331a89f70eec56b34dbe6b8b5
+# newdoc id = 247d3262ad1b15f331a89f70eec56b34dbe6b8b5
 1	Background	_	_	_	_	_	_	_	Seg=B-seg
 2	.	_	_	_	_	_	_	_	Seg=O
 3	The	_	_	_	_	_	_	_	Seg=B-seg
@@ -4934,7 +4934,7 @@
 266	datasets	_	_	_	_	_	_	_	Seg=O
 267	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 25aad84c22269cf7221d0c22737e2e01a36ec51b
+# newdoc id = 25aad84c22269cf7221d0c22737e2e01a36ec51b
 1	RNA	_	_	_	_	_	_	_	Seg=B-seg
 2	dependent	_	_	_	_	_	_	_	Seg=O
 3	DNA	_	_	_	_	_	_	_	Seg=O
@@ -5173,7 +5173,7 @@
 236	merited	_	_	_	_	_	_	_	Seg=O
 237	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 2a32218f7d0b647b6bebeb1526245a0dc8856546
+# newdoc id = 2a32218f7d0b647b6bebeb1526245a0dc8856546
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	cell	_	_	_	_	_	_	_	Seg=O
 3	intrinsic	_	_	_	_	_	_	_	Seg=O
@@ -5435,7 +5435,7 @@
 259	metabolism	_	_	_	_	_	_	_	Seg=O
 260	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 2a6d03c2466a88098a79eb95b0bccd23d91168ff
+# newdoc id = 2a6d03c2466a88098a79eb95b0bccd23d91168ff
 1	Antimicrobial	_	_	_	_	_	_	_	Seg=B-seg
 2	stewardship	_	_	_	_	_	_	_	Seg=O
 3	program	_	_	_	_	_	_	_	Seg=O
@@ -5704,7 +5704,7 @@
 266	benchmarking	_	_	_	_	_	_	_	Seg=O
 267	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 2bc85cf8715cbd57eb454b5a0d8966c787aca1e5
+# newdoc id = 2bc85cf8715cbd57eb454b5a0d8966c787aca1e5
 1	Pandemics	_	_	_	_	_	_	_	Seg=B-seg
 2	and	_	_	_	_	_	_	_	Seg=O
 3	other	_	_	_	_	_	_	_	Seg=O
@@ -5914,7 +5914,7 @@
 207	practices	_	_	_	_	_	_	_	Seg=O
 208	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 2c798963aaa2245c095624af78d5638bebf60c2f
+# newdoc id = 2c798963aaa2245c095624af78d5638bebf60c2f
 1	Air	_	_	_	_	_	_	_	Seg=B-seg
 2	sampling	_	_	_	_	_	_	_	Seg=O
 3	as	_	_	_	_	_	_	_	Seg=O
@@ -6167,7 +6167,7 @@
 248	identified	_	_	_	_	_	_	_	Seg=O
 249	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 2cd74646ef69d8ea8f04a046a88eb22dc7187dab
+# newdoc id = 2cd74646ef69d8ea8f04a046a88eb22dc7187dab
 1	Transshipment	_	_	_	_	_	_	_	Seg=B-seg
 2	hub	_	_	_	_	_	_	_	Seg=O
 3	selection	_	_	_	_	_	_	_	Seg=O
@@ -6347,7 +6347,7 @@
 177	preferred	_	_	_	_	_	_	_	Seg=O
 178	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 2cfc9d870895fa21b90e90ab86d1343b0da35457
+# newdoc id = 2cfc9d870895fa21b90e90ab86d1343b0da35457
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	study	_	_	_	_	_	_	_	Seg=O
 3	explores	_	_	_	_	_	_	_	Seg=O
@@ -6481,7 +6481,7 @@
 130	situation	_	_	_	_	_	_	_	Seg=O
 131	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 2e6263111a76ff0d43e7e3cde2692df04533e4f7
+# newdoc id = 2e6263111a76ff0d43e7e3cde2692df04533e4f7
 1	It	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	well	_	_	_	_	_	_	_	Seg=O
@@ -6594,7 +6594,7 @@
 110	immunity	_	_	_	_	_	_	_	Seg=O
 111	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 2ebd4ba5ce0c32a5c7ef6396e35262bd667f1dcc
+# newdoc id = 2ebd4ba5ce0c32a5c7ef6396e35262bd667f1dcc
 1	Cytokine	_	_	_	_	_	_	_	Seg=B-seg
 2	storm	_	_	_	_	_	_	_	Seg=O
 3	during	_	_	_	_	_	_	_	Seg=O
@@ -6770,7 +6770,7 @@
 173	tractable	_	_	_	_	_	_	_	Seg=O
 174	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 2f071bf96a0a2a1c4fc270a41ca7f4535f474ec5
+# newdoc id = 2f071bf96a0a2a1c4fc270a41ca7f4535f474ec5
 1	It	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	normal	_	_	_	_	_	_	_	Seg=O
@@ -7037,7 +7037,7 @@
 264	systems	_	_	_	_	_	_	_	Seg=O
 265	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 2f6efc4edc0c9fffd3acc810efd8616e7772b28a
+# newdoc id = 2f6efc4edc0c9fffd3acc810efd8616e7772b28a
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	appearance	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -7309,7 +7309,7 @@
 269	interventions	_	_	_	_	_	_	_	Seg=O
 270	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 2f8012db8f2100bb1876e19722d6c131849e2315
+# newdoc id = 2f8012db8f2100bb1876e19722d6c131849e2315
 1	Viruses	_	_	_	_	_	_	_	Seg=B-seg
 2	have	_	_	_	_	_	_	_	Seg=O
 3	evolved	_	_	_	_	_	_	_	Seg=O
@@ -7602,7 +7602,7 @@
 290	induction	_	_	_	_	_	_	_	Seg=O
 291	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 31fae2807695521804442fedcd3f7b9f17d0f9ea
+# newdoc id = 31fae2807695521804442fedcd3f7b9f17d0f9ea
 1	BACKGROUND	_	_	_	_	_	_	_	Seg=B-seg
 2	:	_	_	_	_	_	_	_	Seg=O
 3	Evaluation	_	_	_	_	_	_	_	Seg=B-seg
@@ -7921,7 +7921,7 @@
 316	https://doi	_	_	_	_	_	_	_	Seg=B-seg
 317	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 338d45deb88de8cc7f4cf5158c4752fb3533a0b7
+# newdoc id = 338d45deb88de8cc7f4cf5158c4752fb3533a0b7
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	Resequencing	_	_	_	_	_	_	_	Seg=O
 3	Pathogen	_	_	_	_	_	_	_	Seg=O
@@ -8163,7 +8163,7 @@
 238	pathogens	_	_	_	_	_	_	_	Seg=O
 239	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 34694791cd158e785ad16404d5d34ad8559792c0
+# newdoc id = 34694791cd158e785ad16404d5d34ad8559792c0
 1	Recently	_	_	_	_	_	_	_	Seg=B-seg
 2	a	_	_	_	_	_	_	_	Seg=O
 3	number	_	_	_	_	_	_	_	Seg=O
@@ -8452,7 +8452,7 @@
 285	levels	_	_	_	_	_	_	_	Seg=O
 286	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 352657225f9b69e4693a466de17c2a4d55ccc1d3
+# newdoc id = 352657225f9b69e4693a466de17c2a4d55ccc1d3
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	integration	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -8616,7 +8616,7 @@
 161	highlighted	_	_	_	_	_	_	_	Seg=O
 162	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 36f9ee4d21bf47a3f9f504f7fca3a1db625899d2
+# newdoc id = 36f9ee4d21bf47a3f9f504f7fca3a1db625899d2
 1	Coronaviruses	_	_	_	_	_	_	_	Seg=B-seg
 2	are	_	_	_	_	_	_	_	Seg=O
 3	positive	_	_	_	_	_	_	_	Seg=O
@@ -8767,7 +8767,7 @@
 148	epidemics	_	_	_	_	_	_	_	Seg=O
 149	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 393df9f3bd2b9ab0e100ab48688cebc9e86c5a60
+# newdoc id = 393df9f3bd2b9ab0e100ab48688cebc9e86c5a60
 1	Pandemics	_	_	_	_	_	_	_	Seg=B-seg
 2	have	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -9054,7 +9054,7 @@
 284	levels	_	_	_	_	_	_	_	Seg=O
 285	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 3b2db322b3470bdbc2145b4b348b1dc2c8e054ec
+# newdoc id = 3b2db322b3470bdbc2145b4b348b1dc2c8e054ec
 1	Coronavirus	_	_	_	_	_	_	_	Seg=B-seg
 2	disease	_	_	_	_	_	_	_	Seg=O
 3	2019	_	_	_	_	_	_	_	Seg=O
@@ -9195,7 +9195,7 @@
 138	pandemic	_	_	_	_	_	_	_	Seg=O
 139	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 3d026627a1f1f6af6f6fbb07bbcb84d917c7c946
+# newdoc id = 3d026627a1f1f6af6f6fbb07bbcb84d917c7c946
 1	Identification	_	_	_	_	_	_	_	Seg=B-seg
 2	of	_	_	_	_	_	_	_	Seg=O
 3	regulatory	_	_	_	_	_	_	_	Seg=O
@@ -9368,7 +9368,7 @@
 170	approach	_	_	_	_	_	_	_	Seg=O
 171	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 3db88b442b2c693d0783756c733c55bcec669df0
+# newdoc id = 3db88b442b2c693d0783756c733c55bcec669df0
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -9709,7 +9709,7 @@
 338	diffusion	_	_	_	_	_	_	_	Seg=O
 339	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 3e8d0363f49f83917e0ddddf7b4322186da47dbc
+# newdoc id = 3e8d0363f49f83917e0ddddf7b4322186da47dbc
 1	Shotgun	_	_	_	_	_	_	_	Seg=B-seg
 2	metagenomics	_	_	_	_	_	_	_	Seg=O
 3	using	_	_	_	_	_	_	_	Seg=B-seg
@@ -10038,7 +10038,7 @@
 326	setting	_	_	_	_	_	_	_	Seg=O
 327	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 3f8d61cff42f5714412479237e85de075e817fae
+# newdoc id = 3f8d61cff42f5714412479237e85de075e817fae
 1	Porcine	_	_	_	_	_	_	_	Seg=B-seg
 2	β	_	_	_	_	_	_	_	Seg=O
 3	-	_	_	_	_	_	_	_	Seg=O
@@ -10345,7 +10345,7 @@
 304	pigs	_	_	_	_	_	_	_	Seg=O
 305	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 40276a234b15f83ca6f70b4956659025fd7b2ae5
+# newdoc id = 40276a234b15f83ca6f70b4956659025fd7b2ae5
 1	Background	_	_	_	_	_	_	_	Seg=B-seg
 2	:	_	_	_	_	_	_	_	Seg=O
 3	HRV	_	_	_	_	_	_	_	Seg=B-seg
@@ -10661,7 +10661,7 @@
 313	recipients	_	_	_	_	_	_	_	Seg=O
 314	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 414d4a7cbe08a1904b9b3c2716562f40983f1087
+# newdoc id = 414d4a7cbe08a1904b9b3c2716562f40983f1087
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	COVID-19	_	_	_	_	_	_	_	Seg=O
 3	epidemic	_	_	_	_	_	_	_	Seg=O
@@ -10745,7 +10745,7 @@
 81	radiology	_	_	_	_	_	_	_	Seg=O
 82	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 422787d1a8391db8a23e809e861e477df0753c99
+# newdoc id = 422787d1a8391db8a23e809e861e477df0753c99
 1	Background	_	_	_	_	_	_	_	Seg=B-seg
 2	.	_	_	_	_	_	_	_	Seg=O
 3	Brazil	_	_	_	_	_	_	_	Seg=B-seg
@@ -10902,7 +10902,7 @@
 154	vulnerable	_	_	_	_	_	_	_	Seg=O
 155	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 43568a4ba8221af0f87a1c7d1ddbd2a48eb27e79
+# newdoc id = 43568a4ba8221af0f87a1c7d1ddbd2a48eb27e79
 1	Objectives	_	_	_	_	_	_	_	Seg=B-seg
 2	of	_	_	_	_	_	_	_	Seg=O
 3	this	_	_	_	_	_	_	_	Seg=O
@@ -11069,7 +11069,7 @@
 164	cats	_	_	_	_	_	_	_	Seg=O
 165	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 4467298e39f2e2c43a48135ce26a887ea78b5706
+# newdoc id = 4467298e39f2e2c43a48135ce26a887ea78b5706
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	ultimate	_	_	_	_	_	_	_	Seg=O
 3	goal	_	_	_	_	_	_	_	Seg=O
@@ -11195,7 +11195,7 @@
 123	examined	_	_	_	_	_	_	_	Seg=O
 124	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 48356622cf00b854864f09f21cacca3c5f444225
+# newdoc id = 48356622cf00b854864f09f21cacca3c5f444225
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	novel	_	_	_	_	_	_	_	Seg=O
 3	coronavirus	_	_	_	_	_	_	_	Seg=O
@@ -11253,7 +11253,7 @@
 55	disturbance	_	_	_	_	_	_	_	Seg=O
 56	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 4894e8b3062d3304ef9cc17f72efcea7e66bbe4d
+# newdoc id = 4894e8b3062d3304ef9cc17f72efcea7e66bbe4d
 1	Chemical	_	_	_	_	_	_	_	Seg=B-seg
 2	denaturant	_	_	_	_	_	_	_	Seg=O
 3	sensitivity	_	_	_	_	_	_	_	Seg=O
@@ -11497,7 +11497,7 @@
 241	protease	_	_	_	_	_	_	_	Seg=O
 242	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 492a1c000e859332a6e5d333aef1d74c4147b4e1
+# newdoc id = 492a1c000e859332a6e5d333aef1d74c4147b4e1
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	coronavirus	_	_	_	_	_	_	_	Seg=O
 3	disease	_	_	_	_	_	_	_	Seg=O
@@ -11768,7 +11768,7 @@
 268	results	_	_	_	_	_	_	_	Seg=O
 269	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 4c76e1e9a4f5afc01accd2dbbd43f0463744e8d2
+# newdoc id = 4c76e1e9a4f5afc01accd2dbbd43f0463744e8d2
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	current	_	_	_	_	_	_	_	Seg=O
 3	Ebola	_	_	_	_	_	_	_	Seg=O
@@ -12130,7 +12130,7 @@
 359	claims	_	_	_	_	_	_	_	Seg=O
 360	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 4cace95b9b4e1f4af324d1fa278274c53c2b00af
+# newdoc id = 4cace95b9b4e1f4af324d1fa278274c53c2b00af
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	report	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -12353,7 +12353,7 @@
 220	potency	_	_	_	_	_	_	_	Seg=O
 221	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 4d2366b0ee4d6b5ec8c8b7376e7b343fa15e0ff8
+# newdoc id = 4d2366b0ee4d6b5ec8c8b7376e7b343fa15e0ff8
 1	Until	_	_	_	_	_	_	_	Seg=B-seg
 2	recently	_	_	_	_	_	_	_	Seg=O
 3	,	_	_	_	_	_	_	_	Seg=O
@@ -12568,7 +12568,7 @@
 212	responsible	_	_	_	_	_	_	_	Seg=O
 213	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 50cde1e9f6887bf2ef3e41f30b17011e4e58aba8
+# newdoc id = 50cde1e9f6887bf2ef3e41f30b17011e4e58aba8
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	order	_	_	_	_	_	_	_	Seg=O
 3	to	_	_	_	_	_	_	_	Seg=O
@@ -12753,7 +12753,7 @@
 181	infection	_	_	_	_	_	_	_	Seg=O
 182	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 5405330f85660bb35ec960a144e904c54c4c67a7
+# newdoc id = 5405330f85660bb35ec960a144e904c54c4c67a7
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	demo	_	_	_	_	_	_	_	Seg=O
@@ -12865,7 +12865,7 @@
 109	data	_	_	_	_	_	_	_	Seg=O
 110	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 55cb2d0edd96f893cd0f5e11ef9b7052841eec3a
+# newdoc id = 55cb2d0edd96f893cd0f5e11ef9b7052841eec3a
 1	Tuberculosis	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -13074,7 +13074,7 @@
 206	elimination	_	_	_	_	_	_	_	Seg=O
 207	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 59f5a1087f771959fc4d01b18ea5bf91bf95bb94
+# newdoc id = 59f5a1087f771959fc4d01b18ea5bf91bf95bb94
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	current	_	_	_	_	_	_	_	Seg=O
 3	coronavirus	_	_	_	_	_	_	_	Seg=O
@@ -13301,7 +13301,7 @@
 224	COVID-19	_	_	_	_	_	_	_	Seg=O
 225	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 5c2bd95f80ed7229802a7fd01731a2586702f8b3
+# newdoc id = 5c2bd95f80ed7229802a7fd01731a2586702f8b3
 1	Activation	_	_	_	_	_	_	_	Seg=B-seg
 2	of	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -13471,7 +13471,7 @@
 167	transplantation	_	_	_	_	_	_	_	Seg=O
 168	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 5cfb44ecdfb61b2898b6cf7315b1e810874a9560
+# newdoc id = 5cfb44ecdfb61b2898b6cf7315b1e810874a9560
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	2019-nCoV	_	_	_	_	_	_	_	Seg=O
 3	outbreak	_	_	_	_	_	_	_	Seg=O
@@ -13684,7 +13684,7 @@
 210	3	_	_	_	_	_	_	_	Seg=O
 211	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 5e2c1be088e0e4406e9446e7efc610a6a53d2315
+# newdoc id = 5e2c1be088e0e4406e9446e7efc610a6a53d2315
 1	Feline	_	_	_	_	_	_	_	Seg=B-seg
 2	calicivirus	_	_	_	_	_	_	_	Seg=O
 3	(	_	_	_	_	_	_	_	Seg=O
@@ -13947,7 +13947,7 @@
 260	culture	_	_	_	_	_	_	_	Seg=O
 261	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 6197b0f53a6a883f99c2602a89309b8b2f27da92
+# newdoc id = 6197b0f53a6a883f99c2602a89309b8b2f27da92
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	early	_	_	_	_	_	_	_	Seg=O
 3	detection	_	_	_	_	_	_	_	Seg=O
@@ -14165,7 +14165,7 @@
 215	respectively	_	_	_	_	_	_	_	Seg=O
 216	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 628c524b306aaaa50ae9b6a7017423445fd97c44
+# newdoc id = 628c524b306aaaa50ae9b6a7017423445fd97c44
 1	Background	_	_	_	_	_	_	_	Seg=B-seg
 2	:	_	_	_	_	_	_	_	Seg=O
 3	Anecdotal	_	_	_	_	_	_	_	Seg=B-seg
@@ -14455,7 +14455,7 @@
 286	epidemics	_	_	_	_	_	_	_	Seg=O
 287	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 64a850b409d63712791c985be7166bfc378315a3
+# newdoc id = 64a850b409d63712791c985be7166bfc378315a3
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	novel	_	_	_	_	_	_	_	Seg=O
 3-4	coronavirus'	_	_	_	_	_	_	_	_
@@ -14596,7 +14596,7 @@
 137	making	_	_	_	_	_	_	_	Seg=O
 138	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 6b72cc2cfb96b6ed68bbf031175f2ff18ac80d2c
+# newdoc id = 6b72cc2cfb96b6ed68bbf031175f2ff18ac80d2c
 1	Severe	_	_	_	_	_	_	_	Seg=B-seg
 2	acute	_	_	_	_	_	_	_	Seg=O
 3	respiratory	_	_	_	_	_	_	_	Seg=O
@@ -14848,7 +14848,7 @@
 249	presented	_	_	_	_	_	_	_	Seg=O
 250	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 6e704c9d3e78ca76678b668e56990e6a02c0e966
+# newdoc id = 6e704c9d3e78ca76678b668e56990e6a02c0e966
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	argue	_	_	_	_	_	_	_	Seg=O
 3	that	_	_	_	_	_	_	_	Seg=B-seg
@@ -15027,7 +15027,7 @@
 176	important	_	_	_	_	_	_	_	Seg=O
 177	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 714d9af12264fb74a536d77b974cbd6ad65f44e2
+# newdoc id = 714d9af12264fb74a536d77b974cbd6ad65f44e2
 1	Severe	_	_	_	_	_	_	_	Seg=B-seg
 2	Acute	_	_	_	_	_	_	_	Seg=O
 3	Respiratory	_	_	_	_	_	_	_	Seg=O
@@ -15187,7 +15187,7 @@
 157	patients	_	_	_	_	_	_	_	Seg=O
 158	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 74c27dd895ee9f14d0b9584b8a3551a0600f05e2
+# newdoc id = 74c27dd895ee9f14d0b9584b8a3551a0600f05e2
 1	Plant	_	_	_	_	_	_	_	Seg=B-seg
 2	artificial	_	_	_	_	_	_	_	Seg=O
 3	micro	_	_	_	_	_	_	_	Seg=O
@@ -15434,7 +15434,7 @@
 244	drift	_	_	_	_	_	_	_	Seg=O
 245	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 762f9b6467251b8e21ad0a838c12a2c6c5ab9a10
+# newdoc id = 762f9b6467251b8e21ad0a838c12a2c6c5ab9a10
 1	Avian	_	_	_	_	_	_	_	Seg=B-seg
 2	infectious	_	_	_	_	_	_	_	Seg=O
 3	bronchitis	_	_	_	_	_	_	_	Seg=O
@@ -15605,7 +15605,7 @@
 168	%	_	_	_	_	_	_	_	Seg=O
 169	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 79fa8fdc827ebf13a568461671621f811d9af7f5
+# newdoc id = 79fa8fdc827ebf13a568461671621f811d9af7f5
 1	Canine	_	_	_	_	_	_	_	Seg=B-seg
 2	parvovirus	_	_	_	_	_	_	_	Seg=O
 3	(	_	_	_	_	_	_	_	Seg=O
@@ -15761,7 +15761,7 @@
 153	)	_	_	_	_	_	_	_	Seg=O
 154	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 7a2057b8b17dac8f41d6e811296470fbca62165e
+# newdoc id = 7a2057b8b17dac8f41d6e811296470fbca62165e
 1	Introduction	_	_	_	_	_	_	_	Seg=B-seg
 2	:	_	_	_	_	_	_	_	Seg=O
 3	Myocarditis	_	_	_	_	_	_	_	Seg=B-seg
@@ -16016,7 +16016,7 @@
 252	treatment	_	_	_	_	_	_	_	Seg=O
 253	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 7f4558c4cb1d6fb9bbe9a522ca25924740e76b0a
+# newdoc id = 7f4558c4cb1d6fb9bbe9a522ca25924740e76b0a
 1	SARS	_	_	_	_	_	_	_	Seg=B-seg
 2	-	_	_	_	_	_	_	_	Seg=O
 3	CoV-2	_	_	_	_	_	_	_	Seg=O
@@ -16216,7 +16216,7 @@
 197	highlighted	_	_	_	_	_	_	_	Seg=O
 198	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 804c9ade797c3eae734ac34ddbaa256b02672668
+# newdoc id = 804c9ade797c3eae734ac34ddbaa256b02672668
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	current	_	_	_	_	_	_	_	Seg=O
 3	health	_	_	_	_	_	_	_	Seg=O
@@ -16359,7 +16359,7 @@
 140	country	_	_	_	_	_	_	_	Seg=O
 141	;	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 80bd28c8ba829f2173211a2fad8f98657676e0a6
+# newdoc id = 80bd28c8ba829f2173211a2fad8f98657676e0a6
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	COVID-19	_	_	_	_	_	_	_	Seg=O
 3	pandemic	_	_	_	_	_	_	_	Seg=O
@@ -16525,7 +16525,7 @@
 163	COVID-19	_	_	_	_	_	_	_	Seg=O
 164	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 8872c8e69ad8ba0f3df7454eb8121c712e60011b
+# newdoc id = 8872c8e69ad8ba0f3df7454eb8121c712e60011b
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	central	_	_	_	_	_	_	_	Seg=O
 3	nervous	_	_	_	_	_	_	_	Seg=O
@@ -16766,7 +16766,7 @@
 238	pathogenesis	_	_	_	_	_	_	_	Seg=O
 239	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 8d0569b9fe93d0997ca38060117ffc6381122957
+# newdoc id = 8d0569b9fe93d0997ca38060117ffc6381122957
 1	RNA	_	_	_	_	_	_	_	Seg=B-seg
 2	interference	_	_	_	_	_	_	_	Seg=O
 3	(	_	_	_	_	_	_	_	Seg=O
@@ -16947,7 +16947,7 @@
 178	infection	_	_	_	_	_	_	_	Seg=O
 179	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 8e0331893b4854ecd4c22be2f4661f1c6e444405
+# newdoc id = 8e0331893b4854ecd4c22be2f4661f1c6e444405
 1	Multilayer	_	_	_	_	_	_	_	Seg=B-seg
 2	networks	_	_	_	_	_	_	_	Seg=O
 3	proved	_	_	_	_	_	_	_	Seg=O
@@ -17151,7 +17151,7 @@
 201	identified	_	_	_	_	_	_	_	Seg=O
 202	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 8ed17fe60158dbfa61e3d0f39f2838d687bd6dd8
+# newdoc id = 8ed17fe60158dbfa61e3d0f39f2838d687bd6dd8
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	novel	_	_	_	_	_	_	_	Seg=O
 3	coronavirus	_	_	_	_	_	_	_	Seg=O
@@ -17291,7 +17291,7 @@
 137	emerging	_	_	_	_	_	_	_	Seg=O
 138	CoV.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 90662d7dc7b09e018829ae2bc13e167b218931d8
+# newdoc id = 90662d7dc7b09e018829ae2bc13e167b218931d8
 1	Background	_	_	_	_	_	_	_	Seg=B-seg
 2	:	_	_	_	_	_	_	_	Seg=O
 3	Human	_	_	_	_	_	_	_	Seg=B-seg
@@ -17590,7 +17590,7 @@
 296	uses	_	_	_	_	_	_	_	Seg=O
 297	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 909b7a89053c834c12a9d4348e977e66c6116d42
+# newdoc id = 909b7a89053c834c12a9d4348e977e66c6116d42
 1	Among	_	_	_	_	_	_	_	Seg=B-seg
 2	coronaviruses	_	_	_	_	_	_	_	Seg=O
 3	,	_	_	_	_	_	_	_	Seg=O
@@ -17837,7 +17837,7 @@
 244	recombination	_	_	_	_	_	_	_	Seg=O
 245	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 91595c90cb3ae1139a1090369bab9b25abbf6f1d
+# newdoc id = 91595c90cb3ae1139a1090369bab9b25abbf6f1d
 1	Two	_	_	_	_	_	_	_	Seg=B-seg
 2	recently	_	_	_	_	_	_	_	Seg=O
 3	detected	_	_	_	_	_	_	_	Seg=O
@@ -18066,7 +18066,7 @@
 226	countries	_	_	_	_	_	_	_	Seg=O
 227	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 94156e6941fe78191b5997cdeb10cb3fd06e1221
+# newdoc id = 94156e6941fe78191b5997cdeb10cb3fd06e1221
 1	Background	_	_	_	_	_	_	_	Seg=B-seg
 2	:	_	_	_	_	_	_	_	Seg=O
 3	Acute	_	_	_	_	_	_	_	Seg=B-seg
@@ -18289,7 +18289,7 @@
 220	molluscs	_	_	_	_	_	_	_	Seg=O
 221	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 97adff711db916914190dd5fde9ec4923a13f46d
+# newdoc id = 97adff711db916914190dd5fde9ec4923a13f46d
 1	Rheum	_	_	_	_	_	_	_	Seg=B-seg
 2	palmatum	_	_	_	_	_	_	_	Seg=O
 3	,	_	_	_	_	_	_	_	Seg=O
@@ -18527,7 +18527,7 @@
 235	JEV	_	_	_	_	_	_	_	Seg=O
 236	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 980c48327d3bfbfcb0373fdbef063cd1a3d1d339
+# newdoc id = 980c48327d3bfbfcb0373fdbef063cd1a3d1d339
 1	Pathology	_	_	_	_	_	_	_	Seg=B-seg
 2	practice	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -18778,7 +18778,7 @@
 248	applications	_	_	_	_	_	_	_	Seg=O
 249	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 998006100007fee546077ce3c05ded0d35d08ff8
+# newdoc id = 998006100007fee546077ce3c05ded0d35d08ff8
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	goal	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -18921,7 +18921,7 @@
 140	predictions	_	_	_	_	_	_	_	Seg=O
 141	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 9ddc68cec5cd84cb4e0ffebe2950149cca597811
+# newdoc id = 9ddc68cec5cd84cb4e0ffebe2950149cca597811
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	first	_	_	_	_	_	_	_	Seg=O
 3	person	_	_	_	_	_	_	_	Seg=O
@@ -19163,7 +19163,7 @@
 239	setting	_	_	_	_	_	_	_	Seg=O
 240	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = 9f75a36d8f57e382a717ee506b636cbdb355802a
+# newdoc id = 9f75a36d8f57e382a717ee506b636cbdb355802a
 1	Cases	_	_	_	_	_	_	_	Seg=B-seg
 2	of	_	_	_	_	_	_	_	Seg=O
 3	COVID-19	_	_	_	_	_	_	_	Seg=O
@@ -19512,7 +19512,7 @@
 346	collection	_	_	_	_	_	_	_	Seg=O
 347	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = a5ff05575328a71f49ebc06441902568fc955c72
+# newdoc id = a5ff05575328a71f49ebc06441902568fc955c72
 1	RNA	_	_	_	_	_	_	_	Seg=B-seg
 2	viruses	_	_	_	_	_	_	_	Seg=O
 3	show	_	_	_	_	_	_	_	Seg=O
@@ -19672,7 +19672,7 @@
 157	function	_	_	_	_	_	_	_	Seg=O
 158	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = a64f73ac0e74f9eca66d9c4876006757c8399e49
+# newdoc id = a64f73ac0e74f9eca66d9c4876006757c8399e49
 1	There	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	limited	_	_	_	_	_	_	_	Seg=O
@@ -19911,7 +19911,7 @@
 236	death	_	_	_	_	_	_	_	Seg=O
 237	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = a6ae0b0a1b76a367c6a95d58052c65b2c5feb850
+# newdoc id = a6ae0b0a1b76a367c6a95d58052c65b2c5feb850
 1	Multiple	_	_	_	_	_	_	_	Seg=B-seg
 2	sclerosis	_	_	_	_	_	_	_	Seg=O
 3	(	_	_	_	_	_	_	_	Seg=O
@@ -20104,7 +20104,7 @@
 190	autoimmunity	_	_	_	_	_	_	_	Seg=O
 191	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = a6f51bc35967b5ec3948012d00a543a9f51b450f
+# newdoc id = a6f51bc35967b5ec3948012d00a543a9f51b450f
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	mammalian	_	_	_	_	_	_	_	Seg=O
 3	cells	_	_	_	_	_	_	_	Seg=O
@@ -20239,7 +20239,7 @@
 132	experimentation	_	_	_	_	_	_	_	Seg=O
 133	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = a7ba852208db4acf89b85705dd9a04d667da521c
+# newdoc id = a7ba852208db4acf89b85705dd9a04d667da521c
 1	Norovirus	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -20510,7 +20510,7 @@
 268	samples	_	_	_	_	_	_	_	Seg=O
 269	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = a924e53c9e50e932f6d0b3938b5bdf284e1736a7
+# newdoc id = a924e53c9e50e932f6d0b3938b5bdf284e1736a7
 1	Apoptosis	_	_	_	_	_	_	_	Seg=B-seg
 2	plays	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -20655,7 +20655,7 @@
 142	cells	_	_	_	_	_	_	_	Seg=O
 143	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = a987e584291a44e8bbab14f9909629b8bba57853
+# newdoc id = a987e584291a44e8bbab14f9909629b8bba57853
 1	SARS	_	_	_	_	_	_	_	Seg=B-seg
 2	-	_	_	_	_	_	_	_	Seg=O
 3	CoV-2	_	_	_	_	_	_	_	Seg=O
@@ -20766,7 +20766,7 @@
 108	specimens	_	_	_	_	_	_	_	Seg=O
 109	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = aa339dc08635486396623300d7ab64d1c8d632f6
+# newdoc id = aa339dc08635486396623300d7ab64d1c8d632f6
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	attention	_	_	_	_	_	_	_	Seg=O
 3	mechanism	_	_	_	_	_	_	_	Seg=O
@@ -20956,7 +20956,7 @@
 187	graphs	_	_	_	_	_	_	_	Seg=O
 188	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ab47b7fee600cd540e17d363002a05a3bdfdd306
+# newdoc id = ab47b7fee600cd540e17d363002a05a3bdfdd306
 1	Current	_	_	_	_	_	_	_	Seg=B-seg
 2	research	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -21222,7 +21222,7 @@
 263	%	_	_	_	_	_	_	_	Seg=O
 264	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ac51af9995edb441f0ce4fdc384908daa6e83675
+# newdoc id = ac51af9995edb441f0ce4fdc384908daa6e83675
 1	TREM2	_	_	_	_	_	_	_	Seg=B-seg
 2	variants	_	_	_	_	_	_	_	Seg=O
 3	have	_	_	_	_	_	_	_	Seg=O
@@ -21528,7 +21528,7 @@
 301	therapeutics	_	_	_	_	_	_	_	Seg=O
 302	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ad147a4279222c5e480a5636fb879540eded760e
+# newdoc id = ad147a4279222c5e480a5636fb879540eded760e
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	epidemic	_	_	_	_	_	_	_	Seg=O
 3	threshold	_	_	_	_	_	_	_	Seg=O
@@ -21745,7 +21745,7 @@
 213	measles	_	_	_	_	_	_	_	Seg=O
 214	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = aedcbf29dcf8ecc0cf24cccd05124571f06fe258
+# newdoc id = aedcbf29dcf8ecc0cf24cccd05124571f06fe258
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	entry	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -21992,7 +21992,7 @@
 244	cells	_	_	_	_	_	_	_	Seg=O
 245	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = b25406fedda8c98e076135cef12df228ca6fd4f1
+# newdoc id = b25406fedda8c98e076135cef12df228ca6fd4f1
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	coronavirus	_	_	_	_	_	_	_	Seg=O
 3	disease	_	_	_	_	_	_	_	Seg=O
@@ -22276,7 +22276,7 @@
 281	respectively	_	_	_	_	_	_	_	Seg=O
 282	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = b61d4d87ea3b4fa2ff058ee867bdac4f15c0cf11
+# newdoc id = b61d4d87ea3b4fa2ff058ee867bdac4f15c0cf11
 1	As	_	_	_	_	_	_	_	Seg=B-seg
 2	intracellular	_	_	_	_	_	_	_	Seg=O
 3	parasites	_	_	_	_	_	_	_	Seg=O
@@ -22406,7 +22406,7 @@
 127	infection	_	_	_	_	_	_	_	Seg=O
 128	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = b663a1cc707cf69d2f90bda78f077b45b4f4daa5
+# newdoc id = b663a1cc707cf69d2f90bda78f077b45b4f4daa5
 1	Monadic	_	_	_	_	_	_	_	Seg=B-seg
 2	decomposability	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -22650,7 +22650,7 @@
 240	up	_	_	_	_	_	_	_	Seg=O
 241	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ba3522d00ecebd159c5b5dc90119df8642993c49
+# newdoc id = ba3522d00ecebd159c5b5dc90119df8642993c49
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	type	_	_	_	_	_	_	_	Seg=O
 3	II	_	_	_	_	_	_	_	Seg=O
@@ -22847,7 +22847,7 @@
 194	host	_	_	_	_	_	_	_	Seg=O
 195	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ba755009e5f7330a8344f1b2dd8e65d54b8488e8
+# newdoc id = ba755009e5f7330a8344f1b2dd8e65d54b8488e8
 1	Background	_	_	_	_	_	_	_	Seg=B-seg
 2	:	_	_	_	_	_	_	_	Seg=O
 3	In	_	_	_	_	_	_	_	Seg=B-seg
@@ -23255,7 +23255,7 @@
 404	diarrhea	_	_	_	_	_	_	_	Seg=O
 405	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = bab3d2a212eaf7740a45ee8efeec3db99bf94589
+# newdoc id = bab3d2a212eaf7740a45ee8efeec3db99bf94589
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	classical	_	_	_	_	_	_	_	Seg=O
 3	symptoms	_	_	_	_	_	_	_	Seg=O
@@ -23326,7 +23326,7 @@
 68	virus	_	_	_	_	_	_	_	Seg=O
 69	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = bcbee2c092b43738b2504034db8246acb059d4c5
+# newdoc id = bcbee2c092b43738b2504034db8246acb059d4c5
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	Tanzania	_	_	_	_	_	_	_	Seg=O
 3	,	_	_	_	_	_	_	_	Seg=O
@@ -23711,7 +23711,7 @@
 381	status	_	_	_	_	_	_	_	Seg=O
 382	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = be7c8e5eb861bc4ef5334a348c6741638ffef108
+# newdoc id = be7c8e5eb861bc4ef5334a348c6741638ffef108
 1	Coronavirus	_	_	_	_	_	_	_	Seg=B-seg
 2	Disease	_	_	_	_	_	_	_	Seg=O
 3	2019	_	_	_	_	_	_	_	Seg=O
@@ -23982,7 +23982,7 @@
 268	performance	_	_	_	_	_	_	_	Seg=O
 269	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = bfab901132bb4f31381dd086e6c45472fa9b4e44
+# newdoc id = bfab901132bb4f31381dd086e6c45472fa9b4e44
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	simulation	_	_	_	_	_	_	_	Seg=O
 3	tool	_	_	_	_	_	_	_	Seg=O
@@ -24145,7 +24145,7 @@
 160	house	_	_	_	_	_	_	_	Seg=O
 161	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = c0e6a4d852babb843d63198cc1e16146efc108b1
+# newdoc id = c0e6a4d852babb843d63198cc1e16146efc108b1
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	Severe	_	_	_	_	_	_	_	Seg=O
 3	Acute	_	_	_	_	_	_	_	Seg=O
@@ -24320,7 +24320,7 @@
 172	regulation	_	_	_	_	_	_	_	Seg=O
 173	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = c280d46d6fa7e2c2938a5c09bd6b092e1058a9b0
+# newdoc id = c280d46d6fa7e2c2938a5c09bd6b092e1058a9b0
 1	Mucosal	_	_	_	_	_	_	_	Seg=B-seg
 2	vaccination	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -24463,7 +24463,7 @@
 140	pigs	_	_	_	_	_	_	_	Seg=O
 141	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = c4aa9bb066a64db00b8bdd44d5c021c5603a09a2
+# newdoc id = c4aa9bb066a64db00b8bdd44d5c021c5603a09a2
 1	Background	_	_	_	_	_	_	_	Seg=B-seg
 2	.	_	_	_	_	_	_	_	Seg=O
 3	Influenza	_	_	_	_	_	_	_	Seg=B-seg
@@ -24801,7 +24801,7 @@
 335	severity	_	_	_	_	_	_	_	Seg=O
 336	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = c526fbee33eed355a7c7437950603c4835418b0e
+# newdoc id = c526fbee33eed355a7c7437950603c4835418b0e
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	general	_	_	_	_	_	_	_	Seg=O
 3	,	_	_	_	_	_	_	_	Seg=O
@@ -24939,7 +24939,7 @@
 135	future	_	_	_	_	_	_	_	Seg=O
 136	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = c635d21a8dd780ebae0bfe87fd7ef1d7d717c4ec
+# newdoc id = c635d21a8dd780ebae0bfe87fd7ef1d7d717c4ec
 1	To	_	_	_	_	_	_	_	Seg=B-seg
 2	assess	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -25299,7 +25299,7 @@
 357	herds	_	_	_	_	_	_	_	Seg=O
 358	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = c74427793f554edd3e181603dfdf53f4c89ad129
+# newdoc id = c74427793f554edd3e181603dfdf53f4c89ad129
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	treatment	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -25501,7 +25501,7 @@
 199	used	_	_	_	_	_	_	_	Seg=O
 200	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = c90121a3f539b59d4b528f3a1dd172b75533c0cc
+# newdoc id = c90121a3f539b59d4b528f3a1dd172b75533c0cc
 1	Bird	_	_	_	_	_	_	_	Seg=B-seg
 2	to	_	_	_	_	_	_	_	Seg=O
 3	human	_	_	_	_	_	_	_	Seg=O
@@ -25786,7 +25786,7 @@
 282	settings	_	_	_	_	_	_	_	Seg=O
 283	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ca2a4dbdc3d133ac018b4427e143e1a5ca45d1eb
+# newdoc id = ca2a4dbdc3d133ac018b4427e143e1a5ca45d1eb
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	pandemic	_	_	_	_	_	_	_	Seg=O
 3	spread	_	_	_	_	_	_	_	Seg=O
@@ -26022,7 +26022,7 @@
 233	)	_	_	_	_	_	_	_	Seg=O
 234	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = cb6074cfc9898c507ee6f98f9888fb652b409069
+# newdoc id = cb6074cfc9898c507ee6f98f9888fb652b409069
 1	On	_	_	_	_	_	_	_	Seg=B-seg
 2	30	_	_	_	_	_	_	_	Seg=O
 3	January	_	_	_	_	_	_	_	Seg=O
@@ -26115,7 +26115,7 @@
 89	healthcare	_	_	_	_	_	_	_	Seg=O
 90	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ceda3aacfcc249a8bdff8eb316c13638860e560b
+# newdoc id = ceda3aacfcc249a8bdff8eb316c13638860e560b
 1	I	_	_	_	_	_	_	_	Seg=B-seg
 2	use	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -26282,7 +26282,7 @@
 164	testing	_	_	_	_	_	_	_	Seg=O
 165	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = d125abb6f1e1cb460e9dd29bf71df2895151761d
+# newdoc id = d125abb6f1e1cb460e9dd29bf71df2895151761d
 1	Background	_	_	_	_	_	_	_	Seg=B-seg
 2	:	_	_	_	_	_	_	_	Seg=O
 3	Intimate	_	_	_	_	_	_	_	Seg=B-seg
@@ -26421,7 +26421,7 @@
 136	)	_	_	_	_	_	_	_	Seg=O
 137	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = d1bc51c207da125a38e3ab23f94966c37bf6bf8f
+# newdoc id = d1bc51c207da125a38e3ab23f94966c37bf6bf8f
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	employs	_	_	_	_	_	_	_	Seg=O
@@ -26576,7 +26576,7 @@
 152	intimacy	_	_	_	_	_	_	_	Seg=O
 153	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = d1ce2321a8a67ec9c9823cb9c15543fce565ed85
+# newdoc id = d1ce2321a8a67ec9c9823cb9c15543fce565ed85
 1	Typical	_	_	_	_	_	_	_	Seg=B-seg
 2	enteropathogenic	_	_	_	_	_	_	_	Seg=O
 3	E.	_	_	_	_	_	_	_	Seg=O
@@ -26849,7 +26849,7 @@
 270	hosts	_	_	_	_	_	_	_	Seg=O
 271	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = d2bf31d4a63b71e7b5bb16f4375134d4ef881d25
+# newdoc id = d2bf31d4a63b71e7b5bb16f4375134d4ef881d25
 1	Studies	_	_	_	_	_	_	_	Seg=B-seg
 2	of	_	_	_	_	_	_	_	Seg=O
 3	SARS	_	_	_	_	_	_	_	Seg=O
@@ -27034,7 +27034,7 @@
 182	-	_	_	_	_	_	_	_	Seg=O
 183	CoV.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = d7e5ba009aed400fac0a223f7fe364b16ac84ae6
+# newdoc id = d7e5ba009aed400fac0a223f7fe364b16ac84ae6
 1	Next	_	_	_	_	_	_	_	Seg=B-seg
 2	-	_	_	_	_	_	_	_	Seg=O
 3	Generation	_	_	_	_	_	_	_	Seg=O
@@ -27232,7 +27232,7 @@
 195	genome	_	_	_	_	_	_	_	Seg=O
 196	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = d87f44c7d76e4c51ed8e72103669c275e2db3e71
+# newdoc id = d87f44c7d76e4c51ed8e72103669c275e2db3e71
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	major	_	_	_	_	_	_	_	Seg=O
 3	physiological	_	_	_	_	_	_	_	Seg=O
@@ -27448,7 +27448,7 @@
 213	weight	_	_	_	_	_	_	_	Seg=O
 214	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = db9cea6a24f86d7bc1250050693fd459e3de6e2b
+# newdoc id = db9cea6a24f86d7bc1250050693fd459e3de6e2b
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	detection	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -27583,7 +27583,7 @@
 132	ppm	_	_	_	_	_	_	_	Seg=O
 133	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = e296fa71274bad6cabcf683a2ba47e58b1326877
+# newdoc id = e296fa71274bad6cabcf683a2ba47e58b1326877
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	offers	_	_	_	_	_	_	_	Seg=O
@@ -27868,7 +27868,7 @@
 282	case	_	_	_	_	_	_	_	Seg=O
 283	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = e29e17f37924d1d14edf56276a5dcca87851e62f
+# newdoc id = e29e17f37924d1d14edf56276a5dcca87851e62f
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	HIV-1	_	_	_	_	_	_	_	Seg=O
 3	frameshift	_	_	_	_	_	_	_	Seg=O
@@ -28013,7 +28013,7 @@
 141	organisms	_	_	_	_	_	_	_	Seg=O
 142	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = e2c49130523a4232721c16791431632d09810a38
+# newdoc id = e2c49130523a4232721c16791431632d09810a38
 1	COVID-19	_	_	_	_	_	_	_	Seg=B-seg
 2	has	_	_	_	_	_	_	_	Seg=O
 3	massively	_	_	_	_	_	_	_	Seg=O
@@ -28154,7 +28154,7 @@
 138	standard	_	_	_	_	_	_	_	Seg=O
 139	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = e6aaada1af8e6361fefb6307231035a4da1c6141
+# newdoc id = e6aaada1af8e6361fefb6307231035a4da1c6141
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	Severe	_	_	_	_	_	_	_	Seg=O
 3	Acute	_	_	_	_	_	_	_	Seg=O
@@ -28384,7 +28384,7 @@
 226	risk	_	_	_	_	_	_	_	Seg=O
 227	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = e767d7dc7a215fc7e1eed093425089a179eba77a
+# newdoc id = e767d7dc7a215fc7e1eed093425089a179eba77a
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	combination	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -28476,7 +28476,7 @@
 89	process	_	_	_	_	_	_	_	Seg=O
 90	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = e8a03d8f27e9d7b3716997e27ae897e802221339
+# newdoc id = e8a03d8f27e9d7b3716997e27ae897e802221339
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	hologram	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -28684,7 +28684,7 @@
 205	)	_	_	_	_	_	_	_	Seg=O
 206	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = e8c619b901c3fd4c2e830df5c471e7b7d204be6b
+# newdoc id = e8c619b901c3fd4c2e830df5c471e7b7d204be6b
 1	An	_	_	_	_	_	_	_	Seg=B-seg
 2	increasing	_	_	_	_	_	_	_	Seg=O
 3	body	_	_	_	_	_	_	_	Seg=O
@@ -28844,7 +28844,7 @@
 157	populations	_	_	_	_	_	_	_	Seg=O
 158	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = e8fa052071eb975ce74b51e1927e26803deea863
+# newdoc id = e8fa052071eb975ce74b51e1927e26803deea863
 1	Alanyl	_	_	_	_	_	_	_	Seg=B-seg
 2	aminopeptidase	_	_	_	_	_	_	_	Seg=O
 3	(	_	_	_	_	_	_	_	Seg=O
@@ -29076,7 +29076,7 @@
 229	transformation	_	_	_	_	_	_	_	Seg=O
 230	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = eafd17ebcaf051ac6cdf146a974e4cd0a8f528ea
+# newdoc id = eafd17ebcaf051ac6cdf146a974e4cd0a8f528ea
 1	Although	_	_	_	_	_	_	_	Seg=B-seg
 2	information	_	_	_	_	_	_	_	Seg=O
 3	on	_	_	_	_	_	_	_	Seg=O
@@ -29155,7 +29155,7 @@
 76	respectively	_	_	_	_	_	_	_	Seg=O
 77	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = eb68173ed9ade0c27573673e9a45ef1be8191edc
+# newdoc id = eb68173ed9ade0c27573673e9a45ef1be8191edc
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	optimization	_	_	_	_	_	_	_	Seg=O
 3	problem	_	_	_	_	_	_	_	Seg=O
@@ -29323,7 +29323,7 @@
 165	optimality	_	_	_	_	_	_	_	Seg=O
 166	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ed43a39e585d77f1fecd662508f8042ed4ad3396
+# newdoc id = ed43a39e585d77f1fecd662508f8042ed4ad3396
 1	Background	_	_	_	_	_	_	_	Seg=B-seg
 2	:	_	_	_	_	_	_	_	Seg=O
 3	As	_	_	_	_	_	_	_	Seg=B-seg
@@ -29520,7 +29520,7 @@
 194	time	_	_	_	_	_	_	_	Seg=O
 195	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = ee370aa6a34ccb5c96e1a213dbed64a2fe4af89f
+# newdoc id = ee370aa6a34ccb5c96e1a213dbed64a2fe4af89f
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	recent	_	_	_	_	_	_	_	Seg=O
 3	outbreak	_	_	_	_	_	_	_	Seg=O
@@ -29778,7 +29778,7 @@
 255	available	_	_	_	_	_	_	_	Seg=O
 256	at	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = eeb7b153d2cd9b4aa3ce620bb2f1e538596a9309
+# newdoc id = eeb7b153d2cd9b4aa3ce620bb2f1e538596a9309
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	number	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -30127,7 +30127,7 @@
 346	soon	_	_	_	_	_	_	_	Seg=O
 347	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = f26b4d2b79d661c896a22c4050ae0818effafe8f
+# newdoc id = f26b4d2b79d661c896a22c4050ae0818effafe8f
 1	Porcine	_	_	_	_	_	_	_	Seg=B-seg
 2	reproductive	_	_	_	_	_	_	_	Seg=O
 3	and	_	_	_	_	_	_	_	Seg=O
@@ -30333,7 +30333,7 @@
 203	vaccines	_	_	_	_	_	_	_	Seg=O
 204	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = f7185938312bfa794681998fe0bff4e2697c053d
+# newdoc id = f7185938312bfa794681998fe0bff4e2697c053d
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	development	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -30504,7 +30504,7 @@
 168	immunogenicity	_	_	_	_	_	_	_	Seg=O
 169	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = f729e0e5f3472840a5f1be47d12b29c83d1c4879
+# newdoc id = f729e0e5f3472840a5f1be47d12b29c83d1c4879
 1	Infection	_	_	_	_	_	_	_	Seg=B-seg
 2	with	_	_	_	_	_	_	_	Seg=O
 3	Mycobacterium	_	_	_	_	_	_	_	Seg=O
@@ -30676,7 +30676,7 @@
 169	vaccination	_	_	_	_	_	_	_	Seg=O
 170	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = f72abb1b0683ec97335167e3e3b8c2790531654e
+# newdoc id = f72abb1b0683ec97335167e3e3b8c2790531654e
 1	With	_	_	_	_	_	_	_	Seg=B-seg
 2	rabbit	_	_	_	_	_	_	_	Seg=O
 3	patients	_	_	_	_	_	_	_	Seg=O
@@ -30813,7 +30813,7 @@
 134	inflammation	_	_	_	_	_	_	_	Seg=O
 135	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = f849d3e71f4d2eae8a1e39802195bc9c06fc30ae
+# newdoc id = f849d3e71f4d2eae8a1e39802195bc9c06fc30ae
 1	Background	_	_	_	_	_	_	_	Seg=B-seg
 2	:	_	_	_	_	_	_	_	Seg=O
 3	Viral	_	_	_	_	_	_	_	Seg=B-seg
@@ -31177,7 +31177,7 @@
 361	timing	_	_	_	_	_	_	_	Seg=O
 362	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = faffbac0e2a22d215556feec30516c1a6ccdb283
+# newdoc id = faffbac0e2a22d215556feec30516c1a6ccdb283
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	computational	_	_	_	_	_	_	_	Seg=O
 3	search	_	_	_	_	_	_	_	Seg=O
@@ -31442,7 +31442,7 @@
 262	FIP	_	_	_	_	_	_	_	Seg=O
 263	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = fb824a8c9ca3c15f49dffa5e22fbfdc1b1fec4ac
+# newdoc id = fb824a8c9ca3c15f49dffa5e22fbfdc1b1fec4ac
 1	As	_	_	_	_	_	_	_	Seg=B-seg
 2	Sun	_	_	_	_	_	_	_	Seg=O
 3	Tzu	_	_	_	_	_	_	_	Seg=O
@@ -31593,7 +31593,7 @@
 148	interlopers	_	_	_	_	_	_	_	Seg=O
 149	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = fcc503a22ab18a67222842a84aa2ba08e0e4865e
+# newdoc id = fcc503a22ab18a67222842a84aa2ba08e0e4865e
 1	It	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O

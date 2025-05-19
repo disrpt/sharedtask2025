@@ -1,4 +1,4 @@
-# newdoc_id = talk_1976_en
+# newdoc id = talk_1976_en
 # sent_id = talk_1976_en-1
 # text = The universe is teeming with planets.
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	Conn=O
@@ -1815,7 +1815,7 @@
 2	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	1:obj	Conn=O
 3	.	.	PUNCT	.	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = talk_1978_en
+# newdoc id = talk_1978_en
 # sent_id = talk_1978_en-1
 # text = I feel so fortunate that my first job was working at the Museum of Modern Art on a retrospective of painter Elizabeth Murray.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Conn=O
@@ -4076,7 +4076,7 @@
 2	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	1:obj	Conn=O
 3	.	.	PUNCT	.	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = talk_2009_en
+# newdoc id = talk_2009_en
 # sent_id = talk_2009_en-1
 # text = As a little girl, I always imagined I would one day run away.
 1	As	as	ADP	IN	_	4	case	4:case	Conn=O
@@ -4940,7 +4940,7 @@
 2	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obj	1:obj	Conn=O
 3	.	.	PUNCT	.	_	1	punct	1:punct	Conn=O
 
-# newdoc_id = talk_2150_en
+# newdoc id = talk_2150_en
 # sent_id = talk_2150_en-1
 # text = When we think about mapping cities, we tend to think about roads and streets and buildings, and the settlement narrative that led to their creation, or you might think about the bold vision of an urban designer, but there's other ways to think about mapping cities and how they got to be made.
 1	When	when	SCONJ	WRB	PronType=Int	3	mark	3:mark	Conn=B-conn

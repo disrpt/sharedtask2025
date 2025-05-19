@@ -1,4 +1,4 @@
-# newdoc_id = D14-1101
+# newdoc id = D14-1101
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -120,7 +120,7 @@
 119	tasks	_	_	_	_	_	_	_	Seg=O
 120	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1102
+# newdoc id = D14-1102
 1	Different	_	_	_	_	_	_	_	Seg=B-seg
 2	approaches	_	_	_	_	_	_	_	Seg=O
 3	to	_	_	_	_	_	_	_	Seg=O
@@ -225,7 +225,7 @@
 102	task	_	_	_	_	_	_	_	Seg=O
 103	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1103
+# newdoc id = D14-1103
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -289,7 +289,7 @@
 61	)	_	_	_	_	_	_	_	Seg=O
 62	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1104
+# newdoc id = D14-1104
 1	Importance	_	_	_	_	_	_	_	Seg=B-seg
 2	weighting	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -437,7 +437,7 @@
 145	claims	_	_	_	_	_	_	_	Seg=O
 146	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1105
+# newdoc id = D14-1105
 1	Code-mixing	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	frequently	_	_	_	_	_	_	_	Seg=O
@@ -532,7 +532,7 @@
 92	accuracy	_	_	_	_	_	_	_	Seg=O
 93	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1106
+# newdoc id = D14-1106
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	investigate	_	_	_	_	_	_	_	Seg=O
 3	grammatical	_	_	_	_	_	_	_	Seg=O
@@ -656,7 +656,7 @@
 121	data	_	_	_	_	_	_	_	Seg=O
 122	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1107
+# newdoc id = D14-1107
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	introduce	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -784,7 +784,7 @@
 125	system	_	_	_	_	_	_	_	Seg=O
 126	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1108
+# newdoc id = D14-1108
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	describe	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -882,7 +882,7 @@
 95	//www.ark.cs.cmu.edu/TweetNLP	_	_	_	_	_	_	_	Seg=O
 96	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1109
+# newdoc id = D14-1109
 1	Dependency	_	_	_	_	_	_	_	Seg=B-seg
 2	parsing	_	_	_	_	_	_	_	Seg=O
 3	with	_	_	_	_	_	_	_	Seg=O
@@ -1015,7 +1015,7 @@
 130	datasets	_	_	_	_	_	_	_	Seg=O
 131	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1110
+# newdoc id = D14-1110
 1	Most	_	_	_	_	_	_	_	Seg=B-seg
 2	word	_	_	_	_	_	_	_	Seg=O
 3	representation	_	_	_	_	_	_	_	Seg=O
@@ -1181,7 +1181,7 @@
 163	WSD	_	_	_	_	_	_	_	Seg=O
 164	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1111
+# newdoc id = D14-1111
 1	Compositional	_	_	_	_	_	_	_	Seg=B-seg
 2	distributional	_	_	_	_	_	_	_	Seg=O
 3	semantics	_	_	_	_	_	_	_	Seg=O
@@ -1312,7 +1312,7 @@
 128	framework	_	_	_	_	_	_	_	Seg=O
 129	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1112
+# newdoc id = D14-1112
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -1376,7 +1376,7 @@
 61	available	_	_	_	_	_	_	_	Seg=O
 62	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1113
+# newdoc id = D14-1113
 1	There	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	rising	_	_	_	_	_	_	_	Seg=O
@@ -1515,7 +1515,7 @@
 136	hours	_	_	_	_	_	_	_	Seg=O
 137	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1114
+# newdoc id = D14-1114
 1	Knowledge	_	_	_	_	_	_	_	Seg=B-seg
 2	graphs	_	_	_	_	_	_	_	Seg=O
 3	are	_	_	_	_	_	_	_	Seg=O
@@ -1661,7 +1661,7 @@
 143	understanding	_	_	_	_	_	_	_	Seg=O
 144	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1115
+# newdoc id = D14-1115
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	role	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -1773,7 +1773,7 @@
 109	methods	_	_	_	_	_	_	_	Seg=O
 110	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1116
+# newdoc id = D14-1116
 1	Question	_	_	_	_	_	_	_	Seg=B-seg
 2	Answering	_	_	_	_	_	_	_	Seg=O
 3	over	_	_	_	_	_	_	_	Seg=O
@@ -1951,7 +1951,7 @@
 175	method	_	_	_	_	_	_	_	Seg=O
 176	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1117
+# newdoc id = D14-1117
 1	Much	_	_	_	_	_	_	_	Seg=B-seg
 2	recent	_	_	_	_	_	_	_	Seg=O
 3	work	_	_	_	_	_	_	_	Seg=O
@@ -2217,7 +2217,7 @@
 263	0.54	_	_	_	_	_	_	_	Seg=O
 264	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1118
+# newdoc id = D14-1118
 1	Estimating	_	_	_	_	_	_	_	Seg=B-seg
 2	questions'	_	_	_	_	_	_	_	Seg=O
 3	difficulty	_	_	_	_	_	_	_	Seg=O
@@ -2413,7 +2413,7 @@
 193	words	_	_	_	_	_	_	_	Seg=O
 194	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1119
+# newdoc id = D14-1119
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	poll	_	_	_	_	_	_	_	Seg=O
 3	consists	_	_	_	_	_	_	_	Seg=O
@@ -2529,7 +2529,7 @@
 113	information	_	_	_	_	_	_	_	Seg=O
 114	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1120
+# newdoc id = D14-1120
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -2679,7 +2679,7 @@
 147	markedly	_	_	_	_	_	_	_	Seg=O
 148	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1121
+# newdoc id = D14-1121
 1	Demographic	_	_	_	_	_	_	_	Seg=B-seg
 2	lexica	_	_	_	_	_	_	_	Seg=O
 3	have	_	_	_	_	_	_	_	Seg=O
@@ -2770,7 +2770,7 @@
 88	situations	_	_	_	_	_	_	_	Seg=O
 89	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1122
+# newdoc id = D14-1122
 1	Dependency	_	_	_	_	_	_	_	Seg=B-seg
 2	parsing	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -2929,7 +2929,7 @@
 156	data	_	_	_	_	_	_	_	Seg=O
 157	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1123
+# newdoc id = D14-1123
 1	Microblog	_	_	_	_	_	_	_	Seg=B-seg
 2	has	_	_	_	_	_	_	_	Seg=O
 3	become	_	_	_	_	_	_	_	Seg=O
@@ -3062,7 +3062,7 @@
 130	framework	_	_	_	_	_	_	_	Seg=O
 131	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1124
+# newdoc id = D14-1124
 1	Casual	_	_	_	_	_	_	_	Seg=B-seg
 2	online	_	_	_	_	_	_	_	Seg=O
 3	forums	_	_	_	_	_	_	_	Seg=O
@@ -3203,7 +3203,7 @@
 138	features	_	_	_	_	_	_	_	Seg=O
 139	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1125
+# newdoc id = D14-1125
 1	Recently	_	_	_	_	_	_	_	Seg=B-seg
 2	,	_	_	_	_	_	_	_	Seg=O
 3	work	_	_	_	_	_	_	_	Seg=O
@@ -3341,7 +3341,7 @@
 135	set	_	_	_	_	_	_	_	Seg=O
 136	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1126
+# newdoc id = D14-1126
 1	Aspect-based	_	_	_	_	_	_	_	Seg=B-seg
 2	opinion	_	_	_	_	_	_	_	Seg=O
 3	mining	_	_	_	_	_	_	_	Seg=O
@@ -3503,7 +3503,7 @@
 159	approaches	_	_	_	_	_	_	_	Seg=O
 160	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1127
+# newdoc id = D14-1127
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -3619,7 +3619,7 @@
 113	classifiers	_	_	_	_	_	_	_	Seg=O
 114	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1128
+# newdoc id = D14-1128
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	put	_	_	_	_	_	_	_	Seg=O
 3	forward	_	_	_	_	_	_	_	Seg=O
@@ -3695,7 +3695,7 @@
 73	features	_	_	_	_	_	_	_	Seg=O
 74	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1129
+# newdoc id = D14-1129
 1	Identifying	_	_	_	_	_	_	_	Seg=B-seg
 2	parallel	_	_	_	_	_	_	_	Seg=O
 3	web	_	_	_	_	_	_	_	Seg=O
@@ -3898,7 +3898,7 @@
 200	similarity	_	_	_	_	_	_	_	Seg=O
 201	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1130
+# newdoc id = D14-1130
 1	Analyses	_	_	_	_	_	_	_	Seg=B-seg
 2	of	_	_	_	_	_	_	_	Seg=O
 3	computer	_	_	_	_	_	_	_	Seg=O
@@ -4056,7 +4056,7 @@
 155	output	_	_	_	_	_	_	_	Seg=O
 156	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1131
+# newdoc id = D14-1131
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	combinatorial	_	_	_	_	_	_	_	Seg=O
 3	space	_	_	_	_	_	_	_	Seg=O
@@ -4165,7 +4165,7 @@
 106	3	_	_	_	_	_	_	_	Seg=O
 107	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1132
+# newdoc id = D14-1132
 1	Recent	_	_	_	_	_	_	_	Seg=B-seg
 2	work	_	_	_	_	_	_	_	Seg=O
 3	by	_	_	_	_	_	_	_	Seg=O
@@ -4283,7 +4283,7 @@
 115	setup	_	_	_	_	_	_	_	Seg=O
 116	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1133
+# newdoc id = D14-1133
 1	Numerous	_	_	_	_	_	_	_	Seg=B-seg
 2	works	_	_	_	_	_	_	_	Seg=O
 3	in	_	_	_	_	_	_	_	Seg=O
@@ -4445,7 +4445,7 @@
 159	simplicity	_	_	_	_	_	_	_	Seg=O
 160	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1134
+# newdoc id = D14-1134
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	methods	_	_	_	_	_	_	_	Seg=O
@@ -4560,7 +4560,7 @@
 112	noisy	_	_	_	_	_	_	_	Seg=O
 113	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1135
+# newdoc id = D14-1135
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -4671,7 +4671,7 @@
 108	reduction	_	_	_	_	_	_	_	Seg=O
 109	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1136
+# newdoc id = D14-1136
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -4775,7 +4775,7 @@
 101	document	_	_	_	_	_	_	_	Seg=O
 102	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1137
+# newdoc id = D14-1137
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -4951,7 +4951,7 @@
 173	://statnlp.org/research/sp/	_	_	_	_	_	_	_	Seg=O
 174	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1138
+# newdoc id = D14-1138
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	anchor	_	_	_	_	_	_	_	Seg=O
 3	words	_	_	_	_	_	_	_	Seg=O
@@ -5039,7 +5039,7 @@
 85	words	_	_	_	_	_	_	_	Seg=O
 86	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1139
+# newdoc id = D14-1139
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	generalize	_	_	_	_	_	_	_	Seg=O
 3	contrastive	_	_	_	_	_	_	_	Seg=O
@@ -5153,7 +5153,7 @@
 111	task	_	_	_	_	_	_	_	Seg=O
 112	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1140
+# newdoc id = D14-1140
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	introduce	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -5269,7 +5269,7 @@
 113	strategies	_	_	_	_	_	_	_	Seg=O
 114	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1141
+# newdoc id = D14-1141
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	task	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -5422,7 +5422,7 @@
 150	corpus	_	_	_	_	_	_	_	Seg=O
 151	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1142
+# newdoc id = D14-1142
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	common	_	_	_	_	_	_	_	Seg=O
 3	approach	_	_	_	_	_	_	_	Seg=O
@@ -5611,7 +5611,7 @@
 186	%	_	_	_	_	_	_	_	Seg=O
 187	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1143
+# newdoc id = D14-1143
 1	Predicting	_	_	_	_	_	_	_	Seg=B-seg
 2	vocabulary	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -5771,7 +5771,7 @@
 157	small	_	_	_	_	_	_	_	Seg=O
 158	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1144
+# newdoc id = D14-1144
 1	Language	_	_	_	_	_	_	_	Seg=B-seg
 2	transfer	_	_	_	_	_	_	_	Seg=O
 3	,	_	_	_	_	_	_	_	Seg=O
@@ -5895,7 +5895,7 @@
 121	basis	_	_	_	_	_	_	_	Seg=O
 122	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1145
+# newdoc id = D14-1145
 1	Languages	_	_	_	_	_	_	_	Seg=B-seg
 2	spoken	_	_	_	_	_	_	_	Seg=O
 3	by	_	_	_	_	_	_	_	Seg=O
@@ -5997,7 +5997,7 @@
 99	)	_	_	_	_	_	_	_	Seg=O
 100	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1146
+# newdoc id = D14-1146
 1	Readability	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	used	_	_	_	_	_	_	_	Seg=O
@@ -6136,7 +6136,7 @@
 136	recommendation	_	_	_	_	_	_	_	Seg=O
 137	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1147
+# newdoc id = D14-1147
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -6260,7 +6260,7 @@
 121	resource	_	_	_	_	_	_	_	Seg=O
 122	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1148
+# newdoc id = D14-1148
 1	It	_	_	_	_	_	_	_	Seg=B-seg
 2	has	_	_	_	_	_	_	_	Seg=O
 3	been	_	_	_	_	_	_	_	Seg=O
@@ -6433,7 +6433,7 @@
 170	data	_	_	_	_	_	_	_	Seg=O
 171	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1149
+# newdoc id = D14-1149
 1	Automatically	_	_	_	_	_	_	_	Seg=B-seg
 2	identifying	_	_	_	_	_	_	_	Seg=O
 3	related	_	_	_	_	_	_	_	Seg=O
@@ -6586,7 +6586,7 @@
 150	lexicon	_	_	_	_	_	_	_	Seg=O
 151	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1150
+# newdoc id = D14-1150
 1	Given	_	_	_	_	_	_	_	Seg=B-seg
 2	the	_	_	_	_	_	_	_	Seg=O
 3	large	_	_	_	_	_	_	_	Seg=O
@@ -6688,7 +6688,7 @@
 99	baselines	_	_	_	_	_	_	_	Seg=O
 100	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1151
+# newdoc id = D14-1151
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	to	_	_	_	_	_	_	_	Seg=O
@@ -6754,7 +6754,7 @@
 63	.09	_	_	_	_	_	_	_	Seg=O
 64	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1152
+# newdoc id = D14-1152
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	proposes	_	_	_	_	_	_	_	Seg=O
@@ -6822,7 +6822,7 @@
 65	risk	_	_	_	_	_	_	_	Seg=O
 66	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1153
+# newdoc id = D14-1153
 1	When	_	_	_	_	_	_	_	Seg=B-seg
 2	it	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -6916,7 +6916,7 @@
 91	methods	_	_	_	_	_	_	_	Seg=O
 92	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1154
+# newdoc id = D14-1154
 1	Several	_	_	_	_	_	_	_	Seg=B-seg
 2	recent	_	_	_	_	_	_	_	Seg=O
 3	papers	_	_	_	_	_	_	_	Seg=O
@@ -7037,7 +7037,7 @@
 118	absolute	_	_	_	_	_	_	_	Seg=O
 119	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1155
+# newdoc id = D14-1155
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -7124,7 +7124,7 @@
 84	essays	_	_	_	_	_	_	_	Seg=O
 85	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1156
+# newdoc id = D14-1156
 1	Statistical	_	_	_	_	_	_	_	Seg=B-seg
 2	language	_	_	_	_	_	_	_	Seg=O
 3	modeling	_	_	_	_	_	_	_	Seg=O
@@ -7313,7 +7313,7 @@
 186	tasks	_	_	_	_	_	_	_	Seg=O
 187	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1157
+# newdoc id = D14-1157
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	study	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -7378,7 +7378,7 @@
 62	rankings	_	_	_	_	_	_	_	Seg=O
 63	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1158
+# newdoc id = D14-1158
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	power	_	_	_	_	_	_	_	Seg=O
@@ -7480,7 +7480,7 @@
 99	task	_	_	_	_	_	_	_	Seg=O
 100	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1159
+# newdoc id = D14-1159
 1	Machine	_	_	_	_	_	_	_	Seg=B-seg
 2	reading	_	_	_	_	_	_	_	Seg=O
 3	calls	_	_	_	_	_	_	_	Seg=O
@@ -7615,7 +7615,7 @@
 132	representations	_	_	_	_	_	_	_	Seg=O
 133	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = D14-1160
+# newdoc id = D14-1160
 1	Connecting	_	_	_	_	_	_	_	Seg=B-seg
 2	words	_	_	_	_	_	_	_	Seg=O
 3	with	_	_	_	_	_	_	_	Seg=O
@@ -7799,7 +7799,7 @@
 181	applications	_	_	_	_	_	_	_	Seg=O
 182	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1001
+# newdoc id = P06-1001
 1	Statistical	_	_	_	_	_	_	_	Seg=B-seg
 2	machine	_	_	_	_	_	_	_	Seg=O
 3	translation	_	_	_	_	_	_	_	Seg=O
@@ -7901,7 +7901,7 @@
 99	quality	_	_	_	_	_	_	_	Seg=O
 100	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1002
+# newdoc id = P06-1002
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -7974,7 +7974,7 @@
 70	alignments	_	_	_	_	_	_	_	Seg=O
 71	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1003
+# newdoc id = P06-1003
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -8093,7 +8093,7 @@
 116	errors	_	_	_	_	_	_	_	Seg=O
 117	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1004
+# newdoc id = P06-1004
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	consider	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -8153,7 +8153,7 @@
 57	errors	_	_	_	_	_	_	_	Seg=O
 58	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1005
+# newdoc id = P06-1005
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -8259,7 +8259,7 @@
 103	datasets	_	_	_	_	_	_	_	Seg=O
 104	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1006
+# newdoc id = P06-1006
 1	Syntactic	_	_	_	_	_	_	_	Seg=B-seg
 2	knowledge	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -8393,7 +8393,7 @@
 131	task	_	_	_	_	_	_	_	Seg=O
 132	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1007
+# newdoc id = P06-1007
 1	It	_	_	_	_	_	_	_	Seg=B-seg
 2	has	_	_	_	_	_	_	_	Seg=O
 3	previously	_	_	_	_	_	_	_	Seg=O
@@ -8577,7 +8577,7 @@
 181	underestimated	_	_	_	_	_	_	_	Seg=O
 182	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1008
+# newdoc id = P06-1008
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	in	_	_	_	_	_	_	_	Seg=O
@@ -8664,7 +8664,7 @@
 84	scores	_	_	_	_	_	_	_	Seg=O
 85	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1009
+# newdoc id = P06-1009
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -8816,7 +8816,7 @@
 149	respectively	_	_	_	_	_	_	_	Seg=O
 150	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1010
+# newdoc id = P06-1010
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -8940,7 +8940,7 @@
 121	step	_	_	_	_	_	_	_	Seg=O
 122	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1011
+# newdoc id = P06-1011
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -9040,7 +9040,7 @@
 97	system	_	_	_	_	_	_	_	Seg=O
 98	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1012
+# newdoc id = P06-1012
 1	Instances	_	_	_	_	_	_	_	Seg=B-seg
 2	of	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -9143,7 +9143,7 @@
 100	accuracy	_	_	_	_	_	_	_	Seg=O
 101	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1013
+# newdoc id = P06-1013
 1	Combination	_	_	_	_	_	_	_	Seg=B-seg
 2	methods	_	_	_	_	_	_	_	Seg=O
 3	are	_	_	_	_	_	_	_	Seg=O
@@ -9221,7 +9221,7 @@
 75	state-of-the-art	_	_	_	_	_	_	_	Seg=O
 76	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1014
+# newdoc id = P06-1014
 1	Fine-grained	_	_	_	_	_	_	_	Seg=B-seg
 2	sense	_	_	_	_	_	_	_	Seg=O
 3	distinctions	_	_	_	_	_	_	_	Seg=O
@@ -9302,7 +9302,7 @@
 78	task	_	_	_	_	_	_	_	Seg=O
 79	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1015
+# newdoc id = P06-1015
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -9412,7 +9412,7 @@
 107	precision	_	_	_	_	_	_	_	Seg=O
 108	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1016
+# newdoc id = P06-1016
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	proposes	_	_	_	_	_	_	_	Seg=O
@@ -9586,7 +9586,7 @@
 171	set	_	_	_	_	_	_	_	Seg=O
 172	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1017
+# newdoc id = P06-1017
 1	Shortage	_	_	_	_	_	_	_	Seg=B-seg
 2	of	_	_	_	_	_	_	_	Seg=O
 3	manually	_	_	_	_	_	_	_	Seg=O
@@ -9719,7 +9719,7 @@
 130	task	_	_	_	_	_	_	_	Seg=O
 131	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1018
+# newdoc id = P06-1018
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	proposes	_	_	_	_	_	_	_	Seg=O
@@ -9793,7 +9793,7 @@
 71	LFG	_	_	_	_	_	_	_	Seg=O
 72	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1019
+# newdoc id = P06-1019
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	work	_	_	_	_	_	_	_	Seg=O
 3	provides	_	_	_	_	_	_	_	Seg=O
@@ -9892,7 +9892,7 @@
 96	desiderata	_	_	_	_	_	_	_	Seg=O
 97	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1020
+# newdoc id = P06-1020
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	investigates	_	_	_	_	_	_	_	Seg=O
@@ -10055,7 +10055,7 @@
 160	moment	_	_	_	_	_	_	_	Seg=O
 161	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1021
+# newdoc id = P06-1021
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	grammatical	_	_	_	_	_	_	_	Seg=O
 3	method	_	_	_	_	_	_	_	Seg=O
@@ -10176,7 +10176,7 @@
 118	way	_	_	_	_	_	_	_	Seg=O
 119	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1022
+# newdoc id = P06-1022
 1	Spoken	_	_	_	_	_	_	_	Seg=B-seg
 2	monologues	_	_	_	_	_	_	_	Seg=O
 3	feature	_	_	_	_	_	_	_	Seg=O
@@ -10325,7 +10325,7 @@
 146	sentences	_	_	_	_	_	_	_	Seg=O
 147	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1023
+# newdoc id = P06-1023
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	describes	_	_	_	_	_	_	_	Seg=O
@@ -10470,7 +10470,7 @@
 142	,	_	_	_	_	_	_	_	Seg=O
 143	respectively	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1024
+# newdoc id = P06-1024
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	explore	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -10702,7 +10702,7 @@
 229	action	_	_	_	_	_	_	_	Seg=O
 230	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1025
+# newdoc id = P06-1025
 1	Speech	_	_	_	_	_	_	_	Seg=B-seg
 2	recognition	_	_	_	_	_	_	_	Seg=O
 3	problems	_	_	_	_	_	_	_	Seg=O
@@ -10826,7 +10826,7 @@
 121	design	_	_	_	_	_	_	_	Seg=O
 122	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1026
+# newdoc id = P06-1026
 1	Data-driven	_	_	_	_	_	_	_	Seg=B-seg
 2	techniques	_	_	_	_	_	_	_	Seg=O
 3	have	_	_	_	_	_	_	_	Seg=O
@@ -10928,7 +10928,7 @@
 99	domain	_	_	_	_	_	_	_	Seg=O
 100	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1027
+# newdoc id = P06-1027
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -11061,7 +11061,7 @@
 130	case	_	_	_	_	_	_	_	Seg=O
 131	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1028
+# newdoc id = P06-1028
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	proposes	_	_	_	_	_	_	_	Seg=O
@@ -11160,7 +11160,7 @@
 96	training	_	_	_	_	_	_	_	Seg=O
 97	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1029
+# newdoc id = P06-1029
 1	Lasso	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -11325,7 +11325,7 @@
 162	estimation	_	_	_	_	_	_	_	Seg=O
 163	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1030
+# newdoc id = P06-1030
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	have	_	_	_	_	_	_	_	Seg=O
 3	developed	_	_	_	_	_	_	_	Seg=O
@@ -11491,7 +11491,7 @@
 163	given	_	_	_	_	_	_	_	Seg=O
 164	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1031
+# newdoc id = P06-1031
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	proposes	_	_	_	_	_	_	_	Seg=O
@@ -11596,7 +11596,7 @@
 102	feedback	_	_	_	_	_	_	_	Seg=O
 103	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1032
+# newdoc id = P06-1032
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -11754,7 +11754,7 @@
 155	learners	_	_	_	_	_	_	_	Seg=O
 156	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1033
+# newdoc id = P06-1033
 1	Transforming	_	_	_	_	_	_	_	Seg=B-seg
 2	syntactic	_	_	_	_	_	_	_	Seg=O
 3	representations	_	_	_	_	_	_	_	Seg=O
@@ -11847,7 +11847,7 @@
 90	set	_	_	_	_	_	_	_	Seg=O
 91	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1034
+# newdoc id = P06-1034
 1	Spoken	_	_	_	_	_	_	_	Seg=B-seg
 2	language	_	_	_	_	_	_	_	Seg=O
 3	generation	_	_	_	_	_	_	_	Seg=O
@@ -12004,7 +12004,7 @@
 154	baseline	_	_	_	_	_	_	_	Seg=O
 155	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1035
+# newdoc id = P06-1035
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -12096,7 +12096,7 @@
 89	languages	_	_	_	_	_	_	_	Seg=O
 90	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1036
+# newdoc id = P06-1036
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	good	_	_	_	_	_	_	_	Seg=O
 3	dictionary	_	_	_	_	_	_	_	Seg=O
@@ -12220,7 +12220,7 @@
 121	corpus	_	_	_	_	_	_	_	Seg=O
 122	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1037
+# newdoc id = P06-1037
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	investigate	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -12309,7 +12309,7 @@
 86	estimated	_	_	_	_	_	_	_	Seg=O
 87	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1038
+# newdoc id = P06-1038
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -12441,7 +12441,7 @@
 129	reported	_	_	_	_	_	_	_	Seg=O
 130	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1039
+# newdoc id = P06-1039
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	BAYESUM	_	_	_	_	_	_	_	Seg=O
@@ -12543,7 +12543,7 @@
 99	framework	_	_	_	_	_	_	_	Seg=O
 100	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1040
+# newdoc id = P06-1040
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -12751,7 +12751,7 @@
 205	tf-idf	_	_	_	_	_	_	_	Seg=O
 206	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1041
+# newdoc id = P06-1041
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -12851,7 +12851,7 @@
 97	propagation	_	_	_	_	_	_	_	Seg=O
 98	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1042
+# newdoc id = P06-1042
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	introduce	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -12915,7 +12915,7 @@
 61	resources	_	_	_	_	_	_	_	Seg=O
 62	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1043
+# newdoc id = P06-1043
 1	Statistical	_	_	_	_	_	_	_	Seg=B-seg
 2	parsers	_	_	_	_	_	_	_	Seg=O
 3	trained	_	_	_	_	_	_	_	Seg=B-seg
@@ -13125,7 +13125,7 @@
 207	%	_	_	_	_	_	_	_	Seg=O
 208	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1044
+# newdoc id = P06-1044
 1	Lexical	_	_	_	_	_	_	_	Seg=B-seg
 2	classes	_	_	_	_	_	_	_	Seg=O
 3	,	_	_	_	_	_	_	_	Seg=O
@@ -13253,7 +13253,7 @@
 125	texts	_	_	_	_	_	_	_	Seg=O
 126	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1045
+# newdoc id = P06-1045
 1	Various	_	_	_	_	_	_	_	Seg=B-seg
 2	methods	_	_	_	_	_	_	_	Seg=O
 3	have	_	_	_	_	_	_	_	Seg=O
@@ -13397,7 +13397,7 @@
 141	combination	_	_	_	_	_	_	_	Seg=O
 142	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1046
+# newdoc id = P06-1046
 1	Accurately	_	_	_	_	_	_	_	Seg=B-seg
 2	representing	_	_	_	_	_	_	_	Seg=O
 3	synonymy	_	_	_	_	_	_	_	Seg=O
@@ -13487,7 +13487,7 @@
 87	balance	_	_	_	_	_	_	_	Seg=O
 88	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1047
+# newdoc id = P06-1047
 1	Event-based	_	_	_	_	_	_	_	Seg=B-seg
 2	summarization	_	_	_	_	_	_	_	Seg=O
 3	attempts	_	_	_	_	_	_	_	Seg=O
@@ -13669,7 +13669,7 @@
 179	Word-Net	_	_	_	_	_	_	_	Seg=O
 180	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1048
+# newdoc id = P06-1048
 1	Sentence	_	_	_	_	_	_	_	Seg=B-seg
 2	compression	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -13787,7 +13787,7 @@
 115	quality	_	_	_	_	_	_	_	Seg=O
 116	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1049
+# newdoc id = P06-1049
 1	Ordering	_	_	_	_	_	_	_	Seg=B-seg
 2	information	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -13896,7 +13896,7 @@
 106	strategies	_	_	_	_	_	_	_	Seg=O
 107	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1050
+# newdoc id = P06-1050
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	have	_	_	_	_	_	_	_	Seg=O
 3	constructed	_	_	_	_	_	_	_	Seg=O
@@ -13959,7 +13959,7 @@
 60	performance	_	_	_	_	_	_	_	Seg=O
 61	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1051
+# newdoc id = P06-1051
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -14032,7 +14032,7 @@
 70	methods	_	_	_	_	_	_	_	Seg=O
 71	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1052
+# newdoc id = P06-1052
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -14116,7 +14116,7 @@
 81	runtime	_	_	_	_	_	_	_	Seg=O
 82	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1053
+# newdoc id = P06-1053
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	psycholinguistic	_	_	_	_	_	_	_	Seg=O
 3	literature	_	_	_	_	_	_	_	Seg=O
@@ -14196,7 +14196,7 @@
 77	accuracy	_	_	_	_	_	_	_	Seg=O
 78	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1054
+# newdoc id = P06-1054
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -14313,7 +14313,7 @@
 114	accuracy	_	_	_	_	_	_	_	Seg=O
 115	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1055
+# newdoc id = P06-1055
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -14454,7 +14454,7 @@
 138	systems	_	_	_	_	_	_	_	Seg=O
 139	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1056
+# newdoc id = P06-1056
 1	Partial	_	_	_	_	_	_	_	Seg=B-seg
 2	cognates	_	_	_	_	_	_	_	Seg=O
 3	are	_	_	_	_	_	_	_	Seg=O
@@ -14560,7 +14560,7 @@
 103	domains	_	_	_	_	_	_	_	Seg=O
 104	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1057
+# newdoc id = P06-1057
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	investigates	_	_	_	_	_	_	_	Seg=O
@@ -14620,7 +14620,7 @@
 57	research	_	_	_	_	_	_	_	Seg=O
 58	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1058
+# newdoc id = P06-1058
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -14707,7 +14707,7 @@
 84	WSD	_	_	_	_	_	_	_	Seg=O
 85	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1059
+# newdoc id = P06-1059
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -14866,7 +14866,7 @@
 156	techniques	_	_	_	_	_	_	_	Seg=O
 157	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1060
+# newdoc id = P06-1060
 1	As	_	_	_	_	_	_	_	Seg=B-seg
 2	natural	_	_	_	_	_	_	_	Seg=O
 3	language	_	_	_	_	_	_	_	Seg=O
@@ -15002,7 +15002,7 @@
 133	evaluation	_	_	_	_	_	_	_	Seg=O
 134	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1061
+# newdoc id = P06-1061
 1	Hidden	_	_	_	_	_	_	_	Seg=B-seg
 2	Markov	_	_	_	_	_	_	_	Seg=O
 3	models	_	_	_	_	_	_	_	Seg=O
@@ -15156,7 +15156,7 @@
 151	systems	_	_	_	_	_	_	_	Seg=O
 152	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1062
+# newdoc id = P06-1062
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -15259,7 +15259,7 @@
 100	sentences	_	_	_	_	_	_	_	Seg=O
 101	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1063
+# newdoc id = P06-1063
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	describes	_	_	_	_	_	_	_	Seg=O
@@ -15358,7 +15358,7 @@
 96	reentrancies	_	_	_	_	_	_	_	Seg=O
 97	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1064
+# newdoc id = P06-1064
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -15421,7 +15421,7 @@
 60	text	_	_	_	_	_	_	_	Seg=O
 61	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1065
+# newdoc id = P06-1065
 1	For	_	_	_	_	_	_	_	Seg=B-seg
 2	many	_	_	_	_	_	_	_	Seg=O
 3	years	_	_	_	_	_	_	_	Seg=O
@@ -15508,7 +15508,7 @@
 84	data	_	_	_	_	_	_	_	Seg=O
 85	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1066
+# newdoc id = P06-1066
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -15605,7 +15605,7 @@
 94	tasks	_	_	_	_	_	_	_	Seg=O
 95	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1067
+# newdoc id = P06-1067
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -15699,7 +15699,7 @@
 91	alignments	_	_	_	_	_	_	_	Seg=O
 92	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1068
+# newdoc id = P06-1068
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -15822,7 +15822,7 @@
 120	only	_	_	_	_	_	_	_	Seg=O
 121	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1069
+# newdoc id = P06-1069
 1	Words	_	_	_	_	_	_	_	Seg=B-seg
 2	and	_	_	_	_	_	_	_	Seg=O
 3	character-bigrams	_	_	_	_	_	_	_	Seg=O
@@ -15928,7 +15928,7 @@
 103	systems	_	_	_	_	_	_	_	Seg=O
 104	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1070
+# newdoc id = P06-1070
 1	Cross-language	_	_	_	_	_	_	_	Seg=B-seg
 2	Text	_	_	_	_	_	_	_	Seg=O
 3	Categorization	_	_	_	_	_	_	_	Seg=O
@@ -16062,7 +16062,7 @@
 131	categorization	_	_	_	_	_	_	_	Seg=O
 132	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1071
+# newdoc id = P06-1071
 1	Recent	_	_	_	_	_	_	_	Seg=B-seg
 2	developments	_	_	_	_	_	_	_	Seg=O
 3	in	_	_	_	_	_	_	_	Seg=O
@@ -16237,7 +16237,7 @@
 172	bound	_	_	_	_	_	_	_	Seg=O
 173	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1072
+# newdoc id = P06-1072
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	first	_	_	_	_	_	_	_	Seg=O
 3	show	_	_	_	_	_	_	_	Seg=O
@@ -16397,7 +16397,7 @@
 157	problems	_	_	_	_	_	_	_	Seg=O
 158	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1073
+# newdoc id = P06-1073
 1	Short	_	_	_	_	_	_	_	Seg=B-seg
 2	vowels	_	_	_	_	_	_	_	Seg=O
 3	and	_	_	_	_	_	_	_	Seg=O
@@ -16580,7 +16580,7 @@
 180	%	_	_	_	_	_	_	_	Seg=O
 181	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1074
+# newdoc id = P06-1074
 1	General	_	_	_	_	_	_	_	Seg=B-seg
 2	information	_	_	_	_	_	_	_	Seg=O
 3	retrieval	_	_	_	_	_	_	_	Seg=O
@@ -16697,7 +16697,7 @@
 114	efficient	_	_	_	_	_	_	_	Seg=O
 115	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1075
+# newdoc id = P06-1075
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	explores	_	_	_	_	_	_	_	Seg=O
@@ -16833,7 +16833,7 @@
 133	CLIR	_	_	_	_	_	_	_	Seg=O
 134	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1076
+# newdoc id = P06-1076
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	trend	_	_	_	_	_	_	_	Seg=O
 3	in	_	_	_	_	_	_	_	Seg=O
@@ -16991,7 +16991,7 @@
 155	corpus	_	_	_	_	_	_	_	Seg=O
 156	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1077
+# newdoc id = P06-1077
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -17108,7 +17108,7 @@
 114	models	_	_	_	_	_	_	_	Seg=O
 115	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1078
+# newdoc id = P06-1078
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	proposes	_	_	_	_	_	_	_	Seg=O
@@ -17229,7 +17229,7 @@
 118	inputs	_	_	_	_	_	_	_	Seg=O
 119	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1079
+# newdoc id = P06-1079
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	approach	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -17307,7 +17307,7 @@
 75	resolution	_	_	_	_	_	_	_	Seg=O
 76	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1080
+# newdoc id = P06-1080
 1	An	_	_	_	_	_	_	_	Seg=B-seg
 2	automatic	_	_	_	_	_	_	_	Seg=O
 3	word	_	_	_	_	_	_	_	Seg=O
@@ -17486,7 +17486,7 @@
 176	model	_	_	_	_	_	_	_	Seg=O
 177	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1081
+# newdoc id = P06-1081
 1	Due	_	_	_	_	_	_	_	Seg=B-seg
 2	to	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -17628,7 +17628,7 @@
 139	performance	_	_	_	_	_	_	_	Seg=O
 140	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1082
+# newdoc id = P06-1082
 1	Word	_	_	_	_	_	_	_	Seg=B-seg
 2	alignment	_	_	_	_	_	_	_	Seg=O
 3	using	_	_	_	_	_	_	_	Seg=B-seg
@@ -17771,7 +17771,7 @@
 140	detail	_	_	_	_	_	_	_	Seg=O
 141	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1083
+# newdoc id = P06-1083
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	proposes	_	_	_	_	_	_	_	Seg=O
@@ -17865,7 +17865,7 @@
 91	experimentally	_	_	_	_	_	_	_	Seg=O
 92	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1084
+# newdoc id = P06-1084
 1	Morphological	_	_	_	_	_	_	_	Seg=B-seg
 2	disambiguation	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -18062,7 +18062,7 @@
 194	morphology	_	_	_	_	_	_	_	Seg=O
 195	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1085
+# newdoc id = P06-1085
 1	Developing	_	_	_	_	_	_	_	Seg=B-seg
 2	better	_	_	_	_	_	_	_	Seg=O
 3	methods	_	_	_	_	_	_	_	Seg=O
@@ -18153,7 +18153,7 @@
 88	procedures	_	_	_	_	_	_	_	Seg=O
 89	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1086
+# newdoc id = P06-1086
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	MAGEAD	_	_	_	_	_	_	_	Seg=O
@@ -18228,7 +18228,7 @@
 72	MAGEAD	_	_	_	_	_	_	_	Seg=O
 73	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1087
+# newdoc id = P06-1087
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -18383,7 +18383,7 @@
 152	Fmeasure	_	_	_	_	_	_	_	Seg=O
 153	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1088
+# newdoc id = P06-1088
 1	With	_	_	_	_	_	_	_	Seg=B-seg
 2	performance	_	_	_	_	_	_	_	Seg=O
 3	above	_	_	_	_	_	_	_	Seg=O
@@ -18529,7 +18529,7 @@
 143	supertagging	_	_	_	_	_	_	_	Seg=O
 144	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1089
+# newdoc id = P06-1089
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -18633,7 +18633,7 @@
 101	corpora	_	_	_	_	_	_	_	Seg=O
 102	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1090
+# newdoc id = P06-1090
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -18780,7 +18780,7 @@
 144	task	_	_	_	_	_	_	_	Seg=O
 145	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1091
+# newdoc id = P06-1091
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -18891,7 +18891,7 @@
 108	task	_	_	_	_	_	_	_	Seg=O
 109	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1092
+# newdoc id = P06-1092
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	noisy	_	_	_	_	_	_	_	Seg=O
 3	channel	_	_	_	_	_	_	_	Seg=O
@@ -19008,7 +19008,7 @@
 114	method	_	_	_	_	_	_	_	Seg=O
 115	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1093
+# newdoc id = P06-1093
 1	Call	_	_	_	_	_	_	_	Seg=B-seg
 2	centers	_	_	_	_	_	_	_	Seg=O
 3	handle	_	_	_	_	_	_	_	Seg=O
@@ -19212,7 +19212,7 @@
 201	model	_	_	_	_	_	_	_	Seg=O
 202	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1094
+# newdoc id = P06-1094
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -19291,7 +19291,7 @@
 76	prepositions	_	_	_	_	_	_	_	Seg=O
 77	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1095
+# newdoc id = P06-1095
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	investigates	_	_	_	_	_	_	_	Seg=O
@@ -19375,7 +19375,7 @@
 81	intuitions	_	_	_	_	_	_	_	Seg=O
 82	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1096
+# newdoc id = P06-1096
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -19508,7 +19508,7 @@
 130	heuristic	_	_	_	_	_	_	_	Seg=O
 131	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1097
+# newdoc id = P06-1097
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	introduce	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -19574,7 +19574,7 @@
 63	quality	_	_	_	_	_	_	_	Seg=O
 64	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1098
+# newdoc id = P06-1098
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -19696,7 +19696,7 @@
 119	system	_	_	_	_	_	_	_	Seg=O
 120	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1099
+# newdoc id = P06-1099
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	the	_	_	_	_	_	_	_	Seg=O
 3	past	_	_	_	_	_	_	_	Seg=O
@@ -19790,7 +19790,7 @@
 91	difference	_	_	_	_	_	_	_	Seg=O
 92	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1100
+# newdoc id = P06-1100
 1	Many	_	_	_	_	_	_	_	Seg=B-seg
 2	algorithms	_	_	_	_	_	_	_	Seg=O
 3	have	_	_	_	_	_	_	_	Seg=O
@@ -19859,7 +19859,7 @@
 66	model	_	_	_	_	_	_	_	Seg=O
 67	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1101
+# newdoc id = P06-1101
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -20033,7 +20033,7 @@
 171	pairs	_	_	_	_	_	_	_	Seg=O
 172	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1102
+# newdoc id = P06-1102
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	a	_	_	_	_	_	_	_	Seg=O
 3	new	_	_	_	_	_	_	_	Seg=O
@@ -20107,7 +20107,7 @@
 71	tools	_	_	_	_	_	_	_	Seg=O
 72	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1103
+# newdoc id = P06-1103
 1	Named	_	_	_	_	_	_	_	Seg=B-seg
 2	Entity	_	_	_	_	_	_	_	Seg=O
 3	recognition	_	_	_	_	_	_	_	Seg=O
@@ -20298,7 +20298,7 @@
 188	Russian	_	_	_	_	_	_	_	Seg=O
 189	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1104
+# newdoc id = P06-1104
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	proposes	_	_	_	_	_	_	_	Seg=O
@@ -20424,7 +20424,7 @@
 123	extraction	_	_	_	_	_	_	_	Seg=O
 124	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1105
+# newdoc id = P06-1105
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -20548,7 +20548,7 @@
 121	method	_	_	_	_	_	_	_	Seg=O
 122	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1106
+# newdoc id = P06-1106
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -20675,7 +20675,7 @@
 124	today	_	_	_	_	_	_	_	Seg=O
 125	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1107
+# newdoc id = P06-1107
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -20762,7 +20762,7 @@
 84	models	_	_	_	_	_	_	_	Seg=O
 85	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1108
+# newdoc id = P06-1108
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -20889,7 +20889,7 @@
 124	students	_	_	_	_	_	_	_	Seg=O
 125	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1109
+# newdoc id = P06-1109
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	investigate	_	_	_	_	_	_	_	Seg=O
 3	generalizations	_	_	_	_	_	_	_	Seg=O
@@ -21034,7 +21034,7 @@
 142	)	_	_	_	_	_	_	_	Seg=O
 143	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1110
+# newdoc id = P06-1110
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	work	_	_	_	_	_	_	_	Seg=O
@@ -21131,7 +21131,7 @@
 94	//nlp.cs.nyu.edu/parser/	_	_	_	_	_	_	_	Seg=O
 95	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1111
+# newdoc id = P06-1111
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	investigate	_	_	_	_	_	_	_	Seg=O
 3	prototype-driven	_	_	_	_	_	_	_	Seg=O
@@ -21264,7 +21264,7 @@
 130	induction	_	_	_	_	_	_	_	Seg=O
 131	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1112
+# newdoc id = P06-1112
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -21371,7 +21371,7 @@
 104	MRR	_	_	_	_	_	_	_	Seg=O
 105	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1113
+# newdoc id = P06-1113
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	describes	_	_	_	_	_	_	_	Seg=O
@@ -21461,7 +21461,7 @@
 87	%	_	_	_	_	_	_	_	Seg=O
 88	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1114
+# newdoc id = P06-1114
 1	Work	_	_	_	_	_	_	_	Seg=B-seg
 2	on	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -21561,7 +21561,7 @@
 97	overall	_	_	_	_	_	_	_	Seg=O
 98	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1115
+# newdoc id = P06-1115
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -21642,7 +21642,7 @@
 78	noise	_	_	_	_	_	_	_	Seg=O
 79	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1116
+# newdoc id = P06-1116
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	investigate	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -21763,7 +21763,7 @@
 118	approaches	_	_	_	_	_	_	_	Seg=O
 119	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1117
+# newdoc id = P06-1117
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	article	_	_	_	_	_	_	_	Seg=O
 3	describes	_	_	_	_	_	_	_	Seg=O
@@ -21882,7 +21882,7 @@
 116	parsers	_	_	_	_	_	_	_	Seg=O
 117	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1118
+# newdoc id = P06-1118
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -22004,7 +22004,7 @@
 119	dictionary	_	_	_	_	_	_	_	Seg=O
 120	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1119
+# newdoc id = P06-1119
 1	Thesauri	_	_	_	_	_	_	_	Seg=B-seg
 2	and	_	_	_	_	_	_	_	Seg=O
 3	ontologies	_	_	_	_	_	_	_	Seg=O
@@ -22123,7 +22123,7 @@
 116	ontologies	_	_	_	_	_	_	_	Seg=O
 117	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1120
+# newdoc id = P06-1120
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	focuses	_	_	_	_	_	_	_	Seg=O
@@ -22204,7 +22204,7 @@
 78	experiment	_	_	_	_	_	_	_	Seg=O
 79	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1121
+# newdoc id = P06-1121
 1	Statistical	_	_	_	_	_	_	_	Seg=B-seg
 2	MT	_	_	_	_	_	_	_	Seg=O
 3	has	_	_	_	_	_	_	_	Seg=O
@@ -22369,7 +22369,7 @@
 162	rules	_	_	_	_	_	_	_	Seg=O
 163	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1122
+# newdoc id = P06-1122
 1	Certain	_	_	_	_	_	_	_	Seg=B-seg
 2	distinctions	_	_	_	_	_	_	_	Seg=O
 3	made	_	_	_	_	_	_	_	Seg=B-seg
@@ -22525,7 +22525,7 @@
 153	pairs	_	_	_	_	_	_	_	Seg=O
 154	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1123
+# newdoc id = P06-1123
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	describes	_	_	_	_	_	_	_	Seg=O
@@ -22638,7 +22638,7 @@
 110	:	_	_	_	_	_	_	_	Seg=O
 111	//nlp.cs.nyu.edu/GenPar/ACL06	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1124
+# newdoc id = P06-1124
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -22729,7 +22729,7 @@
 88	Kneser-Ney	_	_	_	_	_	_	_	Seg=O
 89	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1125
+# newdoc id = P06-1125
 1	Chatting	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -22881,7 +22881,7 @@
 149	terms	_	_	_	_	_	_	_	Seg=O
 150	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1126
+# newdoc id = P06-1126
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -23019,7 +23019,7 @@
 135	discussed	_	_	_	_	_	_	_	Seg=O
 136	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1127
+# newdoc id = P06-1127
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	web	_	_	_	_	_	_	_	Seg=O
 3	search	_	_	_	_	_	_	_	Seg=O
@@ -23208,7 +23208,7 @@
 186	web	_	_	_	_	_	_	_	Seg=O
 187	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1128
+# newdoc id = P06-1128
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	introduces	_	_	_	_	_	_	_	Seg=O
@@ -23324,7 +23324,7 @@
 113	improved	_	_	_	_	_	_	_	Seg=O
 114	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1129
+# newdoc id = P06-1129
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	query	_	_	_	_	_	_	_	Seg=O
 3	speller	_	_	_	_	_	_	_	Seg=O
@@ -23437,7 +23437,7 @@
 110	task	_	_	_	_	_	_	_	Seg=O
 111	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1130
+# newdoc id = P06-1130
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -23513,7 +23513,7 @@
 73	≤20	_	_	_	_	_	_	_	Seg=O
 74	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1131
+# newdoc id = P06-1131
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -23589,7 +23589,7 @@
 73	salience	_	_	_	_	_	_	_	Seg=O
 74	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1132
+# newdoc id = P06-1132
 1	Japanese	_	_	_	_	_	_	_	Seg=B-seg
 2	case	_	_	_	_	_	_	_	Seg=O
 3	markers	_	_	_	_	_	_	_	Seg=O
@@ -23805,7 +23805,7 @@
 213	markers	_	_	_	_	_	_	_	Seg=O
 214	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1133
+# newdoc id = P06-1133
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -23885,7 +23885,7 @@
 77	collections	_	_	_	_	_	_	_	Seg=O
 78	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1134
+# newdoc id = P06-1134
 1	Subjectivity	_	_	_	_	_	_	_	Seg=B-seg
 2	and	_	_	_	_	_	_	_	Seg=O
 3	meaning	_	_	_	_	_	_	_	Seg=O
@@ -23942,7 +23942,7 @@
 54	annotations	_	_	_	_	_	_	_	Seg=O
 55	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1135
+# newdoc id = P06-1135
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	demonstrates	_	_	_	_	_	_	_	Seg=O
@@ -24050,7 +24050,7 @@
 105	ours	_	_	_	_	_	_	_	Seg=O
 106	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1136
+# newdoc id = P06-1136
 1	Statistical	_	_	_	_	_	_	_	Seg=B-seg
 2	ranking	_	_	_	_	_	_	_	Seg=O
 3	methods	_	_	_	_	_	_	_	Seg=O
@@ -24189,7 +24189,7 @@
 136	F-Measure	_	_	_	_	_	_	_	Seg=O
 137	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1137
+# newdoc id = P06-1137
 1	Unification	_	_	_	_	_	_	_	Seg=B-seg
 2	grammars	_	_	_	_	_	_	_	Seg=O
 3	are	_	_	_	_	_	_	_	Seg=O
@@ -24308,7 +24308,7 @@
 116	languages	_	_	_	_	_	_	_	Seg=O
 117	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1138
+# newdoc id = P06-1138
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	describes	_	_	_	_	_	_	_	Seg=O
@@ -24390,7 +24390,7 @@
 79	HPSG	_	_	_	_	_	_	_	Seg=O
 80	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1139
+# newdoc id = P06-1139
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	WIDL-expressions	_	_	_	_	_	_	_	Seg=O
@@ -24462,7 +24462,7 @@
 69	generation	_	_	_	_	_	_	_	Seg=O
 70	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1140
+# newdoc id = P06-1140
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -24583,7 +24583,7 @@
 118	synthesizers	_	_	_	_	_	_	_	Seg=O
 119	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1141
+# newdoc id = P06-1141
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	shows	_	_	_	_	_	_	_	Seg=O
@@ -24807,7 +24807,7 @@
 221	inference	_	_	_	_	_	_	_	Seg=O
 222	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1142
+# newdoc id = P06-1142
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -24918,7 +24918,7 @@
 108	databases	_	_	_	_	_	_	_	Seg=O
 109	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1143
+# newdoc id = P06-1143
 1	Machine	_	_	_	_	_	_	_	Seg=B-seg
 2	Transliteration	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -25049,7 +25049,7 @@
 128	Shahmukhi	_	_	_	_	_	_	_	Seg=O
 129	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1144
+# newdoc id = P06-1144
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -25198,7 +25198,7 @@
 146	encouraging	_	_	_	_	_	_	_	Seg=O
 147	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1145
+# newdoc id = P06-1145
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	study	_	_	_	_	_	_	_	Seg=O
 3	aims	_	_	_	_	_	_	_	Seg=O
@@ -25341,7 +25341,7 @@
 140	methods	_	_	_	_	_	_	_	Seg=O
 141	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1146
+# newdoc id = P06-1146
 1	Given	_	_	_	_	_	_	_	Seg=B-seg
 2	a	_	_	_	_	_	_	_	Seg=O
 3	parallel	_	_	_	_	_	_	_	Seg=O
@@ -25453,7 +25453,7 @@
 109	models	_	_	_	_	_	_	_	Seg=O
 110	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P06-1147
+# newdoc id = P06-1147
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -25602,7 +25602,7 @@
 146	system	_	_	_	_	_	_	_	Seg=O
 147	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1000_anno1
+# newdoc id = P14-1000_anno1
 1	Recent	_	_	_	_	_	_	_	Seg=B-seg
 2	studies	_	_	_	_	_	_	_	Seg=O
 3	show	_	_	_	_	_	_	_	Seg=O
@@ -25761,7 +25761,7 @@
 156	school	_	_	_	_	_	_	_	Seg=O
 157	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1001_anno1
+# newdoc id = P14-1001_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -25838,7 +25838,7 @@
 74	algorithms	_	_	_	_	_	_	_	Seg=O
 75	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1002_anno1
+# newdoc id = P14-1002_anno1
 1	Text-level	_	_	_	_	_	_	_	Seg=B-seg
 2	discourse	_	_	_	_	_	_	_	Seg=O
 3	parsing	_	_	_	_	_	_	_	Seg=O
@@ -25947,7 +25947,7 @@
 106	Treebank	_	_	_	_	_	_	_	Seg=O
 107	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1003_anno1
+# newdoc id = P14-1003_anno1
 1	Previous	_	_	_	_	_	_	_	Seg=B-seg
 2	researches	_	_	_	_	_	_	_	Seg=O
 3	on	_	_	_	_	_	_	_	Seg=O
@@ -26058,7 +26058,7 @@
 108	parsing	_	_	_	_	_	_	_	Seg=O
 109	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1004_anno1
+# newdoc id = P14-1004_anno1
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	key	_	_	_	_	_	_	_	Seg=O
 3	challenge	_	_	_	_	_	_	_	Seg=O
@@ -26192,7 +26192,7 @@
 131	task	_	_	_	_	_	_	_	Seg=O
 132	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1005_anno1
+# newdoc id = P14-1005_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	investigate	_	_	_	_	_	_	_	Seg=O
 3	different	_	_	_	_	_	_	_	Seg=O
@@ -26286,7 +26286,7 @@
 91	English	_	_	_	_	_	_	_	Seg=O
 92	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1006_anno1
+# newdoc id = P14-1006_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -26422,7 +26422,7 @@
 133	data	_	_	_	_	_	_	_	Seg=O
 134	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1007_anno1
+# newdoc id = P14-1007_anno1
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	work	_	_	_	_	_	_	_	Seg=O
@@ -26578,7 +26578,7 @@
 153	date	_	_	_	_	_	_	_	Seg=O
 154	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1008_anno1
+# newdoc id = P14-1008_anno1
 1	Dependency-based	_	_	_	_	_	_	_	Seg=B-seg
 2	Compositional	_	_	_	_	_	_	_	Seg=O
 3	Semantics	_	_	_	_	_	_	_	Seg=O
@@ -26679,7 +26679,7 @@
 98	results	_	_	_	_	_	_	_	Seg=O
 99	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1009_anno1
+# newdoc id = P14-1009_anno1
 1	Distributional	_	_	_	_	_	_	_	Seg=B-seg
 2	semantic	_	_	_	_	_	_	_	Seg=O
 3	methods	_	_	_	_	_	_	_	Seg=O
@@ -26801,7 +26801,7 @@
 119	rivals	_	_	_	_	_	_	_	Seg=O
 120	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1010_anno1
+# newdoc id = P14-1010_anno1
 1	Morphological	_	_	_	_	_	_	_	Seg=B-seg
 2	segmentation	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -26941,7 +26941,7 @@
 137	outputs	_	_	_	_	_	_	_	Seg=O
 138	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1011_anno1
+# newdoc id = P14-1011_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	Bilingually-constrained	_	_	_	_	_	_	_	Seg=O
@@ -27080,7 +27080,7 @@
 136	tasks	_	_	_	_	_	_	_	Seg=O
 137	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1012_anno1
+# newdoc id = P14-1012_anno1
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -27229,7 +27229,7 @@
 146	respectively	_	_	_	_	_	_	_	Seg=O
 147	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1013_anno1
+# newdoc id = P14-1013_anno1
 1	Statistical	_	_	_	_	_	_	_	Seg=B-seg
 2	Machine	_	_	_	_	_	_	_	Seg=O
 3	Translation	_	_	_	_	_	_	_	Seg=O
@@ -27350,7 +27350,7 @@
 118	baseline	_	_	_	_	_	_	_	Seg=O
 119	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1014_anno1
+# newdoc id = P14-1014_anno1
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -27457,7 +27457,7 @@
 104	parsers	_	_	_	_	_	_	_	Seg=O
 105	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1015_anno1
+# newdoc id = P14-1015_anno1
 1	Discussion	_	_	_	_	_	_	_	Seg=B-seg
 2	forums	_	_	_	_	_	_	_	Seg=O
 3	have	_	_	_	_	_	_	_	Seg=O
@@ -27630,7 +27630,7 @@
 170	comfortably	_	_	_	_	_	_	_	Seg=O
 171	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1016_anno1
+# newdoc id = P14-1016_anno1
 1	While	_	_	_	_	_	_	_	Seg=B-seg
 2	user	_	_	_	_	_	_	_	Seg=O
 3	attribute	_	_	_	_	_	_	_	Seg=O
@@ -27781,7 +27781,7 @@
 148	their	_	_	_	_	_	_	_	Seg=O
 149	tweets.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1017_anno1
+# newdoc id = P14-1017_anno1
 1	Consider	_	_	_	_	_	_	_	Seg=B-seg
 2	a	_	_	_	_	_	_	_	Seg=O
 3	person	_	_	_	_	_	_	_	Seg=O
@@ -27956,7 +27956,7 @@
 172	data	_	_	_	_	_	_	_	Seg=O
 173	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1018_anno1
+# newdoc id = P14-1018_anno1
 1	Existing	_	_	_	_	_	_	_	Seg=B-seg
 2	models	_	_	_	_	_	_	_	Seg=O
 3	for	_	_	_	_	_	_	_	Seg=O
@@ -28123,7 +28123,7 @@
 164	frequency	_	_	_	_	_	_	_	Seg=O
 165	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1019_anno1
+# newdoc id = P14-1019_anno1
 1	Much	_	_	_	_	_	_	_	Seg=B-seg
 2	of	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -28269,7 +28269,7 @@
 143	gold	_	_	_	_	_	_	_	Seg=O
 144	tags.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1020_anno1
+# newdoc id = P14-1020_anno1
 1	Due	_	_	_	_	_	_	_	Seg=B-seg
 2	to	_	_	_	_	_	_	_	Seg=O
 3	their	_	_	_	_	_	_	_	Seg=O
@@ -28462,7 +28462,7 @@
 190	speedup	_	_	_	_	_	_	_	Seg=O
 191	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1021_anno1
+# newdoc id = P14-1021_anno1
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -28589,7 +28589,7 @@
 124	models	_	_	_	_	_	_	_	Seg=O
 125	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1022_anno1
+# newdoc id = P14-1022_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -28808,7 +28808,7 @@
 216	features	_	_	_	_	_	_	_	Seg=O
 217	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1023_anno1
+# newdoc id = P14-1023_anno1
 1	Context-predicting	_	_	_	_	_	_	_	Seg=B-seg
 2	models	_	_	_	_	_	_	_	Seg=O
 3	(	_	_	_	_	_	_	_	Seg=B-seg
@@ -28916,7 +28916,7 @@
 105	counterparts	_	_	_	_	_	_	_	Seg=O
 106	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1024_anno1
+# newdoc id = P14-1024_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	show	_	_	_	_	_	_	_	Seg=O
 3	that	_	_	_	_	_	_	_	Seg=B-seg
@@ -29027,7 +29027,7 @@
 108	nature	_	_	_	_	_	_	_	Seg=O
 109	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1025_anno1
+# newdoc id = P14-1025_anno1
 1	Unsupervised	_	_	_	_	_	_	_	Seg=B-seg
 2	word	_	_	_	_	_	_	_	Seg=O
 3	sense	_	_	_	_	_	_	_	Seg=O
@@ -29173,7 +29173,7 @@
 143	inventory	_	_	_	_	_	_	_	Seg=O
 144	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1026_anno1
+# newdoc id = P14-1026_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -29284,7 +29284,7 @@
 108	task	_	_	_	_	_	_	_	Seg=O
 109	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1027_anno1
+# newdoc id = P14-1027_anno1
 1	Inspired	_	_	_	_	_	_	_	Seg=B-seg
 2	by	_	_	_	_	_	_	_	Seg=O
 3	experimental	_	_	_	_	_	_	_	Seg=O
@@ -29474,7 +29474,7 @@
 187	learning	_	_	_	_	_	_	_	Seg=O
 188	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1028_anno1
+# newdoc id = P14-1028_anno1
 1	Recently	_	_	_	_	_	_	_	Seg=B-seg
 2	,	_	_	_	_	_	_	_	Seg=O
 3	neural	_	_	_	_	_	_	_	Seg=O
@@ -29620,7 +29620,7 @@
 143	tasks	_	_	_	_	_	_	_	Seg=O
 144	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1029_anno1
+# newdoc id = P14-1029_anno1
 1	Negation	_	_	_	_	_	_	_	Seg=B-seg
 2	words	_	_	_	_	_	_	_	Seg=O
 3	,	_	_	_	_	_	_	_	Seg=O
@@ -29808,7 +29808,7 @@
 185	errors	_	_	_	_	_	_	_	Seg=O
 186	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1030_anno1
+# newdoc id = P14-1030_anno1
 1	Extracting	_	_	_	_	_	_	_	Seg=B-seg
 2	opinion	_	_	_	_	_	_	_	Seg=O
 3	targets	_	_	_	_	_	_	_	Seg=O
@@ -29981,7 +29981,7 @@
 170	methods	_	_	_	_	_	_	_	Seg=O
 171	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1031_anno1
+# newdoc id = P14-1031_anno1
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	proposes	_	_	_	_	_	_	_	Seg=O
@@ -30123,7 +30123,7 @@
 139	settings	_	_	_	_	_	_	_	Seg=O
 140	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1032_anno1
+# newdoc id = P14-1032_anno1
 1	Product	_	_	_	_	_	_	_	Seg=B-seg
 2	feature	_	_	_	_	_	_	_	Seg=O
 3	mining	_	_	_	_	_	_	_	Seg=O
@@ -30293,7 +30293,7 @@
 167	features	_	_	_	_	_	_	_	Seg=O
 168	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1033_anno1
+# newdoc id = P14-1033_anno1
 1	Aspect	_	_	_	_	_	_	_	Seg=B-seg
 2	extraction	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -30469,7 +30469,7 @@
 173	baselines	_	_	_	_	_	_	_	Seg=O
 174	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1034_anno1
+# newdoc id = P14-1034_anno1
 1	Spectral	_	_	_	_	_	_	_	Seg=B-seg
 2	methods	_	_	_	_	_	_	_	Seg=O
 3	offer	_	_	_	_	_	_	_	Seg=O
@@ -30558,7 +30558,7 @@
 86	priors	_	_	_	_	_	_	_	Seg=O
 87	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1035_anno1
+# newdoc id = P14-1035_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	consider	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -30655,7 +30655,7 @@
 94	models	_	_	_	_	_	_	_	Seg=O
 95	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1036_anno1
+# newdoc id = P14-1036_anno1
 1	Wikification	_	_	_	_	_	_	_	Seg=B-seg
 2	for	_	_	_	_	_	_	_	Seg=O
 3	tweets	_	_	_	_	_	_	_	Seg=O
@@ -30827,7 +30827,7 @@
 169	data	_	_	_	_	_	_	_	Seg=O
 170	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1037_anno1
+# newdoc id = P14-1037_anno1
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	order	_	_	_	_	_	_	_	Seg=O
 3	to	_	_	_	_	_	_	_	Seg=O
@@ -30971,7 +30971,7 @@
 141	baseline	_	_	_	_	_	_	_	Seg=O
 142	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1038_anno1
+# newdoc id = P14-1038_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -31080,7 +31080,7 @@
 106	system	_	_	_	_	_	_	_	Seg=O
 107	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1039_anno1
+# newdoc id = P14-1039_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	investigate	_	_	_	_	_	_	_	Seg=O
 3	whether	_	_	_	_	_	_	_	Seg=O
@@ -31254,7 +31254,7 @@
 171	adequacy	_	_	_	_	_	_	_	Seg=O
 172	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1040_anno1
+# newdoc id = P14-1040_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -31368,7 +31368,7 @@
 111	approach	_	_	_	_	_	_	_	Seg=O
 112	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1041_anno1
+# newdoc id = P14-1041_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -31478,7 +31478,7 @@
 107	preserving	_	_	_	_	_	_	_	Seg=O
 108	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1042_anno1
+# newdoc id = P14-1042_anno1
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -31612,7 +31612,7 @@
 131	models	_	_	_	_	_	_	_	Seg=O
 132	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1043_anno1
+# newdoc id = P14-1043_anno1
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	proposes	_	_	_	_	_	_	_	Seg=O
@@ -31811,7 +31811,7 @@
 196	tri-training	_	_	_	_	_	_	_	Seg=O
 197	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1044_anno1
+# newdoc id = P14-1044_anno1
 1	Lexical	_	_	_	_	_	_	_	Seg=B-seg
 2	resource	_	_	_	_	_	_	_	Seg=O
 3	alignment	_	_	_	_	_	_	_	Seg=O
@@ -31930,7 +31930,7 @@
 116	OmegaWiki	_	_	_	_	_	_	_	Seg=O
 117	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1045_anno1
+# newdoc id = P14-1045_anno1
 1	Using	_	_	_	_	_	_	_	Seg=B-seg
 2	distributional	_	_	_	_	_	_	_	Seg=O
 3	analysis	_	_	_	_	_	_	_	Seg=O
@@ -32109,7 +32109,7 @@
 176	alone	_	_	_	_	_	_	_	Seg=O
 177	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1046_anno1
+# newdoc id = P14-1046_anno1
 1	Vector	_	_	_	_	_	_	_	Seg=B-seg
 2	space	_	_	_	_	_	_	_	Seg=O
 3	models	_	_	_	_	_	_	_	Seg=O
@@ -32264,7 +32264,7 @@
 152	vocabularies	_	_	_	_	_	_	_	Seg=O
 153	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1047_anno1
+# newdoc id = P14-1047_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	use	_	_	_	_	_	_	_	Seg=O
 3	single-agent	_	_	_	_	_	_	_	Seg=O
@@ -32422,7 +32422,7 @@
 155	corpora	_	_	_	_	_	_	_	Seg=O
 156	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1048_anno1
+# newdoc id = P14-1048_anno1
 1	Text-level	_	_	_	_	_	_	_	Seg=B-seg
 2	discourse	_	_	_	_	_	_	_	Seg=O
 3	parsing	_	_	_	_	_	_	_	Seg=O
@@ -32577,7 +32577,7 @@
 152	accuracy	_	_	_	_	_	_	_	Seg=O
 153	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1049_anno1
+# newdoc id = P14-1049_anno1
 1	Negative	_	_	_	_	_	_	_	Seg=B-seg
 2	expressions	_	_	_	_	_	_	_	Seg=O
 3	are	_	_	_	_	_	_	_	Seg=O
@@ -32681,7 +32681,7 @@
 101	information	_	_	_	_	_	_	_	Seg=O
 102	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1050_anno1
+# newdoc id = P14-1050_anno1
 1	Automatic	_	_	_	_	_	_	_	Seg=B-seg
 2	extraction	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -32805,7 +32805,7 @@
 121	method	_	_	_	_	_	_	_	Seg=O
 122	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1051_anno1
+# newdoc id = P14-1051_anno1
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	sentiment	_	_	_	_	_	_	_	Seg=O
 3	captured	_	_	_	_	_	_	_	Seg=B-seg
@@ -32935,7 +32935,7 @@
 127	units	_	_	_	_	_	_	_	Seg=O
 128	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1052_anno1
+# newdoc id = P14-1052_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	study	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -33046,7 +33046,7 @@
 108	goals	_	_	_	_	_	_	_	Seg=O
 109	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1053_anno1
+# newdoc id = P14-1053_anno1
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	vast	_	_	_	_	_	_	_	Seg=O
 3	majority	_	_	_	_	_	_	_	Seg=O
@@ -33165,7 +33165,7 @@
 116	task	_	_	_	_	_	_	_	Seg=O
 117	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1054_anno1
+# newdoc id = P14-1054_anno1
 1	Chinese	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -33326,7 +33326,7 @@
 158	subtypes	_	_	_	_	_	_	_	Seg=O
 159	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1055_anno1
+# newdoc id = P14-1055_anno1
 1	Active	_	_	_	_	_	_	_	Seg=B-seg
 2	learning	_	_	_	_	_	_	_	Seg=O
 3	(	_	_	_	_	_	_	_	Seg=O
@@ -33465,7 +33465,7 @@
 136	learning	_	_	_	_	_	_	_	Seg=O
 137	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1056_anno1
+# newdoc id = P14-1056_anno1
 1	Accurately	_	_	_	_	_	_	_	Seg=B-seg
 2	segmenting	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -33613,7 +33613,7 @@
 145	dataset	_	_	_	_	_	_	_	Seg=O
 146	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1057_anno1
+# newdoc id = P14-1057_anno1
 1	An	_	_	_	_	_	_	_	Seg=B-seg
 2	important	_	_	_	_	_	_	_	Seg=O
 3	search	_	_	_	_	_	_	_	Seg=O
@@ -33779,7 +33779,7 @@
 163	Track	_	_	_	_	_	_	_	Seg=O
 164	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1058_anno1
+# newdoc id = P14-1058_anno1
 1	Although	_	_	_	_	_	_	_	Seg=B-seg
 2	the	_	_	_	_	_	_	_	Seg=O
 3	distributional	_	_	_	_	_	_	_	Seg=O
@@ -33930,7 +33930,7 @@
 148	customisations	_	_	_	_	_	_	_	Seg=O
 149	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1059_anno1
+# newdoc id = P14-1059_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	introduce	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -34021,7 +34021,7 @@
 88	)	_	_	_	_	_	_	_	Seg=O
 89	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1060_anno1
+# newdoc id = P14-1060_anno1
 1	Traditional	_	_	_	_	_	_	_	Seg=B-seg
 2	models	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -34154,7 +34154,7 @@
 130	tasks	_	_	_	_	_	_	_	Seg=O
 131	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1061_anno1
+# newdoc id = P14-1061_anno1
 1	Representing	_	_	_	_	_	_	_	Seg=B-seg
 2	predicates	_	_	_	_	_	_	_	Seg=O
 3	in	_	_	_	_	_	_	_	Seg=O
@@ -34320,7 +34320,7 @@
 163	semantics	_	_	_	_	_	_	_	Seg=O
 164	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1062_anno1
+# newdoc id = P14-1062_anno1
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	ability	_	_	_	_	_	_	_	Seg=O
 3	to	_	_	_	_	_	_	_	Seg=B-seg
@@ -34473,7 +34473,7 @@
 150	baseline	_	_	_	_	_	_	_	Seg=O
 151	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1063_anno1
+# newdoc id = P14-1063_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -34603,7 +34603,7 @@
 127	models	_	_	_	_	_	_	_	Seg=O
 128	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1064_anno1
+# newdoc id = P14-1064_anno1
 1	Statistical	_	_	_	_	_	_	_	Seg=B-seg
 2	phrase-based	_	_	_	_	_	_	_	Seg=O
 3	translation	_	_	_	_	_	_	_	Seg=O
@@ -34735,7 +34735,7 @@
 129	sets	_	_	_	_	_	_	_	Seg=O
 130	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1065_anno1
+# newdoc id = P14-1065_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	experiments	_	_	_	_	_	_	_	Seg=O
@@ -34839,7 +34839,7 @@
 101	metrics	_	_	_	_	_	_	_	Seg=O
 102	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1066_anno1
+# newdoc id = P14-1066_anno1
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	tackles	_	_	_	_	_	_	_	Seg=O
@@ -34962,7 +34962,7 @@
 120	points	_	_	_	_	_	_	_	Seg=O
 121	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1067_anno1
+# newdoc id = P14-1067_anno1
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	automatic	_	_	_	_	_	_	_	Seg=O
 3	estimation	_	_	_	_	_	_	_	Seg=O
@@ -35107,7 +35107,7 @@
 142	approach	_	_	_	_	_	_	_	Seg=O
 143	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1068_anno1
+# newdoc id = P14-1068_anno1
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -35190,7 +35190,7 @@
 80	models	_	_	_	_	_	_	_	Seg=O
 81	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1069_anno1
+# newdoc id = P14-1069_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	three	_	_	_	_	_	_	_	Seg=O
@@ -35329,7 +35329,7 @@
 136	parsers	_	_	_	_	_	_	_	Seg=O
 137	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1070_anno1
+# newdoc id = P14-1070_anno1
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -35447,7 +35447,7 @@
 115	MWEs	_	_	_	_	_	_	_	Seg=O
 116	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1071_anno1
+# newdoc id = P14-1071_anno1
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -35600,7 +35600,7 @@
 150	correction	_	_	_	_	_	_	_	Seg=O
 151	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1072_anno1
+# newdoc id = P14-1072_anno1
 1	Widely	_	_	_	_	_	_	_	Seg=B-seg
 2	used	_	_	_	_	_	_	_	Seg=O
 3	in	_	_	_	_	_	_	_	Seg=O
@@ -35727,7 +35727,7 @@
 124	significantly	_	_	_	_	_	_	_	Seg=O
 125	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1073_anno1
+# newdoc id = P14-1073_anno1
 1	Entity	_	_	_	_	_	_	_	Seg=B-seg
 2	clustering	_	_	_	_	_	_	_	Seg=O
 3	must	_	_	_	_	_	_	_	Seg=O
@@ -35849,7 +35849,7 @@
 119	datasets	_	_	_	_	_	_	_	Seg=O
 120	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1074_anno1
+# newdoc id = P14-1074_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	introduce	_	_	_	_	_	_	_	Seg=O
 3	three	_	_	_	_	_	_	_	Seg=O
@@ -35944,7 +35944,7 @@
 92	forecasting	_	_	_	_	_	_	_	Seg=O
 93	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1075_anno1
+# newdoc id = P14-1075_anno1
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	studies	_	_	_	_	_	_	_	Seg=O
@@ -36045,7 +36045,7 @@
 98	corpora	_	_	_	_	_	_	_	Seg=O
 99	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1076_anno1
+# newdoc id = P14-1076_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -36248,7 +36248,7 @@
 200	YAGO	_	_	_	_	_	_	_	Seg=O
 201	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1077_anno1
+# newdoc id = P14-1077_anno1
 1	Most	_	_	_	_	_	_	_	Seg=B-seg
 2	existing	_	_	_	_	_	_	_	Seg=O
 3	relation	_	_	_	_	_	_	_	Seg=O
@@ -36384,7 +36384,7 @@
 133	human	_	_	_	_	_	_	_	Seg=O
 134	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1078_anno1
+# newdoc id = P14-1078_anno1
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -36497,7 +36497,7 @@
 110	experiments	_	_	_	_	_	_	_	Seg=O
 111	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1079_anno1
+# newdoc id = P14-1079_anno1
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	essence	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -36666,7 +36666,7 @@
 166	methods	_	_	_	_	_	_	_	Seg=O
 167	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1080_anno1
+# newdoc id = P14-1080_anno1
 1	Transitional	_	_	_	_	_	_	_	Seg=B-seg
 2	expressions	_	_	_	_	_	_	_	Seg=O
 3	provide	_	_	_	_	_	_	_	Seg=O
@@ -36826,7 +36826,7 @@
 157	smooth	_	_	_	_	_	_	_	Seg=O
 158	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1081_anno1
+# newdoc id = P14-1081_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -36964,7 +36964,7 @@
 135	productivity	_	_	_	_	_	_	_	Seg=O
 136	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1082_anno1
+# newdoc id = P14-1082_anno1
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -37124,7 +37124,7 @@
 157	words	_	_	_	_	_	_	_	Seg=O
 158	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1083_anno1
+# newdoc id = P14-1083_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -37241,7 +37241,7 @@
 114	SMT	_	_	_	_	_	_	_	Seg=O
 115	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1084_anno1
+# newdoc id = P14-1084_anno1
 1	Abstractive	_	_	_	_	_	_	_	Seg=B-seg
 2	text	_	_	_	_	_	_	_	Seg=O
 3	summarization	_	_	_	_	_	_	_	Seg=O
@@ -37414,7 +37414,7 @@
 170	utterances	_	_	_	_	_	_	_	Seg=O
 171	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1085_anno1
+# newdoc id = P14-1085_anno1
 1	For	_	_	_	_	_	_	_	Seg=B-seg
 2	topics	_	_	_	_	_	_	_	Seg=O
 3	that	_	_	_	_	_	_	_	Seg=B-seg
@@ -37539,7 +37539,7 @@
 122	cases	_	_	_	_	_	_	_	Seg=O
 123	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1086_anno1
+# newdoc id = P14-1086_anno1
 1	Update	_	_	_	_	_	_	_	Seg=B-seg
 2	summarization	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -37747,7 +37747,7 @@
 205	baselines	_	_	_	_	_	_	_	Seg=O
 206	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1087_anno1
+# newdoc id = P14-1087_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	study	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -37892,7 +37892,7 @@
 142	%	_	_	_	_	_	_	_	Seg=O
 143	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1088_anno1
+# newdoc id = P14-1088_anno1
 1	Following	_	_	_	_	_	_	_	Seg=B-seg
 2	the	_	_	_	_	_	_	_	Seg=O
 3	works	_	_	_	_	_	_	_	Seg=O
@@ -38054,7 +38054,7 @@
 159	real	_	_	_	_	_	_	_	Seg=O
 160	corpora.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1089_anno1
+# newdoc id = P14-1089_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	WiBi	_	_	_	_	_	_	_	Seg=O
@@ -38133,7 +38133,7 @@
 76	//wibitaxonomy.org	_	_	_	_	_	_	_	Seg=O
 77	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1090_anno1
+# newdoc id = P14-1090_anno1
 1	Answering	_	_	_	_	_	_	_	Seg=B-seg
 2	natural	_	_	_	_	_	_	_	Seg=O
 3	language	_	_	_	_	_	_	_	Seg=O
@@ -38217,7 +38217,7 @@
 81	gain	_	_	_	_	_	_	_	Seg=O
 82	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1091_anno1
+# newdoc id = P14-1091_anno1
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	typical	_	_	_	_	_	_	_	Seg=O
 3	knowledge-based	_	_	_	_	_	_	_	Seg=O
@@ -38395,7 +38395,7 @@
 175	results	_	_	_	_	_	_	_	Seg=O
 176	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1092_anno1
+# newdoc id = P14-1092_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -38543,7 +38543,7 @@
 145	answering	_	_	_	_	_	_	_	Seg=O
 146	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1093_anno1
+# newdoc id = P14-1093_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -38684,7 +38684,7 @@
 138	sense	_	_	_	_	_	_	_	Seg=O
 139	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1094_anno1
+# newdoc id = P14-1094_anno1
 1	Cross-narrative	_	_	_	_	_	_	_	Seg=B-seg
 2	temporal	_	_	_	_	_	_	_	Seg=O
 3	ordering	_	_	_	_	_	_	_	Seg=O
@@ -38824,7 +38824,7 @@
 137	alignment	_	_	_	_	_	_	_	Seg=O
 138	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1095_anno1
+# newdoc id = P14-1095_anno1
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	introduces	_	_	_	_	_	_	_	Seg=O
@@ -38933,7 +38933,7 @@
 106	approaches	_	_	_	_	_	_	_	Seg=O
 107	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1096_anno1
+# newdoc id = P14-1096_anno1
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -39176,7 +39176,7 @@
 240	search	_	_	_	_	_	_	_	Seg=O
 241	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1097_anno1
+# newdoc id = P14-1097_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -39311,7 +39311,7 @@
 132	data	_	_	_	_	_	_	_	Seg=O
 133	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1098_anno1
+# newdoc id = P14-1098_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -39462,7 +39462,7 @@
 148	F1	_	_	_	_	_	_	_	Seg=O
 149	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1099_anno1
+# newdoc id = P14-1099_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	introduce	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -39550,7 +39550,7 @@
 85	practice	_	_	_	_	_	_	_	Seg=O
 86	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P14-1100_anno1
+# newdoc id = P14-1100_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -39684,7 +39684,7 @@
 131	initialization	_	_	_	_	_	_	_	Seg=O
 132	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1001_anno1
+# newdoc id = P16-1001_anno1
 1	Semantic	_	_	_	_	_	_	_	Seg=B-seg
 2	parsers	_	_	_	_	_	_	_	Seg=O
 3	map	_	_	_	_	_	_	_	Seg=O
@@ -39898,7 +39898,7 @@
 211	points	_	_	_	_	_	_	_	Seg=O
 212	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1002_anno1
+# newdoc id = P16-1002_anno1
 1	Modeling	_	_	_	_	_	_	_	Seg=B-seg
 2	crisp	_	_	_	_	_	_	_	Seg=O
 3	logical	_	_	_	_	_	_	_	Seg=O
@@ -40036,7 +40036,7 @@
 135	supervision	_	_	_	_	_	_	_	Seg=O
 136	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1003_anno1
+# newdoc id = P16-1003_anno1
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	core	_	_	_	_	_	_	_	Seg=O
 3	problem	_	_	_	_	_	_	_	Seg=O
@@ -40197,7 +40197,7 @@
 158	forms	_	_	_	_	_	_	_	Seg=O
 159	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1004_anno1
+# newdoc id = P16-1004_anno1
 1	Semantic	_	_	_	_	_	_	_	Seg=B-seg
 2	parsing	_	_	_	_	_	_	_	Seg=O
 3	aims	_	_	_	_	_	_	_	Seg=O
@@ -40297,7 +40297,7 @@
 97	representations	_	_	_	_	_	_	_	Seg=O
 98	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1005_anno1
+# newdoc id = P16-1005_anno1
 1	Slot	_	_	_	_	_	_	_	Seg=B-seg
 2	filling	_	_	_	_	_	_	_	Seg=O
 3	aims	_	_	_	_	_	_	_	Seg=O
@@ -40512,7 +40512,7 @@
 212	benchmark	_	_	_	_	_	_	_	Seg=O
 213	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1006_anno1
+# newdoc id = P16-1006_anno1
 1	When	_	_	_	_	_	_	_	Seg=B-seg
 2	a	_	_	_	_	_	_	_	Seg=O
 3	large-scale	_	_	_	_	_	_	_	Seg=O
@@ -40667,7 +40667,7 @@
 152	state-of-the-art	_	_	_	_	_	_	_	Seg=O
 153	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1007_anno1
+# newdoc id = P16-1007_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	apply	_	_	_	_	_	_	_	Seg=O
 3	phrase-based	_	_	_	_	_	_	_	Seg=O
@@ -40811,7 +40811,7 @@
 141	approaches	_	_	_	_	_	_	_	Seg=O
 142	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1008_anno1
+# newdoc id = P16-1008_anno1
 1	Attention	_	_	_	_	_	_	_	Seg=B-seg
 2	mechanism	_	_	_	_	_	_	_	Seg=O
 3	has	_	_	_	_	_	_	_	Seg=O
@@ -40922,7 +40922,7 @@
 108	NMT	_	_	_	_	_	_	_	Seg=O
 109	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1009_anno1
+# newdoc id = P16-1009_anno1
 1	Neural	_	_	_	_	_	_	_	Seg=B-seg
 2	Machine	_	_	_	_	_	_	_	Seg=O
 3	Translation	_	_	_	_	_	_	_	Seg=O
@@ -41108,7 +41108,7 @@
 183	German	_	_	_	_	_	_	_	Seg=O
 184	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1010_anno1
+# newdoc id = P16-1010_anno1
 1	One	_	_	_	_	_	_	_	Seg=B-seg
 2	major	_	_	_	_	_	_	_	Seg=O
 3	drawback	_	_	_	_	_	_	_	Seg=O
@@ -41230,7 +41230,7 @@
 119	German-English	_	_	_	_	_	_	_	Seg=O
 120	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1011_anno1
+# newdoc id = P16-1011_anno1
 1	As	_	_	_	_	_	_	_	Seg=B-seg
 2	a	_	_	_	_	_	_	_	Seg=O
 3	new	_	_	_	_	_	_	_	Seg=O
@@ -41364,7 +41364,7 @@
 131	future	_	_	_	_	_	_	_	Seg=O
 132	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1012_anno1
+# newdoc id = P16-1012_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -41511,7 +41511,7 @@
 144	languages	_	_	_	_	_	_	_	Seg=O
 145	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1013_anno1
+# newdoc id = P16-1013_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	use	_	_	_	_	_	_	_	Seg=O
 3	Bayesian	_	_	_	_	_	_	_	Seg=O
@@ -41605,7 +41605,7 @@
 91	order	_	_	_	_	_	_	_	Seg=O
 92	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1014_anno1
+# newdoc id = P16-1014_anno1
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	problem	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -41789,7 +41789,7 @@
 181	dataset	_	_	_	_	_	_	_	Seg=O
 182	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1015_anno1
+# newdoc id = P16-1015_anno1
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -41855,7 +41855,7 @@
 63	systems	_	_	_	_	_	_	_	Seg=O
 64	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1016_anno1
+# newdoc id = P16-1016_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -41976,7 +41976,7 @@
 118	approaches	_	_	_	_	_	_	_	Seg=O
 119	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1017_anno1
+# newdoc id = P16-1017_anno1
 1	Dynamic	_	_	_	_	_	_	_	Seg=B-seg
 2	oracle	_	_	_	_	_	_	_	Seg=O
 3	training	_	_	_	_	_	_	_	Seg=O
@@ -42050,7 +42050,7 @@
 71	parsers	_	_	_	_	_	_	_	Seg=O
 72	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1018_anno1
+# newdoc id = P16-1018_anno1
 1	Metaphorical	_	_	_	_	_	_	_	Seg=B-seg
 2	expressions	_	_	_	_	_	_	_	Seg=O
 3	are	_	_	_	_	_	_	_	Seg=O
@@ -42163,7 +42163,7 @@
 110	F-score	_	_	_	_	_	_	_	Seg=O
 111	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1019_anno1
+# newdoc id = P16-1019_anno1
 1	Idiom	_	_	_	_	_	_	_	Seg=B-seg
 2	token	_	_	_	_	_	_	_	Seg=O
 3	classification	_	_	_	_	_	_	_	Seg=O
@@ -42295,7 +42295,7 @@
 129	classifier	_	_	_	_	_	_	_	Seg=O
 130	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1020_anno1
+# newdoc id = P16-1020_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -42434,7 +42434,7 @@
 136	tasks	_	_	_	_	_	_	_	Seg=O
 137	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1021_anno1
+# newdoc id = P16-1021_anno1
 1	Metaphor	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -42581,7 +42581,7 @@
 144	contexts	_	_	_	_	_	_	_	Seg=O
 145	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1022_anno1
+# newdoc id = P16-1022_anno1
 1	Neural	_	_	_	_	_	_	_	Seg=B-seg
 2	networks	_	_	_	_	_	_	_	Seg=O
 3	are	_	_	_	_	_	_	_	Seg=O
@@ -42723,7 +42723,7 @@
 139	measure	_	_	_	_	_	_	_	Seg=O
 140	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1023_anno1
+# newdoc id = P16-1023_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	introduce	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -42836,7 +42836,7 @@
 110	models	_	_	_	_	_	_	_	Seg=O
 111	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1024_anno1
+# newdoc id = P16-1024_anno1
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	shared	_	_	_	_	_	_	_	Seg=O
 3	bilingual	_	_	_	_	_	_	_	Seg=O
@@ -43048,7 +43048,7 @@
 209	data	_	_	_	_	_	_	_	Seg=O
 210	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1025_anno1
+# newdoc id = P16-1025_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -43188,7 +43188,7 @@
 137	promising	_	_	_	_	_	_	_	Seg=O
 138	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1026_anno1
+# newdoc id = P16-1026_anno1
 1	Event	_	_	_	_	_	_	_	Seg=B-seg
 2	extraction	_	_	_	_	_	_	_	Seg=O
 3	from	_	_	_	_	_	_	_	Seg=O
@@ -43356,7 +43356,7 @@
 165	visualization	_	_	_	_	_	_	_	Seg=O
 166	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1027_anno1
+# newdoc id = P16-1027_anno1
 1	There	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -43437,7 +43437,7 @@
 78	documents	_	_	_	_	_	_	_	Seg=O
 79	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1028_anno1
+# newdoc id = P16-1028_anno1
 1	Natural	_	_	_	_	_	_	_	Seg=B-seg
 2	language	_	_	_	_	_	_	_	Seg=O
 3	understanding	_	_	_	_	_	_	_	Seg=O
@@ -43581,7 +43581,7 @@
 141	parsing	_	_	_	_	_	_	_	Seg=O
 142	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1029_anno1
+# newdoc id = P16-1029_anno1
 1	Domain	_	_	_	_	_	_	_	Seg=B-seg
 2	adaptation	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -43713,7 +43713,7 @@
 128	performance	_	_	_	_	_	_	_	Seg=O
 129	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1030
+# newdoc id = P16-1030
 1	Through	_	_	_	_	_	_	_	Seg=B-seg
 2	a	_	_	_	_	_	_	_	Seg=O
 3	particular	_	_	_	_	_	_	_	Seg=O
@@ -43918,7 +43918,7 @@
 202	media	_	_	_	_	_	_	_	Seg=O
 203	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1031_anno1
+# newdoc id = P16-1031_anno1
 1	Sentiment	_	_	_	_	_	_	_	Seg=B-seg
 2	classification	_	_	_	_	_	_	_	Seg=O
 3	aims	_	_	_	_	_	_	_	Seg=O
@@ -44168,7 +44168,7 @@
 247	adaptation	_	_	_	_	_	_	_	Seg=O
 248	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1032_anno1
+# newdoc id = P16-1032_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -44341,7 +44341,7 @@
 170	entities	_	_	_	_	_	_	_	Seg=O
 171	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1033_anno1
+# newdoc id = P16-1033_anno1
 1	Different	_	_	_	_	_	_	_	Seg=B-seg
 2	from	_	_	_	_	_	_	_	Seg=O
 3	traditional	_	_	_	_	_	_	_	Seg=O
@@ -44531,7 +44531,7 @@
 187	quality	_	_	_	_	_	_	_	Seg=O
 188	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1034_anno1
+# newdoc id = P16-1034_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -44636,7 +44636,7 @@
 102	cases	_	_	_	_	_	_	_	Seg=O
 103	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1035_anno1
+# newdoc id = P16-1035_anno1
 1	Continuous	_	_	_	_	_	_	_	Seg=B-seg
 2	space	_	_	_	_	_	_	_	Seg=O
 3	word	_	_	_	_	_	_	_	Seg=O
@@ -44730,7 +44730,7 @@
 91	embeddings	_	_	_	_	_	_	_	Seg=O
 92	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1036_anno1
+# newdoc id = P16-1036_anno1
 1	Community	_	_	_	_	_	_	_	Seg=B-seg
 2	Question	_	_	_	_	_	_	_	Seg=O
 3	Answering	_	_	_	_	_	_	_	Seg=O
@@ -44947,7 +44947,7 @@
 214	parameters	_	_	_	_	_	_	_	Seg=O
 215	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1037_anno1
+# newdoc id = P16-1037_anno1
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	work	_	_	_	_	_	_	_	Seg=O
@@ -45084,7 +45084,7 @@
 134	method	_	_	_	_	_	_	_	Seg=O
 135	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1038_anno1
+# newdoc id = P16-1038_anno1
 1	Grapheme-to-phoneme	_	_	_	_	_	_	_	Seg=B-seg
 2	(	_	_	_	_	_	_	_	Seg=O
 3	g2p	_	_	_	_	_	_	_	Seg=O
@@ -45170,7 +45170,7 @@
 83	languages	_	_	_	_	_	_	_	Seg=O
 84	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1039_anno1
+# newdoc id = P16-1039_anno1
 1	Most	_	_	_	_	_	_	_	Seg=B-seg
 2	previous	_	_	_	_	_	_	_	Seg=O
 3	approaches	_	_	_	_	_	_	_	Seg=O
@@ -45294,7 +45294,7 @@
 121	methods	_	_	_	_	_	_	_	Seg=O
 122	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1040_anno1
+# newdoc id = P16-1040_anno1
 1	Character-based	_	_	_	_	_	_	_	Seg=B-seg
 2	and	_	_	_	_	_	_	_	Seg=O
 3	word-based	_	_	_	_	_	_	_	Seg=O
@@ -45429,7 +45429,7 @@
 132	accuracies	_	_	_	_	_	_	_	Seg=O
 133	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1041_anno1
+# newdoc id = P16-1041_anno1
 1	Understanding	_	_	_	_	_	_	_	Seg=B-seg
 2	unstructured	_	_	_	_	_	_	_	Seg=O
 3	text	_	_	_	_	_	_	_	Seg=O
@@ -45614,7 +45614,7 @@
 182	)	_	_	_	_	_	_	_	Seg=O
 183	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1042_anno1
+# newdoc id = P16-1042_anno1
 1	Broad	_	_	_	_	_	_	_	Seg=B-seg
 2	domain	_	_	_	_	_	_	_	Seg=O
 3	question	_	_	_	_	_	_	_	Seg=O
@@ -45752,7 +45752,7 @@
 134	dataset	_	_	_	_	_	_	_	Seg=O
 135	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1043_anno1
+# newdoc id = P16-1043_anno1
 1	Cognitive	_	_	_	_	_	_	_	Seg=B-seg
 2	science	_	_	_	_	_	_	_	Seg=O
 3	researchers	_	_	_	_	_	_	_	Seg=O
@@ -45900,7 +45900,7 @@
 145	them	_	_	_	_	_	_	_	Seg=O
 146	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1044_anno1
+# newdoc id = P16-1044_anno1
 1	Passage-level	_	_	_	_	_	_	_	Seg=B-seg
 2	question	_	_	_	_	_	_	_	Seg=O
 3	answer	_	_	_	_	_	_	_	Seg=O
@@ -46054,7 +46054,7 @@
 151	baselines	_	_	_	_	_	_	_	Seg=O
 152	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1045_anno1
+# newdoc id = P16-1045_anno1
 1	Question	_	_	_	_	_	_	_	Seg=B-seg
 2	answering	_	_	_	_	_	_	_	Seg=O
 3	requires	_	_	_	_	_	_	_	Seg=O
@@ -46197,7 +46197,7 @@
 140	model	_	_	_	_	_	_	_	Seg=O
 141	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1046_anno1
+# newdoc id = P16-1046_anno1
 1	Traditional	_	_	_	_	_	_	_	Seg=B-seg
 2	approaches	_	_	_	_	_	_	_	Seg=O
 3	to	_	_	_	_	_	_	_	Seg=O
@@ -46306,7 +46306,7 @@
 106	annotation	_	_	_	_	_	_	_	Seg=O
 107	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1047_anno1
+# newdoc id = P16-1047_anno1
 1	Automatic	_	_	_	_	_	_	_	Seg=B-seg
 2	negation	_	_	_	_	_	_	_	Seg=O
 3	scope	_	_	_	_	_	_	_	Seg=O
@@ -46456,7 +46456,7 @@
 147	considered	_	_	_	_	_	_	_	Seg=B-seg
 148	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1048_anno1
+# newdoc id = P16-1048_anno1
 1	Most	_	_	_	_	_	_	_	Seg=B-seg
 2	sentence	_	_	_	_	_	_	_	Seg=O
 3	embedding	_	_	_	_	_	_	_	Seg=O
@@ -46600,7 +46600,7 @@
 141	models	_	_	_	_	_	_	_	Seg=O
 142	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1049_anno1
+# newdoc id = P16-1049_anno1
 1	Most	_	_	_	_	_	_	_	Seg=B-seg
 2	current	_	_	_	_	_	_	_	Seg=O
 3	chatbot	_	_	_	_	_	_	_	Seg=O
@@ -46768,7 +46768,7 @@
 165	responses	_	_	_	_	_	_	_	Seg=O
 166	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1050_anno1
+# newdoc id = P16-1050_anno1
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	conversation	_	_	_	_	_	_	_	Seg=O
 3	,	_	_	_	_	_	_	_	Seg=O
@@ -46937,7 +46937,7 @@
 164	discourse	_	_	_	_	_	_	_	Seg=O
 165	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1051_anno1
+# newdoc id = P16-1051_anno1
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	applicability	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -47063,7 +47063,7 @@
 121	dialogue	_	_	_	_	_	_	_	Seg=O
 122	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1052_anno1
+# newdoc id = P16-1052_anno1
 1	To	_	_	_	_	_	_	_	Seg=B-seg
 2	establish	_	_	_	_	_	_	_	Seg=O
 3	sophisticated	_	_	_	_	_	_	_	Seg=O
@@ -47223,7 +47223,7 @@
 156	approach	_	_	_	_	_	_	_	Seg=O
 157	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1053_anno1
+# newdoc id = P16-1053_anno1
 1	Modeling	_	_	_	_	_	_	_	Seg=B-seg
 2	interactions	_	_	_	_	_	_	_	Seg=O
 3	between	_	_	_	_	_	_	_	Seg=O
@@ -47345,7 +47345,7 @@
 119	engineering	_	_	_	_	_	_	_	Seg=O
 120	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1054_anno1
+# newdoc id = P16-1054_anno1
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	study	_	_	_	_	_	_	_	Seg=O
@@ -47450,7 +47450,7 @@
 102	model	_	_	_	_	_	_	_	Seg=O
 103	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1055_anno1
+# newdoc id = P16-1055_anno1
 1	How	_	_	_	_	_	_	_	Seg=B-seg
 2	much	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -47620,7 +47620,7 @@
 167	generation	_	_	_	_	_	_	_	Seg=O
 168	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1056_anno1
+# newdoc id = P16-1056_anno1
 1	Over	_	_	_	_	_	_	_	Seg=B-seg
 2	the	_	_	_	_	_	_	_	Seg=O
 3	past	_	_	_	_	_	_	_	Seg=O
@@ -47752,7 +47752,7 @@
 129	questions	_	_	_	_	_	_	_	Seg=O
 130	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1057_anno1
+# newdoc id = P16-1057_anno1
 1	Many	_	_	_	_	_	_	_	Seg=B-seg
 2	language	_	_	_	_	_	_	_	Seg=O
 3	generation	_	_	_	_	_	_	_	Seg=O
@@ -47892,7 +47892,7 @@
 137	benchmarks	_	_	_	_	_	_	_	Seg=O
 138	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1058_anno1
+# newdoc id = P16-1058_anno1
 1	Research	_	_	_	_	_	_	_	Seg=B-seg
 2	on	_	_	_	_	_	_	_	Seg=O
 3	generating	_	_	_	_	_	_	_	Seg=O
@@ -48076,7 +48076,7 @@
 181	system	_	_	_	_	_	_	_	Seg=O
 182	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1059_anno1
+# newdoc id = P16-1059_anno1
 1	Entity	_	_	_	_	_	_	_	Seg=B-seg
 2	resolution	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -48204,7 +48204,7 @@
 125	tasks	_	_	_	_	_	_	_	Seg=O
 126	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1060_anno1
+# newdoc id = P16-1060_anno1
 1	Interpretability	_	_	_	_	_	_	_	Seg=B-seg
 2	and	_	_	_	_	_	_	_	Seg=O
 3	discriminative	_	_	_	_	_	_	_	Seg=O
@@ -48362,7 +48362,7 @@
 155	scorer	_	_	_	_	_	_	_	Seg=O
 156	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1061_anno1
+# newdoc id = P16-1061_anno1
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	long-standing	_	_	_	_	_	_	_	Seg=O
 3	challenge	_	_	_	_	_	_	_	Seg=O
@@ -48474,7 +48474,7 @@
 109	features	_	_	_	_	_	_	_	Seg=O
 110	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1062_anno1
+# newdoc id = P16-1062_anno1
 1	Properties	_	_	_	_	_	_	_	Seg=B-seg
 2	of	_	_	_	_	_	_	_	Seg=O
 3	corpora	_	_	_	_	_	_	_	Seg=O
@@ -48620,7 +48620,7 @@
 143	metrics	_	_	_	_	_	_	_	Seg=O
 144	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1063_anno1
+# newdoc id = P16-1063_anno1
 1	Word	_	_	_	_	_	_	_	Seg=B-seg
 2	embedding	_	_	_	_	_	_	_	Seg=O
 3	maps	_	_	_	_	_	_	_	Seg=O
@@ -48803,7 +48803,7 @@
 180	document	_	_	_	_	_	_	_	Seg=O
 181	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1064_anno1
+# newdoc id = P16-1064_anno1
 1	News	_	_	_	_	_	_	_	Seg=B-seg
 2	reader	_	_	_	_	_	_	_	Seg=O
 3	comments	_	_	_	_	_	_	_	Seg=O
@@ -48909,7 +48909,7 @@
 103	model	_	_	_	_	_	_	_	Seg=O
 104	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1065_anno1
+# newdoc id = P16-1065_anno1
 1	Document	_	_	_	_	_	_	_	Seg=B-seg
 2	collections	_	_	_	_	_	_	_	Seg=O
 3	often	_	_	_	_	_	_	_	Seg=O
@@ -49014,7 +49014,7 @@
 102	distributions	_	_	_	_	_	_	_	Seg=O
 103	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1066_anno1
+# newdoc id = P16-1066_anno1
 1	Sentiment	_	_	_	_	_	_	_	Seg=B-seg
 2	Analysis	_	_	_	_	_	_	_	Seg=O
 3	(	_	_	_	_	_	_	_	Seg=O
@@ -49190,7 +49190,7 @@
 173	datasets	_	_	_	_	_	_	_	Seg=O
 174	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1067_anno1
+# newdoc id = P16-1067_anno1
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	proposes	_	_	_	_	_	_	_	Seg=O
@@ -49316,7 +49316,7 @@
 123	results	_	_	_	_	_	_	_	Seg=O
 124	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1068_anno1
+# newdoc id = P16-1068_anno1
 1	Automated	_	_	_	_	_	_	_	Seg=B-seg
 2	Text	_	_	_	_	_	_	_	Seg=O
 3	Scoring	_	_	_	_	_	_	_	Seg=O
@@ -49451,7 +49451,7 @@
 131	discriminative	_	_	_	_	_	_	_	Seg=O
 132	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1069_anno1
+# newdoc id = P16-1069_anno1
 1	Digital	_	_	_	_	_	_	_	Seg=B-seg
 2	personal	_	_	_	_	_	_	_	Seg=O
 3	assistants	_	_	_	_	_	_	_	Seg=O
@@ -49576,7 +49576,7 @@
 122	improvement	_	_	_	_	_	_	_	Seg=O
 123	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1070_anno1
+# newdoc id = P16-1070_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	introduce	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -49736,7 +49736,7 @@
 157	language	_	_	_	_	_	_	_	Seg=O
 158	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1071_anno1
+# newdoc id = P16-1071_anno1
 1	Neuro-imaging	_	_	_	_	_	_	_	Seg=B-seg
 2	studies	_	_	_	_	_	_	_	Seg=O
 3	on	_	_	_	_	_	_	_	Seg=O
@@ -49823,7 +49823,7 @@
 84	%	_	_	_	_	_	_	_	Seg=O
 85	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1072_anno1
+# newdoc id = P16-1072_anno1
 1	Relation	_	_	_	_	_	_	_	Seg=B-seg
 2	classification	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -49973,7 +49973,7 @@
 147	dataset	_	_	_	_	_	_	_	Seg=O
 148	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1073_anno1
+# newdoc id = P16-1073_anno1
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	major	_	_	_	_	_	_	_	Seg=O
 3	challenge	_	_	_	_	_	_	_	Seg=O
@@ -50108,7 +50108,7 @@
 132	robustly	_	_	_	_	_	_	_	Seg=O
 133	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1074_anno1
+# newdoc id = P16-1074_anno1
 1	While	_	_	_	_	_	_	_	Seg=B-seg
 2	unsupervised	_	_	_	_	_	_	_	Seg=O
 3	anaphoric	_	_	_	_	_	_	_	Seg=O
@@ -50217,7 +50217,7 @@
 106	corpus	_	_	_	_	_	_	_	Seg=O
 107	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1075_anno1
+# newdoc id = P16-1075_anno1
 1	Supervised	_	_	_	_	_	_	_	Seg=B-seg
 2	machine	_	_	_	_	_	_	_	Seg=O
 3	learning	_	_	_	_	_	_	_	Seg=O
@@ -50349,7 +50349,7 @@
 129	increases	_	_	_	_	_	_	_	Seg=O
 130	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1076_anno1
+# newdoc id = P16-1076_anno1
 1	How	_	_	_	_	_	_	_	Seg=B-seg
 2	can	_	_	_	_	_	_	_	Seg=O
 3	we	_	_	_	_	_	_	_	Seg=O
@@ -50520,7 +50520,7 @@
 168	%	_	_	_	_	_	_	_	Seg=O
 169	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1077_anno1
+# newdoc id = P16-1077_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	revisit	_	_	_	_	_	_	_	Seg=O
 3-4	Levin's	_	_	_	_	_	_	_	_
@@ -50635,7 +50635,7 @@
 111	)	_	_	_	_	_	_	_	Seg=O
 112	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1078_anno1
+# newdoc id = P16-1078_anno1
 1	Most	_	_	_	_	_	_	_	Seg=B-seg
 2	of	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -50741,7 +50741,7 @@
 103	system	_	_	_	_	_	_	_	Seg=O
 104	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1079_anno1
+# newdoc id = P16-1079_anno1
 1	Coordination	_	_	_	_	_	_	_	Seg=B-seg
 2	is	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -50875,7 +50875,7 @@
 131	disambiguation	_	_	_	_	_	_	_	Seg=O
 132	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1080_anno1
+# newdoc id = P16-1080_anno1
 1	User	_	_	_	_	_	_	_	Seg=B-seg
 2	traits	_	_	_	_	_	_	_	Seg=O
 3	disclosed	_	_	_	_	_	_	_	Seg=B-seg
@@ -50991,7 +50991,7 @@
 113	perception	_	_	_	_	_	_	_	Seg=O
 114	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1081_anno1
+# newdoc id = P16-1081_anno1
 1	Motivated	_	_	_	_	_	_	_	Seg=B-seg
 2	by	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -51123,7 +51123,7 @@
 128	solutions	_	_	_	_	_	_	_	Seg=O
 129	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1082_anno1
+# newdoc id = P16-1082_anno1
 1	Our	_	_	_	_	_	_	_	Seg=B-seg
 2	goal	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -51279,7 +51279,7 @@
 153	query	_	_	_	_	_	_	_	Seg=O
 154	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1083_anno1
+# newdoc id = P16-1083_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	prove	_	_	_	_	_	_	_	Seg=O
 3	that	_	_	_	_	_	_	_	Seg=B-seg
@@ -51416,7 +51416,7 @@
 133	interpolation	_	_	_	_	_	_	_	Seg=O
 134	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1084_anno1
+# newdoc id = P16-1084_anno1
 1	Recently	_	_	_	_	_	_	_	Seg=B-seg
 2	a	_	_	_	_	_	_	_	Seg=O
 3	few	_	_	_	_	_	_	_	Seg=O
@@ -51532,7 +51532,7 @@
 113	results	_	_	_	_	_	_	_	Seg=O
 114	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1085_anno1
+# newdoc id = P16-1085_anno1
 1	Recent	_	_	_	_	_	_	_	Seg=B-seg
 2	years	_	_	_	_	_	_	_	Seg=O
 3	have	_	_	_	_	_	_	_	Seg=O
@@ -51682,7 +51682,7 @@
 147	features	_	_	_	_	_	_	_	Seg=O
 148	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1086_anno1
+# newdoc id = P16-1086_anno1
 1	Several	_	_	_	_	_	_	_	Seg=B-seg
 2	large	_	_	_	_	_	_	_	Seg=O
 3	cloze-style	_	_	_	_	_	_	_	Seg=O
@@ -51812,7 +51812,7 @@
 126	datasets	_	_	_	_	_	_	_	Seg=O
 127	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1087_anno1
+# newdoc id = P16-1087_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	investigate	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -51954,7 +51954,7 @@
 139	approach	_	_	_	_	_	_	_	Seg=O
 140	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1088_anno1
+# newdoc id = P16-1088_anno1
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	proposes	_	_	_	_	_	_	_	Seg=O
@@ -52016,7 +52016,7 @@
 59	identification	_	_	_	_	_	_	_	Seg=O
 60	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1089_anno1
+# newdoc id = P16-1089_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -52154,7 +52154,7 @@
 135	sources	_	_	_	_	_	_	_	Seg=O
 136	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1090_anno1
+# newdoc id = P16-1090_anno1
 1	Can	_	_	_	_	_	_	_	Seg=B-seg
 2	we	_	_	_	_	_	_	_	Seg=O
 3	train	_	_	_	_	_	_	_	Seg=O
@@ -52304,7 +52304,7 @@
 146	dataset	_	_	_	_	_	_	_	Seg=O
 147	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1091_anno1
+# newdoc id = P16-1091_anno1
 1	Dialogue	_	_	_	_	_	_	_	Seg=B-seg
 2	topic	_	_	_	_	_	_	_	Seg=O
 3	tracking	_	_	_	_	_	_	_	Seg=O
@@ -52389,7 +52389,7 @@
 82	conversations	_	_	_	_	_	_	_	Seg=O
 83	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1092_anno1
+# newdoc id = P16-1092_anno1
 1	Lexico-semantic	_	_	_	_	_	_	_	Seg=B-seg
 2	knowledge	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -52512,7 +52512,7 @@
 120	languages	_	_	_	_	_	_	_	Seg=O
 121	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1093_anno1
+# newdoc id = P16-1093_anno1
 1	Fill-in-the-blank	_	_	_	_	_	_	_	Seg=B-seg
 2	items	_	_	_	_	_	_	_	Seg=O
 3	are	_	_	_	_	_	_	_	Seg=O
@@ -52684,7 +52684,7 @@
 167	term	_	_	_	_	_	_	_	Seg=O
 168	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1094_anno1
+# newdoc id = P16-1094_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	persona-based	_	_	_	_	_	_	_	Seg=O
@@ -52763,7 +52763,7 @@
 76	judges	_	_	_	_	_	_	_	Seg=O
 77	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1095_anno1
+# newdoc id = P16-1095_anno1
 1	Deep	_	_	_	_	_	_	_	Seg=B-seg
 2	Random	_	_	_	_	_	_	_	Seg=O
 3	Walk	_	_	_	_	_	_	_	Seg=O
@@ -52924,7 +52924,7 @@
 158	parallelized	_	_	_	_	_	_	_	Seg=O
 159	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1096_anno1
+# newdoc id = P16-1096_anno1
 1	Automatically	_	_	_	_	_	_	_	Seg=B-seg
 2	recognising	_	_	_	_	_	_	_	Seg=O
 3	medical	_	_	_	_	_	_	_	Seg=O
@@ -53109,7 +53109,7 @@
 181	%	_	_	_	_	_	_	_	Seg=O
 182	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1097_anno1
+# newdoc id = P16-1097_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	introduce	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -53197,7 +53197,7 @@
 85	performance	_	_	_	_	_	_	_	Seg=O
 86	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1098_anno1
+# newdoc id = P16-1098_anno1
 1	Recently	_	_	_	_	_	_	_	Seg=B-seg
 2	,	_	_	_	_	_	_	_	Seg=O
 3	there	_	_	_	_	_	_	_	Seg=O
@@ -53322,7 +53322,7 @@
 122	worked	_	_	_	_	_	_	_	Seg=O
 123	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1099_anno1
+# newdoc id = P16-1099_anno1
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	construct	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -53371,7 +53371,7 @@
 46	information	_	_	_	_	_	_	_	Seg=O
 47	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P16-1100_anno1
+# newdoc id = P16-1100_anno1
 1	Nearly	_	_	_	_	_	_	_	Seg=B-seg
 2	all	_	_	_	_	_	_	_	Seg=O
 3	previous	_	_	_	_	_	_	_	Seg=O
@@ -53572,7 +53572,7 @@
 198	words	_	_	_	_	_	_	_	Seg=O
 199	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1003
+# newdoc id = P86-1003
 1	Tense	_	_	_	_	_	_	_	Seg=B-seg
 2	,	_	_	_	_	_	_	_	Seg=O
 3	temporal	_	_	_	_	_	_	_	Seg=O
@@ -53664,7 +53664,7 @@
 89	judged	_	_	_	_	_	_	_	Seg=O
 90	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1004
+# newdoc id = P86-1004
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	describes	_	_	_	_	_	_	_	Seg=O
@@ -53862,7 +53862,7 @@
 195	referents	_	_	_	_	_	_	_	Seg=O
 196	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1005
+# newdoc id = P86-1005
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	discuss	_	_	_	_	_	_	_	Seg=O
 3	ways	_	_	_	_	_	_	_	Seg=O
@@ -54008,7 +54008,7 @@
 143	formalisms	_	_	_	_	_	_	_	Seg=O
 144	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1006
+# newdoc id = P86-1006
 1	An	_	_	_	_	_	_	_	Seg=B-seg
 2	important	_	_	_	_	_	_	_	Seg=O
 3	goal	_	_	_	_	_	_	_	Seg=O
@@ -54174,7 +54174,7 @@
 163	GPSG	_	_	_	_	_	_	_	Seg=O
 164	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1008
+# newdoc id = P86-1008
 1	Taken	_	_	_	_	_	_	_	Seg=B-seg
 2	abstractly	_	_	_	_	_	_	_	Seg=O
 3	,	_	_	_	_	_	_	_	Seg=O
@@ -54398,7 +54398,7 @@
 221	problems	_	_	_	_	_	_	_	Seg=O
 222	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1009
+# newdoc id = P86-1009
 1	Morphological	_	_	_	_	_	_	_	Seg=B-seg
 2	analysis	_	_	_	_	_	_	_	Seg=O
 3	must	_	_	_	_	_	_	_	Seg=O
@@ -54515,7 +54515,7 @@
 114	allowed	_	_	_	_	_	_	_	Seg=O
 115	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1010
+# newdoc id = P86-1010
 1	Free-word	_	_	_	_	_	_	_	Seg=B-seg
 2	order	_	_	_	_	_	_	_	Seg=O
 3	languages	_	_	_	_	_	_	_	Seg=O
@@ -54688,7 +54688,7 @@
 170	Warlpiri	_	_	_	_	_	_	_	Seg=O
 171	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1011
+# newdoc id = P86-1011
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	examine	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -54733,7 +54733,7 @@
 42	formalisms	_	_	_	_	_	_	_	Seg=O
 43	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1012
+# newdoc id = P86-1012
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	study	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -54824,7 +54824,7 @@
 88	formalisms	_	_	_	_	_	_	_	Seg=O
 89	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1013
+# newdoc id = P86-1013
 1	Conjunctions	_	_	_	_	_	_	_	Seg=B-seg
 2	have	_	_	_	_	_	_	_	Seg=O
 3	always	_	_	_	_	_	_	_	Seg=O
@@ -54899,7 +54899,7 @@
 72	given	_	_	_	_	_	_	_	Seg=O
 73	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1014
+# newdoc id = P86-1014
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	documentation	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -55117,7 +55117,7 @@
 215	discussed	_	_	_	_	_	_	_	Seg=O
 216	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1015
+# newdoc id = P86-1015
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	outline	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -55271,7 +55271,7 @@
 151	)	_	_	_	_	_	_	_	Seg=O
 152	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1016
+# newdoc id = P86-1016
 1	As	_	_	_	_	_	_	_	Seg=B-seg
 2	a	_	_	_	_	_	_	_	Seg=O
 3	user	_	_	_	_	_	_	_	Seg=O
@@ -55377,7 +55377,7 @@
 103	discourse	_	_	_	_	_	_	_	Seg=O
 104	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1017
+# newdoc id = P86-1017
 1	Here	_	_	_	_	_	_	_	Seg=B-seg
 2	we	_	_	_	_	_	_	_	Seg=O
 3	address	_	_	_	_	_	_	_	Seg=O
@@ -55482,7 +55482,7 @@
 102	parsing	_	_	_	_	_	_	_	Seg=O
 103	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1018
+# newdoc id = P86-1018
 1	Natural	_	_	_	_	_	_	_	Seg=B-seg
 2	language	_	_	_	_	_	_	_	Seg=O
 3	processing	_	_	_	_	_	_	_	Seg=O
@@ -55586,7 +55586,7 @@
 100	adjectives	_	_	_	_	_	_	_	Seg=O
 101	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1020
+# newdoc id = P86-1020
 1	Dictionary	_	_	_	_	_	_	_	Seg=B-seg
 2	lookup	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -55654,7 +55654,7 @@
 65	Machine	_	_	_	_	_	_	_	Seg=O
 66	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1021
+# newdoc id = P86-1021
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -55777,7 +55777,7 @@
 120	speech	_	_	_	_	_	_	_	Seg=O
 121	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1022
+# newdoc id = P86-1022
 1	While	_	_	_	_	_	_	_	Seg=B-seg
 2	various	_	_	_	_	_	_	_	Seg=O
 3	aspects	_	_	_	_	_	_	_	Seg=O
@@ -55928,7 +55928,7 @@
 148	rate	_	_	_	_	_	_	_	Seg=O
 149	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1024
+# newdoc id = P86-1024
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	following	_	_	_	_	_	_	_	Seg=O
 3	proposal	_	_	_	_	_	_	_	Seg=O
@@ -56117,7 +56117,7 @@
 186	sentences	_	_	_	_	_	_	_	Seg=O
 187	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1025
+# newdoc id = P86-1025
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	computer	_	_	_	_	_	_	_	Seg=O
 3	program	_	_	_	_	_	_	_	Seg=O
@@ -56254,7 +56254,7 @@
 134	described	_	_	_	_	_	_	_	Seg=O
 135	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1029
+# newdoc id = P86-1029
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -56361,7 +56361,7 @@
 102	described	_	_	_	_	_	_	_	Seg=O
 103	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1030
+# newdoc id = P86-1030
 1	Ambiguities	_	_	_	_	_	_	_	Seg=B-seg
 2	related	_	_	_	_	_	_	_	Seg=B-seg
 3	to	_	_	_	_	_	_	_	Seg=O
@@ -56518,7 +56518,7 @@
 154	contexts	_	_	_	_	_	_	_	Seg=O
 155	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1031
+# newdoc id = P86-1031
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	constraint	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -56739,7 +56739,7 @@
 217	framework	_	_	_	_	_	_	_	Seg=O
 218	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1032
+# newdoc id = P86-1032
 1	Existing	_	_	_	_	_	_	_	Seg=B-seg
 2	models	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -56952,7 +56952,7 @@
 210	mail	_	_	_	_	_	_	_	Seg=O
 211	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1033
+# newdoc id = P86-1033
 1	To	_	_	_	_	_	_	_	Seg=B-seg
 2	fully	_	_	_	_	_	_	_	Seg=O
 3	understand	_	_	_	_	_	_	_	Seg=O
@@ -57075,7 +57075,7 @@
 120	provided	_	_	_	_	_	_	_	Seg=O
 121	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1034
+# newdoc id = P86-1034
 1	Novice	_	_	_	_	_	_	_	Seg=B-seg
 2	users	_	_	_	_	_	_	_	Seg=O
 3	engaged	_	_	_	_	_	_	_	Seg=O
@@ -57295,7 +57295,7 @@
 217	functions	_	_	_	_	_	_	_	Seg=O
 218	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1036
+# newdoc id = P86-1036
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	new	_	_	_	_	_	_	_	Seg=O
 3	method	_	_	_	_	_	_	_	Seg=O
@@ -57382,7 +57382,7 @@
 84	problem	_	_	_	_	_	_	_	Seg=O
 85	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1037
+# newdoc id = P86-1037
 1	Consideration	_	_	_	_	_	_	_	Seg=B-seg
 2	of	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -57640,7 +57640,7 @@
 255	direct	_	_	_	_	_	_	_	Seg=O
 256	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P86-1038
+# newdoc id = P86-1038
 1	Unification-based	_	_	_	_	_	_	_	Seg=B-seg
 2	grammar	_	_	_	_	_	_	_	Seg=O
 3	formalisms	_	_	_	_	_	_	_	Seg=O
@@ -57877,7 +57877,7 @@
 234	form	_	_	_	_	_	_	_	Seg=O
 235	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1001
+# newdoc id = P96-1001
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -57949,7 +57949,7 @@
 68	for	_	_	_	_	_	_	_	Seg=O
 69	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1002
+# newdoc id = P96-1002
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	natural	_	_	_	_	_	_	_	Seg=O
 3	next	_	_	_	_	_	_	_	Seg=O
@@ -58118,7 +58118,7 @@
 166	GB	_	_	_	_	_	_	_	Seg=O
 167	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1003
+# newdoc id = P96-1003
 1	Information	_	_	_	_	_	_	_	Seg=B-seg
 2	retrieval	_	_	_	_	_	_	_	Seg=O
 3	is	_	_	_	_	_	_	_	Seg=O
@@ -58240,7 +58240,7 @@
 119	extraction	_	_	_	_	_	_	_	Seg=O
 120	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1004
+# newdoc id = P96-1004
 1	Most	_	_	_	_	_	_	_	Seg=B-seg
 2	natural	_	_	_	_	_	_	_	Seg=O
 3	language	_	_	_	_	_	_	_	Seg=O
@@ -58316,7 +58316,7 @@
 73	available	_	_	_	_	_	_	_	Seg=O
 74	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1005
+# newdoc id = P96-1005
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	deals	_	_	_	_	_	_	_	Seg=O
@@ -58434,7 +58434,7 @@
 115	issue	_	_	_	_	_	_	_	Seg=O
 116	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1006
+# newdoc id = P96-1006
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -58567,7 +58567,7 @@
 130	WoRDNET	_	_	_	_	_	_	_	Seg=O
 131	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1007
+# newdoc id = P96-1007
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -58689,7 +58689,7 @@
 119	structured	_	_	_	_	_	_	_	Seg=O
 120	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1008
+# newdoc id = P96-1008
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -58755,7 +58755,7 @@
 63	frames	_	_	_	_	_	_	_	Seg=O
 64	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1009
+# newdoc id = P96-1009
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	describes	_	_	_	_	_	_	_	Seg=O
@@ -58856,7 +58856,7 @@
 98	training	_	_	_	_	_	_	_	Seg=O
 99	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1010
+# newdoc id = P96-1010
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	addresses	_	_	_	_	_	_	_	Seg=O
@@ -59062,7 +59062,7 @@
 203	performance	_	_	_	_	_	_	_	Seg=O
 204	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1011
+# newdoc id = P96-1011
 1	Under	_	_	_	_	_	_	_	Seg=B-seg
 2	categorial	_	_	_	_	_	_	_	Seg=O
 3	grammars	_	_	_	_	_	_	_	Seg=O
@@ -59169,7 +59169,7 @@
 104	eliminated	_	_	_	_	_	_	_	Seg=O
 105	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1012
+# newdoc id = P96-1012
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -59317,7 +59317,7 @@
 145	computations	_	_	_	_	_	_	_	Seg=O
 146	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1013
+# newdoc id = P96-1013
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	study	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -59407,7 +59407,7 @@
 86	problem	_	_	_	_	_	_	_	Seg=O
 87	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1014
+# newdoc id = P96-1014
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	describes	_	_	_	_	_	_	_	Seg=O
@@ -59509,7 +59509,7 @@
 98	locality	_	_	_	_	_	_	_	Seg=O
 99	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1015
+# newdoc id = P96-1015
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	introduces	_	_	_	_	_	_	_	Seg=O
@@ -59687,7 +59687,7 @@
 175	streams	_	_	_	_	_	_	_	Seg=O
 176	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1016
+# newdoc id = P96-1016
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	synchronous	_	_	_	_	_	_	_	Seg=O
 3	rewriting	_	_	_	_	_	_	_	Seg=O
@@ -59748,7 +59748,7 @@
 58	system	_	_	_	_	_	_	_	Seg=O
 59	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1017
+# newdoc id = P96-1017
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -59878,7 +59878,7 @@
 127	extended	_	_	_	_	_	_	_	Seg=O
 128	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1018
+# newdoc id = P96-1018
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	describes	_	_	_	_	_	_	_	Seg=O
@@ -60036,7 +60036,7 @@
 155	texts	_	_	_	_	_	_	_	Seg=O
 156	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1019
+# newdoc id = P96-1019
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -60214,7 +60214,7 @@
 175	corpus	_	_	_	_	_	_	_	Seg=O
 176	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1020
+# newdoc id = P96-1020
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	proposes	_	_	_	_	_	_	_	Seg=O
@@ -60302,7 +60302,7 @@
 85	requirements	_	_	_	_	_	_	_	Seg=O
 86	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1021
+# newdoc id = P96-1021
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	introduce	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -60382,7 +60382,7 @@
 77	accuracy	_	_	_	_	_	_	_	Seg=O
 78	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1022
+# newdoc id = P96-1022
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -60433,7 +60433,7 @@
 48	Syriac	_	_	_	_	_	_	_	Seg=O
 49	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1023
+# newdoc id = P96-1023
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -60538,7 +60538,7 @@
 102	translation	_	_	_	_	_	_	_	Seg=O
 103	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1024
+# newdoc id = P96-1024
 1	Many	_	_	_	_	_	_	_	Seg=B-seg
 2	different	_	_	_	_	_	_	_	Seg=O
 3	metrics	_	_	_	_	_	_	_	Seg=O
@@ -60675,7 +60675,7 @@
 134	optimize	_	_	_	_	_	_	_	Seg=O
 135	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1025
+# newdoc id = P96-1025
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	describes	_	_	_	_	_	_	_	Seg=O
@@ -60795,7 +60795,7 @@
 117	accuracy	_	_	_	_	_	_	_	Seg=O
 118	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1027
+# newdoc id = P96-1027
 1	Charts	_	_	_	_	_	_	_	Seg=B-seg
 2	constitute	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -60834,7 +60834,7 @@
 36	phrases	_	_	_	_	_	_	_	Seg=O
 37	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1028
+# newdoc id = P96-1028
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -60927,7 +60927,7 @@
 90	portable	_	_	_	_	_	_	_	Seg=O
 91	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1029
+# newdoc id = P96-1029
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	report	_	_	_	_	_	_	_	Seg=O
 3	on	_	_	_	_	_	_	_	Seg=O
@@ -61035,7 +61035,7 @@
 105	)	_	_	_	_	_	_	_	Seg=O
 106	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1030
+# newdoc id = P96-1030
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	show	_	_	_	_	_	_	_	Seg=O
 3	how	_	_	_	_	_	_	_	Seg=B-seg
@@ -61131,7 +61131,7 @@
 93	application	_	_	_	_	_	_	_	Seg=O
 94	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1031
+# newdoc id = P96-1031
 1	Context-dependent	_	_	_	_	_	_	_	Seg=B-seg
 2	rewrite	_	_	_	_	_	_	_	Seg=O
 3	rules	_	_	_	_	_	_	_	Seg=O
@@ -61234,7 +61234,7 @@
 100	this	_	_	_	_	_	_	_	Seg=O
 101	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1032
+# newdoc id = P96-1032
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	give	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -61311,7 +61311,7 @@
 73	reduced	_	_	_	_	_	_	_	Seg=O
 74	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1033
+# newdoc id = P96-1033
 1	Off-line	_	_	_	_	_	_	_	Seg=B-seg
 2	compilation	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -61380,7 +61380,7 @@
 66	interest	_	_	_	_	_	_	_	Seg=O
 67	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1034
+# newdoc id = P96-1034
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	transformation-based	_	_	_	_	_	_	_	Seg=O
 3	parsing	_	_	_	_	_	_	_	Seg=O
@@ -61450,7 +61450,7 @@
 67	algorithm	_	_	_	_	_	_	_	Seg=O
 68	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1035
+# newdoc id = P96-1035
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	propose	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -61531,7 +61531,7 @@
 77	given	_	_	_	_	_	_	_	Seg=O
 78	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1036
+# newdoc id = P96-1036
 1	Based	_	_	_	_	_	_	_	Seg=B-seg
 2	on	_	_	_	_	_	_	_	Seg=O
 3	empirical	_	_	_	_	_	_	_	Seg=O
@@ -61613,7 +61613,7 @@
 79	centering	_	_	_	_	_	_	_	Seg=O
 80	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1037
+# newdoc id = P96-1037
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -61657,7 +61657,7 @@
 41	simulation	_	_	_	_	_	_	_	Seg=O
 42	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1039
+# newdoc id = P96-1039
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -61739,7 +61739,7 @@
 79	distinctions	_	_	_	_	_	_	_	Seg=O
 80	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1041
+# newdoc id = P96-1041
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	present	_	_	_	_	_	_	_	Seg=O
 3	an	_	_	_	_	_	_	_	Seg=O
@@ -61865,7 +61865,7 @@
 123	methods	_	_	_	_	_	_	_	Seg=O
 124	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1042
+# newdoc id = P96-1042
 1	Corpus-based	_	_	_	_	_	_	_	Seg=B-seg
 2	methods	_	_	_	_	_	_	_	Seg=O
 3	for	_	_	_	_	_	_	_	Seg=O
@@ -62035,7 +62035,7 @@
 167	tagger	_	_	_	_	_	_	_	Seg=O
 168	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1043
+# newdoc id = P96-1043
 1	Words	_	_	_	_	_	_	_	Seg=B-seg
 2	unknown	_	_	_	_	_	_	_	Seg=O
 3	to	_	_	_	_	_	_	_	Seg=O
@@ -62125,7 +62125,7 @@
 87	state-of-the-art	_	_	_	_	_	_	_	Seg=O
 88	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1044
+# newdoc id = P96-1044
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	discusses	_	_	_	_	_	_	_	Seg=O
@@ -62214,7 +62214,7 @@
 86	meaning	_	_	_	_	_	_	_	Seg=O
 87	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1045
+# newdoc id = P96-1045
 1	Lexicalized	_	_	_	_	_	_	_	Seg=B-seg
 2	Tree	_	_	_	_	_	_	_	Seg=O
 3	Adjoining	_	_	_	_	_	_	_	Seg=O
@@ -62285,7 +62285,7 @@
 68	phenomena	_	_	_	_	_	_	_	Seg=O
 69	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1046
+# newdoc id = P96-1046
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	describes	_	_	_	_	_	_	_	Seg=O
@@ -62504,7 +62504,7 @@
 216	%	_	_	_	_	_	_	_	Seg=O
 217	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1047
+# newdoc id = P96-1047
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	stems	_	_	_	_	_	_	_	Seg=O
@@ -62615,7 +62615,7 @@
 107	antecedent	_	_	_	_	_	_	_	Seg=O
 108	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1048
+# newdoc id = P96-1048
 1	In	_	_	_	_	_	_	_	Seg=B-seg
 2	this	_	_	_	_	_	_	_	Seg=O
 3	paper	_	_	_	_	_	_	_	Seg=O
@@ -62740,7 +62740,7 @@
 122	evaluations	_	_	_	_	_	_	_	Seg=O
 123	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1049
+# newdoc id = P96-1049
 1	Optimality	_	_	_	_	_	_	_	Seg=B-seg
 2	Theory	_	_	_	_	_	_	_	Seg=O
 3	,	_	_	_	_	_	_	_	Seg=O
@@ -62801,7 +62801,7 @@
 58	forms	_	_	_	_	_	_	_	Seg=O
 59	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1050
+# newdoc id = P96-1050
 1	The	_	_	_	_	_	_	_	Seg=B-seg
 2	development	_	_	_	_	_	_	_	Seg=O
 3	of	_	_	_	_	_	_	_	Seg=O
@@ -62894,7 +62894,7 @@
 90	automation	_	_	_	_	_	_	_	Seg=O
 91	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1051
+# newdoc id = P96-1051
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	presents	_	_	_	_	_	_	_	Seg=O
@@ -62947,7 +62947,7 @@
 50	structures	_	_	_	_	_	_	_	Seg=O
 51	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1052
+# newdoc id = P96-1052
 1	Little	_	_	_	_	_	_	_	Seg=B-seg
 2	work	_	_	_	_	_	_	_	Seg=O
 3	has	_	_	_	_	_	_	_	Seg=O
@@ -63049,7 +63049,7 @@
 99	work	_	_	_	_	_	_	_	Seg=O
 100	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1053
+# newdoc id = P96-1053
 1	I	_	_	_	_	_	_	_	Seg=B-seg
 2	examine	_	_	_	_	_	_	_	Seg=O
 3	how	_	_	_	_	_	_	_	Seg=O
@@ -63120,7 +63120,7 @@
 67	behavior	_	_	_	_	_	_	_	Seg=O
 68	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1054
+# newdoc id = P96-1054
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	describes	_	_	_	_	_	_	_	Seg=O
@@ -63183,7 +63183,7 @@
 60	experiments	_	_	_	_	_	_	_	Seg=O
 61	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1055
+# newdoc id = P96-1055
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	use	_	_	_	_	_	_	_	Seg=O
 3	a	_	_	_	_	_	_	_	Seg=O
@@ -63255,7 +63255,7 @@
 69	highest	_	_	_	_	_	_	_	Seg=O
 70	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1056
+# newdoc id = P96-1056
 1	This	_	_	_	_	_	_	_	Seg=B-seg
 2	paper	_	_	_	_	_	_	_	Seg=O
 3	describes	_	_	_	_	_	_	_	Seg=O
@@ -63345,7 +63345,7 @@
 87	far	_	_	_	_	_	_	_	Seg=O
 88	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1057
+# newdoc id = P96-1057
 1	We	_	_	_	_	_	_	_	Seg=B-seg
 2	extend	_	_	_	_	_	_	_	Seg=O
 3	the	_	_	_	_	_	_	_	Seg=O
@@ -63385,7 +63385,7 @@
 37	sentence	_	_	_	_	_	_	_	Seg=O
 38	.	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = P96-1058
+# newdoc id = P96-1058
 1	A	_	_	_	_	_	_	_	Seg=B-seg
 2	left-corner	_	_	_	_	_	_	_	Seg=O
 3	parsing	_	_	_	_	_	_	_	Seg=O

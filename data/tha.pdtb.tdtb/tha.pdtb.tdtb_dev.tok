@@ -1,4 +1,4 @@
-# newdoc_id = T00245.tsv
+# newdoc id = T00245.tsv
 1	พี่	_	_	_	_	_	_	_	Conn=O
 2	สาว	_	_	_	_	_	_	_	Conn=O
 3	ร.ท.	_	_	_	_	_	_	_	Conn=O
@@ -3173,7 +3173,7 @@
 3172	พล.ต.	_	_	_	_	_	_	_	Conn=O
 3173	ขัตติยะ	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T00252.tsv
+# newdoc id = T00252.tsv
 1	โจร	_	_	_	_	_	_	_	Conn=O
 2	รัว	_	_	_	_	_	_	_	Conn=O
 3	ยิง	_	_	_	_	_	_	_	Conn=O
@@ -4520,7 +4520,7 @@
 1344	เป็น	_	_	_	_	_	_	_	Conn=O
 1345	ได้	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T00350.tsv
+# newdoc id = T00350.tsv
 1	ออก	_	_	_	_	_	_	_	Conn=O
 2	9	_	_	_	_	_	_	_	Conn=O
 3	กฎ	_	_	_	_	_	_	_	Conn=O
@@ -6015,7 +6015,7 @@
 1492	ละ	_	_	_	_	_	_	_	Conn=O
 1493	10-5	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T00491.tsv
+# newdoc id = T00491.tsv
 1	อัด	_	_	_	_	_	_	_	Conn=O
 2	ทักษิณ	_	_	_	_	_	_	_	Conn=O
 3	"	_	_	_	_	_	_	_	Conn=O
@@ -6970,7 +6970,7 @@
 952	ดี	_	_	_	_	_	_	_	Conn=O
 953	กว่า	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T00661.tsv
+# newdoc id = T00661.tsv
 1	ส่ง	_	_	_	_	_	_	_	Conn=O
 2	สัญญาณ	_	_	_	_	_	_	_	Conn=O
 3	ขึ้น	_	_	_	_	_	_	_	Conn=O
@@ -7217,7 +7217,7 @@
 244	หมื่น	_	_	_	_	_	_	_	Conn=O
 245	คัน	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T00784.tsv
+# newdoc id = T00784.tsv
 1	จ่า	_	_	_	_	_	_	_	Conn=O
 2	ยักษ์	_	_	_	_	_	_	_	Conn=O
 3	ซัด	_	_	_	_	_	_	_	Conn=O
@@ -10243,7 +10243,7 @@
 3023	ก็	_	_	_	_	_	_	_	Conn=B-conn
 3024	อันตราย	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T00794.tsv
+# newdoc id = T00794.tsv
 1	รวบ	_	_	_	_	_	_	_	Conn=O
 2	มือ	_	_	_	_	_	_	_	Conn=O
 3	ปล้น	_	_	_	_	_	_	_	Conn=O
@@ -11148,7 +11148,7 @@
 902	ภาค	_	_	_	_	_	_	_	Conn=O
 903	1	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T00800.tsv
+# newdoc id = T00800.tsv
 1	"	_	_	_	_	_	_	_	Conn=O
 2	สิทธิชัย	_	_	_	_	_	_	_	Conn=O
 3	อ้าง	_	_	_	_	_	_	_	Conn=O
@@ -12347,7 +12347,7 @@
 1196	มี	_	_	_	_	_	_	_	Conn=O
 1197	ความหมาย	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T00883.tsv
+# newdoc id = T00883.tsv
 1	ระยอง	_	_	_	_	_	_	_	Conn=O
 2	เสี่ยง	_	_	_	_	_	_	_	Conn=O
 3	ดิน	_	_	_	_	_	_	_	Conn=O
@@ -14250,7 +14250,7 @@
 1900	ตลอด	_	_	_	_	_	_	_	Conn=O
 1901	เวลา	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T00887.tsv
+# newdoc id = T00887.tsv
 1	สหรัฐ	_	_	_	_	_	_	_	Conn=O
 2	เรียกร้อง	_	_	_	_	_	_	_	Conn=O
 3	ตาลิบัน	_	_	_	_	_	_	_	Conn=O
@@ -15719,7 +15719,7 @@
 1466	ตุรกี	_	_	_	_	_	_	_	Conn=O
 1467	ด้วย	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T00981.tsv
+# newdoc id = T00981.tsv
 1	วัง	_	_	_	_	_	_	_	Conn=O
 2	ช้าง	_	_	_	_	_	_	_	Conn=O
 3	อยุธยา	_	_	_	_	_	_	_	Conn=O
@@ -17187,7 +17187,7 @@
 1465	อาการ	_	_	_	_	_	_	_	Conn=O
 1466	ต่อไป	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T01341.tsv
+# newdoc id = T01341.tsv
 1	อีสานพัฒนา	_	_	_	_	_	_	_	Conn=O
 2	ลั่น	_	_	_	_	_	_	_	Conn=O
 3	ไม่	_	_	_	_	_	_	_	Conn=O
@@ -18599,7 +18599,7 @@
 1409	ได้	_	_	_	_	_	_	_	Conn=O
 1410	พิจารณา	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T01365.tsv
+# newdoc id = T01365.tsv
 1	เลห์แมน	_	_	_	_	_	_	_	Conn=O
 2	ล้มละลาย	_	_	_	_	_	_	_	Conn=O
 3	ลูกค้า	_	_	_	_	_	_	_	Conn=O
@@ -20182,7 +20182,7 @@
 1580	ได้	_	_	_	_	_	_	_	Conn=O
 1581	ยาก	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T01388.tsv
+# newdoc id = T01388.tsv
 1	ก๊วน	_	_	_	_	_	_	_	Conn=O
 2	เนวิน	_	_	_	_	_	_	_	Conn=O
 3	แหก	_	_	_	_	_	_	_	Conn=O
@@ -24038,7 +24038,7 @@
 3853	ใช่	_	_	_	_	_	_	_	Conn=O
 3854	ทหาร	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T01448.tsv
+# newdoc id = T01448.tsv
 1	สถาน	_	_	_	_	_	_	_	Conn=O
 2	ศึกษา	_	_	_	_	_	_	_	Conn=O
 3	เปิด	_	_	_	_	_	_	_	Conn=O
@@ -24294,7 +24294,7 @@
 253	รุนแรง	_	_	_	_	_	_	_	Conn=O
 254	อะไร	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T01487.tsv
+# newdoc id = T01487.tsv
 1	อดีต	_	_	_	_	_	_	_	Conn=O
 2	ลูกหนี้	_	_	_	_	_	_	_	Conn=O
 3	ไฟแนนซ์	_	_	_	_	_	_	_	Conn=O
@@ -24792,7 +24792,7 @@
 495	บาท	_	_	_	_	_	_	_	Conn=O
 496	เท่านั้น	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T01524.tsv
+# newdoc id = T01524.tsv
 1	สวช.	_	_	_	_	_	_	_	Conn=O
 2	พบ	_	_	_	_	_	_	_	Conn=O
 3	6	_	_	_	_	_	_	_	Conn=O
@@ -25795,7 +25795,7 @@
 1000	ละ	_	_	_	_	_	_	_	Conn=O
 1001	52.97	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T01603.tsv
+# newdoc id = T01603.tsv
 1	อภิสิทธิ์	_	_	_	_	_	_	_	Conn=O
 2	วอน	_	_	_	_	_	_	_	Conn=O
 3	อย่า	_	_	_	_	_	_	_	Conn=O
@@ -26580,7 +26580,7 @@
 782	ให้	_	_	_	_	_	_	_	Conn=O
 783	กทม.	_	_	_	_	_	_	_	Conn=O
 
-# newdoc_id = T01611.tsv
+# newdoc id = T01611.tsv
 1	"	_	_	_	_	_	_	_	Conn=O
 2	คลิป	_	_	_	_	_	_	_	Conn=O
 3	ตบ	_	_	_	_	_	_	_	Conn=O

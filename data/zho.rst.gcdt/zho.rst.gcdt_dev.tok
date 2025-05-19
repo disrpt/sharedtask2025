@@ -1,4 +1,4 @@
-# newdoc_id = gcdt_academic_peoples
+# newdoc id = gcdt_academic_peoples
 1	疫情	_	_	_	_	_	_	_	Seg=B-seg
 2	期间	_	_	_	_	_	_	_	Seg=O
 3	主流	_	_	_	_	_	_	_	Seg=O
@@ -1519,7 +1519,7 @@
 1518	效果	_	_	_	_	_	_	_	Seg=O
 1519	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_bio_byron
+# newdoc id = gcdt_bio_byron
 1	拜伦	_	_	_	_	_	_	_	Seg=B-seg
 2	勋爵	_	_	_	_	_	_	_	Seg=O
 3	乔治·戈登·拜伦	_	_	_	_	_	_	_	Seg=B-seg
@@ -3422,7 +3422,7 @@
 1900	-RSB-	_	_	_	_	_	_	_	Seg=O
 1901	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_interview_ward
+# newdoc id = gcdt_interview_ward
 1	史提芬·沃德	_	_	_	_	_	_	_	Seg=B-seg
 2	：	_	_	_	_	_	_	_	Seg=O
 3	人们	_	_	_	_	_	_	_	Seg=B-seg
@@ -4704,7 +4704,7 @@
 1279	次数	_	_	_	_	_	_	_	Seg=O
 1280	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_news_famine
+# newdoc id = gcdt_news_famine
 1	十月	_	_	_	_	_	_	_	Seg=B-seg
 2	革命	_	_	_	_	_	_	_	Seg=O
 3	百	_	_	_	_	_	_	_	Seg=O
@@ -5881,7 +5881,7 @@
 1174	大	_	_	_	_	_	_	_	Seg=O
 1175	。	_	_	_	_	_	_	_	Seg=O
 
-# newdoc_id = gcdt_whow_hiking
+# newdoc id = gcdt_whow_hiking
 1	如何	_	_	_	_	_	_	_	Seg=B-seg
 2	徒步	_	_	_	_	_	_	_	Seg=O
 3	旅行	_	_	_	_	_	_	_	Seg=O

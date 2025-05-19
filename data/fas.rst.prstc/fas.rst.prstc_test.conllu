@@ -1,4 +1,4 @@
-# newdoc_id = etemad007
+# newdoc id = etemad007
 # sent_id = etemad007-1
 # text = تسلط اقتدار مردانه در فضای آموزش عالی کشور یک واقعیت انکارناپذیر است .
 1	تسلط	تسلط	NOUN	N_SING	Number=Sing	10	nsubj	_	Seg=B-seg
@@ -555,7 +555,7 @@
 29	دارد	داشت#دار	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	Seg=O
 30	.	.	PUNCT	DELM	_	29	punct	_	Seg=O
 
-# newdoc_id = etemad008
+# newdoc id = etemad008
 # sent_id = etemad008-1
 # text = دستگیری کارگران شرکت نیشکر هفتتپه که به دعوت کمیسیون اجتماعی مجلس در راه تهران بودند ؛ اتفاق ناگواری بود و لازم است مجلس برای دفاع از شان خودش هم که شده این موضوع را پیگیری کند .
 1	دستگیری	دستگیری	NOUN	N_SING	Number=Sing	17	nsubj	_	Seg=B-seg
@@ -1145,7 +1145,7 @@
 22	بیاید	آمد#آ	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	Seg=O
 23	.	.	PUNCT	DELM	_	22	punct	_	Seg=O
 
-# newdoc_id = etemad009
+# newdoc id = etemad009
 # sent_id = etemad009-1
 # text = نرخ ارز در چهار دهه گذشته ، افزایش مستمری را تجربه کرده است که میتوان آن را به تورمهای بالا و کاهش ظرفیت ارزآوری اقتصاد نسبت داد .
 1	نرخ	نرخ	NOUN	N_SING	Number=Sing	12	nsubj	_	Seg=B-seg
@@ -1576,7 +1576,7 @@
 18	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	17	aux	_	Seg=O
 19	.	.	PUNCT	DELM	_	16	punct	_	Seg=O
 
-# newdoc_id = etemad023
+# newdoc id = etemad023
 # sent_id = etemad023-1
 # text = استانهای مرزی در شرق و غرب کشور از توسعه نیافتهترین مناطق ایران به شمار میروند .
 1	استانهای	استان	NOUN	N_PL	Number=Plur	15	nsubj	_	Seg=B-seg
@@ -2224,7 +2224,7 @@
 37	شود	کرد#کن	AUX	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	36	cop	_	Seg=O
 38	.	.	PUNCT	DELM	_	15	punct	_	Seg=O
 
-# newdoc_id = etemad024
+# newdoc id = etemad024
 # sent_id = etemad024-1
 # text = تاثیرات حضور کیروش در ایران زیاد مثبت نبود .
 1	تاثیرات	تاثیر	NOUN	N_PL	Number=Plur	7	nsubj	_	Seg=B-seg
@@ -2943,7 +2943,7 @@
 23	برگردند	_	VERB	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	19	conj	_	Seg=O
 24	.	.	PUNCT	DELM	_	4	punct	_	Seg=O
 
-# newdoc_id = etemad027
+# newdoc id = etemad027
 # sent_id = etemad027-1
 # text = امروز در کشور دو طیف موافق و مخالف افزایش قیمت بنزین مقابل یکدیگر صف آرایی کردهاند .
 1	امروز	امروز	ADV	ADV_TIME	Case=Tem	16	advmod	_	Seg=B-seg
@@ -3491,7 +3491,7 @@
 35	است	است	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	34	aux	_	Seg=O
 36	.	.	PUNCT	DELM	_	9	punct	_	Seg=O
 
-# newdoc_id = etemad029
+# newdoc id = etemad029
 # sent_id = etemad029-1
 # text = سال ١۳۵۶ وقتی فیلم « شازده احتجاب » به کارگردانی بهمن فرمان آرا اکران شد ، برای اولین بار موسیقی فیلمی از احمد پژمان شنیدم : موسیقی تاثیرگذار ، همگن با تصویر و خلاقانه ای که از همان ابتدا آهنگسازش را در این حوزه مطرح میکرد .
 1	سال	سال	NOUN	N_SING	Number=Sing	25	advmod	_	Seg=B-seg
@@ -3771,7 +3771,7 @@
 41	است	است	AUX	V_PRS	Number=Sing|Person=3|Tense=Pres	40	cop	_	Seg=O
 42	.	.	PUNCT	DELM	_	18	punct	_	Seg=O
 
-# newdoc_id = etemad036
+# newdoc id = etemad036
 # sent_id = etemad036-1
 # text = منطق پرداخت یارانه ، جبران کسری درآمد گروههایی است که یا فقیرند یا آسیب پذیر و در آستانه فقر .
 1	منطق	منطق	NOUN	N_SING	Number=Sing	7	nsubj	_	Seg=B-seg
@@ -4637,7 +4637,7 @@
 15	داد	داد#ده	VERB	V_PA	Number=Sing|Person=3|Tense=Past	8	conj	_	Seg=O
 16	.	.	PUNCT	DELM	_	8	punct	_	Seg=O
 
-# newdoc_id = etemad056
+# newdoc id = etemad056
 # sent_id = etemad056-1
 # text = اروپا به آنچه از آن نگران بود مبتلا شده است .
 1	اروپا	اروپا	NOUN	N_SING	Number=Sing	8	nsubj	_	Seg=B-seg
@@ -5493,7 +5493,7 @@
 28	باشند	بود#باش	VERB	V_SUB	Mood=Sub|Number=Plur|Person=3|Tense=Pres	27	aux	_	Seg=O
 29	.	.	PUNCT	DELM	_	12	punct	_	Seg=O
 
-# newdoc_id = etemad058
+# newdoc id = etemad058
 # sent_id = etemad058-1
 # text = دریاخواری ، واژهای جدید است که مدیرکل دفتر بازرسی سازمان محیط زیست از آن سخن میگوید ، واژهای هم ردیف زمینخواری که اینبار ، دریاخواران با برهم زدن اکوسیستم دریا ، از زمینهای دریایی استفاده میکنند و با ورود به حریم آبها ، محیط زیست دریایی را به خطر میاندازند .
 1	دریاخواری	دریاخواری	NOUN	N_SING	Number=Sing	3	nsubj	_	Seg=B-seg
@@ -6132,7 +6132,7 @@
 19	.	.	PUNCT	DELM	_	2	punct	_	Seg=O
 20	»	»	PUNCT	DELM	_	2	punct	_	Seg=O
 
-# newdoc_id = etemad060
+# newdoc id = etemad060
 # sent_id = etemad060-1
 # text = در بیان ضرورت شفافیت و صداقت مسوولان با مردم ، خاصه در این روزها ذکر دو مقدمه ضروری است .
 1	در	در	ADP	P	_	2	case	_	Seg=B-seg
@@ -6877,7 +6877,7 @@
 32	نیست	هست	AUX	V_PRS	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	16	cop	_	Seg=O
 33	.	.	PUNCT	DELM	_	7	punct	_	Seg=O
 
-# newdoc_id = meidan002
+# newdoc id = meidan002
 # sent_id = meidan002-1
 # text = بهدنبال شیوع گسترده ویروس کرونا میزان فروش کتاب « طاعون » آلبر کامو در کشورهای فرانسه و ایتالیا به طور قابلتوجهی افزایش پیدا کرد .
 1	بهدنبال	بهدنبال	ADJ	ADJ	Degree=Pos	2	amod	_	Seg=B-seg
@@ -7171,7 +7171,7 @@
 25	پیدا	پیدا	ADJ	ADJ	Degree=Pos	4	ccomp	_	Seg=O
 26	میکند	دید#کن	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	25	fixed	_	Seg=O
 
-# newdoc_id = meidan010
+# newdoc id = meidan010
 # sent_id = meidan010-1
 # text = ناهید خداکرمی عضو شورای شهر تهران میگوید شهرداری تهران تصمیم گرفته همچون سالهای گذشته ، امسال نیز در ایام محرم نمایشگاه « عطر سیب » را برگزار کند .
 1	ناهید	ناهید	NOUN	N_SING	Number=Sing	7	nsubj	_	Seg=B-seg
@@ -7462,7 +7462,7 @@
 19	دارد	داشت#دار	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	Seg=O
 20	.	.	PUNCT	DELM	_	19	punct	_	Seg=O
 
-# newdoc_id = meidan048
+# newdoc id = meidan048
 # sent_id = meidan048-1
 # text = دلیل تاخیر صدور کارت ملی هوشمند وارداتی بودن بدنه کارت ملی است .
 1	دلیل	دلیل	NOUN	N_SING	Number=Sing	8	nsubj	_	Seg=B-seg
@@ -7641,7 +7641,7 @@
 21	شود	کرد#کن	AUX	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	20	cop	_	Seg=O
 22	.	.	PUNCT	DELM	_	20	punct	_	Seg=O
 
-# newdoc_id = shargh031
+# newdoc id = shargh031
 # sent_id = shargh031-1
 # text = در هفتههای پایانی ریاست جمهوری باراک حسین اوباما ، سنای آمریکا با ۹۹ رای موافق و بدون رای مخالف طرح قانونی شده تحریمهای ایران ، معروف به داماتو را برای یک دوره ١۰ساله دیگر تمدید کرد .
 1	در	در	ADP	P	_	2	case	_	Seg=B-seg

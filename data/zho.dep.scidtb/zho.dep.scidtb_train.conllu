@@ -1,4 +1,4 @@
-# newdoc_id = nlpabs102_Chi
+# newdoc id = nlpabs102_Chi
 # sent_id = nlpabs102_Chi-1
 1	针对	针对	VERB	VV	_	7	advcl	_	Seg=B-seg
 2	维吾尔	维吾尔	PROPN	NNP	_	3	compound	_	Seg=O
@@ -198,7 +198,7 @@
 68	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs102_Chi-4
-# newdoc_id = nlpabs109_Chi
+# newdoc id = nlpabs109_Chi
 # sent_id = nlpabs109_Chi-1
 1	该文	该文	NOUN	NN	_	6	nsubj	_	Seg=B-seg
 2	将	将	ADP	BB	_	5	case	_	Seg=O
@@ -328,7 +328,7 @@
 19	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs109_Chi-5
-# newdoc_id = nlpabs17_Chi
+# newdoc id = nlpabs17_Chi
 # sent_id = nlpabs17_Chi-1
 1	朝鲜	朝鲜	PROPN	NNP	_	2	compound	_	Seg=B-seg
 2	语	语	PART	SFN	_	4	nmod	_	Seg=O
@@ -451,7 +451,7 @@
 20	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs17_Chi-4
-# newdoc_id = nlpabs26_Chi
+# newdoc id = nlpabs26_Chi
 # sent_id = nlpabs26_Chi-1
 1	交互	交互	VERB	VV	_	2	compound	_	Seg=B-seg
 2	式	式	PART	SFN	_	4	nmod	_	Seg=O
@@ -679,7 +679,7 @@
 37	。	。	PUNCT	.	_	8	punct	_	Seg=O
 
 # sent_id = nlpabs26_Chi-8
-# newdoc_id = nlpabs29_Chi
+# newdoc id = nlpabs29_Chi
 # sent_id = nlpabs29_Chi-1
 1	为	为	ADP	IN	_	2	case	_	Seg=B-seg
 2	了提	了提	VERB	VV	_	44	xcomp	_	Seg=O
@@ -818,7 +818,7 @@
 45	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs29_Chi-3
-# newdoc_id = nlpabs38_Chi
+# newdoc id = nlpabs38_Chi
 # sent_id = nlpabs38_Chi-1
 1	推荐	推荐	NOUN	NN	_	2	nmod	_	Seg=B-seg
 2	系统	系统	NOUN	NN	_	6	nmod	_	Seg=O
@@ -1118,7 +1118,7 @@
 77	。	。	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = nlpabs38_Chi-7
-# newdoc_id = nlpabs39_Chi
+# newdoc id = nlpabs39_Chi
 # sent_id = nlpabs39_Chi-1
 1	该	该	DET	DT	_	2	det	_	Seg=B-seg
 2	文针	文针	NOUN	NN	_	12	nsubj	_	Seg=O
@@ -1266,7 +1266,7 @@
 32	。	。	PUNCT	.	_	21	punct	_	Seg=O
 
 # sent_id = nlpabs39_Chi-6
-# newdoc_id = nlpabs3_Chi
+# newdoc id = nlpabs3_Chi
 # sent_id = nlpabs3_Chi-1
 1	﻿主题	﻿主题	NOUN	NN	_	2	nmod	_	Seg=B-seg
 2	模型	模型	NOUN	NN	_	8	nsubj	_	Seg=O
@@ -1498,7 +1498,7 @@
 59	.	.	PUNCT	.	_	18	punct	_	Seg=O
 
 # sent_id = nlpabs3_Chi-8
-# newdoc_id = nlpabs40_Chi
+# newdoc id = nlpabs40_Chi
 # sent_id = nlpabs40_Chi-1
 1	情感	情感	NOUN	NN	_	3	nmod	_	Seg=B-seg
 2	分类	分类	NOUN	NN	_	3	nmod	_	Seg=O
@@ -1754,7 +1754,7 @@
 34	。	。	PUNCT	.	_	9	punct	_	Seg=O
 
 # sent_id = nlpabs40_Chi-6
-# newdoc_id = nlpabs41_Chi
+# newdoc id = nlpabs41_Chi
 # sent_id = nlpabs41_Chi-1
 1	实际	实际	ADJ	JJ	_	5	amod	_	Seg=B-seg
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	Seg=O
@@ -1963,7 +1963,7 @@
 20	。	。	PUNCT	.	_	13	punct	_	Seg=O
 
 # sent_id = nlpabs41_Chi-7
-# newdoc_id = nlpabs42_Chi
+# newdoc id = nlpabs42_Chi
 # sent_id = nlpabs42_Chi-1
 1	随	随	VERB	VV	_	33	advcl	_	Seg=B-seg
 2	着	着	PART	AS	Aspect=Prog	1	case:aspect	_	Seg=O
@@ -2190,7 +2190,7 @@
 28	。	。	PUNCT	.	_	21	punct	_	Seg=O
 
 # sent_id = nlpabs42_Chi-6
-# newdoc_id = nlpabs43_Chi
+# newdoc id = nlpabs43_Chi
 # sent_id = nlpabs43_Chi-1
 1	目前	目前	NOUN	NN	_	5	nmod	_	Seg=B-seg
 2	的	的	PART	DEC	Case=Gen	1	case:dec	_	Seg=O
@@ -2376,7 +2376,7 @@
 64	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs43_Chi-4
-# newdoc_id = nlpabs44_Chi
+# newdoc id = nlpabs44_Chi
 # sent_id = nlpabs44_Chi-1
 1	嵌套	嵌套	NOUN	NN	_	3	nmod	_	Seg=B-seg
 2	命名	命名	NOUN	NN	_	3	nmod	_	Seg=O
@@ -2549,7 +2549,7 @@
 33	。	。	PUNCT	.	_	12	punct	_	Seg=O
 
 # sent_id = nlpabs44_Chi-6
-# newdoc_id = nlpabs45_Chi
+# newdoc id = nlpabs45_Chi
 # sent_id = nlpabs45_Chi-1
 1	韩	韩	PROPN	NNP	_	4	compound	_	Seg=B-seg
 2	汉	汉	PROPN	NNP	_	20	nmod	_	Seg=O
@@ -2724,7 +2724,7 @@
 22	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs45_Chi-4
-# newdoc_id = nlpabs46_Chi
+# newdoc id = nlpabs46_Chi
 # sent_id = nlpabs46_Chi-1
 1	目前	目前	NOUN	NN	_	15	nmod:tmod	_	Seg=B-seg
 2	中	中	PROPN	NNP	_	3	compound	_	Seg=O
@@ -2922,7 +2922,7 @@
 21	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs46_Chi-10
-# newdoc_id = nlpabs48_Chi
+# newdoc id = nlpabs48_Chi
 # sent_id = nlpabs48_Chi-1
 1	神经	神经	NOUN	NN	_	3	nmod	_	Seg=B-seg
 2	机器	机器	NOUN	NN	_	3	nmod	_	Seg=O
@@ -3163,7 +3163,7 @@
 91	。	。	PUNCT	.	_	35	punct	_	Seg=O
 
 # sent_id = nlpabs48_Chi-4
-# newdoc_id = nlpabs49_Chi
+# newdoc id = nlpabs49_Chi
 # sent_id = nlpabs49_Chi-1
 1	该文	该文	NOUN	NN	_	47	nsubj	_	Seg=B-seg
 2	探讨	探讨	VERB	VV	_	47	advcl	_	Seg=O
@@ -3270,7 +3270,7 @@
 29	。	。	PUNCT	.	_	5	punct	_	Seg=O
 
 # sent_id = nlpabs49_Chi-4
-# newdoc_id = nlpabs4_Chi
+# newdoc id = nlpabs4_Chi
 # sent_id = nlpabs4_Chi-1
 1	﻿自动	﻿自动	ADJ	JJ	_	3	amod	_	Seg=B-seg
 2	问答	问答	NOUN	NN	_	3	nmod	_	Seg=O
@@ -3378,7 +3378,7 @@
 11	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs4_Chi-6
-# newdoc_id = nlpabs50_Chi
+# newdoc id = nlpabs50_Chi
 # sent_id = nlpabs50_Chi-1
 1	统计	统计	NOUN	NN	_	3	nmod	_	Seg=B-seg
 2	机器	机器	NOUN	NN	_	3	nmod	_	Seg=O
@@ -3509,7 +3509,7 @@
 27	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs50_Chi-4
-# newdoc_id = nlpabs51_Chi
+# newdoc id = nlpabs51_Chi
 # sent_id = nlpabs51_Chi-1
 1	在	在	ADP	IN	_	5	case	_	Seg=B-seg
 2	哈萨克	哈萨克	PROPN	NNP	_	4	nmod	_	Seg=O
@@ -3634,7 +3634,7 @@
 21	。	。	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = nlpabs51_Chi-4
-# newdoc_id = nlpabs54_Chi
+# newdoc id = nlpabs54_Chi
 # sent_id = nlpabs54_Chi-1
 1	我们	我	PRON	PRP	Number=Plur|Person=1	2	nmod	_	Seg=B-seg
 2	周围	周围	NOUN	NN	_	3	nsubj	_	Seg=O
@@ -3863,7 +3863,7 @@
 85	。	。	PUNCT	.	_	16	punct	_	Seg=O
 
 # sent_id = nlpabs54_Chi-6
-# newdoc_id = nlpabs55_Chi
+# newdoc id = nlpabs55_Chi
 # sent_id = nlpabs55_Chi-1
 1	复杂	复杂	ADJ	JJ	_	2	amod	_	Seg=B-seg
 2	网络	网络	NOUN	NN	_	8	nmod	_	Seg=O
@@ -4018,7 +4018,7 @@
 29	。	。	PUNCT	.	_	16	punct	_	Seg=O
 
 # sent_id = nlpabs55_Chi-5
-# newdoc_id = nlpabs56_Chi
+# newdoc id = nlpabs56_Chi
 # sent_id = nlpabs56_Chi-1
 1	谣言	谣言	NOUN	NN	_	5	nmod	_	Seg=B-seg
 2	或	或	CCONJ	CC	_	3	cc	_	Seg=O
@@ -4169,7 +4169,7 @@
 50	。	。	PUNCT	.	_	26	punct	_	Seg=O
 
 # sent_id = nlpabs56_Chi-5
-# newdoc_id = nlpabs57_Chi
+# newdoc id = nlpabs57_Chi
 # sent_id = nlpabs57_Chi-1
 1	该文	该文	NOUN	NN	_	3	nsubj	_	Seg=B-seg
 2	主要	主要	ADV	RB	_	3	advmod	_	Seg=O
@@ -4311,7 +4311,7 @@
 23	。	。	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = nlpabs57_Chi-5
-# newdoc_id = nlpabs58_Chi
+# newdoc id = nlpabs58_Chi
 # sent_id = nlpabs58_Chi-1
 1	该文	该文	NOUN	NN	_	2	nsubj	_	Seg=B-seg
 2	提出	提出	VERB	VV	_	0	root	_	Seg=O
@@ -4497,7 +4497,7 @@
 16	。	。	PUNCT	.	_	9	punct	_	Seg=O
 
 # sent_id = nlpabs58_Chi-6
-# newdoc_id = nlpabs5_Chi
+# newdoc id = nlpabs5_Chi
 # sent_id = nlpabs5_Chi-1
 1	﻿句子	﻿句子	NOUN	NN	_	4	nmod	_	Seg=B-seg
 2	间	间	ADP	IN	_	1	acl	_	Seg=O
@@ -4609,7 +4609,7 @@
 65	。	。	PUNCT	.	_	37	punct	_	Seg=O
 
 # sent_id = nlpabs5_Chi-3
-# newdoc_id = nlpabs60_Chi
+# newdoc id = nlpabs60_Chi
 # sent_id = nlpabs60_Chi-1
 1	为了	为了	ADP	IN	_	2	case	_	Seg=B-seg
 2	避免	避免	VERB	VV	_	35	xcomp	_	Seg=O
@@ -4758,7 +4758,7 @@
 16	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs60_Chi-5
-# newdoc_id = nlpabs61_Chi
+# newdoc id = nlpabs61_Chi
 # sent_id = nlpabs61_Chi-1
 1	笑话	笑话	NOUN	NN	_	32	nsubj	_	Seg=B-seg
 2	作	作	VERB	VV	_	32	acl	_	Seg=O
@@ -4943,7 +4943,7 @@
 23	。	。	PUNCT	.	_	15	punct	_	Seg=O
 
 # sent_id = nlpabs61_Chi-5
-# newdoc_id = nlpabs62_Chi
+# newdoc id = nlpabs62_Chi
 # sent_id = nlpabs62_Chi-1
 1	神经	神经	NOUN	NN	_	3	nmod	_	Seg=B-seg
 2	机器	机器	NOUN	NN	_	3	nmod	_	Seg=O
@@ -5097,7 +5097,7 @@
 25	。	。	PUNCT	.	_	2	punct	_	Seg=O
 
 # sent_id = nlpabs62_Chi-6
-# newdoc_id = nlpabs63_Chi
+# newdoc id = nlpabs63_Chi
 # sent_id = nlpabs63_Chi-1
 1	数据	数据	NOUN	NN	_	2	nsubj	_	Seg=B-seg
 2	并行	并行	VERB	VV	_	3	advcl	_	Seg=O
@@ -5236,7 +5236,7 @@
 27	。	。	PUNCT	.	_	24	punct	_	Seg=O
 
 # sent_id = nlpabs63_Chi-5
-# newdoc_id = nlpabs64_Chi
+# newdoc id = nlpabs64_Chi
 # sent_id = nlpabs64_Chi-1
 1	该	该	DET	DT	_	2	det	_	Seg=B-seg
 2	文针	文针	NOUN	NN	_	11	nsubj	_	Seg=O
@@ -5362,7 +5362,7 @@
 36	。	。	PUNCT	.	_	22	punct	_	Seg=O
 
 # sent_id = nlpabs64_Chi-6
-# newdoc_id = nlpabs65_Chi
+# newdoc id = nlpabs65_Chi
 # sent_id = nlpabs65_Chi-1
 1	由于	由于	ADP	IN	_	6	case	_	Seg=B-seg
 2	哈萨克	哈萨克	PROPN	NNP	_	3	compound	_	Seg=O
@@ -5512,7 +5512,7 @@
 17	。	。	PUNCT	.	_	12	punct	_	Seg=O
 
 # sent_id = nlpabs65_Chi-5
-# newdoc_id = nlpabs66_Chi
+# newdoc id = nlpabs66_Chi
 # sent_id = nlpabs66_Chi-1
 1	随	随	VERB	VV	_	19	advcl	_	Seg=B-seg
 2	着	着	PART	AS	Aspect=Prog	1	case:aspect	_	Seg=O
@@ -5702,7 +5702,7 @@
 124	。	。	PUNCT	.	_	120	punct	_	Seg=O
 
 # sent_id = nlpabs66_Chi-4
-# newdoc_id = nlpabs67_Chi
+# newdoc id = nlpabs67_Chi
 # sent_id = nlpabs67_Chi-1
 1	近年	近年	NOUN	NN	_	30	nmod:tmod	_	Seg=B-seg
 2	来	来	ADP	IN	_	1	acl	_	Seg=O
@@ -5869,7 +5869,7 @@
 29	。	。	PUNCT	.	_	11	punct	_	Seg=O
 
 # sent_id = nlpabs67_Chi-5
-# newdoc_id = nlpabs68_Chi
+# newdoc id = nlpabs68_Chi
 # sent_id = nlpabs68_Chi-1
 1	文本	文本	NOUN	NN	_	3	nmod	_	Seg=B-seg
 2	摘要	摘要	VERB	VV	_	3	nmod	_	Seg=O
@@ -6029,7 +6029,7 @@
 36	。	。	PUNCT	.	_	6	punct	_	Seg=O
 
 # sent_id = nlpabs68_Chi-5
-# newdoc_id = nlpabs69_Chi
+# newdoc id = nlpabs69_Chi
 # sent_id = nlpabs69_Chi-1
 1	蛋	蛋	NOUN	NN	_	5	nmod	_	Seg=B-seg
 2	白质	白质	NOUN	NN	_	4	nsubj	_	Seg=O
@@ -6209,7 +6209,7 @@
 24	。	。	PUNCT	.	_	14	punct	_	Seg=O
 
 # sent_id = nlpabs69_Chi-6
-# newdoc_id = nlpabs6_Chi
+# newdoc id = nlpabs6_Chi
 # sent_id = nlpabs6_Chi-1
 1	﻿在	﻿在	ADP	IN	_	4	case	_	Seg=B-seg
 2	自然	自然	NOUN	NN	_	4	nmod	_	Seg=O
@@ -6423,7 +6423,7 @@
 34	。	。	PUNCT	.	_	21	punct	_	Seg=O
 
 # sent_id = nlpabs6_Chi-5
-# newdoc_id = nlpabs70_Chi
+# newdoc id = nlpabs70_Chi
 # sent_id = nlpabs70_Chi-1
 1	针	针	NOUN	NN	_	20	nsubj	_	Seg=B-seg
 2	对	对	ADP	IN	_	1	case	_	Seg=O
@@ -6589,7 +6589,7 @@
 48	。	。	PUNCT	.	_	27	punct	_	Seg=O
 
 # sent_id = nlpabs70_Chi-4
-# newdoc_id = nlpabs71_Chi
+# newdoc id = nlpabs71_Chi
 # sent_id = nlpabs71_Chi-1
 1	有效	有效	ADJ	JJ	_	3	advmod	_	Seg=B-seg
 2	地	地	PART	DEV	_	1	mark:advb	_	Seg=O
@@ -6759,7 +6759,7 @@
 34	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs71_Chi-5
-# newdoc_id = nlpabs72_Chi
+# newdoc id = nlpabs72_Chi
 # sent_id = nlpabs72_Chi-1
 1	在	在	ADP	IN	_	3	case	_	Seg=B-seg
 2	微博	微博	NOUN	NN	_	3	nmod	_	Seg=O
@@ -6972,7 +6972,7 @@
 58	。	。	PUNCT	.	_	47	punct	_	Seg=O
 
 # sent_id = nlpabs72_Chi-6
-# newdoc_id = nlpabs73_Chi
+# newdoc id = nlpabs73_Chi
 # sent_id = nlpabs73_Chi-1
 1	在	在	VERB	VV	_	2	compound	_	Seg=B-seg
 2	线	线	PROPN	NNP	_	4	nmod	_	Seg=O
@@ -7189,7 +7189,7 @@
 45	模型	模型	NOUN	NN	_	39	obj	_	Seg=O
 
 # sent_id = nlpabs73_Chi-6
-# newdoc_id = nlpabs74_Chi
+# newdoc id = nlpabs74_Chi
 # sent_id = nlpabs74_Chi-1
 1	以往	以往	NOUN	NN	_	16	nmod:tmod	_	Seg=B-seg
 2	小说	小说	NOUN	NN	_	5	nmod	_	Seg=O
@@ -7406,7 +7406,7 @@
 42	。	。	PUNCT	.	_	4	punct	_	Seg=O
 
 # sent_id = nlpabs74_Chi-5
-# newdoc_id = nlpabs75_Chi
+# newdoc id = nlpabs75_Chi
 # sent_id = nlpabs75_Chi-1
 1	未识	未识	VERB	VV	_	5	acl:relcl	_	Seg=B-seg
 2	甲骨	甲骨	NOUN	NN	_	3	compound	_	Seg=O
@@ -7590,7 +7590,7 @@
 33	基础	基础	NOUN	NN	_	30	conj	_	Seg=O
 
 # sent_id = nlpabs75_Chi-7
-# newdoc_id = nlpabs76_Chi
+# newdoc id = nlpabs76_Chi
 # sent_id = nlpabs76_Chi-1
 1	该文	该文	NOUN	NN	_	2	nsubj	_	Seg=B-seg
 2	提出	提出	VERB	VV	_	0	root	_	Seg=O
@@ -7754,7 +7754,7 @@
 18	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs76_Chi-8
-# newdoc_id = nlpabs77_Chi
+# newdoc id = nlpabs77_Chi
 # sent_id = nlpabs77_Chi-1
 1	国际	国际	NOUN	NN	_	5	nmod	_	Seg=B-seg
 2	汉	汉	PROPN	NNP	_	3	compound	_	Seg=O
@@ -7957,7 +7957,7 @@
 90	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs77_Chi-5
-# newdoc_id = nlpabs78_Chi
+# newdoc id = nlpabs78_Chi
 # sent_id = nlpabs78_Chi-1
 1	针	针	NOUN	NN	_	9	nsubj	_	Seg=B-seg
 2	对	对	ADP	IN	_	7	case	_	Seg=O
@@ -8129,7 +8129,7 @@
 39	。	。	PUNCT	.	_	10	punct	_	Seg=O
 
 # sent_id = nlpabs78_Chi-4
-# newdoc_id = nlpabs79_Chi
+# newdoc id = nlpabs79_Chi
 # sent_id = nlpabs79_Chi-1
 1	高考	高考	NOUN	NN	_	8	nmod	_	Seg=B-seg
 2	语文	语文	NOUN	NN	_	8	nmod	_	Seg=O
@@ -8302,7 +8302,7 @@
 22	。	。	PUNCT	.	_	15	punct	_	Seg=O
 
 # sent_id = nlpabs79_Chi-8
-# newdoc_id = nlpabs7_Chi
+# newdoc id = nlpabs7_Chi
 # sent_id = nlpabs7_Chi-1
 1	﻿形容	﻿形容	VERB	VV	_	2	compound	_	Seg=B-seg
 2	词	词	PART	SFN	_	19	nsubj	_	Seg=O
@@ -8444,7 +8444,7 @@
 66	。	。	PUNCT	.	_	56	punct	_	Seg=O
 
 # sent_id = nlpabs7_Chi-4
-# newdoc_id = nlpabs80_Chi
+# newdoc id = nlpabs80_Chi
 # sent_id = nlpabs80_Chi-1
 1	神经	神经	NOUN	NN	_	5	nmod	_	Seg=B-seg
 2	网络	网络	NOUN	NN	_	5	nmod	_	Seg=O
@@ -8659,7 +8659,7 @@
 25	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs80_Chi-7
-# newdoc_id = nlpabs81_Chi
+# newdoc id = nlpabs81_Chi
 # sent_id = nlpabs81_Chi-1
 1	蒙古	蒙古	PROPN	NNP	_	2	compound	_	Seg=B-seg
 2	语	语	PART	SFN	_	3	nsubj	_	Seg=O
@@ -8795,7 +8795,7 @@
 23	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs81_Chi-7
-# newdoc_id = nlpabs82_Chi
+# newdoc id = nlpabs82_Chi
 # sent_id = nlpabs82_Chi-1
 1	结合	结合	VERB	VV	_	11	advcl	_	Seg=B-seg
 2	对	对	ADP	IN	_	8	det	_	Seg=O
@@ -9009,7 +9009,7 @@
 44	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs82_Chi-5
-# newdoc_id = nlpabs83_Chi
+# newdoc id = nlpabs83_Chi
 # sent_id = nlpabs83_Chi-1
 1	音节	音节	NOUN	NN	_	8	nsubj	_	Seg=B-seg
 2	是	是	AUX	VC	_	8	cop	_	Seg=O
@@ -9184,7 +9184,7 @@
 12	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs83_Chi-5
-# newdoc_id = nlpabs84_Chi
+# newdoc id = nlpabs84_Chi
 # sent_id = nlpabs84_Chi-1
 1	随	随	VERB	VV	_	20	advcl	_	Seg=B-seg
 2	着	着	PART	AS	Aspect=Prog	1	case:aspect	_	Seg=O
@@ -9388,7 +9388,7 @@
 55	。	。	PUNCT	.	_	16	punct	_	Seg=O
 
 # sent_id = nlpabs84_Chi-6
-# newdoc_id = nlpabs85_Chi
+# newdoc id = nlpabs85_Chi
 # sent_id = nlpabs85_Chi-1
 1	评论	评论	NOUN	NN	_	2	nmod	_	Seg=B-seg
 2	对象	对象	NOUN	NN	_	3	nsubj	_	Seg=O
@@ -9569,7 +9569,7 @@
 61	。	。	PUNCT	.	_	16	punct	_	Seg=O
 
 # sent_id = nlpabs85_Chi-5
-# newdoc_id = nlpabs86_Chi
+# newdoc id = nlpabs86_Chi
 # sent_id = nlpabs86_Chi-1
 1	语言	语言	NOUN	NN	_	2	nsubj	_	Seg=B-seg
 2	优美	优美	ADJ	JJ	_	11	nsubj	_	Seg=O
@@ -9741,7 +9741,7 @@
 30	。	。	PUNCT	.	_	16	punct	_	Seg=O
 
 # sent_id = nlpabs86_Chi-7
-# newdoc_id = nlpabs87_Chi
+# newdoc id = nlpabs87_Chi
 # sent_id = nlpabs87_Chi-1
 1	事件	事件	NOUN	NN	_	2	nsubj	_	Seg=B-seg
 2	抽取	抽取	VERB	VV	_	3	amod	_	Seg=O
@@ -9932,7 +9932,7 @@
 38	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs87_Chi-7
-# newdoc_id = nlpabs88_Chi
+# newdoc id = nlpabs88_Chi
 # sent_id = nlpabs88_Chi-1
 1	微博	微博	PROPN	NNP	_	2	nmod	_	Seg=B-seg
 2	用户	用户	NOUN	NN	_	4	nsubj	_	Seg=O
@@ -10099,7 +10099,7 @@
 27	。	。	PUNCT	.	_	22	punct	_	Seg=O
 
 # sent_id = nlpabs88_Chi-5
-# newdoc_id = nlpabs89_Chi
+# newdoc id = nlpabs89_Chi
 # sent_id = nlpabs89_Chi-1
 1	社交	社交	NOUN	NN	_	3	nmod	_	Seg=B-seg
 2	网络	网络	NOUN	NN	_	3	nmod	_	Seg=O
@@ -10258,7 +10258,7 @@
 70	。	。	PUNCT	.	_	52	punct	_	Seg=O
 
 # sent_id = nlpabs89_Chi-5
-# newdoc_id = nlpabs8_Chi
+# newdoc id = nlpabs8_Chi
 # sent_id = nlpabs8_Chi-1
 1	﻿聚类	﻿聚类	NOUN	NN	_	29	nsubj	_	Seg=B-seg
 2	作	作	VERB	VV	_	29	advcl	_	Seg=O
@@ -10346,7 +10346,7 @@
 9	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs8_Chi-4
-# newdoc_id = nlpabs90_Chi
+# newdoc id = nlpabs90_Chi
 # sent_id = nlpabs90_Chi-1
 1	文本	文本	NOUN	NN	_	3	nmod	_	Seg=B-seg
 2	情感	情感	NOUN	NN	_	3	nmod	_	Seg=O
@@ -10493,7 +10493,7 @@
 35	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs90_Chi-5
-# newdoc_id = nlpabs92_Chi
+# newdoc id = nlpabs92_Chi
 # sent_id = nlpabs92_Chi-1
 1	该文	该文	NOUN	NN	_	26	nsubj	_	Seg=B-seg
 2	对	对	ADP	IN	_	25	case	_	Seg=O
@@ -10604,7 +10604,7 @@
 76	建议	建议	NOUN	NN	_	74	obj	_	Seg=O
 
 # sent_id = nlpabs92_Chi-3
-# newdoc_id = nlpabs93_Chi
+# newdoc id = nlpabs93_Chi
 # sent_id = nlpabs93_Chi-1
 1	标注	标注	VERB	VV	_	12	advcl	_	Seg=B-seg
 2	《	《	PUNCT	(	_	4	punct	_	Seg=O
@@ -10761,7 +10761,7 @@
 27	对比	对比	NOUN	NN	_	25	obj	_	Seg=O
 
 # sent_id = nlpabs93_Chi-4
-# newdoc_id = nlpabs94_Chi
+# newdoc id = nlpabs94_Chi
 # sent_id = nlpabs94_Chi-1
 1	该文	该文	NOUN	NN	_	22	nsubj	_	Seg=B-seg
 2	以	以	VERB	VV	Voice=Cau	22	advcl	_	Seg=O
@@ -10964,7 +10964,7 @@
 37	歧义	歧义	NOUN	NN	_	35	obj	_	Seg=O
 
 # sent_id = nlpabs94_Chi-7
-# newdoc_id = nlpabs95_Chi
+# newdoc id = nlpabs95_Chi
 # sent_id = nlpabs95_Chi-1
 1	随	随	VERB	VV	_	17	advcl	_	Seg=B-seg
 2	着	着	PART	AS	Aspect=Prog	1	case:aspect	_	Seg=O
@@ -11139,7 +11139,7 @@
 64	。	。	PUNCT	.	_	51	punct	_	Seg=O
 
 # sent_id = nlpabs95_Chi-5
-# newdoc_id = nlpabs96_Chi
+# newdoc id = nlpabs96_Chi
 # sent_id = nlpabs96_Chi-1
 1	在	在	ADP	IN	_	5	case	_	Seg=B-seg
 2	各类	各类	DET	DT	_	5	det	_	Seg=O
@@ -11419,7 +11419,7 @@
 23	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs96_Chi-12
-# newdoc_id = nlpabs97_Chi
+# newdoc id = nlpabs97_Chi
 # sent_id = nlpabs97_Chi-1
 1	交互	交互	VERB	VV	_	2	compound	_	Seg=B-seg
 2	式	式	PART	SFN	_	3	nmod	_	Seg=O
@@ -11561,7 +11561,7 @@
 94	。	。	PUNCT	.	_	20	punct	_	Seg=O
 
 # sent_id = nlpabs97_Chi-3
-# newdoc_id = nlpabs98_Chi
+# newdoc id = nlpabs98_Chi
 # sent_id = nlpabs98_Chi-1
 1	该文	该文	NOUN	NN	_	18	nsubj	_	Seg=B-seg
 2	提	提	VERB	VV	_	18	advcl	_	Seg=O
@@ -11829,7 +11829,7 @@
 17	。	。	PUNCT	.	_	3	punct	_	Seg=O
 
 # sent_id = nlpabs98_Chi-9
-# newdoc_id = nlpabs99_Chi
+# newdoc id = nlpabs99_Chi
 # sent_id = nlpabs99_Chi-1
 1	该文	该文	NOUN	NN	_	14	nsubj	_	Seg=B-seg
 2	从	从	ADP	IN	_	9	case	_	Seg=O
@@ -11965,7 +11965,7 @@
 44	。	。	PUNCT	.	_	41	punct	_	Seg=O
 
 # sent_id = nlpabs99_Chi-5
-# newdoc_id = nlpabs9_Chi
+# newdoc id = nlpabs9_Chi
 # sent_id = nlpabs9_Chi-1
 1	﻿本文	﻿本文	NOUN	NN	_	51	nsubj	_	Seg=B-seg
 2	依据	依据	ADP	IN	_	9	case	_	Seg=O

@@ -1,4 +1,4 @@
-# newdoc_id = 0705000001
+# newdoc id = 0705000001
 # newturn_id = 0705000001-1
 # newutterance = 0705000001-1-1
 1	eccomi	eccomi	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O
@@ -724,7 +724,7 @@
 8	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	500	obl	500:obl	Conn=O
 9	ciao	ciao	INTJ	I	_	507	discourse	507:discourse	Conn=O
 
-# newdoc_id = 0705000002
+# newdoc id = 0705000002
 # newturn_id = 0705000002-1
 # newutterance = 0705000002-1-1
 1	helpdesk	helpdesk	NOUN	S	_	2	amod	2:amod	Conn=O
@@ -1691,7 +1691,7 @@
 1	molte	molto	DET	DI	PronType=Ind	702	det	702:det	Conn=O
 2	buongiorno	buongiorno	INTJ	I	_	703	discourse	703:discourse	Conn=O
 
-# newdoc_id = 0705000003
+# newdoc id = 0705000003
 # newturn_id = 0705000003-1
 # newutterance = 0705000003-1-1
 1	allora	allora	ADV	B	_	5	advmod	5:advmod	Conn=O
@@ -2395,7 +2395,7 @@
 # newutterance_id = 0705000003-72-1
 1	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	455	nmod	455:nmod	Conn=O
 
-# newdoc_id = 0705000004
+# newdoc id = 0705000004
 # newturn_id = 0705000004-1
 # newutterance = 0705000004-1-1
 1	okay	okay	INTJ	I	_	4	discourse	4:discourse	Conn=O
@@ -3165,7 +3165,7 @@
 # newutterance_id = 0705000004-60-1
 1	salve	salve	INTJ	I	_	563	discourse	563:discourse	Conn=O
 
-# newdoc_id = 0705000008
+# newdoc id = 0705000008
 # newturn_id = 0705000008-1
 # newutterance = 0705000008-1-1
 1	signora	signore	NOUN	S	Gender=Fem|Number=Sing	3	vocative	3:vocative	Conn=O
@@ -4171,7 +4171,7 @@
 2	giornata	giornata	NOUN	S	Gender=Fem|Number=Sing	660	nmod	660:nmod	Conn=O
 3	signora	signore	NOUN	S	Gender=Fem|Number=Sing	665	compound	665:compound	Conn=O
 
-# newdoc_id = 0705000009
+# newdoc id = 0705000009
 # newturn_id = 0705000009-1
 # newutterance = 0705000009-1-1
 1	eccomi	eccomi	INTJ	I	_	9	vocative	9:vocative	Conn=O
@@ -5436,7 +5436,7 @@
 1	altrettanto	altrettanto	ADV	B	_	908	advmod	908:advmod	Conn=O
 2	salve	salvo	ADJ	A	Gender=Fem|Number=Plur	906	amod	906:amod	Conn=O
 
-# newdoc_id = 0705230001
+# newdoc id = 0705230001
 # newturn_id = 0705230001-1
 # newutterance = 0705230001-1-1
 1	okay	okay	INTJ	I	_	5	vocative	5:vocative	Conn=O
@@ -6224,7 +6224,7 @@
 # newutterance_id = 0705230001-63-1
 1	buongiorno	buongiorno	INTJ	I	_	567	discourse	567:discourse	Conn=O
 
-# newdoc_id = 0705230003
+# newdoc id = 0705230003
 # newturn_id = 0705230003-1
 # newutterance = 0705230003-1-1
 1	signora	signore	NOUN	S	Gender=Fem|Number=Sing	3	vocative	3:vocative	Conn=O
@@ -6436,7 +6436,7 @@
 # newutterance_id = 0705230003-24-2
 1	salve	salvo	ADJ	A	Gender=Fem|Number=Plur	126	amod	126:amod	Conn=O
 
-# newdoc_id = 0705230007
+# newdoc id = 0705230007
 # newturn_id = 0705230007-1
 # newutterance = 0705230007-1-1
 1	okay	okay	INTJ	I	_	4	vocative	4:vocative	Conn=O
@@ -7093,7 +7093,7 @@
 2	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	458	obj	458:obj	Conn=O
 3	saluto	saluto	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	454	conj	454:conj	Conn=O
 
-# newdoc_id = 0705230010
+# newdoc id = 0705230010
 # newturn_id = 0705230010-1
 # newutterance = 0705230010-1-1
 1	allora	allora	ADV	B	_	73	advmod	73:advmod	Conn=O
@@ -7934,7 +7934,7 @@
 1	buondì	buondì	INTJ	I	_	604	discourse	604:discourse	Conn=O
 2	salve	salve	INTJ	I	_	604	discourse	604:discourse	Conn=O
 
-# newdoc_id = 0705230011
+# newdoc id = 0705230011
 # newturn_id = 0705230011-1
 # newutterance = 0705230011-1-1
 1	acc	acc	X	X	_	3	vocative	3:vocative	Conn=O
@@ -8347,7 +8347,7 @@
 6	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	313	obj	313:obj	Conn=O
 7	salve	salve	INTJ	I	_	313	obj	313:obj	Conn=O
 
-# newdoc_id = 0705230012
+# newdoc id = 0705230012
 # newturn_id = 0705230012-1
 # newutterance = 0705230012-1-1
 1	okay	okay	INTJ	I	_	5	vocative	5:vocative	Conn=O
