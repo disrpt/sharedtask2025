@@ -138,7 +138,7 @@
 2	,	,	PUNCT	,	_	1	punct	1:punct	Seg=O
 3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	6:expl	Entity=(19-event-new-nnnnn-cf3-1-cata)|Seg=O
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	Seg=O
-5	also	also	ADV	RB	_	6	advmod	6:advmod|Seg=O
+5	also	also	ADV	RB	_	6	advmod	6:advmod	Seg=O
 6	desirable	desirable	ADJ	JJ	Degree=Pos	0	root	0:root	MSeg=desir-able|Seg=O
 7	to	to	PART	TO	_	8	mark	8:mark	Entity=(19-event-acc:com-nnnnn-cf3-8-coref|Seg=O
 8	retain	retain	VERB	VB	VerbForm=Inf	6	csubj	6:csubj	Seg=O|XML=<hi rend:::"italic"></hi>
@@ -221,7 +221,7 @@
 18	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	19:det	Entity=(31-place-new-nnnnn-cf6-2-sgl|Seg=O
 19	classroom	classroom	NOUN	NN	Number=Sing	14	obl	14:obl:in	Entity=31)|MSeg=class-room|Seg=O
 20	and	and	CCONJ	CC	_	22	cc	22:cc	Seg=B-seg
-21	then	then	ADV	RB	PronType=Dem	22	advmod	22:advmod|Seg=O
+21	then	then	ADV	RB	PronType=Dem	22	advmod	22:advmod	Seg=O
 22	stops	stop	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	12:advcl:relcl|14:conj:and	MSeg=stop-s|Seg=O
 23	taking	take	VERB	VBG	VerbForm=Ger	22	xcomp	22:xcomp	MSeg=tak-ing|Seg=O
 24	classes	class	NOUN	NNS	Number=Plur	23	obj	23:obj	Entity=(32-abstract-new-nnnnn-cf4-1-sgl)|MSeg=classe-s|Seg=O
@@ -243,7 +243,7 @@
 40	language	language	NOUN	NN	Number=Sing	41	compound	41:compound	Entity=36)|Seg=O
 41	setting	setting	NOUN	NN	Number=Sing	36	obl	36:obl:in	Entity=35)|MSeg=sett-ing|Seg=O
 42	and	and	CCONJ	CC	_	44	cc	44:cc	Seg=B-seg
-43	then	then	ADV	RB	PronType=Dem	44	advmod	44:advmod|Seg=O
+43	then	then	ADV	RB	PronType=Dem	44	advmod	44:advmod	Seg=O
 44	moves	move	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	conj	14:conj|36:conj:and	MSeg=move-s|Seg=O
 45	away	away	ADV	RB	Degree=Pos	44	advmod	44:advmod	MSeg=a-way|Seg=O
 46	[	[	PUNCT	-LRB-	_	47	punct	47:punct	Seg=B-seg|SpaceAfter=No
@@ -732,7 +732,7 @@
 24	proficiency	proficiency	NOUN	NN	Number=Sing	25	compound	25:compound	MSeg=proficien-cy|Seg=O
 25	levels	level	NOUN	NNS	Number=Plur	20	obl	20:obl:in	Entity=94)|MSeg=level-s|Seg=O
 26	(	(	PUNCT	-LRB-	_	30	punct	30:punct	Seg=B-seg|SpaceAfter=No
-27	though	though	SCONJ	IN	_	30	mark	30:mark|Seg=O
+27	though	though	SCONJ	IN	_	30	mark	30:mark	Seg=O
 28	not	not	PART	RB	Polarity=Neg	30	advmod	30:advmod	Negation=Yes|Seg=O
 29	directly	directly	ADV	RB	Degree=Pos	30	advmod	30:advmod	MSeg=direct-ly|Seg=O
 30	measured	measure	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	25	acl	25:acl:though	MSeg=measur-ed|Seg=O|SpaceAfter=No
@@ -908,7 +908,7 @@
 14	suggest	suggest	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Seg=O
 15	that	that	SCONJ	IN	_	18	mark	18:mark	Seg=B-seg
 16	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj|20:nsubj:xsubj	Entity=(98-event-giv:act-snnnn-cf1-1-ana)|Seg=O
-17	then	then	ADV	RB	PronType=Dem	18	advmod	18:advmod|Seg=O
+17	then	then	ADV	RB	PronType=Dem	18	advmod	18:advmod	Seg=O
 18	appears	appear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	14:ccomp	MSeg=appear-s|Seg=O
 19	to	to	PART	TO	_	20	mark	20:mark	Seg=O
 20	level	level	VERB	VB	VerbForm=Inf	18	xcomp	18:xcomp	Seg=O
@@ -938,7 +938,7 @@
 3	of	of	ADP	IN	_	4	case	4:case	Seg=O
 4	proficiency	proficiency	NOUN	NN	Number=Sing	2	nmod	2:nmod:of	Entity=48)|MSeg=proficien-cy|Seg=O
 5	(	(	PUNCT	-LRB-	_	7	punct	7:punct	Seg=B-seg|SpaceAfter=No
-6	or	or	CCONJ	CC	_	7	cc	7:cc|Seg=O
+6	or	or	CCONJ	CC	_	7	cc	7:cc	Seg=O
 7	exposure	exposure	NOUN	NN	Number=Sing	4	conj	2:nmod:of|4:conj:or	Entity=(109-abstract-new-nnnnn-cf6-1-sgl)|MSeg=expos-ure|Seg=O|SpaceAfter=No
 8	)	)	PUNCT	-RRB-	_	7	punct	7:punct	Seg=O
 9	may	may	AUX	MD	VerbForm=Fin	11	aux	11:aux	Seg=B-seg
@@ -2552,7 +2552,7 @@
 44	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	45	nmod	45:nmod:with	Entity=(3-person-giv:act-sssss-cf1*-1-ana-Lord_Byron)|Seg=O
 45	passions	passion	NOUN	NNS	Number=Plur	3	parataxis	3:parataxis	Entity=(58-abstract-new-n____-cf12-1-sgl)|MSeg=passion-s|Seg=O
 46	(	(	PUNCT	-LRB-	_	51	punct	51:punct	Seg=B-seg|SpaceAfter=No
-47	for	for	SCONJ	IN	_	51	mark	51:mark|Seg=O
+47	for	for	SCONJ	IN	_	51	mark	51:mark	Seg=O
 48	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	51	nsubj	51:nsubj	Entity=(3-person-giv:act-sssss-cf1*-1-ana-Lord_Byron)|Seg=O
 49	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	51	cop	51:cop	Seg=O
 50	always	always	ADV	RB	_	51	advmod	51:advmod	MSeg=al-way-s|Seg=O
@@ -2738,7 +2738,7 @@
 16	one	one	PRON	PRP	Number=Sing|Person=3|PronType=Prs	14	obl	14:obl:to|24:nsubj	Entity=(81-person-new-nnnnn-cf1-1-sgl|Seg=O|SpaceAfter=No
 17	,	,	PUNCT	,	_	24	punct	24:punct	Seg=O
 18	who	who	PRON	WP	PronType=Rel	24	nsubj	16:ref	Seg=B-seg
-19	thus	thus	ADV	RB	_	24	advmod	24:advmod|Seg=O
+19	thus	thus	ADV	RB	_	24	advmod	24:advmod	Seg=O
 20	for	for	ADP	IN	_	22	case	22:case	Seg=O
 21	kindred	kindred	ADJ	JJ	Degree=Pos	22	amod	22:amod	Entity=(82-abstract-new-nnnnn-cf4-2-sgl|MSeg=kind-red|Seg=O
 22	hearts	heart	NOUN	NNS	Number=Plur	24	obl	24:obl:for	Entity=82)|MSeg=heart-s|Seg=O
@@ -2950,7 +2950,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	Entity=(89-abstract-giv:inact-snnnn-cf1-2-coref|Seg=B-seg
 2	liaison	liaison	NOUN	NN	Number=Sing	14	nsubj	14:nsubj	Entity=89)|Seg=O|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	2:punct	Seg=O
-4	on	on	ADP	IN	_	7	case	7:case|Seg=O
+4	on	on	ADP	IN	_	7	case	7:case	Seg=O
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Seg=O
 6	other	other	ADJ	JJ	Degree=Pos	7	amod	7:amod	Seg=O
 7	hand	hand	NOUN	NN	Number=Sing	14	obl	14:obl:on	Seg=O|SpaceAfter=No
@@ -3028,7 +3028,7 @@
 # transition = establishment
 # text = Also while at Cambridge he formed lifelong friendships with men such as John Cam Hobhouse, who initiated him into the Cambridge Whig Club, which endorsed liberal politics, [28] and Francis Hodgson, a Fellow at King's College, with whom he corresponded on literary and other matters until the end of his life.
 1	Also	also	ADV	RB	_	4	advmod	4:advmod	Seg=B-seg
-2	while	while	SCONJ	IN	_	4	mark	4:mark|Seg=O
+2	while	while	SCONJ	IN	_	4	mark	4:mark	Seg=O
 3	at	at	ADP	IN	_	4	case	4:case	Seg=O
 4	Cambridge	Cambridge	PROPN	NNP	Number=Sing	6	advcl	6:advcl:while	Entity=(87-organization-giv:inact-nsnns-cf4-1-coref-Cambridge)|Seg=O
 5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	Entity=(3-person-giv:act-sssss-cf1*-1-ana-Lord_Byron)|Seg=B-seg
@@ -4403,7 +4403,7 @@
 9	night	night	NOUN	NN	Number=Sing	2	obl:unmarked	2:obl:unmarked	Entity=7)3)|Seg=O|SpaceAfter=No
 10	,	,	PUNCT	,	_	15	punct	15:punct	Seg=O
 11	and	and	CCONJ	CC	_	15	cc	15:cc	Seg=B-seg
-12	so	so	ADV	RB	_	15	advmod	15:advmod|Seg=O
+12	so	so	ADV	RB	_	15	advmod	15:advmod	Seg=O
 13-14	I'm	_	_	_	_	_	_	_	_
 13	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj:pass	15:nsubj:pass	Entity=(8-event-new-sssss-cf6-3-disc(4-person-giv:act-nssss-cf1-1-ana)|Seg=O
 14	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux:pass	15:aux:pass	Seg=O
@@ -4675,7 +4675,7 @@
 18	up	up	ADP	RP	_	17	compound:prt	17:compound:prt	Seg=O|SpaceAfter=No
 19	,	,	PUNCT	,	_	25	punct	25:punct	Seg=O
 20	cause	cause	SCONJ	IN	Style=Vrnc	25	mark	25:mark	Seg=B-seg
-21	then	then	ADV	RB	PronType=Dem	25	advmod	25:advmod|Seg=O
+21	then	then	ADV	RB	PronType=Dem	25	advmod	25:advmod	Seg=O
 22	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	nsubj	25:nsubj	Entity=(4-person-giv:act-nssss-cf1-1-ana)|Seg=O
 23-24	wouldn't	_	_	_	_	_	_	_	_
 23	would	would	AUX	MD	VerbForm=Fin	25	aux	25:aux	Seg=O
@@ -4746,7 +4746,7 @@
 2	could	could	AUX	MD	VerbForm=Fin	0	root	0:root	Seg=O|SpaceAfter=No
 3	,	,	PUNCT	,	_	4	punct	4:punct	Seg=O
 4	but	but	CCONJ	CC	_	9	cc	9:cc	Seg=B-seg
-5	then	then	ADV	RB	PronType=Dem	9	advmod	9:advmod|Seg=O
+5	then	then	ADV	RB	PronType=Dem	9	advmod	9:advmod	Seg=O
 6	af-	af-	INTJ	UH	_	9	reparandum	9:reparandum	Seg=O
 7	—	—	PUNCT	:	_	6	punct	6:punct	Seg=O
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj|11:nsubj:xsubj	Entity=(4-person-giv:act-nssss-cf2-1-ana)|Seg=B-seg
@@ -4815,7 +4815,7 @@
 # addressee = Kitty
 # text = And so she went home and, I was like, I'll call you when I get home, and then you come over.
 1	And	and	CCONJ	CC	_	4	cc	4:cc	Seg=B-seg
-2	so	so	ADV	RB	_	4	advmod	4:advmod|Seg=O
+2	so	so	ADV	RB	_	4	advmod	4:advmod	Seg=O
 3	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	Entity=(16-person-giv:act-nnnnn-cf1*-1-ana)|Seg=O
 4	went	go	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Seg=O
 5	home	home	ADV	RB	Degree=Pos	4	advmod	4:advmod	Seg=O
@@ -4836,7 +4836,7 @@
 19	home	home	ADV	RB	Degree=Pos	18	advmod	18:advmod	Seg=O|SpaceAfter=No
 20	,	,	PUNCT	,	_	24	punct	24:punct	Seg=O
 21	and	and	CCONJ	CC	_	24	cc	24:cc	Seg=B-seg
-22	then	then	ADV	RB	PronType=Dem	24	advmod	24:advmod|Seg=O
+22	then	then	ADV	RB	PronType=Dem	24	advmod	24:advmod	Seg=O
 23	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	24	nsubj	24:nsubj	Entity=(16-person-giv:act-nnnnn-cf1*-1-ana)|Seg=O
 24	come	come	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	conj	9:ccomp|14:conj:and	Seg=O
 25	over	over	ADP	RP	_	24	compound:prt	24:compound:prt	Seg=O|SpaceAfter=No
@@ -5216,7 +5216,7 @@
 # addressee = Kendra
 # text = A- and I'm supposed to trust you every time you tell the truth.
 1	A-	a-	INTJ	UH	_	2	reparandum	2:reparandum	Seg=B-seg
-2	and	and	CCONJ	CC	_	5	cc	5:cc|Seg=O
+2	and	and	CCONJ	CC	_	5	cc	5:cc	Seg=O
 3-4	I'm	_	_	_	_	_	_	_	_
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj:pass	5:nsubj:pass|7:nsubj:xsubj	Entity=(10-person-giv:act-sssss-cf1*-1-ana)|Seg=O
 4	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux:pass	5:aux:pass	Seg=O
@@ -7118,7 +7118,7 @@
 # addressee = Kitty
 # text = And then I put them in there.
 1	And	and	CCONJ	CC	_	4	cc	4:cc	Seg=B-seg
-2	then	then	ADV	RB	PronType=Dem	4	advmod	4:advmod|Seg=O
+2	then	then	ADV	RB	PronType=Dem	4	advmod	4:advmod	Seg=O
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Entity=(95-person-giv:act-sssss-cf1*-1-ana)|Seg=O
 4	put	put	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Seg=O
 5	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	obj	4:obj	Entity=(96-substance-giv:inact-sssnn-cf2-1-ana)|Seg=O
@@ -9270,7 +9270,7 @@
 7	many	many	ADJ	JJ	Degree=Pos	8	amod	8:amod	Seg=O
 8	cards	card	NOUN	NNS	Number=Plur	3	obj	3:obj	Entity=68)|MSeg=card-s|Seg=O|SpaceAfter=No
 9	,	,	PUNCT	,	_	10	punct	10:punct	Seg=O
-10	so	so	ADV	RB	_	3	parataxis	3:parataxis|Seg=O
+10	so	so	ADV	RB	_	3	parataxis	3:parataxis	Seg=O
 11	...	…	PUNCT	:	_	3	punct	3:punct	Seg=O
 
 # newpar
@@ -10384,7 +10384,7 @@
 # addressee = JusticeClarenceThomas
 # text = And then that language was repeated in the Federal Register notice that actually implemented that program and constitutes the final agency action that the states are challenging here.
 1	And	and	CCONJ	CC	_	6	cc	6:cc	Seg=B-seg
-2	then	then	ADV	RB	PronType=Dem	6	advmod	6:advmod|Seg=O
+2	then	then	ADV	RB	PronType=Dem	6	advmod	6:advmod	Seg=O
 3	that	that	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	Entity=(79-abstract-giv:act-nnnnn-cf1*-2-coref|Seg=O
 4	language	language	NOUN	NN	Number=Sing	6	nsubj:pass	6:nsubj:pass	Entity=79)|Seg=O
 5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	6:aux:pass	Seg=O
@@ -10526,7 +10526,7 @@
 17	student	student	NOUN	NN	Number=Sing	18	compound	18:compound	Entity=(27-abstract-giv:inact-ssnss-cf5-2-coref|MSeg=stud-ent|Seg=O
 18	loans	loan	NOUN	NNS	Number=Plur	13	nmod	13:nmod:of	Entity=27)91)|MSeg=loan-s|Seg=O
 19	and	and	CCONJ	CC	_	21	cc	21:cc	Seg=B-seg
-20	also	also	ADV	RB	_	21	advmod	21:advmod|Seg=O
+20	also	also	ADV	RB	_	21	advmod	21:advmod	Seg=O
 21	govern	govern	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	conj	6:acl:relcl|11:conj:and	Seg=O
 22	discharge	discharge	NOUN	NN	Number=Sing	21	obj	21:obj	Entity=(92-event-new-nnnnn-cf9-1-coref)|MSeg=dis-charge|Seg=O
 23	and	and	CCONJ	CC	_	24	cc	24:cc	Seg=O
@@ -10590,7 +10590,7 @@
 39	this	this	DET	DT	Number=Sing|PronType=Dem	40	det	40:det	Entity=(81-abstract-giv:inact-nnnsn-cf9-2-coref|Seg=O
 40	program	program	NOUN	NN	Number=Sing	37	obl	37:obl:under	Entity=81)96)|Seg=O
 41	and	and	CCONJ	CC	_	43	cc	43:cc	Seg=B-seg
-42	then	then	ADV	RB	PronType=Dem	43	advmod	43:advmod|Seg=O
+42	then	then	ADV	RB	PronType=Dem	43	advmod	43:advmod	Seg=O
 43	modified	modify	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	conj	3:ccomp|22:conj:and	MSeg=modifi-ed|Seg=O
 44	the	the	DET	DT	Definite=Def|PronType=Art	45	det	45:det	Entity=(80-abstract-giv:act-nnnnn-cf2-2-coref|Seg=O
 45	provisions	provision	NOUN	NNS	Number=Plur	43	obj	43:obj|47:nsubj:xsubj	Entity=80)|MSeg=provision-s|Seg=O
@@ -10672,7 +10672,7 @@
 48	provision	provision	NOUN	NN	Number=Sing	42	obj	42:obj|44:obj	Entity=61)101)|MSeg=provis-ion|Seg=O|SpaceAfter=No
 49	,	,	PUNCT	,	_	57	punct	57:punct	Seg=O
 50	and	and	CCONJ	CC	_	57	cc	57:cc	Seg=B-seg
-51	so	so	ADV	RB	_	57	advmod	57:advmod|Seg=O
+51	so	so	ADV	RB	_	57	advmod	57:advmod	Seg=O
 52	the	the	DET	DT	Definite=Def|PronType=Art	54	det	54:det	Entity=(30-abstract-giv:act-sssns-cf3-2,3-coref-Higher_Education_Relief_Opportunities_For_Students_Act|Seg=O
 53	HEROES	HEROES	PROPN	NNP	Number=Sing	54	compound	54:compound	Seg=O|XML=<hi rend:::"caps"></hi>
 54	Act	Act	PROPN	NNP	Number=Sing	57	nsubj	57:nsubj	Entity=30)|Seg=O
@@ -11639,7 +11639,7 @@
 # addressee = Court
 # text = And therefore what the Newfoundland and Labrador Court of Appeal did is -- is nothing out of the ordinary.
 1	And	and	CCONJ	CC	_	15	cc	15:cc	Seg=B-seg
-2	therefore	therefore	ADV	RB	Degree=Pos	15	advmod	15:advmod|Seg=O
+2	therefore	therefore	ADV	RB	Degree=Pos	15	advmod	15:advmod	Seg=O
 3	what	what	PRON	WP	PronType=Rel	15	nsubj	15:nsubj	Entity=(56-abstract-new-nnnnn-cf3-3,5,8,13-disc|Seg=O
 4	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Entity=(57-organization-new-ssssn-cf1-2,4,5,7-coref-Court_of_Appeal_of_Newfoundland_and_Labrador|Seg=O
 5	Newfoundland	Newfoundland	PROPN	NNP	Number=Sing	8	compound	8:compound	Entity=(58-place-new-snssn-cf5-1,3-coref(59-place-new-ssssn-cf6-1-coref-Newfoundland_%28island%29)|MSeg=New-found-land|Seg=O
@@ -12211,7 +12211,7 @@
 # addressee = Court
 # text = And so I have -- there are really two main reasons I say why the proposed cause of action should be definitively ruled by this court, not to be sound at law.
 1	And	and	CCONJ	CC	_	7	cc	7:cc	Seg=B-seg
-2	so	so	ADV	RB	_	7	advmod	7:advmod|Seg=O
+2	so	so	ADV	RB	_	7	advmod	7:advmod	Seg=O
 3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Entity=(9-person-giv:inact-snssn-cf1-1-ana)|Seg=O
 4	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	reparandum	7:reparandum	Seg=O
 5	--	-	PUNCT	:	_	4	punct	4:punct	Seg=O
@@ -13376,7 +13376,7 @@
 6	digest	digest	VERB	VB	VerbForm=Inf	4	advcl	4:advcl:to	Seg=O|SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	10:punct	Seg=O
 8	stomachs	stomach	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj|12:nsubj:xsubj	Entity=(62-object-new-nnnnn-cf2-1-sgl)|MSeg=stomach-s|Seg=B-seg
-9	also	also	ADV	RB	_	10	advmod	10:advmod|Seg=O
+9	also	also	ADV	RB	_	10	advmod	10:advmod	Seg=O
 10	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	4:parataxis	Seg=O
 11	to	to	PART	TO	_	12	mark	12:mark	Seg=O
 12	work	work	VERB	VB	VerbForm=Inf	10	xcomp	10:xcomp	Seg=O
@@ -13665,7 +13665,7 @@
 14	day	day	NOUN	NN	Number=Sing	12	nmod:unmarked	12:nmod:unmarked	Entity=95)94)|Seg=O|SpaceAfter=No
 15	,	,	PUNCT	,	_	18	punct	18:punct	Seg=O
 16	and	and	CCONJ	CC	_	18	cc	18:cc	Seg=B-seg
-17	then	then	ADV	RB	PronType=Dem	18	advmod	18:advmod|Seg=O
+17	then	then	ADV	RB	PronType=Dem	18	advmod	18:advmod	Seg=O
 18	lie	lie	VERB	VB	VerbForm=Inf	7	conj	5:advcl:to|7:conj:and	Seg=O
 19	on	on	ADP	IN	_	21	case	21:case	Seg=O
 20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	Entity=(96-object-new-nnnnn-cf6-2-coref|Seg=O
@@ -14259,7 +14259,7 @@
 21	new	new	ADJ	JJ	Degree=Pos	22	amod	22:amod	Entity=(164-person-new-nnnnn-cf7-2-sgl|Seg=O
 22	friends	friend	NOUN	NNS	Number=Plur	20	obj	20:obj	Entity=164)|MSeg=friend-s|Seg=O
 23	(	(	PUNCT	-LRB-	_	26	punct	26:punct	Seg=B-seg|SpaceAfter=No
-24	or	or	CCONJ	CC	_	26	cc	26:cc|Seg=O
+24	or	or	CCONJ	CC	_	26	cc	26:cc	Seg=O
 25	a	a	DET	DT	Definite=Ind|PronType=Art	26	det	26:det	Entity=(165-person-new-nnnnn-cf9-2-sgl|Seg=O
 26	date	date	NOUN	NN	Number=Sing	22	conj	20:obj|22:conj:or	Entity=165)|Seg=O|SpaceAfter=No
 27	)	)	PUNCT	-RRB-	_	26	punct	26:punct	Seg=O
@@ -14627,7 +14627,7 @@
 9	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	2:parataxis	Cxn=Ditransitive|CxnElt=9:Ditransitive.V|MSeg=tol-d|Seg=O
 10	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	iobj	9:iobj	CxnElt=9:Ditransitive.Rec|Entity=(12-person-giv:inact-nnnnn-cf3-1-ana)|Seg=O
 11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	Entity=(19-person-giv:act-nnnnn-cf1*-1-ana)|Seg=B-seg
-12	once	once	ADV	RB	NumForm=Word|NumType=Mult	13	advmod	13:advmod|Seg=O
+12	once	once	ADV	RB	NumForm=Word|NumType=Mult	13	advmod	13:advmod	Seg=O
 13	opened	open	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	ccomp	9:ccomp	CxnElt=9:Ditransitive.Theme|MSeg=open-ed|Seg=O
 14	early	early	ADV	RB	Degree=Pos	13	advmod	13:advmod	Seg=O
 15	on	on	ADP	IN	_	17	case	17:case	Seg=O
@@ -14770,7 +14770,7 @@
 # transition = establishment
 # text = “But we’re not in the position to make the investment in all the electronics and computers.
 1	“	"	PUNCT	``	_	8	punct	8:punct	Seg=B-seg|SpaceAfter=No
-2	But	but	CCONJ	CC	_	8	cc	8:cc|Seg=O
+2	But	but	CCONJ	CC	_	8	cc	8:cc	Seg=O
 3-4	we’re	_	_	_	_	_	_	_	_
 3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	8:nsubj	Entity=(40-person-giv:act-nnnnn-cf1*-1-ana)|Seg=O
 4	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	cop	8:cop	Seg=O
@@ -15009,7 +15009,7 @@
 8	prevail	prevail	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root|17:csubj	Seg=O|SpaceAfter=No
 9	,	,	PUNCT	,	_	17	punct	17:punct	Seg=O
 10	which	which	PRON	WDT	PronType=Rel	17	nsubj	8:ref|17:nsubj	Seg=B-seg
-11	in	in	ADP	IN	_	13	case	13:case|Seg=O
+11	in	in	ADP	IN	_	13	case	13:case	Seg=O
 12	this	this	DET	DT	Number=Sing|PronType=Dem	13	det	13:det	Seg=O
 13	case	case	NOUN	NN	Number=Sing	17	obl	17:obl:in	Seg=O
 14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	17:cop	Seg=O
@@ -15093,7 +15093,7 @@
 3	portrayed	portray	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=portray-ed|Seg=O
 4	as	as	ADP	IN	_	7	case	7:case	Seg=O
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Entity=(77-object-new-nnnnn-cf2-3-sgl|Seg=O
-6	ultimate	ultimate	ADJ	JJ	Degree=Pos	7	amod	7:amod|Seg=O
+6	ultimate	ultimate	ADJ	JJ	Degree=Pos	7	amod	7:amod	Seg=O
 7	instruments	instrument	NOUN	NNS	Number=Plur	3	obl	3:obl:as	MSeg=instrument-s|Seg=O
 8	of	of	ADP	IN	_	9	case	9:case	Seg=O
 9	democracy	democracy	NOUN	NN	Number=Sing	7	nmod	7:nmod:of	Entity=(78-abstract-new-nnnnn-cf3-1-sgl)77)|MSeg=democra-cy|Seg=O|SpaceAfter=No
@@ -15109,8 +15109,8 @@
 3	put	put	VERB	VB	VerbForm=Inf	0	root	0:root	Seg=O
 4	knowledge	knowledge	NOUN	NN	Number=Sing	3	obj	3:obj	Entity=(79-abstract-new-nsnnn-cf2-1-sgl)|MSeg=know-ledge|Seg=O
 5	—	—	PUNCT	:	_	8	punct	8:punct	Seg=B-seg
-6	and	and	CCONJ	CC	_	8	cc	8:cc|Seg=O
-7	therefore	therefore	ADV	RB	Degree=Pos	8	advmod	8:advmod|Seg=O
+6	and	and	CCONJ	CC	_	8	cc	8:cc	Seg=O
+7	therefore	therefore	ADV	RB	Degree=Pos	8	advmod	8:advmod	Seg=O
 8	power	power	NOUN	NN	Number=Sing	4	conj	3:obj|4:conj:and	Entity=(80-abstract-new-nnnnn-cf4-1-sgl)|Seg=O
 9	—	—	PUNCT	:	_	12	punct	12:punct	Seg=O
 10	on	on	ADP	IN	_	12	case	12:case	Seg=B-seg
@@ -15154,7 +15154,7 @@
 # transition = null
 # text = “While the Industrial Revolution herded people into gigantic social institutions — big corporations, big unions, big governments,” wrote Newt Gingrich in his book To Renew America, “the Information Revolution is breaking up these giants and leading us back to something that is — strangely enough — much more like de Tocqueville’s 1830s America.”
 1	“	"	PUNCT	``	_	6	punct	6:punct	Seg=B-seg|SpaceAfter=No|XML=<quote>
-2	While	while	SCONJ	IN	_	6	mark	6:mark|Seg=O
+2	While	while	SCONJ	IN	_	6	mark	6:mark	Seg=O
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	Entity=(85-event-new-nnnnn-cf7-2,3-sgl-Industrial_Revolution|Seg=O
 4	Industrial	Industrial	ADJ	NNP	Degree=Pos	5	amod	5:amod	MSeg=Industri-al|Seg=O
 5	Revolution	Revolution	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	Entity=85)|MSeg=Revol-ution|Seg=O
@@ -16020,7 +16020,7 @@
 13	even	even	ADV	RB	_	14	advmod	14:advmod	Seg=O
 14	more	more	ADV	RBR	Degree=Cmp	2	advmod	2:advmod	Seg=O
 15	(	(	PUNCT	-LRB-	_	21	punct	21:punct	Seg=B-seg|SpaceAfter=No
-16	and	and	CCONJ	CC	_	21	cc	21:cc|Seg=O
+16	and	and	CCONJ	CC	_	21	cc	21:cc	Seg=O
 17	consumption	consumption	NOUN	NN	Number=Sing	21	nsubj	21:nsubj	Entity=(182-abstract-new-nnnnn-cf2-1-coref)|MSeg=consumpt-ion|Seg=O
 18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	21:cop	Seg=O
 19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	Entity=(182-abstract-giv:act-nnnnn-cf2-3-coref|Seg=O
@@ -16155,7 +16155,7 @@
 # text = Compare, for example, traditional fairy tales with the kiddy entertainment today that has embedded products such as candy bars and colas.
 1	Compare	compare	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Seg=B-seg|SpaceAfter=No
 2	,	,	PUNCT	,	_	4	punct	4:punct	Seg=O
-3	for	for	ADP	IN	_	4	case	4:case|Seg=O
+3	for	for	ADP	IN	_	4	case	4:case	Seg=O
 4	example	example	NOUN	NN	Number=Sing	1	obl	1:obl:for	Seg=O|SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	8:punct	Seg=O
 6	traditional	traditional	ADJ	JJ	Degree=Pos	8	amod	8:amod	Entity=(195-abstract-new-nnnnn-cf2-3-sgl|MSeg=tradition-al|Seg=O
@@ -18135,7 +18135,7 @@
 # text = I have since learned that that doctor wrote a well-received treatise, On the Medicinal Properties of the Juice of the Young Coconut, and died a respected man in his native city of Deinivel; but at the time I felt certain he had returned with his sack of tree-cuttings.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Entity=(5-person-giv:act-sssss-cf1*-1-ana)|Seg=B-seg
 2	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	4:aux	Seg=O
-3	since	since	ADV	RB	Degree=Pos	4	advmod	4:advmod|Seg=O
+3	since	since	ADV	RB	Degree=Pos	4	advmod	4:advmod	Seg=O
 4	learned	learn	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	MSeg=learn-ed|Seg=O
 5	that	that	SCONJ	IN	_	8	mark	8:mark	Seg=B-seg
 6	that	that	DET	DT	Number=Sing|PronType=Dem	7	det	7:det	Entity=(55-person-giv:act-nsssn-cf2-2-coref|Seg=O
@@ -21438,7 +21438,7 @@
 6	wars	war	NOUN	NNS	Number=Plur	16	nsubj:pass	16:nsubj:pass|18:nsubj:xsubj	Entity=(54-event-new-snnnn-cf1-1-coref)|MSeg=war-s|Seg=O|SpaceAfter=No
 7	,	,	PUNCT	,	_	6	punct	6:punct	Seg=O
 8	even	even	ADV	RB	_	13	advmod	13:advmod	Seg=B-seg
-9	when	when	ADV	WRB	PronType=Int	13	advmod	13:advmod|Seg=O
+9	when	when	ADV	WRB	PronType=Int	13	advmod	13:advmod	Seg=O
 10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj:pass	13:nsubj:pass	Entity=(54-event-giv:act-snnnn-cf1-1-ana)|Seg=O
 11	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	13:aux:pass	Seg=O
 12	not	not	PART	RB	Polarity=Neg	13	advmod	13:advmod	Negation=Yes|Seg=O
@@ -21468,7 +21468,7 @@
 8	York	York	PROPN	NNP	Number=Sing	7	flat	7:flat	Entity=57)|Seg=O|SpaceAfter=No
 9	,	,	PUNCT	,	_	13	punct	13:punct	Seg=O
 10	especially	especially	ADV	RB	Degree=Pos	13	advmod	13:advmod	MSeg=especial-ly|Seg=B-seg
-11	as	as	SCONJ	IN	_	13	mark	13:mark|Seg=O
+11	as	as	SCONJ	IN	_	13	mark	13:mark	Seg=O
 12	there	there	PRON	EX	PronType=Dem	13	expl	13:expl	Seg=O
 13-14	isn't	_	_	_	_	_	_	_	_
 13	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	5:advcl:as	Cxn=Existential-CopPred-ThereExpl|Seg=O
@@ -22655,7 +22655,7 @@
 24	presented	present	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	23	acl	23:acl	MSeg=present-ed|Seg=B-seg
 25	here	here	ADV	RB	PronType=Dem	24	advmod	24:advmod	Entity=(72-place-giv:act-nnnnn-cf3-1-coref)63)|Seg=O
 26	and	and	CCONJ	CC	_	30	cc	30:cc	Seg=B-seg
-27	therefore	therefore	ADV	RB	Degree=Pos	30	advmod	30:advmod|Seg=O
+27	therefore	therefore	ADV	RB	Degree=Pos	30	advmod	30:advmod	Seg=O
 28-29	cannot	_	_	_	_	_	_	_	_
 28	can	can	AUX	MD	VerbForm=Fin	30	aux	30:aux	Seg=O|XML=<w>
 29	not	not	PART	RB	Polarity=Neg	30	advmod	30:advmod	Negation=Yes|Seg=O|XML=</w>
@@ -23167,7 +23167,7 @@
 6	Student	Student	PROPN	NNP	Number=Sing	7	compound	7:compound	Entity=2)|MSeg=Stud-ent|Seg=O
 7	Government	Government	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	Entity=1)|MSeg=Govern-ment|Seg=O
 8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	Seg=O
-9	most	most	ADV	RBS	Degree=Sup	10	advmod	10:advmod|Seg=O
+9	most	most	ADV	RBS	Degree=Sup	10	advmod	10:advmod	Seg=O
 10	passionate	passionate	ADJ	JJ	Degree=Pos	4	acl:relcl	4:acl:relcl	MSeg=passion-ate|Seg=O
 11	about	about	ADP	IN	_	10	obl	10:obl	Seg=O
 12	in	in	ADP	IN	_	13	case	13:case	Seg=B-seg
@@ -23777,7 +23777,7 @@
 # transition = continue
 # text = Gloria also became unable to move her legs.
 1	Gloria	Gloria	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj|4:nsubj:xsubj|6:nsubj:xsubj	Entity=(4-person-giv:act-sssss-cf1*-1-coref)|Seg=B-seg
-2	also	also	ADV	RB	_	3	advmod	3:advmod|Seg=O
+2	also	also	ADV	RB	_	3	advmod	3:advmod	Seg=O
 3	became	become	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Seg=O
 4	unable	unable	ADJ	JJ	Degree=Pos	3	xcomp	3:xcomp	MSeg=un-able|Negation=Yes|Seg=O
 5	to	to	PART	TO	_	6	mark	6:mark	Seg=O
@@ -23795,7 +23795,7 @@
 # text = Mr. Tedeschi also told the court that, over the last five months of her life, "Gloria's eczema played a devastating role in her overall health and it is asserted by the Crown that both her parents knew this and discussed it with each other."
 1	Mr.	Mr.	PROPN	NNP	Abbr=Yes|Number=Sing	2	nmod:desc	2:nmod:desc	Entity=(39-person-giv:inact-nnnnn-cf4-1,2-coref-Mark_Tedeschi|Seg=B-seg
 2	Tedeschi	Tedeschi	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj	Entity=39)|Seg=O
-3	also	also	ADV	RB	_	4	advmod	4:advmod|Seg=O
+3	also	also	ADV	RB	_	4	advmod	4:advmod	Seg=O
 4	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Cxn=Ditransitive|CxnElt=4:Ditransitive.V|MSeg=tol-d|Seg=O
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Entity=(49-organization-new-nnnnn-cf10-2-sgl|Seg=O
 6	court	court	NOUN	NN	Number=Sing	4	iobj	4:iobj	CxnElt=4:Ditransitive.Rec|Entity=49)|Seg=O
@@ -23965,7 +23965,7 @@
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	Entity=(1-person-giv:inact-snnsn-cf1-2-coref|Seg=B-seg
 2	parents	parent	NOUN	NNS	Number=Plur	5	nsubj:pass	5:nsubj:pass	Entity=1)|MSeg=parent-s|Seg=O
 3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	5:aux:pass	Seg=O
-4	also	also	ADV	RB	_	5	advmod	5:advmod|Seg=O
+4	also	also	ADV	RB	_	5	advmod	5:advmod	Seg=O
 5	accused	accuse	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=accus-ed|Seg=O
 6	of	of	SCONJ	IN	_	7	mark	7:mark	Seg=O
 7	putting	put	VERB	VBG	Tense=Pres|VerbForm=Part	5	advcl	5:advcl:of	MSeg=putt-ing|Seg=O
@@ -24733,7 +24733,7 @@
 14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	nsubj	16:nsubj|22:nsubj	Entity=(66-person-acc:com-nnnnn-cf2-1-ana)|Seg=B-seg
 15	've	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	16	aux	16:aux	Seg=O
 16	tried	try	VERB	VBN	Tense=Past|VerbForm=Part	3	parataxis	3:parataxis	MSeg=tri-ed|Seg=O
-17	so	so	ADV	RB	_	18	advmod	18:advmod|Seg=O
+17	so	so	ADV	RB	_	18	advmod	18:advmod	Seg=O
 18	far	far	ADV	RB	Degree=Pos	16	advmod	16:advmod	Seg=O
 19	and	and	CCONJ	CC	_	22	cc	22:cc	Seg=B-seg
 20-21	haven't	_	_	_	_	_	_	_	_
@@ -25028,7 +25028,7 @@
 48-49	you'll	_	_	_	_	_	_	_	_
 48	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	51	nsubj	51:nsubj	Entity=(95-person-acc:com-n____-cf7-1-sgl)|Seg=O
 49	'll	will	AUX	MD	VerbForm=Fin	51	aux	51:aux	Seg=O
-50	then	then	ADV	RB	PronType=Dem	51	advmod	51:advmod|Seg=O
+50	then	then	ADV	RB	PronType=Dem	51	advmod	51:advmod	Seg=O
 51	see	see	VERB	VB	VerbForm=Inf	30	parataxis	30:parataxis	Seg=O
 52	consequences	consequence	NOUN	NNS	Number=Plur	54	nsubj	54:nsubj|59:nsubj|62:nsubj|66:nsubj	Entity=(96-abstract-new-nnnnn-cf10-1-coref)|MSeg=consequ-ence-s|Seg=O
 53	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	54	cop	54:cop	MSeg=be-ing|Seg=O
@@ -25060,7 +25060,7 @@
 # transition = rough-shift
 # text = "If an infant's not getting enough iodine ... brain development won't be completed and they won't grow normally, and as you get older the problem will be that you will develop a goiter and your thyroid won't function as well as it should, so that may have all sorts of pernicious effects upon normal function in life."
 1	"	"	PUNCT	``	_	16	punct	16:punct	Seg=B-seg|SpaceAfter=No|XML=<quote>
-2	If	if	SCONJ	IN	_	7	mark	7:mark|Seg=O
+2	If	if	SCONJ	IN	_	7	mark	7:mark	Seg=O
 3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	Entity=(102-person-new-nnnnn-cf1-2-coref|Seg=O
 4-5	infant's	_	_	_	_	_	_	_	_
 4	infant	infant	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=102)|Seg=O
@@ -25086,7 +25086,7 @@
 22	normally	normally	ADV	RB	Degree=Pos	21	advmod	21:advmod	MSeg=norm-al-ly|Seg=O|SpaceAfter=No
 23	,	,	PUNCT	,	_	36	punct	36:punct	Seg=O
 24	and	and	CCONJ	CC	_	36	cc	36:cc	Seg=B-seg
-25	as	as	SCONJ	IN	_	27	mark	27:mark|Seg=O
+25	as	as	SCONJ	IN	_	27	mark	27:mark	Seg=O
 26	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	27	nsubj	27:nsubj|28:nsubj:xsubj	Entity=(102-person-giv:act-nnnnn-cf1-1-ana)|Seg=O
 27	get	get	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	36	advcl	36:advcl:as	Seg=O
 28	older	old	ADJ	JJR	Degree=Cmp	27	xcomp	27:xcomp	MSeg=old-er|Seg=O
@@ -25154,7 +25154,7 @@
 15	deficiency	deficiency	NOUN	NN	Number=Sing	12	obl	12:obl:to	Entity=2)111)|MSeg=deficien-cy|Seg=O|SpaceAfter=No
 16	,	,	PUNCT	,	_	23	punct	23:punct	Seg=O
 17	and	and	CCONJ	CC	_	23	cc	23:cc	Seg=B-seg
-18	yet	yet	ADV	RB	_	23	advmod	23:advmod|Seg=O
+18	yet	yet	ADV	RB	_	23	advmod	23:advmod	Seg=O
 19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	20:det	Entity=(2-abstract-giv:act-sssss-cf1-2-coref|Seg=O
 20	problem	problem	NOUN	NN	Number=Sing	23	nsubj:pass	23:nsubj:pass	Entity=2)|Seg=O
 21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux:pass	23:aux:pass	Seg=O
@@ -25336,7 +25336,7 @@
 # transition = zero
 # text = "If Iodine deficiency is serious you lose 15 IQ points, on average.
 1	"	"	PUNCT	``	_	8	punct	8:punct	Seg=B-seg|SpaceAfter=No
-2	If	if	SCONJ	IN	_	6	mark	6:mark|Seg=O
+2	If	if	SCONJ	IN	_	6	mark	6:mark	Seg=O
 3	Iodine	iodine	NOUN	NN	Number=Sing	4	compound	4:compound	Entity=(2-abstract-giv:inact-sssss-cf2-2-coref(3-substance-giv:inact-sssss-cf3-1-coref-Iodine)|MSeg=Iod-ine|Seg=O
 4	deficiency	deficiency	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	Entity=2)|MSeg=deficien-cy|Seg=O
 5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	Seg=O
@@ -26084,7 +26084,7 @@
 # addressee = Aud
 # text = Perhaps then Bangladesh and its unique New Year's procession can offer some inspiration.
 1	Perhaps	perhaps	ADV	RB	Degree=Pos	12	advmod	12:advmod	MSeg=Per-hap-s|Seg=B-seg
-2	then	then	ADV	RB	PronType=Dem	12	advmod	12:advmod|Seg=O
+2	then	then	ADV	RB	PronType=Dem	12	advmod	12:advmod	Seg=O
 3	Bangladesh	Bangladesh	PROPN	NNP	Number=Sing	12	nsubj	12:nsubj	Entity=(7-place-giv:inact-ssnss-cf1-1-coref-Bangladesh)|Seg=O
 4	and	and	CCONJ	CC	_	10	cc	10:cc	Seg=O
 5	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	Entity=(1-event-giv:inact-sssss-cf3-3,6-coref-Mangal_Shobhajatra(7-place-giv:act-ssnss-cf1-1-ana-Bangladesh)|MSeg=it-s|Seg=O
@@ -26533,7 +26533,7 @@
 # text = This is also from Dhaka, Bangladesh.
 1	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	5:nsubj	Entity=(74-person-giv:act-snnnn-cf1*-1-ana)|Seg=B-seg
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Seg=O
-3	also	also	ADV	RB	_	5	advmod	5:advmod|Seg=O
+3	also	also	ADV	RB	_	5	advmod	5:advmod	Seg=O
 4	from	from	ADP	IN	_	5	case	5:case	Seg=O
 5	Dhaka	Dhaka	PROPN	NNP	Number=Sing	0	root	0:root	Entity=(6-place-giv:inact-sssss-cf2-1,3-coref-Dhaka|Seg=O|SpaceAfter=No
 6	,	,	PUNCT	,	_	7	punct	7:punct	Seg=O
@@ -27873,7 +27873,7 @@
 # text = Yeah, and he’ll be mine as well, but there does come a time when you have to go “look, it’s over”.
 1	Yeah	yeah	INTJ	UH	Polarity=Pos	7	discourse	7:discourse	Seg=B-seg|SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	1:punct	Seg=O
-3	and	and	CCONJ	CC	_	7	cc	7:cc|Seg=O
+3	and	and	CCONJ	CC	_	7	cc	7:cc	Seg=O
 4-5	he’ll	_	_	_	_	_	_	_	_
 4	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	Entity=(21-person-giv:act-sssss-cf1*-1-ana-The_Undertaker)|Seg=O
 5	’ll	will	AUX	MD	VerbForm=Fin	7	aux	7:aux	Seg=O
@@ -28986,7 +28986,7 @@
 6	__	_	ADP	IN	_	7	case	7:case	Seg=O
 7	________	billion	NOUN	NNS	Number=Plur	19	advcl	19:advcl:if	CxnElt=19:Conditional-UnspecifiedEpistemic-NoInversion.Protasis|Entity=(4-abstract-new-nnnsn-cf2-1-sgl|MSeg=billion-s|Seg=O
 8	_	_	PUNCT	-LRB-	_	11	punct	11:punct	Seg=B-seg|SpaceAfter=No
-9	__	_	SCONJ	IN	_	11	mark	11:mark|Seg=O
+9	__	_	SCONJ	IN	_	11	mark	11:mark	Seg=O
 10	___	_	PART	RB	Polarity=Neg	11	advmod	11:advmod	Negation=Yes|Seg=O
 11	_________	trillion	NOUN	NNS	Number=Plur	7	acl	7:acl:if	MSeg=trillion-s|Seg=O|SpaceAfter=No
 12	_	_	PUNCT	-RRB-	_	11	punct	11:punct	Seg=O
@@ -29057,7 +29057,7 @@
 29	___	_	DET	DT	Definite=Def|PronType=Art	30	det	30:det	Bridge=7<11|Entity=(11-object-acc:inf-n____-cf5-2-sgl|Seg=O
 30	____	_	NOUN	NN	Number=Sing	27	nmod	27:nmod:of	Entity=11)10)7)|Seg=O
 31	_	_	PUNCT	-LRB-	_	38	punct	38:punct	Seg=B-seg|SpaceAfter=No
-32	___	_	CCONJ	CC	_	38	cc	38:cc|Seg=O
+32	___	_	CCONJ	CC	_	38	cc	38:cc	Seg=O
 33	________	print	VERB	VBG	VerbForm=Ger	38	csubj	38:csubj	MSeg=print-ing|Seg=O
 34	_____	_	NOUN	NN	Number=Sing	33	obj	33:obj	Entity=(12-abstract-new-sssss-cf3-1-coref)|Seg=O
 35	____	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	aux	38:aux	MSeg=doe-s|Seg=O
@@ -29998,7 +29998,7 @@
 32	___	_	VERB	VB	VerbForm=Inf	28	conj	13:conj|28:conj:and	Seg=O
 33	__	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	32	obj	32:obj	Entity=(110-object-acc:com-nnnnn-cf3-1-coref)|Seg=O
 34	____	_	ADV	RB	_	38	advmod	38:advmod	Seg=B-seg
-35	____	_	SCONJ	IN	_	38	mark	38:mark|Seg=O
+35	____	_	SCONJ	IN	_	38	mark	38:mark	Seg=O
 36	___	_	DET	DT	Definite=Def|PronType=Art	37	det	37:det	Entity=(104-person-giv:act-n____-cf1-2-coref|Seg=O
 37	______	_	NOUN	NN	Number=Sing	38	nsubj	38:nsubj	Entity=104)|Seg=O
 38	___	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	advcl	32:advcl:like	Seg=O
@@ -30133,7 +30133,7 @@
 37	________	_	PRON	NN	Number=Sing|PronType=Ind	35	obj	35:obj	CxnElt=35:Ditransitive.Theme|Entity=(123-abstract-new-nnnnn-cf6-1-sgl)|MSeg=any-thing|Seg=O
 38	__	_	ADP	IN	_	39	case	39:case	Seg=O
 39	______	_	NOUN	NN	Number=Sing	35	obl	35:obl:in	Seg=O
-40	___	_	ADP	IN	_	41	case	41:case|Seg=O
+40	___	_	ADP	IN	_	41	case	41:case	Seg=O
 41	__	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	35	obl	35:obl:for	Entity=(121-abstract-giv:act-nnnnn-cf1-1-ana)|Seg=O|SpaceAfter=No
 42	_	_	PUNCT	''	_	4	punct	4:punct	Seg=O|SpaceAfter=No
 43	_	_	PUNCT	.	_	4	punct	4:punct	Seg=O|XML=</quote>
@@ -30402,7 +30402,7 @@
 # text = _ ____ ____ ______ _____ __ ________ __ _____________ __ _______ __ ______ ___ _______ ____ __ _ ______ ___ _______ ______ ___ __ _____ ______ ____ ____ ____ __________
 1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Entity=(145-person-giv:act-sssss-cf1*-1-ana)|Seg=B-seg
 2	____	_	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	4:aux	Seg=O
-3	____	_	ADV	RB	_	4	advmod	4:advmod|Seg=O
+3	____	_	ADV	RB	_	4	advmod	4:advmod	Seg=O
 4	______	post	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	Entity=(149-event-new-nnnnn-cf2-1-disc|MSeg=post-ed|Seg=O
 5	_____	_	ADV	RB	Degree=Pos	4	advmod	4:advmod	MSeg=be-low|Seg=O
 6	__	_	ADP	IN	_	7	case	7:case	Seg=O
@@ -30465,7 +30465,7 @@
 22	___	_	CCONJ	CC	_	23	cc	23:cc	Seg=O
 23	______________	_	NOUN	NN	Number=Sing	21	conj	19:obj|21:conj:and	Entity=(155-abstract-new-n____-cf5-1-sgl)|MSeg=macro-econom-ic-s|Seg=O|SpaceAfter=No
 24	_	_	PUNCT	,	_	26	punct	26:punct	Seg=O
-25	__	_	ADP	IN	_	26	case	26:case|Seg=O
+25	__	_	ADP	IN	_	26	case	26:case	Seg=O
 26	_______	_	ADJ	JJ	Degree=Pos	19	obl	19:obl:in	Entity=153)152)|Seg=O|SpaceAfter=No
 27	_	_	PUNCT	.	_	3	punct	3:punct	Seg=O
 
@@ -30528,7 +30528,7 @@
 17	__	_	ADP	IN	_	18	case	18:case	Seg=O
 18	________	_	NOUN	NN	Number=Sing	16	nmod	16:nmod:of	Entity=(162-abstract-new-nnnnn-cf5-1-coref)161)|MSeg=currenc-y|Seg=O|SpaceAfter=No
 19	_	_	PUNCT	,	_	21	punct	21:punct	Seg=O
-20	__	_	ADP	IN	_	21	case	21:case|Seg=O
+20	__	_	ADP	IN	_	21	case	21:case	Seg=O
 21	_______	_	ADJ	JJ	Degree=Pos	14	obl	14:obl:in	Entity=16)160)|Seg=O|SpaceAfter=No
 22	_	_	PUNCT	.	_	6	punct	6:punct	Seg=O
 
@@ -30811,7 +30811,7 @@
 5	______	large	ADJ	JJR	Degree=Cmp	7	amod	7:amod	Entity=(28-abstract-new-nnnnn-cf5-3-sgl|MSeg=larg-er|Seg=O
 6	_____	_	NOUN	NN	Number=Sing	7	compound	7:compound	Entity=(7-animal-giv:inact-sssss-cf1-1-coref-Giant_panda)|Seg=O
 7	___________	population	NOUN	NNS	Number=Plur	1	nmod	1:nmod:with	Entity=28)26)|MSeg=populat-ion-s|Seg=O
-8	____	_	ADV	RB	_	9	advmod	9:advmod|Seg=O
+8	____	_	ADV	RB	_	9	advmod	9:advmod	Seg=O
 9	____	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Seg=O
 10	___	_	ADV	RB	Degree=Pos	11	advmod	11:advmod	Seg=O
 11	_____	few	ADJ	JJR	Degree=Cmp	12	amod	12:amod	Entity=(29-abstract-new-nnnnn-cf3-2-sgl|MSeg=few-er|Seg=O
@@ -30890,7 +30890,7 @@
 2	______	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Seg=O
 3	____	_	SCONJ	IN	_	6	mark	6:mark	Seg=B-seg
 4	__	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	Entity=(35-event-giv:act-nnnnn-cf1*-1-coref)|Seg=O
-5	____	_	ADV	RB	_	6	advmod	6:advmod|Seg=O
+5	____	_	ADV	RB	_	6	advmod	6:advmod	Seg=O
 6	_______	happen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	MSeg=happ-en-s|Seg=O
 7	_________	_	ADV	RB	Degree=Pos	6	advmod	6:advmod	MSeg=else-where|Seg=O|SpaceAfter=No
 8	_	_	PUNCT	.	_	2	punct	2:punct	Seg=O
@@ -31094,7 +31094,7 @@
 3	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Entity=(59-person-giv:act-snnnn-cf1-1-ana)|Seg=B-seg
 4	____	_	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	ccomp	2:ccomp	Seg=O
 5	____	_	SCONJ	IN	_	13	mark	13:mark	Seg=B-seg
-6	__	_	SCONJ	IN	_	9	mark	9:mark|Seg=O
+6	__	_	SCONJ	IN	_	9	mark	9:mark	Seg=O
 7	____	_	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	Entity=(60-substance-new-s____-cf4-1-sgl)|Seg=O
 8	___	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	9:cop	Seg=O
 9	___	_	ADJ	JJ	Degree=Pos	13	advcl	13:advcl:if	CxnElt=13:Conditional-UnspecifiedEpistemic-NoInversion.Protasis|Seg=O|SpaceAfter=No
@@ -31635,7 +31635,7 @@
 # text = _____ ________ ____ ____ __ __ _____ ____ __ ___ _____ ______ ____ ___ ____ _____ __ ____ ___ ___________
 1	_____	that	DET	DT	Number=Plur|PronType=Dem	2	det	2:det	Bridge=2<102|Entity=(101-abstract-new-nnnnn-cf3-4-disc(102-person-acc:inf-nnnnn-cf1-2-coref|Seg=B-seg
 2	________	child	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj|7:nsubj:pass:xsubj	Entity=102)|MSeg=child-ren|Seg=O
-3	____	_	ADV	RB	PronType=Dem	4	advmod	4:advmod|Seg=O
+3	____	_	ADV	RB	PronType=Dem	4	advmod	4:advmod	Seg=O
 4	____	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Seg=O
 5	__	_	PART	TO	_	7	mark	7:mark	Seg=O
 6	__	_	AUX	VB	VerbForm=Inf	7	aux:pass	7:aux:pass	Seg=O
@@ -32903,7 +32903,7 @@
 # text = I am also proud of the House managers, as all of my colleagues on the Democratic side of the aisle are proud of our managers who made their case.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Entity=(72-person-giv:inact-snnnn-cf1-1-ana)|Seg=B-seg
 2	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	4:cop	Seg=O
-3	also	also	ADV	RB	_	4	advmod	4:advmod|Seg=O
+3	also	also	ADV	RB	_	4	advmod	4:advmod	Seg=O
 4	proud	proud	ADJ	JJ	Degree=Pos	0	root	0:root	Seg=O
 5	of	of	ADP	IN	_	8	case	8:case	Seg=O
 6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Entity=(116-person-new-nnnnn-cf2-3-coref|Seg=O
@@ -33284,7 +33284,7 @@
 15	occasion	occasion	NOUN	NN	Number=Sing	0	root	0:root	Entity=14)|Seg=O|SpaceAfter=No
 16	,	,	PUNCT	,	_	29	punct	29:punct	Seg=O
 17	and	and	CCONJ	CC	_	29	cc	29:cc	Seg=B-seg
-18	yet	yet	ADV	RB	_	29	advmod	29:advmod|Seg=O
+18	yet	yet	ADV	RB	_	29	advmod	29:advmod	Seg=O
 19	in	in	ADP	IN	_	21	case	21:case	Seg=O
 20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	Entity=(15-abstract-new-nnnnn-cf5-2-sgl|Seg=O
 21	history	history	NOUN	NN	Number=Sing	29	nmod	29:nmod:in	Seg=O
@@ -34225,7 +34225,7 @@
 1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	Entity=(109-person-giv:act-nnnnn-cf1*-1-ana)|Seg=B-seg
 2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	Seg=O|SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	2:punct	Seg=O
-4	in	in	ADP	IN	_	5	case	5:case|Seg=O
+4	in	in	ADP	IN	_	5	case	5:case	Seg=O
 5	short	short	ADJ	JJ	Degree=Pos	8	obl	8:obl:in	Seg=O|SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	5:punct	Seg=O
 7	"	"	PUNCT	``	_	8	punct	8:punct	Seg=O|SpaceAfter=No|XML=<q>
@@ -35444,7 +35444,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	Entity=(148-organization-new-nnnnn-cf1-2-coref|Seg=O
 5	government	government	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	Entity=148)|MSeg=govern-ment|Seg=O
 6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	Seg=O
-7	more	more	ADV	RBR	Degree=Cmp	8	advmod	8:advmod|Seg=O
+7	more	more	ADV	RBR	Degree=Cmp	8	advmod	8:advmod	Seg=O
 8	important	important	ADJ	JJ	Degree=Pos	0	root	0:root	MSeg=import-ant|Seg=O
 9	than	than	ADP	IN	_	11	case	11:case	Seg=O
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	Entity=(149-person-new-n____-cf2-2-coref|Seg=O
@@ -35969,7 +35969,7 @@
 8	become	become	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	MSeg=be-come|Seg=O
 9	doctors	doctor	NOUN	NNS	Number=Plur	8	xcomp	8:xcomp	Entity=(52-person-new-nnnnn-cf2-1-sgl)|MSeg=doctor-s|Seg=O|SpaceAfter=No
 10	,	,	PUNCT	,	_	12	punct	12:punct	Seg=O
-11	for	for	ADP	IN	_	12	case	12:case|Seg=O
+11	for	for	ADP	IN	_	12	case	12:case	Seg=O
 12	instance	instance	NOUN	NN	Number=Sing	6	obl	6:obl:for	MSeg=instan-ce|Seg=O|SpaceAfter=No
 13	.	.	PUNCT	.	_	6	punct	6:punct	Seg=O
 
@@ -36590,7 +36590,7 @@
 # speaker = KatieBlake
 # text = Um but it was definitely my first time, like as an adult.
 1	Um	um	INTJ	UH	_	8	discourse	8:discourse	Seg=B-seg
-2	but	but	CCONJ	CC	_	8	cc	8:cc|Seg=O
+2	but	but	CCONJ	CC	_	8	cc	8:cc	Seg=O
 3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	Entity=(6-event-giv:act-nnnsn-cf1*-1-ana)|Seg=O
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	8:cop	Seg=O
 5	definitely	definitely	ADV	RB	Degree=Pos	8	advmod	8:advmod	Entity=(6-event-giv:act-nnnsn-cf1*-4-coref|MSeg=definite-ly|Seg=O
@@ -36676,7 +36676,7 @@
 4	really	really	ADV	RB	Degree=Pos	5	advmod	5:advmod	MSeg=real-ly|Seg=O
 5	cool	cool	ADJ	JJ	Degree=Pos	6	amod	6:amod	Seg=O
 6	footage	footage	NOUN	NN	Number=Sing	2	obj	2:obj	Entity=17)|MSeg=foot-age|Seg=O
-7	but	but	CCONJ	CC	_	12	cc	12:cc|Seg=O
+7	but	but	CCONJ	CC	_	12	cc	12:cc	Seg=O
 8	um	um	INTJ	UH	_	12	discourse	12:discourse	Seg=O|SpaceAfter=No
 9	,	,	PUNCT	,	_	8	punct	8:punct	Seg=O
 10	not	not	PART	RB	Polarity=Neg	12	advmod	12:advmod	Negation=Yes|Seg=O
@@ -37114,7 +37114,7 @@
 # speaker = KatieBlake
 # text = And then one of the biggest things that you should check out while you're there is Powell's which is a bookstore.
 1	And	and	CCONJ	CC	_	18	cc	18:cc	Seg=B-seg
-2	then	then	ADV	RB	PronType=Dem	18	advmod	18:advmod|Seg=O
+2	then	then	ADV	RB	PronType=Dem	18	advmod	18:advmod	Seg=O
 3	one	one	NUM	CD	NumForm=Word|NumType=Card	18	nsubj	18:nsubj	Entity=(57-place-new-sssss-cf2-1-coref-Powell's_Books|Seg=O
 4	of	of	ADP	IN	_	7	case	7:case	Seg=O
 5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Entity=(58-abstract-new-nnnnn-cf4-3-sgl|Seg=O
@@ -37381,7 +37381,7 @@
 8	good	good	ADJ	JJ	Degree=Pos	9	amod	9:amod	Seg=O
 9	hike	hike	NOUN	NN	Number=Sing	5	obl	5:obl:on	Entity=73)|Seg=O
 10	from	from	ADP	IN	_	11	case	11:case	Seg=O
-11	now	now	ADV	RB	_	5	obl	5:obl:from|Seg=O
+11	now	now	ADV	RB	_	5	obl	5:obl:from	Seg=O
 12	and	and	CCONJ	CC	_	13	cc	13:cc	Seg=O
 13	again	again	ADV	RB	Degree=Pos	11	conj	5:obl:from|11:conj:and	Seg=O
 14	so	so	ADV	RB	_	18	advmod	18:advmod	Seg=B-seg
@@ -37547,7 +37547,7 @@
 6	Trail	Trail	PROPN	NNP	Number=Sing	3	obj	3:obj	Entity=84)|Seg=O
 7	and	and	CCONJ	CC	_	10	cc	10:cc	Seg=B-seg
 8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	10:nsubj	Entity=(26-person-giv:act-nnnnn-cf1-1-ana)|Seg=O
-9	also	also	ADV	RB	_	10	advmod	10:advmod|Seg=O
+9	also	also	ADV	RB	_	10	advmod	10:advmod	Seg=O
 10	did	do	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	Seg=O
 11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	Entity=(85-event-new-nnnnn-cf3-2,4-coref|Seg=O
 12	tour	tour	NOUN	NN	Number=Sing	10	obj	10:obj	Seg=O
@@ -37563,7 +37563,7 @@
 # speaker = KatieBlake
 # text = Um if you don't want to do a tour of Pittock Mansion, I'd still recommend like taking the trail up there because it has a really cool like overlook of the city that you can go see.
 1	Um	um	INTJ	UH	_	18	discourse	18:discourse	Seg=B-seg
-2	if	if	SCONJ	IN	_	6	mark	6:mark|Seg=O
+2	if	if	SCONJ	IN	_	6	mark	6:mark	Seg=O
 3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj|8:nsubj:xsubj	Entity=(24-person-giv:inact-n____-cf1-1-ana)|Seg=O
 4-5	don't	_	_	_	_	_	_	_	_
 4	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	6:aux	Seg=O
@@ -37896,7 +37896,7 @@
 25-26	didn't	_	_	_	_	_	_	_	_
 25	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	27	aux	27:aux	Seg=O
 26	n't	not	PART	RB	Polarity=Neg	27	advmod	27:advmod	Negation=Yes|Seg=O
-27	say	say	VERB	VB	VerbForm=Inf	17	advcl:relcl	17:advcl:relcl|Seg=O
+27	say	say	VERB	VB	VerbForm=Inf	17	advcl:relcl	17:advcl:relcl	Seg=O
 28	this	this	PRON	DT	Number=Sing|PronType=Dem	27	obj	27:obj	Entity=(105-abstract-new-nnnnn-cf5-1-cata)|Seg=O
 29	earlier	early	ADV	RBR	Degree=Cmp	27	advmod	27:advmod	MSeg=earli-er|Seg=O|SpaceAfter=No
 30	,	,	PUNCT	,	_	33	punct	33:punct	Seg=O
@@ -38288,7 +38288,7 @@
 10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	Entity=(29-object-new-nnnsn-cf4-2-coref|Seg=O
 11	melanoma	melanoma	NOUN	NN	Number=Sing	9	obj	9:obj	Entity=29)28)|Seg=O
 12	and	and	CCONJ	CC	_	17	cc	17:cc	Seg=B-seg
-13	after	after	SCONJ	IN	_	15	mark	15:mark|Seg=O
+13	after	after	SCONJ	IN	_	15	mark	15:mark	Seg=O
 14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	15:nsubj	Entity=(23-person-giv:act-nnnnn-cf1-1-ana)|Seg=O
 15	inject	inject	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	advcl	17:advcl:after	Seg=O
 16	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	17:nsubj	Entity=(23-person-giv:act-nnnnn-cf1-1-ana)|Seg=B-seg
@@ -38345,7 +38345,7 @@
 9	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	Entity=(33-object-new-nnnnn-cf9-2-sgl(23-person-giv:act-nnnnn-cf1*-1-ana)|Seg=O
 10	cameras	camera	NOUN	NNS	Number=Plur	6	obl	6:obl:under	Entity=33)|MSeg=camera-s|Seg=O
 11	and	and	CCONJ	CC	_	16	cc	16:cc	Seg=B-seg
-12	then	then	ADV	RB	PronType=Dem	16	advmod	16:advmod|Seg=O
+12	then	then	ADV	RB	PronType=Dem	16	advmod	16:advmod	Seg=O
 13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	Bridge=29<34|Entity=(34-person-acc:inf-nnnnn-cf5-2-sgl|Seg=O
 14	patient	patient	NOUN	NN	Number=Sing	16	nsubj	16:nsubj|22:nsubj	Entity=34)|Seg=O
 15	will	will	AUX	MD	VerbForm=Fin	16	aux	16:aux|22:aux	Seg=O
@@ -38367,7 +38367,7 @@
 31	melanoma	melanoma	NOUN	NN	Number=Sing	28	nmod	28:nmod:of	Entity=29)36)|Seg=O|SpaceAfter=No
 32	,	,	PUNCT	,	_	37	punct	37:punct	Seg=O
 33	and	and	CCONJ	CC	_	37	cc	37:cc	Seg=B-seg
-34	then	then	ADV	RB	PronType=Dem	37	advmod	37:advmod|Seg=O
+34	then	then	ADV	RB	PronType=Dem	37	advmod	37:advmod	Seg=O
 35	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	37	nsubj	37:nsubj|39:nsubj:xsubj|47:nsubj:xsubj	Bridge=35<37|Entity=(37-person-acc:inf-nnnnn-cf4-1-sgl)|Seg=O
 36	will	will	AUX	MD	VerbForm=Fin	37	aux	37:aux	Seg=O
 37	try	try	VERB	VB	VerbForm=Inf	16	conj	6:conj|16:conj:and	Seg=O
@@ -38384,7 +38384,7 @@
 48	that	that	DET	DT	Number=Sing|PronType=Dem	49	det	49:det	Entity=(32-object-giv:act-nnnnn-cf2-2-coref|Seg=O
 49	one	one	NOUN	NN	Number=Sing	47	obj	47:obj	Entity=32)|Seg=O
 50	out	out	ADP	RP	_	47	compound:prt	47:compound:prt	Seg=O
-51	as	as	ADV	RB	ExtPos=ADV	47	advmod	47:advmod|Seg=O
+51	as	as	ADV	RB	ExtPos=ADV	47	advmod	47:advmod	Seg=O
 52	well	well	ADV	RB	Degree=Pos	51	fixed	51:fixed	Seg=O
 53	to	to	PART	TO	_	54	mark	54:mark	Seg=B-seg
 54	make	make	VERB	VB	VerbForm=Inf	47	advcl	47:advcl:to	Seg=O
@@ -38756,7 +38756,7 @@
 38	day	day	NOUN	NN	Number=Sing	35	obl:unmarked	35:obl:unmarked	Entity=53)|Seg=O
 39	today	today	NOUN	NN	Number=Sing	35	obl:unmarked	35:obl:unmarked	Entity=(53-time-giv:act-nnnnn-cf3-1-coref)|MSeg=to-day|Seg=O
 40	and	and	CCONJ	CC	_	44	cc	44:cc	Seg=B-seg
-41	then	then	ADV	RB	PronType=Dem	44	advmod	44:advmod|Seg=O
+41	then	then	ADV	RB	PronType=Dem	44	advmod	44:advmod	Seg=O
 42-43	I'll	_	_	_	_	_	_	_	_
 42	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	44	nsubj	44:nsubj	Entity=(4-person-giv:act-sssss-cf1*-1-ana)|Seg=O
 43	'll	will	AUX	MD	VerbForm=Fin	44	aux	44:aux	Seg=O
@@ -38918,7 +38918,7 @@
 # speaker = DrCellini
 # text = Oh and PS, I usually try to avoid taking medicines that I can't read the name of but I had someone help me at the pharmacy in the airport.
 1	Oh	oh	INTJ	UH	_	7	discourse	7:discourse	Seg=B-seg
-2	and	and	CCONJ	CC	_	7	cc	7:cc|Seg=O
+2	and	and	CCONJ	CC	_	7	cc	7:cc	Seg=O
 3	PS	PS	ADV	RB	Abbr=Yes|Degree=Pos	7	advmod	7:advmod	Seg=O|SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	3:punct	Seg=O
 5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj|9:nsubj:xsubj|10:nsubj:xsubj	Entity=(4-person-giv:act-sssss-cf1*-1-ana)|Seg=O
@@ -39100,7 +39100,7 @@
 10	out	out	ADP	RP	_	9	compound:prt	9:compound:prt	Seg=O|SpaceAfter=No
 11	,	,	PUNCT	,	_	12	punct	12:punct	Seg=O
 12	especially	especially	ADV	RB	Degree=Pos	21	advmod	21:advmod	MSeg=especial-ly|Seg=B-seg
-13	since	since	SCONJ	IN	_	21	mark	21:mark|Seg=O
+13	since	since	SCONJ	IN	_	21	mark	21:mark	Seg=O
 14-15	it's	_	_	_	_	_	_	_	SpaceAfter=No
 14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nsubj	21:nsubj	Entity=(53-time-giv:inact-nnnnn-cf2-1-ana)|Seg=O
 15	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	21:cop	Seg=O
@@ -39482,7 +39482,7 @@
 22	,	,	PUNCT	,	_	26	punct	26:punct	Seg=O
 23	but	but	CCONJ	CC	_	26	cc	26:cc	Seg=B-seg
 24	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	26	nsubj	26:nsubj	Entity=(17-abstract-giv:act-nnnnn-cf1-1-coref)|Seg=O
-25	also	also	ADV	RB	_	26	advmod	26:advmod|Seg=O
+25	also	also	ADV	RB	_	26	advmod	26:advmod	Seg=O
 26	created	create	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	conj	12:conj:but	MSeg=creat-ed|Seg=O
 27	a	a	DET	DT	Definite=Ind|PronType=Art	29	det	29:det	Entity=(19-person-new-nnnnn-cf3-3-sgl|Seg=O
 28	larger	large	ADJ	JJR	Degree=Cmp	29	amod	29:amod	MSeg=larg-er|Seg=O
@@ -39528,7 +39528,7 @@
 23	law	law	NOUN	NN	Number=Sing	24	compound	24:compound	Seg=O
 24	code	code	NOUN	NN	Number=Sing	19	obj	19:obj	Entity=26)|Seg=O
 25	(	(	PUNCT	-LRB-	_	28	punct	28:punct	Seg=B-seg|SpaceAfter=No
-26	hence	hence	ADV	RB	Degree=Pos	28	advmod	28:advmod|Seg=O
+26	hence	hence	ADV	RB	Degree=Pos	28	advmod	28:advmod	Seg=O
 27	"	"	PUNCT	``	_	28	punct	28:punct	Seg=O|SpaceAfter=No
 28	draconian	draconian	ADJ	JJ	Degree=Pos	16	parataxis	16:parataxis	MSeg=dracon-ian|Seg=O|SpaceAfter=No
 29	"	"	PUNCT	''	_	28	punct	28:punct	Seg=O|SpaceAfter=No
@@ -40189,7 +40189,7 @@
 # text = The city also expanded outward through rash development, particularly towards the west, as its population grew by absorbing job-seekers from the provinces.
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	Entity=(1-place-giv:inact-sssss-cf1-2-coref-Athens|Seg=B-seg
 2	city	city	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	Entity=1)|Seg=O
-3	also	also	ADV	RB	_	4	advmod	4:advmod|Seg=O
+3	also	also	ADV	RB	_	4	advmod	4:advmod	Seg=O
 4	expanded	expand	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	MSeg=expand-ed|Seg=O
 5	outward	outward	ADV	RB	Degree=Pos	4	advmod	4:advmod	MSeg=out-ward|Seg=O
 6	through	through	ADP	IN	_	8	case	8:case	Seg=O
@@ -40327,7 +40327,7 @@
 3	course	course	NOUN	NN	Number=Sing	12	obl	12:obl:over	Seg=O
 4	of	of	ADP	IN	_	8	case	8:case	Seg=O
 5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Bridge=122<131|Entity=(131-time-acc:inf-nnnnn-cf2-4-sgl|Seg=O
-6	next	next	ADJ	JJ	Degree=Pos	8	amod	8:amod|Seg=O
+6	next	next	ADJ	JJ	Degree=Pos	8	amod	8:amod	Seg=O
 7	15	15	NUM	CD	NumForm=Digit|NumType=Card	8	nummod	8:nummod	Seg=O
 8	years	year	NOUN	NNS	Number=Plur	3	nmod	3:nmod:of	Entity=131)130)|MSeg=year-s|Seg=O|SpaceAfter=No
 9	,	,	PUNCT	,	_	3	punct	3:punct	Seg=O
@@ -40838,7 +40838,7 @@
 # text = There are also attractions on Coron Island itself.
 1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	Seg=B-seg
 2	are	be	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl|Seg=O
-3	also	also	ADV	RB	_	2	advmod	2:advmod|Seg=O
+3	also	also	ADV	RB	_	2	advmod	2:advmod	Seg=O
 4	attractions	attraction	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	CxnElt=2:Existential-CopPred-ThereExpl.Pivot|Entity=(26-abstract-new-snnns-cf2-1,4-sgl|MSeg=attract-ion-s|Seg=O
 5	on	on	ADP	IN	_	6	case	6:case	Seg=O
 6	Coron	Coron	PROPN	NNP	Number=Sing	4	nmod	4:nmod:on	Entity=(9-place-giv:inact-nnnnn-cf1-1,2-coref-Coron_Island|Seg=O
@@ -40998,7 +40998,7 @@
 4	now	now	ADV	RB	_	5	advmod	5:advmod	Seg=O
 5	sedentary	sedentary	ADJ	JJ	Degree=Pos	18	advcl	18:advcl:although	Seg=O
 6	(	(	PUNCT	-LRB-	_	9	punct	9:punct	Seg=B-seg|SpaceAfter=No
-7	with	with	ADP	IN	_	9	case	9:case|Seg=O
+7	with	with	ADP	IN	_	9	case	9:case	Seg=O
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	Bridge=36<49|Entity=(49-person-acc:inf-nnnnn-cf2-2-sgl|Seg=O
 9	young	young	ADJ	JJ	Degree=Pos	5	dep	5:dep	Entity=49)|Seg=O
 10	using	use	VERB	VBG	VerbForm=Ger	9	acl	9:acl	MSeg=us-ing|Seg=O
@@ -41705,7 +41705,7 @@
 27	uncle	uncle	NOUN	NN	Number=Sing	20	obj	20:obj|28:nsubj:xsubj	Entity=34)|Seg=O|XML=</w>
 28	laugh	laugh	VERB	VB	VerbForm=Inf	20	xcomp	20:xcomp	Entity=33)|Seg=O
 29	(	(	PUNCT	-LRB-	_	34	punct	34:punct	Seg=B-seg|SpaceAfter=No
-30	then	then	ADV	RB	PronType=Dem	31	advmod	31:advmod|Seg=O
+30	then	then	ADV	RB	PronType=Dem	31	advmod	31:advmod	Seg=O
 31	again	again	ADV	RB	Degree=Pos	34	advmod	34:advmod	Seg=O|SpaceAfter=No
 32	,	,	PUNCT	,	_	31	punct	31:punct	Seg=O
 33	maybe	maybe	ADV	RB	_	34	advmod	34:advmod	MSeg=may-be|Seg=O
@@ -42167,7 +42167,7 @@
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	Entity=(66-abstract-giv:inact-snssn-cf6-2-coref|Seg=O
 5	joke	joke	NOUN	NN	Number=Sing	2	nmod	2:nmod:of	Entity=66)77)|Seg=O
 6	—	—	PUNCT	:	_	8	punct	8:punct	Seg=B-seg
-7	or	or	CCONJ	CC	_	8	cc	8:cc|Seg=O
+7	or	or	CCONJ	CC	_	8	cc	8:cc	Seg=O
 8	setup	setup	NOUN	NN	Number=Sing	2	conj	2:conj:or|11:nsubj	Entity=(77-abstract-giv:act-snsss-cf1*-1-coref)|Seg=O
 9	—	—	PUNCT	:	_	2	punct	2:punct	Seg=O
 10	should	should	AUX	MD	VerbForm=Fin	11	aux	11:aux	Seg=B-seg
@@ -42189,7 +42189,7 @@
 26	but	but	CCONJ	CC	_	30	cc	30:cc	Seg=B-seg
 27	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	30	nsubj	30:nsubj	Entity=(77-abstract-giv:act-snsss-cf1*-1-ana)|Seg=O
 28	should	should	AUX	MD	VerbForm=Fin	30	aux	30:aux	Seg=O
-29	also	also	ADV	RB	_	30	advmod	30:advmod|Seg=O
+29	also	also	ADV	RB	_	30	advmod	30:advmod	Seg=O
 30	include	include	VERB	VB	VerbForm=Inf	11	conj	11:conj:but	MSeg=in-clude|Seg=O
 31	exaggeration	exaggeration	NOUN	NN	Number=Sing	30	obj	30:obj	Entity=(80-abstract-new-nnnns-cf2-1-coref)|MSeg=exaggerat-ion|Seg=O
 32	because	because	SCONJ	IN	_	35	mark	35:mark	MSeg=be-cause|Seg=B-seg
@@ -42236,7 +42236,7 @@
 2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Seg=O
 3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Entity=(77-abstract-giv:act-snsss-cf1*-3-pred|Seg=O
 4	fundamental	fundamental	ADJ	JJ	Degree=Pos	5	amod	5:amod	MSeg=fundament-al|Seg=O
-5	part	part	NOUN	NN	Number=Sing	0	root	0:root|Seg=O
+5	part	part	NOUN	NN	Number=Sing	0	root	0:root	Seg=O
 6	of	of	ADP	IN	_	8	case	8:case	Seg=O
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Entity=(66-abstract-giv:inact-snssn-cf2-2-coref|Seg=O
 8	joke	joke	NOUN	NN	Number=Sing	5	nmod	5:nmod:of	Entity=66)77)|Seg=O|SpaceAfter=No
@@ -42318,7 +42318,7 @@
 8	side	side	NOUN	NN	Number=Sing	3	obl:unmarked	3:obl:unmarked	Cxn=NPN|CxnElt=8:NPN.N1,8:NPN.N2,8:NPN.P|Seg=O
 9	by	by	ADP	IN	_	10	case	10:case	Seg=O
 10	side	side	NOUN	NN	Number=Sing	8	nmod	8:nmod:by	Seg=O
-11	that	that	PRON	WDT	PronType=Rel	12	nsubj	12:nsubj|3:ref|Seg=O
+11	that	that	PRON	WDT	PronType=Rel	12	nsubj	12:nsubj|3:ref	Seg=O
 12	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl:relcl	3:advcl:relcl	Cxn=Resultative|CxnElt=12:Resultative.Predicate|MSeg=make-s|Seg=O
 13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	Entity=(66-abstract-giv:inact-snssn-cf1-2-coref|Seg=O
 14	joke	joke	NOUN	NN	Number=Sing	12	obj	12:obj|15:nsubj:xsubj	Entity=66)|Seg=O
@@ -42439,7 +42439,7 @@
 # text = Some jokes also have what is called a tag or topper, which is an additional punchline.
 1	Some	some	DET	DT	PronType=Ind	2	det	2:det	Entity=(92-abstract-new-nnnnn-cf2-2-sgl|Seg=B-seg
 2	jokes	joke	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	Entity=92)|MSeg=joke-s|Seg=O
-3	also	also	ADV	RB	_	4	advmod	4:advmod|Seg=O
+3	also	also	ADV	RB	_	4	advmod	4:advmod	Seg=O
 4	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Seg=O
 5	what	what	PRON	WP	PronType=Rel	4	obj	4:obj	Entity=(93-abstract-new-snnnn-cf1-1-coref|Seg=O
 6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	7:aux:pass	Seg=O
@@ -42619,7 +42619,7 @@
 # text = It may also make it particularly interesting if your audience is your friend(s). [6]
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	Entity=(103-event-giv:act-nnnnn-cf1*-1-ana)|Seg=B-seg
 2	may	may	AUX	MD	VerbForm=Fin	4	aux	4:aux	Seg=O
-3	also	also	ADV	RB	_	4	advmod	4:advmod|Seg=O
+3	also	also	ADV	RB	_	4	advmod	4:advmod	Seg=O
 4	make	make	VERB	VB	VerbForm=Inf	0	root	0:root	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=4:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis,4:Resultative.Predicate|Seg=O
 5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj|7:nsubj:xsubj	Entity=(66-abstract-giv:inact-snssn-cf3-1-ana)|Seg=O
 6	particularly	particularly	ADV	RB	Degree=Pos	7	advmod	7:advmod	MSeg=part-ic-ul-ar-ly|Seg=O
@@ -42675,7 +42675,7 @@
 8	completely	completely	ADV	RB	Degree=Pos	9	advmod	9:advmod	MSeg=complete-ly|Seg=O
 9	memorized	memorize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	xcomp	6:xcomp	MSeg=memor-iz-ed|Seg=O
 10	—	—	PUNCT	:	_	12	punct	12:punct	Seg=B-seg
-11	in	in	ADP	IN	_	12	case	12:case|Seg=O
+11	in	in	ADP	IN	_	12	case	12:case	Seg=O
 12	fact	fact	NOUN	NN	Number=Sing	19	obl	19:obl:in	Seg=O|SpaceAfter=No
 13	,	,	PUNCT	,	_	12	punct	12:punct	Seg=O
 14	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj	19:nsubj	Entity=(9-person-giv:act-nnnnn-cf1*-1-ana)|Seg=O
@@ -42896,7 +42896,7 @@
 # text = You can also try practicing in front of a sympathetic friend or family member once you’re ready for a “real” audience.
 1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj|5:nsubj:xsubj	Entity=(9-person-giv:act-nnnnn-cf1*-1-ana)|Seg=B-seg
 2	can	can	AUX	MD	VerbForm=Fin	4	aux	4:aux	Seg=O
-3	also	also	ADV	RB	_	4	advmod	4:advmod|Seg=O
+3	also	also	ADV	RB	_	4	advmod	4:advmod	Seg=O
 4	try	try	VERB	VB	VerbForm=Inf	0	root	0:root	Seg=O
 5	practicing	practice	VERB	VBG	VerbForm=Ger	4	xcomp	4:xcomp	MSeg=practic-ing|Seg=O
 6	in	in	ADP	IN	_	7	case	7:case	Seg=O
@@ -43029,7 +43029,7 @@
 1	Your	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	Entity=(12-object-new-nnnnn-cf4-2-sgl(3-person-giv:inact-nnsnn-cf1-1-ana)|Seg=B-seg
 2	appliances	appliance	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	Entity=12)|MSeg=appli-ance-s|Seg=O
 3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Seg=O
-4	also	also	ADV	RB	_	5	advmod	5:advmod|Seg=O
+4	also	also	ADV	RB	_	5	advmod	5:advmod	Seg=O
 5	murder	murder	NOUN	NN	Number=Sing	0	root	0:root	Seg=O
 6	on	on	ADP	IN	_	8	case	8:case	Seg=O
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Entity=(7-object-giv:act-sssss-cf2*-2-coref|Seg=O
@@ -43804,7 +43804,7 @@
 12-13	you're	_	_	_	_	_	_	_	_
 12	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	15:nsubj|17:nsubj:xsubj	Entity=(3-person-giv:act-nnsnn-cf1*-1-ana)|Seg=O
 13	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	aux	15:aux	Seg=O
-14	still	still	ADV	RB	Degree=Pos	15	advmod	15:advmod|Seg=O
+14	still	still	ADV	RB	Degree=Pos	15	advmod	15:advmod	Seg=O
 15	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	3	conj	3:conj:but	MSeg=go-ing|Seg=O
 16	to	to	PART	TO	_	17	mark	17:mark	Seg=O
 17	hear	hear	VERB	VB	VerbForm=Inf	15	xcomp	15:xcomp	Seg=O
