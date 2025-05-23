@@ -883,7 +883,7 @@
 2	опытом	опыт	NOUN	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	1	obl	_	Seg=O
 3	,	,	PUNCT	PUNCT	_	4	punct	_	Seg=O
 4	грибоеды	грибоед	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	1	conj	_	Seg=O
-5	!	!	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+5	!	!	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
 # newdoc id = blogs_26
 # sent_id = blogs_26-1
@@ -1641,7 +1641,7 @@
 # sent_id = blogs_26-51
 # text = Вопросы ?
 1	Вопросы	вопрос	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	_	Seg=O
-2	?	?	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+2	?	?	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
 # newdoc id = blogs_37
 # sent_id = blogs_37-1
@@ -2120,7 +2120,7 @@
 25	и	и	CCONJ	CCONJ	_	27	cc	_	Seg=O
 26	сам	сам	ADJ	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	Seg=O
 27	толчок	толчок	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	24	conj	_	Seg=O
-28	.	.	PUNCT	PUNCT	_	4	punct	_	Seg=0-seg
+28	.	.	PUNCT	PUNCT	_	4	punct	_	Seg=O
 
 # newdoc id = blogs_41
 # sent_id = blogs_41-1
@@ -3302,7 +3302,7 @@
 9	со	с	ADP	ADP	_	11	case	_	Seg=O
 10	здоровым	здоровый	ADJ	ADJ	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	Seg=O
 11	скептицизмом	скептицизм	NOUN	NOUN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	nmod	_	Seg=O
-12	.	.	PUNCT	PUNCT	_	4	punct	_	Seg=0-seg
+12	.	.	PUNCT	PUNCT	_	4	punct	_	Seg=O
 
 # newdoc id = blogs_5
 # sent_id = blogs_5-1
@@ -4356,7 +4356,7 @@
 2	рада	рад	ADJ	ADJ	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	Seg=O
 3	оказаться	оказаться	VERB	VERB	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	xcomp	_	Seg=O
 4	полезной	полезный	ADJ	ADJ	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	obl	_	Seg=O
-5	!	!	PUNCT	PUNCT	_	2	punct	_	Seg=0-seg
+5	!	!	PUNCT	PUNCT	_	2	punct	_	Seg=O
 
 # newdoc id = blogs_51
 # sent_id = blogs_51-1
@@ -5748,7 +5748,7 @@
 47	в	в	ADP	ADP	_	49	case	_	Seg=O
 48	своем	свой	DET	DET	Case=Loc|Gender=Neut|Number=Sing	49	det	_	Seg=O
 49	развитии	развитие	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	46	obl	_	Seg=O
-50	.	.	PUNCT	PUNCT	_	5	punct	_	Seg=0-seg
+50	.	.	PUNCT	PUNCT	_	5	punct	_	Seg=O
 
 # newdoc id = blogs_62
 # sent_id = blogs_62-1
@@ -7005,7 +7005,7 @@
 # text = Как минимум .
 1	Как	как	SCONJ	SCONJ	_	0	root	_	Seg=O
 2	минимум	минимум	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	1	fixed	_	Seg=O
-3	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+3	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
 # newdoc id = blogs_77
 # sent_id = blogs_77-1
@@ -7894,7 +7894,7 @@
 14	?	?	PUNCT	PUNCT	_	13	punct	_	Seg=O
 15	:	:	PUNCT	PUNCT	_	13	punct	_	Seg=O
 16	-	-	PUNCT	PUNCT	_	13	punct	_	Seg=O
-17	)	)	PUNCT	PUNCT	_	13	punct	_	Seg=0-seg
+17	)	)	PUNCT	PUNCT	_	13	punct	_	Seg=O
 
 # newdoc id = blogs_79
 # sent_id = blogs_79-1
@@ -8715,7 +8715,7 @@
 # sent_id = blogs_79-52
 # text = Спасибо .
 1	Спасибо	спасибо	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	Seg=O
-2	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+2	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
 # newdoc id = blogs_80
 # sent_id = blogs_80-1
@@ -13472,7 +13472,7 @@
 3	с	с	ADP	ADP	_	4	case	_	Seg=O
 4	ней	она	PRON	PRON	Case=Ins|Gender=Fem|Number=Sing|Person=3	5	obl	_	Seg=O
 5	закончил	закончить	VERB	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Seg=O
-6	!	!	PUNCT	PUNCT	_	5	punct	_	Seg=0-seg
+6	!	!	PUNCT	PUNCT	_	5	punct	_	Seg=O
 
 # newdoc id = news1_67
 # sent_id = news1_67-1
@@ -13754,7 +13754,7 @@
 15	ума	ум	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	Seg=O
 16	заявителя	заявитель	NOUN	NOUN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	Seg=O
 17	»	»	PROPN	PROPN	_	16	nmod	_	Seg=O
-18	.	.	PUNCT	PUNCT	_	11	punct	_	Seg=0-seg
+18	.	.	PUNCT	PUNCT	_	11	punct	_	Seg=O
 
 # newdoc id = news1_68
 # sent_id = news1_68-1
@@ -14128,7 +14128,7 @@
 66	был	быть	AUX	AUX	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	64	cop	_	Seg=O
 67	Унаи	Унаи	PROPN	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	64	nsubj	_	Seg=O
 68	Эмери	Эмери	PROPN	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	67	flat:name	_	Seg=O
-69	)	)	PUNCT	PUNCT	_	56	punct	_	Seg=0-seg
+69	)	)	PUNCT	PUNCT	_	56	punct	_	Seg=O
 
 # newdoc id = news1_69
 # sent_id = news1_69-1
@@ -14536,7 +14536,7 @@
 22	эмбарго	эмбарго	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	conj	_	Seg=O
 23	не	не	PART	PART	_	24	advmod	_	Seg=O
 24	нарушает	нарушать	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	ccomp	_	Seg=O
-25	.	.	PUNCT	PUNCT	_	4	punct	_	Seg=0-seg
+25	.	.	PUNCT	PUNCT	_	4	punct	_	Seg=O
 
 # newdoc id = news1_7
 # sent_id = news1_7-1
@@ -15612,7 +15612,7 @@
 # text = Риторический вопрос .
 1	Риторический	риторический	ADJ	ADJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	Seg=B-seg
 2	вопрос	вопрос	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	Seg=O
-3	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=0-seg
+3	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=O
 
 # newdoc id = news1_70
 # sent_id = news1_70-1
@@ -16677,7 +16677,7 @@
 24	неспокойной	неспокойный	ADJ	ADJ	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	Seg=O
 25	истории	история	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	21	obl	_	Seg=O
 26	Пакистана	Пакистан	PROPN	PROPN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	Seg=O
-27	.	.	PUNCT	PUNCT	_	12	punct	_	Seg=0-seg
+27	.	.	PUNCT	PUNCT	_	12	punct	_	Seg=O
 
 # newdoc id = news1_71
 # sent_id = news1_71-1
@@ -17729,7 +17729,7 @@
 22	,	,	PUNCT	PUNCT	_	23	punct	_	Seg=O
 23	брошенный	бросить	VERB	VERB	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	21	acl	_	Seg=O
 24	Аббасу	Аббас	PROPN	PROPN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	23	obl	_	Seg=O
-25	.	.	PUNCT	PUNCT	_	5	punct	_	Seg=0-seg
+25	.	.	PUNCT	PUNCT	_	5	punct	_	Seg=O
 
 # newdoc id = news1_72
 # sent_id = news1_72-1
@@ -18730,7 +18730,7 @@
 29	с	с	ADP	ADP	_	31	case	_	Seg=O
 30	этой	этот	DET	DET	Case=Ins|Gender=Fem|Number=Sing	31	det	_	Seg=O
 31	задачей	задача	NOUN	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	26	obl	_	Seg=O
-32	.	.	PUNCT	PUNCT	_	23	punct	_	Seg=0-seg
+32	.	.	PUNCT	PUNCT	_	23	punct	_	Seg=O
 
 # newdoc id = news1_73
 # sent_id = news1_73-1
@@ -19546,7 +19546,7 @@
 12	наиболее	наиболее	ADV	ADV	Degree=Pos	13	obl	_	Seg=O
 13	яркий	яркий	ADJ	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	Seg=O
 14	пример	пример	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	Seg=O
-15	.	.	PUNCT	PUNCT	_	3	punct	_	Seg=0-seg
+15	.	.	PUNCT	PUNCT	_	3	punct	_	Seg=O
 
 # newdoc id = sci.comp_49
 # sent_id = sci.comp_49-1
@@ -21824,7 +21824,7 @@
 1	Izd-vo	Izd-vo	PROPN	PROPN	Foreign=Yes	0	root	_	Seg=O
 2	SKNCVSh	SKNCVSh	PROPN	PROPN	Foreign=Yes	1	flat:foreign	_	Seg=O
 3	2000	2000	NUM	NUM	_	1	nummod	_	Seg=O
-4	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+4	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
 # newdoc id = sci.comp_5
 # sent_id = sci.comp_5-1
@@ -23252,7 +23252,7 @@
 9	26/06	26/06	NUM	NUM	_	8	nummod	_	Seg=O
 10	,	,	PUNCT	PUNCT	_	11	punct	_	Seg=O
 11	15.09.94	15.09.94	NUM	NUM	_	9	conj	_	Seg=O
-12	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+12	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
 # newdoc id = sci.comp_50
 # sent_id = sci.comp_50-1
@@ -25689,7 +25689,7 @@
 81	,	,	PUNCT	PUNCT	_	82	punct	_	Seg=O
 82	профессор	профессор	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	78	appos	_	Seg=O
 83	,	,	PUNCT	PUNCT	_	82	punct	_	Seg=O
-84	ushakov-AVG@yandex.ru	ushakav-andemandex.ru	PROPN	PROPN	Foreign=Yes	82	punct	_	Seg=0-seg
+84	ushakov-AVG@yandex.ru	ushakav-andemandex.ru	PROPN	PROPN	Foreign=Yes	82	punct	_	Seg=O
 
 # newdoc id = sci.comp_51
 # sent_id = sci.comp_51-1
@@ -28702,7 +28702,7 @@
 1	-	-	PUNCT	PUNCT	_	2	punct	_	Seg=O
 2	P.	p.	PROPN	PROPN	Foreign=Yes	0	root	_	Seg=O
 3	1-37	1-37	PROPN	PROPN	Foreign=Yes	2	flat:foreign	_	Seg=O
-4	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=0-seg
+4	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=O
 
 # newdoc id = sci.comp_52
 # sent_id = sci.comp_52-1
@@ -29730,7 +29730,7 @@
 8	гражданской	гражданский	ADJ	ADJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	Seg=O
 9	защиты	защита	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	Seg=O
 10	-	-	PUNCT	PUNCT	_	7	punct	_	Seg=O
-11	2013'3	2013'3	NUM	NUM	_	3	punct	_	Seg=0-seg
+11	2013'3	2013'3	NUM	NUM	_	3	punct	_	Seg=O
 
 # newdoc id = sci.ling_50
 # sent_id = sci.ling_50-1
@@ -32754,7 +32754,7 @@
 7	изд-во,1998	изд-во,1998	NUM	NUM	_	5	nummod	_	Seg=O
 8	.	.	PUNCT	PUNCT	_	7	punct	_	Seg=O
 9	130	130	NUM	NUM	_	7	nummod	_	Seg=O
-10	с.	с	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+10	с.	с	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
 # newdoc id = sci.ling_51
 # sent_id = sci.ling_51-1
@@ -34847,7 +34847,7 @@
 5	8	8	NUM	NUM	_	2	nummod	_	Seg=O
 6	ноября	ноябрь	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	flat	_	Seg=O
 7	2006	2006	NUM	NUM	_	5	nummod	_	Seg=O
-8	г	год	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	Seg=0-seg
+8	г	год	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	Seg=O
 
 # newdoc id = sci.ling_52
 # sent_id = sci.ling_52-1
@@ -38331,7 +38331,7 @@
 6	1995	1995	NUM	NUM	_	1	nummod	_	Seg=O
 7	.	.	PUNCT	PUNCT	_	6	punct	_	Seg=O
 8	540	540	NUM	NUM	_	6	nummod	_	Seg=O
-9	p.	путр	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	punct	_	Seg=0-seg
+9	p.	путр	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	punct	_	Seg=O
 
 # newdoc id = sci.ling_53
 # sent_id = sci.ling_53-1
@@ -41187,7 +41187,7 @@
 7	:	:	PUNCT	PUNCT	_	6	punct	_	Seg=O
 8	19.11.2014	19.11.2014	NUM	NUM	_	6	nummod	_	Seg=O
 9	)	)	PUNCT	PUNCT	_	5	punct	_	Seg=O
-10	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+10	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
 # newdoc id = sci.ling_54
 # sent_id = sci.ling_54-1
@@ -44032,7 +44032,7 @@
 86	:	:	PUNCT	PUNCT	_	85	punct	_	Seg=O
 87	10.01.2015	10.01.2015	NUM	NUM	_	84	nummod	_	Seg=O
 88	)	)	PUNCT	PUNCT	_	84	punct	_	Seg=O
-89	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+89	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
 # newdoc id = sci.ling_55
 # sent_id = sci.ling_55-1
@@ -46880,5 +46880,5 @@
 5	26	26	NUM	NUM	_	2	nummod	_	Seg=O
 6	февраля	февраль	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	flat	_	Seg=O
 7	2007	2007	NUM	NUM	_	5	nummod	_	Seg=O
-8	г.	год	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	punct	_	Seg=0-seg
+8	г.	год	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	punct	_	Seg=O
 

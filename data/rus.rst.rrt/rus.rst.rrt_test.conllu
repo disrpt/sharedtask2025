@@ -832,7 +832,7 @@
 5	в	в	ADP	ADP	_	6	case	_	Seg=O
 6	отзывах	отзыв	NOUN	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	4	obl	_	Seg=O
 7	Букинга	Букинг	PROPN	PROPN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Seg=O
-8	?	?	PUNCT	PUNCT	_	4	punct	_	Seg=0-seg
+8	?	?	PUNCT	PUNCT	_	4	punct	_	Seg=O
 
 # newdoc id = blogs_16
 # sent_id = blogs_16-1
@@ -1752,7 +1752,7 @@
 9	я	я	PRON	PRON	Case=Nom|Number=Sing|Person=1	11	nsubj	_	Seg=O
 10	таки	таки	PART	PART	_	11	advmod	_	Seg=O
 11	поставила	ставить	VERB	VERB	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Seg=O
-12	.	.	PUNCT	PUNCT	_	11	punct	_	Seg=0-seg
+12	.	.	PUNCT	PUNCT	_	11	punct	_	Seg=O
 
 # newdoc id = blogs_17
 # sent_id = blogs_17-1
@@ -2650,7 +2650,7 @@
 2	теряйте	терять	VERB	VERB	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	Seg=O
 3	друг	друг	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	obj	_	Seg=O
 4	друга	друг	NOUN	NOUN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	fixed	_	Seg=O
-5	!	!	PUNCT	PUNCT	_	2	punct	_	Seg=0-seg
+5	!	!	PUNCT	PUNCT	_	2	punct	_	Seg=O
 
 # newdoc id = blogs_19
 # sent_id = blogs_19-1
@@ -5046,7 +5046,7 @@
 19	дочитали	дочесть	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	16	acl:relcl	_	Seg=O
 20	до	до	ADP	ADP	_	21	case	_	Seg=O
 21	конца	конец	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	19	obl	_	Seg=O
-22	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+22	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
 # newdoc id = blogs_2
 # sent_id = blogs_2-1
@@ -6576,7 +6576,7 @@
 18	скидки	скидка	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	Seg=O
 19	Оценка	оценка	PROPN	PROPN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	parataxis	_	Seg=B-seg
 20	:	:	PUNCT	PUNCT	_	19	punct	_	Seg=O
-21	4	4	NUM	NUM	_	19	punct	_	Seg=0-seg
+21	4	4	NUM	NUM	_	19	punct	_	Seg=O
 
 # newdoc id = blogs_45
 # sent_id = blogs_45-1
@@ -8224,7 +8224,7 @@
 34	стендапов	стендап	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	33	nmod	_	Seg=O
 35	вам	вы	PRON	PRON	Case=Dat|Number=Plur|Person=2	36	iobj	_	Seg=O
 36	подойдет	подойти	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	parataxis	_	Seg=O
-37	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=0-seg
+37	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=O
 
 # newdoc id = blogs_48
 # sent_id = blogs_48-1
@@ -9892,7 +9892,7 @@
 18	где	где	ADV	ADV	Degree=Pos	19	advmod	_	Seg=O
 19	ходят	ходить	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	Seg=O
 20	пользователи	пользователь	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	Seg=O
-21	.	.	PUNCT	PUNCT	_	6	punct	_	Seg=0-seg
+21	.	.	PUNCT	PUNCT	_	6	punct	_	Seg=O
 
 # newdoc id = blogs_52
 # sent_id = blogs_52-1
@@ -11160,7 +11160,7 @@
 3	в	в	ADP	ADP	_	5	case	_	Seg=O
 4	грудную	грудной	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	Seg=O
 5	клетку	клетка	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	Seg=O
-6	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=0-seg
+6	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=O
 
 # newdoc id = blogs_57
 # sent_id = blogs_57-1
@@ -11639,7 +11639,7 @@
 39	ее	она	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3	41	nmod	_	Seg=O
 40	законному	законный	ADJ	ADJ	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	Seg=O
 41	правопреемнику	правопреемник	NOUN	NOUN	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	30	conj	_	Seg=O
-42	...	...	PUNCT	PUNCT	_	14	punct	_	Seg=0-seg
+42	...	...	PUNCT	PUNCT	_	14	punct	_	Seg=O
 
 # newdoc id = blogs_7
 # sent_id = blogs_7-1
@@ -12127,7 +12127,7 @@
 3	внимание	внимание	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	nmod	_	Seg=O
 4	,	,	PUNCT	PUNCT	_	5	punct	_	Seg=O
 5	Jolsie	Jolsie	PROPN	PROPN	Foreign=Yes	1	flat:foreign	_	Seg=B-seg
-6	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+6	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
 # newdoc id = blogs_97
 # sent_id = blogs_97-1
@@ -15404,7 +15404,7 @@
 26	далее	далее	ADV	ADV	Degree=Pos	28	advmod	_	Seg=O
 27	только	только	PART	PART	_	28	advmod	_	Seg=O
 28	пешком	пешком	ADV	ADV	Degree=Pos	11	conj	_	Seg=O
-29	.	.	PUNCT	PUNCT	_	6	punct	_	Seg=0-seg
+29	.	.	PUNCT	PUNCT	_	6	punct	_	Seg=O
 
 # newdoc id = news1_74
 # sent_id = news1_74-1
@@ -16312,7 +16312,7 @@
 7	цена	цена	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Seg=O
 8	их	они	PRON	PRON	Case=Gen|Number=Plur|Person=3	9	nmod	_	Seg=O
 9	самонадеянности	самонадеянность	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	Seg=O
-10	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+10	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
 # newdoc id = news1_75
 # sent_id = news1_75-1
@@ -16993,7 +16993,7 @@
 7	следующего	следующий	ADJ	ADJ	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	Seg=O
 8	президента	президент	NOUN	NOUN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	4	obl	_	Seg=O
 9	Америки	Америка	PROPN	PROPN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	Seg=O
-10	?	?	PUNCT	PUNCT	_	4	punct	_	Seg=0-seg
+10	?	?	PUNCT	PUNCT	_	4	punct	_	Seg=O
 
 # newdoc id = news1_76
 # sent_id = news1_76-1
@@ -17645,7 +17645,7 @@
 10	признания	признание	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	Seg=O
 11	независимости	независимость	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	Seg=O
 12	Косово	Косово	PROPN	PROPN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	Seg=O
-13	.	.	PUNCT	PUNCT	_	6	punct	_	Seg=0-seg
+13	.	.	PUNCT	PUNCT	_	6	punct	_	Seg=O
 
 # newdoc id = news1_77
 # sent_id = news1_77-1
@@ -18670,7 +18670,7 @@
 9	стать	стать	VERB	VERB	Aspect=Perf|VerbForm=Inf|Voice=Mid	8	xcomp	_	Seg=O
 10	немного	немного	ADV	ADV	Degree=Pos	11	obl	_	Seg=O
 11	холоднее	холодный	ADJ	ADJ	Degree=Cmp	9	obl	_	Seg=O
-12	.	.	PUNCT	PUNCT	_	8	punct	_	Seg=0-seg
+12	.	.	PUNCT	PUNCT	_	8	punct	_	Seg=O
 
 # newdoc id = news1_78
 # sent_id = news1_78-1
@@ -19883,7 +19883,7 @@
 20	ее	ее	DET	DET	_	22	det	_	Seg=O
 21	государственное	государственный	ADJ	ADJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	Seg=O
 22	устройство	устройство	NOUN	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	18	conj	_	Seg=O
-23	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=0-seg
+23	.	.	PUNCT	PUNCT	_	2	punct	_	Seg=O
 
 # newdoc id = news1_79
 # sent_id = news1_79-1
@@ -20222,7 +20222,7 @@
 10	базируется	базироваться	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	conj	_	Seg=O
 11	на	на	ADP	ADP	_	12	case	_	Seg=O
 12	Кавказе	Кавказ	PROPN	PROPN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	_	Seg=O
-13	...	...	PUNCT	PUNCT	_	2	punct	_	Seg=0-seg
+13	...	...	PUNCT	PUNCT	_	2	punct	_	Seg=O
 
 # newdoc id = news1_8
 # sent_id = news1_8-1
@@ -20570,7 +20570,7 @@
 30	для	для	ADP	ADP	_	31	case	_	Seg=O
 31	правительства	правительство	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	29	obl	_	Seg=O
 32	США	США	PROPN	PROPN	Animacy=Inan|Case=Gen|Number=Plur	31	nmod	_	Seg=O
-33	.	.	PUNCT	PUNCT	_	9	punct	_	Seg=0-seg
+33	.	.	PUNCT	PUNCT	_	9	punct	_	Seg=O
 
 # newdoc id = news1_9
 # sent_id = news1_9-1
@@ -21954,7 +21954,7 @@
 14	он	он	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	nsubj	_	Seg=O
 15	еще	еще	ADV	ADV	Degree=Pos	16	advmod	_	Seg=O
 16	может	мочь	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Seg=O
-17	.	.	PUNCT	PUNCT	_	16	punct	_	Seg=0-seg
+17	.	.	PUNCT	PUNCT	_	16	punct	_	Seg=O
 
 # newdoc id = sci.comp_53
 # sent_id = sci.comp_53-1
@@ -25327,7 +25327,7 @@
 120	Russian	Russian	PROPN	PROPN	Foreign=Yes	1	conj	_	Seg=O
 121	Federation	Federation	PROPN	PROPN	Foreign=Yes	1	punct	_	Seg=O
 122	,	,	PUNCT	PUNCT	_	66	punct	_	Seg=O
-123	muravyeva-vitkovskaya@cs.ifmo.ru	muravyeva-vitkovskaya@cs.ifmo.ru	PROPN	PROPN	Foreign=Yes	1	punct	_	Seg=0-seg
+123	muravyeva-vitkovskaya@cs.ifmo.ru	muravyeva-vitkovskaya@cs.ifmo.ru	PROPN	PROPN	Foreign=Yes	1	punct	_	Seg=O
 
 # newdoc id = sci.comp_54
 # sent_id = sci.comp_54-1
@@ -27602,7 +27602,7 @@
 61	,	,	PUNCT	PUNCT	_	62	punct	_	Seg=O
 62	аспирант	аспирант	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	54	conj	_	Seg=O
 63	,	,	PUNCT	PUNCT	_	62	punct	_	Seg=O
-64	nirt@mai1.ru	nirt@mai1.ru	PROPN	PROPN	Foreign=Yes	62	punct	_	Seg=0-seg
+64	nirt@mai1.ru	nirt@mai1.ru	PROPN	PROPN	Foreign=Yes	62	punct	_	Seg=O
 
 # newdoc id = sci.comp_6
 # sent_id = sci.comp_6-1
@@ -29802,7 +29802,7 @@
 35	,	,	PUNCT	PUNCT	_	36	punct	_	Seg=O
 36	профессор	профессор	NOUN	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	10	conj	_	Seg=O
 37	,	,	PUNCT	PUNCT	_	36	punct	_	Seg=O
-38	tau@d1.ifmo.ru	tau@d1.ifmo.ru	PROPN	PROPN	Foreign=Yes	1	punct	_	Seg=0-seg
+38	tau@d1.ifmo.ru	tau@d1.ifmo.ru	PROPN	PROPN	Foreign=Yes	1	punct	_	Seg=O
 
 # newdoc id = sci.comp_7
 # sent_id = sci.comp_7-1
@@ -32176,7 +32176,7 @@
 9	2\.	2\.	PROPN	PROPN	Foreign=Yes	8	flat:foreign	_	Seg=B-seg
 10	http://www.xakep.ru/post/26299/default.asp	http://www.xakep.ru/post/26299/default.asp	PROPN	PROPN	Foreign=Yes	8	flat:foreign	_	Seg=O
 11	3\.	3\.	PROPN	PROPN	Foreign=Yes	8	flat:foreign	_	Seg=B-seg
-12	http://www.securitylab.ru/analytics/216387.php	http://www.securitylab.ru/analytics/216387.php	PROPN	PROPN	Foreign=Yes	8	flat:foreign	_	Seg=0-seg
+12	http://www.securitylab.ru/analytics/216387.php	http://www.securitylab.ru/analytics/216387.php	PROPN	PROPN	Foreign=Yes	8	flat:foreign	_	Seg=O
 
 # newdoc id = sci.comp_8
 # sent_id = sci.comp_8-1
@@ -36898,7 +36898,7 @@
 3	1990	1990	NUM	NUM	_	1	nummod	_	Seg=O
 4	.	.	PUNCT	PUNCT	_	3	punct	_	Seg=O
 5	12	12	NUM	NUM	_	3	nummod	_	Seg=O
-6	p.	путр	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	punct	_	Seg=0-seg
+6	p.	путр	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	punct	_	Seg=O
 
 # newdoc id = sci.ling_58
 # sent_id = sci.ling_58-1
@@ -39654,7 +39654,7 @@
 6	1989	1989	NUM	NUM	_	1	nummod	_	Seg=O
 7	.	.	PUNCT	PUNCT	_	6	punct	_	Seg=O
 8	424	424	NUM	NUM	_	6	nummod	_	Seg=O
-9	S.	S.	PROPN	PROPN	Foreign=Yes	1	punct	_	Seg=0-seg
+9	S.	S.	PROPN	PROPN	Foreign=Yes	1	punct	_	Seg=O
 
 # newdoc id = sci.ling_6
 # sent_id = sci.ling_6-1
@@ -41976,7 +41976,7 @@
 17	paradox	paradox	PROPN	PROPN	Foreign=Yes	1	flat:foreign	_	Seg=O
 18	;	;	PUNCT	PUNCT	_	1	punct	_	Seg=O
 19	metaphor	metaphor	PROPN	PROPN	Foreign=Yes	1	flat:foreign	_	Seg=O
-20	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+20	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
 # newdoc id = sci.ling_7
 # sent_id = sci.ling_7-1
@@ -45239,7 +45239,7 @@
 # text = С. 28 .
 1	С.	С.	PROPN	PROPN	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	0	root	_	Seg=O
 2	28	28	NUM	NUM	_	1	nummod	_	Seg=B-seg
-3	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+3	.	.	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
 # newdoc id = sci.ling_8
 # sent_id = sci.ling_8-1
@@ -46712,7 +46712,7 @@
 5	8	8	NUM	NUM	_	2	nummod	_	Seg=O
 6	ноября	ноябрь	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	flat	_	Seg=O
 7	2006	2006	NUM	NUM	_	5	nummod	_	Seg=O
-8	г	год	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	Seg=0-seg
+8	г	год	NOUN	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	Seg=O
 
 # newdoc id = sci.ling_9
 # sent_id = sci.ling_9-1
@@ -48138,5 +48138,5 @@
 2	«	«	PUNCT	PUNCT	_	4	punct	_	Seg=O
 3	Гуманитарные	гуманитарный	ADJ	ADJ	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	Seg=O
 4	науки	наука	NOUN	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	Seg=O
-5	»	»	PUNCT	PUNCT	_	1	punct	_	Seg=0-seg
+5	»	»	PUNCT	PUNCT	_	1	punct	_	Seg=O
 
