@@ -6,6 +6,7 @@ Repository for DISRPT2025 Shared Task on Discourse Unit Segmentation, Connective
 **Please check our [FAQ](https://sites.google.com/view/disrpt2025/faq?authuser=0) page on our main [website](https://sites.google.com/view/disrpt2025/home) for more information about the Shared Task, Participation, and Evaluation etc.!**  
 
 **Update (29/05/2025)**: Parameter count limitation: closed track participants must ensure that the total number of parameters in their system is below 4 billion.
+
 **Update (16/05/2025)**: Sample data has been released! 
 
 Additional datasets will be release in June 2025.
