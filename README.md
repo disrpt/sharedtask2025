@@ -5,6 +5,7 @@ Repository for DISRPT2025 Shared Task on Discourse Unit Segmentation, Connective
 
 **Please check our [FAQ](https://sites.google.com/view/disrpt2025/faq?authuser=0) page on our main [website](https://sites.google.com/view/disrpt2025/home) for more information about the Shared Task, Participation, and Evaluation etc.!**  
 
+**Update (29/05/2025)**: Parameter count limitation: closed track participants must ensure that the total number of parameters in their system is below 4 billion.
 **Update (16/05/2025)**: Sample data has been released! 
 
 Additional datasets will be release in June 2025.
@@ -50,11 +51,11 @@ External resources are allowed, including NLP tools, word embeddings/pre-trained
 **Training with dev is not allowed.** One could do so (e.g. as an experiment) and report the resulting scores in their paper, but such results will not be considered / reported as the official scores of the system in the overall ranking. 
 
 We propose a new constraint and two tracks this year: **only one multilingual model should be submitted per task**, with a limited number of parameters for the Closed-track:
-* Closed track: **Parameter-count limited**, openly reproducible models will be evaluated by the DISRPT team and ranked
+* Closed track: **Parameter-count limited (<=4B)**, openly reproducible models will be evaluated by the DISRPT team and ranked.
 * Open track: We also welcome descriptions of systems based on large / closed models, but these will not participate in the final rankings as we cannot evaluate them.
 
 
-Please also make sure to use seeds to keep performance as reproducible as possible!
+Please also make sure to **use seeds** to keep performance as reproducible as possible!
 
 
 ## Evaluation
