@@ -65,10 +65,10 @@ Overall, in spoken dialogs the turn and speaker segmentation is not parallel to 
 
 Like other PDTB-style corpora in DISRPT, with respect to LUNA, the DISRPT task only requires identifying segments corresponding to the explicit connectives in the text.
 
-  * Labelling a token with "Seg=B-Conn" indicates that it is at the beginning of an explicit connective.
-  * Labelling a token with "Seg=I-Conn" indicates that it is a continuation of the start of the connective
+  * Labelling a token with "Conn=B-Conn" indicates that it is at the beginning of an explicit connective.
+  * Labelling a token with "Conn=I-Conn" indicates that it is a continuation of the start of the connective
    to its left;
-  * Labelling a token with "_" indicates that is is outside the segment to its left.
+  * Labelling a token with "Conn=O" indicates that is is outside the segment to its left.
 
 
 ### Notes on Relation Classification
