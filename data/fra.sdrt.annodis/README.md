@@ -24,7 +24,8 @@ Partners in the ANNODIS project (ANR corpus 2007)
 Publications presenting the ANNODIS project/resource
 
   * Afantenos S. D., Asher N., Benamara F., Bras M., Fabre C., Ho-Dac L.-M., Le Draoulec A. Muller P., Péry-Woodley M.-P., Prévot L., Rebeyrolle J., Tanguy L., Vergez-Couret M., Vieu L. (2012). [An empirical resource for discovering cognitive principles of discourse organization: the ANNODIS corpus](https://aclanthology.org/L12-1498/). LREC 2012, Istanbul, Turkey, July 2012. 
-    ```
+
+    ```bibtex
     @inproceedings{afantenos-etal-2012-empirical,
     title = "An empirical resource for discovering cognitive principles of discourse organisation: the {ANNODIS} corpus",
     author = "Afantenos, Stergos  and
@@ -73,8 +74,8 @@ Contact : hodac@univ-tlse2.fr
 Yann MATHET & Antoine WIDLOCHER
 ANR Project: ANNODIS
 
-## DISRPT 2023 Shared Task Information
+## DISRPT 2025 Shared Task Information
 
-For the DISRPT 2021 and 2023 shared task on elementary discourse unit segmentation, only segmentations from the 'expert' annotation portion of the corpus were used, leaving outside the 'naive' annotation portions. 
+For the DISRPT 2021, 2023 and 2025 shared task on elementary discourse unit segmentation, only segmentations from the 'expert' annotation portion of the corpus were used, leaving outside the 'naive' annotation portions. 
 
 Syntactic parses are automatically generated using Spacy. For relation classification, note that this dataset contains discontinuous discourse units (analyzed as equivalent to split 'same-unit' in RST). 

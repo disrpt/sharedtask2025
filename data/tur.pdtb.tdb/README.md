@@ -1,8 +1,8 @@
 # tur.pdtb.tdb
 
-### Turkish Discourse Bank 1.0 & Turkish Discourse Bank 1.1 
+## Turkish Discourse Bank 1.0 & Turkish Discourse Bank 1.1 
 
-## Introduction  
+### Introduction  
 
 Turkish Discourse Bank 1.0 is a 400,000-word corpus funded by TÜBİTAK (The Scientific and Technological Research Council of Turkey) annotated in the PDTB style. For more information regarding TDB, please visit: http://medid.ii.metu.edu.tr/theCorpus.html. TDB 1.0 contains explicit discourse connectives as well phrasal expressions based on postpositions, i.e: 
 
@@ -22,13 +22,13 @@ As in the PDTB, in TDB,
 Turkish Discourse Bank 1.1 (TDB 1.1) is an extension on the Turkish Discourse Bank 1.0. TDB 1.1 added sense annotations to a subset of the Turkish Discourse Bank 1.0 (10% of the corpus, 20 documents), which consists of the content of the relation classification task for Turkish. Please refer to the paper titled "TDB 1.1: Extensions on Turkish Discourse Bank" (https://www.aclweb.org/anthology/W17-0809/) for more details. 
 
 
-## DISRPT 2023 Shared Task Information
+## DISRPT 2025 Shared Task Information
 
 The data was automatically parsed using the UDPipe Turkish model (https://github.com/jwijffels/udpipe.models.ud.2.0/blob/master/inst/udpipe-ud-2.0-170801/turkish-ud-2.0-170801.udpipe). 
 
 ### Obtaining the Text
 
-Since the underlying texts cannot be placed openly online, the shared task data has replaced token information with underscores. To reconstruct the data, users must obtain the raw texts by filling in the user agreement form (`tdb_shared_task_user_agreement.docx`) which they email to `corpora@metu.edu.tr` and run the Python script in `utils/process_underscores.py tdb -m add`. For more details, run `python utils/process_underscores.py -h`.
+Since the underlying texts cannot be placed openly online, the shared task data has replaced token information with underscores. To reconstruct the data, users must obtain the raw texts by filling in the user agreement form (`tdb_shared_task_user_agreement.docx`) which they email to `corpora@metu.edu.tr` and run the Python script in `utils/process_underscores_2024.py tdb -m add`. For more details, run `python utils/process_underscores_2024.py -h`.
 
 
 ### Notes on Relation Classification
@@ -39,7 +39,7 @@ Since the underlying texts cannot be placed openly online, the shared task data 
 
 This dataset contains discontinuous discourse units.
 
-## Notes
+### Other notes
 
 A list of all explicit connectives and phrasal expressions annotated in TDB 1.0 can be found in Demirşahin and Zeyrek (2017). 
 
@@ -50,10 +50,10 @@ The full tag set of TDB can be found in Zeyrek et al. (2013)
 The list of all modifiers can be found in Çakmak (2015). 
 
 
-## References
+### References
 
 Zeyrek, D., & Kurfalı, M. (2017, April). [TDB 1.1: Extensions on Turkish discourse bank](https://aclanthology.org/W17-0809/). In Proceedings of the 11th Linguistic Annotation Workshop (pp. 76-81).
-```
+```bibtex
 @inproceedings{zeyrek-kurfali-2017-tdb,
     title = "{TDB} 1.1: Extensions on {T}urkish Discourse Bank",
     author = "Zeyrek, Deniz  and
@@ -71,7 +71,7 @@ Zeyrek, D., & Kurfalı, M. (2017, April). [TDB 1.1: Extensions on Turkish discou
 ```
 
 Zeyrek, D., & Kurfalı, M. (2018, May). [An assessment of explicit inter-and intra-sentential discourse connectives in Turkish Discourse Bank](https://aclanthology.org/L18-1634/). In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018).
-```
+```bibtex
 @inproceedings{zeyrek-kurfali-2018-assessment,
     title = "An Assessment of Explicit Inter- and Intra-sentential Discourse Connectives in {T}urkish Discourse Bank",
     author = "Zeyrek, Deniz  and
@@ -86,7 +86,7 @@ Zeyrek, D., & Kurfalı, M. (2018, May). [An assessment of explicit inter-and int
 ```
 
 Çakmak, Deniz Hande. (2015). [The Role of Modifiers in Turkish Discourse Bank](https://open.metu.edu.tr/handle/11511/25017). Unpublished MS Thesis. Middle East Technical University, Cognitive Science Department. 
-```
+```bibtex
 @mastersthesis{çakmak_2015, 
     title={The Role of modifiers in Turkish discourse bank}, 
     school={Middle East Technical University}, 
@@ -95,7 +95,7 @@ Zeyrek, D., & Kurfalı, M. (2018, May). [An assessment of explicit inter-and int
 ```
 
 Demirşahin, I., & Zeyrek, D. (2017). Pair annotation as a novel annotation procedure: The case of Turkish Discourse Bank. In Handbook of Linguistic Annotation (pp. 1219-1240). Springer, Dordrecht.
-```
+```bibtex
 @Inbook{Demirşahin2017,
     author="Demir{\c{s}}ahin, I{\c{s}}{\i}n
     and Zeyrek, Deniz",
@@ -115,7 +115,7 @@ Demirşahin, I., & Zeyrek, D. (2017). Pair annotation as a novel annotation proc
 ```
 
 Zeyrek, D., Demirşahin, I., Sevdik-Çallı, A. B., & Çakıcı, R. (2013). [Turkish Discourse Bank: Porting a discourse annotation style to a morphologically rich language](https://journals.uic.edu/ojs/index.php/dad/article/view/10772). D&D, 4(2), 174-184.
-```
+```bibtex
 @article{zeyrek bozşahin_sevdik çallı_çakıcı_2013, 
     title={Turkish Discourse Bank: Porting a discourse annotation style to a morphologically rich language}, 
     url={https://hdl.handle.net/11511/32505}, 
@@ -127,7 +127,7 @@ Zeyrek, D., Demirşahin, I., Sevdik-Çallı, A. B., & Çakıcı, R. (2013). [Tur
 ```
 
 Zeyrek, D., & Webber, B. (2008). [A discourse resource for Turkish: Annotating discourse connectives in the METU corpus](https://aclanthology.org/W14-4916/). In Proceedings of the 6th workshop on Asian language resources.
-```
+```bibtex
 @inproceedings{demirsahin-zeyrek-2014-annotating,
     title = "Annotating Discourse Connectives in Spoken {T}urkish",
     author = "Demir{\c{s}}ahin, Isin  and

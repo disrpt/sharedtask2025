@@ -4,7 +4,8 @@
 
 Cardoso, P.C.F.; Maziero, E.G.; Jorge, M.L.C.; Seno, E.M.R.; Di Felippo, A.; Rino, L.H.M.; Nunes, M.G.V.; Pardo, T.A.S. (2011). 
 [CSTNews - A Discourse-Annotated Corpus for Single and Multi-Document Summarization of News Texts in Brazilian Portuguese](https://www.semanticscholar.org/paper/CSTNews-A-Discourse-Annotated-Corpus-for-Single-and-Cardoso-Maziero/d84cfba46785136129a276e906119ecd190085fd). In the Proceedings of the 3rd RST Brazilian Meeting, pp. 88-105. October 26, Cuiabá/MT, Brazil. 
-```
+
+```bibtex
 @InProceedings{CardosoMazieroRosarioCastroJorgeEtAl2011,
   author    = {Paula Christina Figueira Cardoso and Erick Galani Maziero and Maria Luc\'{i}a del Rosario Castro Jorge and M. Eloize and R. Kibar Aji Seno and Ariani Di Felippo and Lucia Helena Machado Rino and Maria das Gra\c{c}as Volpe Nunes and Thiago Alexandre Salgueiro Pardo},
   title     = {{CSTNews} - A Discourse-Annotated Corpus for Single and Multi-Document Summarization of News Texts in {B}razilian {P}ortuguese},
@@ -27,30 +28,30 @@ This project took into consideration not only classical approaches to single and
 The project was developed at NILC (Interinstitutional Center for Computational Linguistics), one of the biggest research groups on Natural Language Processing and Computational Linguistics in Brazil. It started in 2007 as a natural follow up to some previous projects on single-document summarization carried out at NILC (FAPESP #2006/02887-9; see also related projects). It was supported by the research agencies FAPESP, CNPq, and CAPES, which have granted scholarships for undergraduate and graduate students and regular financial support for the project (FAPESP# 2015/17841-3, FAPESP #2012/03071-3, FAPESP #2009/05603-0). The project was officially over at the end of 2017.
 
 
-## DISRPT 2023 Shared Task Information
+## DISRPT 2025 Shared Task Information
 
 The corpus is composed of 140 news texts clustered in 50 groups, totaling 2221 sentences. The number of texts per cluster varies from 2 to 3. Each cluster groups texts from different news sources about the same event. To avoid biases, texts from the same cluster were put together in the same split (dev, test or train). As a result, the test set is somewhat smaller than the dev set, but this was not altered in order to respect the existing splits of the corpus from other tasks and papers.
 
 Data was automatically parsed using the Stanza Portuguese model (based on UD Portuguese-Bosque 2.7). Note that the data includes .conllu multi-word tokens, for example fused articles and prepositions are decomposed automatically:
 
-```
+```CoNLL-U
 # newdoc id = D4_C36_JB
 # sent_id = D4_C36_JB-1
 # text = Presença constante na cena política brasileira nas últimas quatro décadas , o senador Antonio Carlos Magalhães ( DEM-BA ) morreu na manhã desta sexta-feira , em São Paulo , vítima de insuficiência cardíaca .
-1	Presença	presença	NOUN	NOUN	Gender=Fem|Number=Sing	22	obl	_	BeginSeg=Yes
-2	constante	constante	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	_
+1	Presença	presença	NOUN	NOUN	Gender=Fem|Number=Sing	22	obl	_	Seg=B-seg
+2	constante	constante	ADJ	ADJ	Gender=Fem|Number=Sing	1	amod	_	Seg=O
 3-4	na	_	_	_	_	_	_	_	_
-3	em	em	ADP	ADP	_	5	case	_	_
-4	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	cena	cena	NOUN	NOUN	Gender=Fem|Number=Sing	1	nmod	_	_
-6	política	político	ADJ	ADJ	Gender=Fem|Number=Sing	5	amod	_	_
-7	brasileira	brasileiro	ADJ	ADJ	Gender=Fem|Number=Sing	5	amod	_	_
+3	em	em	ADP	ADP	_	5	case	_	Seg=O
+4	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Seg=O
+5	cena	cena	NOUN	NOUN	Gender=Fem|Number=Sing	1	nmod	_	Seg=O
+6	política	político	ADJ	ADJ	Gender=Fem|Number=Sing	5	amod	_	Seg=O
+7	brasileira	brasileiro	ADJ	ADJ	Gender=Fem|Number=Sing	5	amod	_	Seg=O
 8-9	nas	_	_	_	_	_	_	_	_
-8	em	em	ADP	ADP	_	12	case	_	_
-9	as	o	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
-10	últimas	último	ADJ	ADJ	Gender=Fem|NumType=Ord|Number=Plur	12	amod	_	_
-11	quatro	quatro	NUM	NUM	NumType=Card	12	nummod	_	_
-12	décadas	década	NOUN	NOUN	Gender=Fem|Number=Plur	1	nmod	_	_
+8	em	em	ADP	ADP	_	12	case	_	Seg=O
+9	as	o	DET	DET	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	Seg=O
+10	últimas	último	ADJ	ADJ	Gender=Fem|NumType=Ord|Number=Plur	12	amod	_	Seg=O
+11	quatro	quatro	NUM	NUM	NumType=Card	12	nummod	_	Seg=O
+12	décadas	década	NOUN	NOUN	Gender=Fem|Number=Plur	1	nmod	_	Seg=O
 ...
 ```
 

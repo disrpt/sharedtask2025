@@ -17,7 +17,7 @@ Exact list of files in eng.rst.rstdt_partition.json
 ### The RST Discourse Treebank
 
 Carlson, Lynn, Daniel Marcu and Mary Ellen Okurowski (2001). RST Discourse Treebank LDC2002T07. Philadelphia: Linguistic Data Consortium.
-```
+```bibtex
 @Misc{RSTDT-LDC,
   author       = {Lynn Carlson, Daniel Marcu, Mary Ellen Okurowski},
   year         = {2002},
@@ -48,12 +48,12 @@ In the RST framework (Mann and Thompson, 1988), a text's discourse structure can
 See: https://catalog.ldc.upenn.edu/LDC2002T07
 
 
-## DISRPT 2023 Shared Task Information
+## DISRPT 2025 Shared Task Information
 
-For the DISRPT 2023 shared task the data was divided into train, test and dev partitions. The original test partition of 38 documents was retained, and 38 further documents from the remaining 347 documents were set aside for the dev partition.
+For the DISRPT shared tasks the data was divided into train, test and dev partitions. The original test partition of 38 documents was retained, and 38 further documents from the remaining 347 documents were set aside for the dev partition.
 
 Syntactic dependency parses are made available using the CoreNLP conversion to UD syntax from the gold Penn Treebank (PTB) constituent trees where possible; however for some sentences whose text varies slightly from the version found in the PTB, automatic parses using UDPipe were introduced, to match the automatic parser used for DISRPT 2019. This dataset contains discontinuous discourse units (split 'same-unit').
 
 ### Obtaining the Text
 
-Since the underlying Wall Street Journal text cannot be placed openly online, the shared task data has replaced token information with underscores. To reconstruct the data, users must obtain a copy of the LDC release of the RST-DT and run the Python script `utils/process_underscores.py -m add rstdt`. You will be prompted to supply the locations of the RST-DT distribution's `data/` folder. For more details, run `python utils/process_underscores.py -h`.
+Since the underlying Wall Street Journal text cannot be placed openly online, the shared task data has replaced token information with underscores. To reconstruct the data, users must obtain a copy of the LDC release of the RST-DT and run the Python script `utils/process_underscores_2024.py -m add rstdt`. You will be prompted to supply the locations of the RST-DT distribution's `data/` folder. For more details, run `python utils/process_underscores_2024.py -h`.

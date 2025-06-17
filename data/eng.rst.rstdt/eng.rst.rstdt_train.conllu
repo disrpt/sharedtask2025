@@ -47633,7 +47633,7 @@
 10	___	_	CCONJ	CC	_	8	cc	8:cc	Seg=O
 11	_	_	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	Seg=O
 12	______	_	NOUN	NN	Number=Sing	8	dep	8:dep	Seg=O
-13	_	_	,	,	_	12	orphan	12:orphan	Seg=O
+13	_	_	PUNCT	,	_	12	punct	12:punct	Seg=O
 14	__	_	NUM	CD	NumForm=Digit|NumType=Card	15	nummod	15:nummod	Seg=O
 15	_	_	SYM	NN	Number=Sing	12	orphan	12:orphan	Seg=O
 16	_	_	PUNCT	.	_	8	punct	8:punct	Seg=O
@@ -132511,7 +132511,7 @@
 32	___	_	CCONJ	CC	_	36	cc	36:cc	Seg=O
 33	___	_	ADP	IN	_	34	case	34:case	Seg=O
 34	__	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	36	orphan	36:orphan	Seg=O
-35	_	_	,	,	_	36	orphan	36:orphan	Seg=O
+35	_	_	PUNCT	,	_	36	punct	36:punct	Seg=O
 36	_______	_	NOUN	NN	Number=Sing|Polarity=Neg	21	conj	1:ccomp|21:conj:and	Seg=O
 37	_	_	PUNCT	.	_	1	punct	1:punct	Seg=O
 38	_	''	PUNCT	''	_	1	punct	1:punct	Seg=O
@@ -136850,7 +136850,7 @@
 24	__	_	ADP	IN	_	26	case	26:case	Seg=O
 25	______	_	NUM	CD	NumForm=Digit|NumType=Frac	26	nummod	26:nummod	Seg=O
 26	___	_	NOUN	NN	Number=Sing	11	conj	11:conj:and	Seg=O
-27	_	_	,	,	_	26	orphan	26:orphan	Seg=O
+27	_	_	PUNCT	,	_	26	punct	26:punct	Seg=O
 28	____	_	ADV	RB	Degree=Pos	26	orphan	26:orphan	Seg=O
 29	____	_	ADP	IN	_	31	case	31:case	Seg=O
 30	______	_	NUM	CD	NumForm=Digit|NumType=Frac	31	nummod	31:nummod	Seg=O
@@ -143595,7 +143595,7 @@
 7	___	_	CCONJ	CC	_	12	cc	12:cc	Seg=O
 8	_____	_	ADP	IN	_	9	case	9:case	Seg=O
 9	__	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	orphan	12:orphan	Seg=O
-10	_	_	,	,	_	12	orphan	12:orphan	Seg=O
+10	_	_	PUNCT	,	_	12	punct	12:punct	Seg=O
 11	___	_	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Seg=O
 12	_____________	_	NOUN	NNS	Number=Plur	6	conj	6:conj:and	Seg=O
 13	___	_	ADP	IN	_	16	case	16:case	Seg=O
@@ -176299,3 +176299,4 @@
 11	______	_	PROPN	NNP	Number=Sing	2	obl	2:obl:in	Seg=O
 12	______	_	PROPN	NNP	Number=Sing	2	obl:tmod	2:obl:tmod	Seg=O
 13	_	_	PUNCT	.	_	2	punct	2:punct	Seg=O
+

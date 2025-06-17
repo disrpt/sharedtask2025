@@ -40,8 +40,8 @@
 18	ขู่	_	NOUN	NCMN	_	16	compound	16:compound	Conn=O
 19	น้อง	_	NOUN	NCMN	_	16	compound	16:compound	Conn=O
 20	สะใภ้	_	VERB	VACT	_	9	advcl	9:advcl	Conn=O
-21	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-22	กล่อม	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+21	ให้	_	SCONJ	JSBR	_	9	parataxis	9:parataxis	Conn=O
+22	กล่อม	_	NOUN	NCMN	_	9	parataxis	9:parataxis	Conn=O
 23	ผัว	_	NOUN	NCMN	_	22	compound	22:compound	Conn=O
 24	รับ	_	VERB	VACT	_	23	acl	23:acl	Conn=O
 25	สารภาพ	_	NOUN	NCMN	_	24	obj	24:obj	Conn=O
@@ -95,7 +95,7 @@
 20	หวั่น	_	NOUN	NCMN	_	22	nsubj:pass	22:nsubj:pass	Conn=O
 21	ถูก	_	AUX	XVAM	_	22	aux:pass	22:aux:pass	Conn=O
 22	ซ้อม	_	VERB	VSTA	_	17	acl:relcl	17:acl:relcl	Conn=O
-23	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+23	ให้	_	SCONJ	JSBR	_	12	parataxis	12:parataxis	Conn=O
 24	รับ	_	VERB	VACT	_	23	xcomp	23:xcomp	Conn=O
 25	ผิด	_	NOUN	NCMN	_	24	obj	24:obj	Conn=O
 
@@ -179,9 +179,9 @@
 1	แม้	_	SCONJ	JSBR	_	4	mark	4:mark	Conn=B-conn
 2	ผู้ต้องหา	_	NOUN	NCMN	_	4	nsubj	4:nsubj	Conn=O
 3	จะ	_	AUX	XVBM	_	4	aux	4:aux	Conn=O
-4	ให้การ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+4	ให้การ	_	VERB	VACT	_	0	root	0:root	Conn=O
 5	ปฏิเสธ	_	VERB	VACT	_	4	obj	4:obj	Conn=O
-6	ก็ตาม	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+6	ก็ตาม	_	SCONJ	JSBR	_	4	parataxis	4:parataxis	Conn=O
 7	แต่	_	CCONJ	JCRG	_	12	cc	12:cc	Conn=B-conn
 8	เรื่อง	_	NOUN	NCMN	_	12	obl:tmod	12:obl:tmod	Conn=O
 9	นี้	_	DET	DDAC	_	8	det	8:det	Conn=O
@@ -284,8 +284,8 @@
 62	ไป	_	VERB	VACT	_	46	advcl	46:advcl	Conn=O
 63	สอบปากคำ	_	NOUN	NCMN	_	62	obj	62:obj	Conn=O
 64	เพิ่มเติม	_	VERB	VSTA	_	63	acl	63:acl	Conn=O
-65	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-66	ห้อง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+65	ที่	_	SCONJ	PREL	_	2	parataxis	2:parataxis	Conn=O
+66	ห้อง	_	NOUN	NCMN	_	2	parataxis	2:parataxis	Conn=O
 67	สอบสวน	_	NOUN	NCMN	_	66	compound	66:compound	Conn=O
 68	ภายใน	_	ADP	RPRE	_	69	case	69:case	Conn=O
 69	สำนักงาน	_	NOUN	NCMN	_	66	nmod	66:nmod	Conn=O
@@ -296,7 +296,7 @@
 
 # sent_id = T00245.tsv-8
 # text = ร.ท.อ้างตัวเองยังบริสุทธิ์
-1	ร.ท.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ร.ท.	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	อ้าง	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	ตัวเอง	_	PRON	PDMN	_	5	nsubj	5:nsubj	Conn=O
 4	ยัง	_	AUX	XVBM	_	5	aux	5:aux	Conn=O
@@ -310,7 +310,7 @@
 4	ใน	_	ADP	RPRE	_	5	case	5:case	Conn=O
 5	ชุด	_	NOUN	NCMN	_	2	nmod	2:nmod	Conn=O
 6	เสื้อ	_	NOUN	NCMN	_	5	compound	5:compound	Conn=O
-7	ยืด	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+7	ยืด	_	VERB	VACT	_	0	root	0:root	Conn=O
 8	แขน	_	NOUN	NCMN	_	7	obj	7:obj	Conn=O
 9	สั้น	_	ADJ	VATT	_	8	amod	8:amod	Conn=O
 10	สี	_	NOUN	NCMN	_	8	compound	8:compound	Conn=O
@@ -371,9 +371,9 @@
 # sent_id = T00245.tsv-12
 # text = เมื่อถามว่าเป็นห่วงบิดาซึ่งป่วยอยู่หรือไม่ ร.ท.ธวัชชัยว่า"เป็นห่วงพ่อเป็นห่วงทุกคน"
 1	เมื่อ	_	SCONJ	JSBR	_	2	mark	2:mark	Conn=B-conn
-2	ถาม	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
-3	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-4	เป็นห่วง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+2	ถาม	_	VERB	VACT	_	0	root	0:root	Conn=O
+3	ว่า	_	SCONJ	JSBR	_	2	parataxis	2:parataxis	Conn=O
+4	เป็นห่วง	_	NOUN	NCMN	_	3	parataxis	2:parataxis|3:parataxis	Conn=O
 5	บิดา	_	NOUN	NCMN	_	4	compound	4:compound	Conn=O
 6	ซึ่ง	_	SCONJ	PREL	_	7	nsubj	7:nsubj	Conn=O
 7	ป่วย	_	VERB	VSTA	_	4	acl:relcl	4:acl:relcl	Conn=O
@@ -437,7 +437,7 @@
 26	โดย	_	SCONJ	JSBR	_	28	nsubj	28:nsubj	Conn=B-conn
 27	ไม่	_	PART	NEG	_	28	advmod	28:advmod	Conn=O
 28	อนุญาต	_	VERB	VACT	_	4	acl:relcl	4:acl:relcl	Conn=O
-29	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+29	ให้	_	SCONJ	JSBR	_	4	parataxis	4:parataxis	Conn=O
 30	ผู้สื่อข่าว	_	NOUN	NCMN	_	29	obj	29:obj	Conn=O
 31	และ	_	CCONJ	JCRG	_	32	cc	32:cc	Conn=O
 32	ช่าง	_	NOUN	NCMN	_	30	conj	30:conj	Conn=O
@@ -478,8 +478,8 @@
 16	ข้าม	_	VERB	VACT	_	12	acl	12:acl	Conn=O
 17	แยก	_	VERB	VACT	_	16	xcomp	16:xcomp	Conn=O
 18	บางพลัด	_	NOUN	NCMN	_	17	obj	17:obj	Conn=O
-19	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-20	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+19	ซึ่ง	_	SCONJ	PREL	_	3	parataxis	3:parataxis	Conn=O
+20	เป็น	_	VERB	VSTA	_	3	parataxis	3:parataxis	Conn=O
 21	รถยนต์	_	NOUN	NCMN	_	20	obj	20:obj	Conn=O
 22	ยี่ห้อ	_	NOUN	NCMN	_	21	compound	21:compound	Conn=O
 23	และ	_	CCONJ	JCRG	_	24	cc	24:cc	Conn=O
@@ -492,7 +492,7 @@
 30	ซุกซ่อน	_	VERB	VACT	_	24	acl:relcl	24:acl:relcl	Conn=O
 31	ระเบิด	_	NOUN	NCMN	_	30	obj	30:obj	Conn=O
 32	นั้น	_	DET	DDAC	_	31	det	31:det	Conn=O
-33	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+33	เมื่อ	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 34	เวลา	_	NOUN	NCMN	_	45	mark	45:mark	Conn=O
 35	02.00	_	NUM	NCNM	_	36	nummod	36:nummod	Conn=O
 36	น.	_	NOUN	CMTR	_	34	clf	34:clf	Conn=O
@@ -504,7 +504,7 @@
 42	กอง	_	NOUN	NCMN	_	40	compound	40:compound	Conn=O
 43	ปราบปราม	_	NOUN	NCMN	_	40	compound	40:compound	Conn=O
 44	สามารถ	_	AUX	XVAM	_	45	aux	45:aux	Conn=O
-45	ติดตาม	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+45	ติดตาม	_	VERB	VACT	_	3	parataxis	3:parataxis	Conn=O
 46	ตัว	_	NOUN	NCMN	_	45	obj	45:obj	Conn=O
 47	ผู้	_	PRON	PPRS	_	48	nsubj	48:nsubj	Conn=O
 48	ขับขี่	_	VERB	VACT	_	46	acl:relcl	46:acl:relcl	Conn=O
@@ -516,8 +516,8 @@
 54	ทะเบียน	_	NOUN	NCMN	_	49	compound	49:compound	Conn=O
 55	2ณ-7652	_	NOUN	NCMN	_	49	compound	49:compound	Conn=O
 56	กรุงเทพมหานคร	_	NOUN	NCMN	_	49	compound	49:compound	Conn=O
-57	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-58	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+57	ซึ่ง	_	SCONJ	PREL	_	3	parataxis	3:parataxis	Conn=O
+58	เป็น	_	VERB	VSTA	_	3	parataxis	3:parataxis	Conn=O
 59	รถยนต์	_	NOUN	NCMN	_	58	obj	58:obj	Conn=O
 60	ที่	_	SCONJ	PREL	_	61	mark	61:mark	Conn=O
 61	จอด	_	VERB	VSTA	_	58	advcl	58:advcl	Conn=O
@@ -643,7 +643,7 @@
 4	ตาม	_	ADP	RPRE	_	5	case	5:case	Conn=O
 5	ช่าง	_	NOUN	NCMN	_	1	obl	1:obl	Conn=O
 6	มา	_	AUX	XVAE	_	7	aux	7:aux	Conn=O
-7	ช่วย	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+7	ช่วย	_	VERB	VACT	_	0	root	0:root	Conn=O
 8	ดู	_	VERB	VACT	_	7	xcomp	7:xcomp	Conn=O
 9	อาการ	_	NOUN	NCMN	_	8	obj	8:obj	Conn=O
 10	ทราบ	_	VERB	VSTA	_	9	acl	9:acl	Conn=O
@@ -700,7 +700,7 @@
 
 # sent_id = T00245.tsv-19
 # text = ขัดแย้งจุดจอดคาร์บอมบ์
-1	ขัดแย้ง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ขัดแย้ง	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	จุด	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	จอด	_	VERB	VACT	_	2	acl	2:acl	Conn=O
 4	คาร์	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
@@ -856,13 +856,13 @@
 55	ใน	_	ADP	RPRE	_	56	case	56:case	Conn=O
 56	จุด	_	NOUN	NCMN	_	54	obl	54:obl	Conn=O
 57	สุดท้าย	_	ADJ	DONM	_	56	amod	56:amod	Conn=O
-58	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
+58	แต่	_	CCONJ	JCRG	_	4	parataxis	4:parataxis	Conn=B-conn
 59	อย่างไรก็ตาม	_	SCONJ	JSBR	_	64	mark	64:mark	Conn=I-conn
 60	พนักงาน	_	NOUN	NCMN	_	64	nsubj	64:nsubj	Conn=O
 61	สอบสวน	_	NOUN	NCMN	_	60	compound	60:compound	Conn=O
 62	จะ	_	AUX	XVBM	_	64	aux	64:aux	Conn=O
 63	ต้อง	_	AUX	XVMM	_	64	aux	64:aux	Conn=O
-64	พิจารณา	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+64	พิจารณา	_	VERB	VACT	_	4	parataxis	4:parataxis	Conn=O
 65	คำ	_	NOUN	NCMN	_	64	obj	64:obj	Conn=O
 66	ให้การ	_	NOUN	NCMN	_	65	compound	65:compound	Conn=O
 67	ของ	_	ADP	RPRE	_	68	case	68:case	Conn=O
@@ -879,8 +879,8 @@
 
 # sent_id = T00245.tsv-22
 # text = นครบาลหิ้วเจ้าของคาร์บอมบ์เค้นสอบ
-1	นครบาล	_	ADV	ADVN	_	0	ROOT	0:ROOT	Conn=O
-2	หิ้ว	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	นครบาล	_	ADV	ADVN	_	0	root	0:root	Conn=O
+2	หิ้ว	_	NOUN	NCMN	_	1	parataxis	1:parataxis	Conn=O
 3	เจ้าของ	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 4	คาร์	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 5	บอมบ์	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
@@ -1055,7 +1055,7 @@
 
 # sent_id = T00245.tsv-25
 # text = พบพันเอกกับ 2 นายพลมีเอี่ยว
-1	พบ	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+1	พบ	_	VERB	VSTA	_	0	root	0:root	Conn=O
 2	พันเอก	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	กับ	_	ADP	RPRE	_	5	case	5:case	Conn=O
 4	2	_	NUM	NCNM	_	5	nummod	5:nummod	Conn=O
@@ -1108,14 +1108,14 @@
 41	ที่	_	SCONJ	PREL	_	42	mark	42:mark	Conn=O
 42	ได้	_	VERB	VSTA	_	5	advcl	5:advcl	Conn=O
 43	เชื่อ	_	VERB	VSTA	_	42	xcomp	42:xcomp	Conn=O
-44	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-45	แผนการ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+44	ว่า	_	SCONJ	JSBR	_	5	parataxis	5:parataxis	Conn=O
+45	แผนการ	_	NOUN	NCMN	_	5	parataxis	5:parataxis	Conn=O
 46	ครั้ง	_	NOUN	CFQC	_	45	clf	45:clf	Conn=O
 47	นี้	_	DET	DDAC	_	46	det	46:det	Conn=O
-48	มีการ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+48	มีการ	_	VERB	VACT	_	5	parataxis	5:parataxis	Conn=O
 49	ทำ	_	VERB	VACT	_	48	xcomp	48:xcomp	Conn=O
 50	กัน	_	ADV	ADVN	_	49	advmod	49:advmod	Conn=O
-51	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+51	เป็น	_	VERB	VSTA	_	5	parataxis	5:parataxis	Conn=O
 52	ขบวนการ	_	NOUN	NCMN	_	51	obj	51:obj	Conn=O
 53	โดย	_	SCONJ	JSBR	_	54	mark	54:mark	Conn=B-conn
 54	เชื่อมโยง	_	VERB	VACT	_	51	advcl	51:advcl	Conn=O
@@ -1163,7 +1163,7 @@
 96	ผู้	_	PRON	PPRS	_	95	obj	95:obj	Conn=O
 97	ต้องสงสัย	_	VERB	VACT	_	95	xcomp	95:xcomp	Conn=O
 98	นั้น	_	DET	DDAC	_	84	det	84:det	Conn=O
-99	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+99	เป็น	_	VERB	VSTA	_	5	parataxis	5:parataxis	Conn=O
 100	กลุ่ม	_	NOUN	NCMN	_	99	obj	99:obj	Conn=O
 101	นาย	_	NOUN	NCMN	_	100	compound	100:compound	Conn=O
 102	ทหาร	_	NOUN	NCMN	_	100	compound	100:compound	Conn=O
@@ -1266,7 +1266,7 @@
 60	ขับ	_	VERB	VACT	_	46	advcl	46:advcl	Conn=O
 61	รถยนต์	_	NOUN	NCMN	_	60	obj	60:obj	Conn=O
 62	คัน	_	NOUN	CNIT	_	61	compound	61:compound	Conn=O
-63	เดียว	_	DET	DIAC	_	0	ROOT	0:ROOT	Conn=O
+63	เดียว	_	DET	DIAC	_	2	parataxis	2:parataxis	Conn=O
 64	กับ	_	ADP	RPRE	_	63	fixed	63:fixed	Conn=O
 65	ที่	_	SCONJ	PREL	_	66	mark	66:mark	Conn=O
 66	พบ	_	VERB	VACT	_	63	advcl	63:advcl	Conn=O
@@ -1283,7 +1283,7 @@
 4	ได้	_	AUX	XVAM	_	5	aux	5:aux	Conn=O
 5	มี	_	VERB	VSTA	_	0	root	0:root	Conn=O
 6	คำสั่ง	_	NOUN	NCMN	_	5	obj	5:obj	Conn=O
-7	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+7	ให้	_	SCONJ	JSBR	_	5	parataxis	5:parataxis	Conn=O
 8	ตำรวจ	_	NOUN	NCMN	_	7	obj	7:obj	Conn=O
 9	ที่	_	SCONJ	PREL	_	10	mark	10:mark	Conn=O
 10	ควบคุม	_	VERB	VACT	_	7	advcl	7:advcl	Conn=O
@@ -1318,7 +1318,7 @@
 39	นั้น	_	DET	DDAC	_	38	det	38:det	Conn=O
 40	ไม่	_	PART	NEG	_	41	advmod	41:advmod	Conn=O
 41	อนุญาต	_	VERB	VACT	_	10	conj	10:conj	Conn=O
-42	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+42	ให้	_	SCONJ	JSBR	_	5	parataxis	5:parataxis	Conn=O
 43	ญาติ	_	NOUN	NCMN	_	42	obj	42:obj	Conn=O
 44	นำ	_	VERB	VACT	_	42	xcomp	42:xcomp	Conn=O
 45	อาหาร	_	NOUN	NCMN	_	44	obj	44:obj	Conn=O
@@ -1341,7 +1341,7 @@
 62	อิดโรย	_	NOUN	NCMN	_	61	compound	61:compound	Conn=O
 63	และ	_	CCONJ	JCRG	_	64	cc	64:cc	Conn=B-conn
 64	เคร่งเครียด	_	NOUN	NCMN	_	61	conj	61:conj	Conn=O
-65	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+65	เป็น	_	VERB	VSTA	_	5	parataxis	5:parataxis	Conn=O
 66	อย่าง	_	PART	FIXV	_	65	compound:prt	65:compound:prt	Conn=O
 67	มาก	_	ADJ	VATT	_	65	amod	65:amod	Conn=O
 68	เพราะ	_	SCONJ	JSBR	_	71	mark	71:mark	Conn=B-conn
@@ -1431,8 +1431,8 @@
 60	ยา	_	NOUN	NCMN	_	59	obj	59:obj	Conn=O
 61	บ้าง	_	ADV	ADVN	_	59	advmod	59:advmod	Conn=O
 62	หรือไม่	_	PART	EITT	_	59	discourse	59:discourse	Conn=O
-63	เพราะ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
-64	ดู	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+63	เพราะ	_	SCONJ	JSBR	_	15	parataxis	15:parataxis	Conn=B-conn
+64	ดู	_	VERB	VACT	_	15	parataxis	15:parataxis	Conn=O
 65	สภาพ	_	NOUN	NCMN	_	64	obj	64:obj	Conn=O
 66	น้อง	_	VERB	VSTA	_	65	acl	65:acl	Conn=O
 67	ชาย	_	NOUN	NCMN	_	66	obj	66:obj	Conn=O
@@ -1441,7 +1441,7 @@
 70	ทาง	_	ADP	RPRE	_	71	case	71:case	Conn=O
 71	โทรทัศน์	_	NOUN	NCMN	_	69	nmod	69:nmod	Conn=O
 72	แล้ว	_	ADV	ADVN	_	64	advmod	64:advmod	Conn=O
-73	รู้สึก	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+73	รู้สึก	_	VERB	VACT	_	15	parataxis	15:parataxis	Conn=O
 74	ว่า	_	SCONJ	JSBR	_	77	mark	77:mark	Conn=O
 75	น้อง	_	NOUN	NCMN	_	77	nsubj	77:nsubj	Conn=O
 76	จะ	_	AUX	XVBM	_	77	aux	77:aux	Conn=O
@@ -1574,7 +1574,7 @@
 14	ตำรวจ	_	NOUN	NCMN	_	13	obj	13:obj	Conn=O
 15	พยายาม	_	VERB	VACT	_	9	xcomp	9:xcomp	Conn=O
 16	เกลี้ยกล่อม	_	VERB	VACT	_	15	xcomp	15:xcomp	Conn=O
-17	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+17	ให้	_	SCONJ	JSBR	_	9	parataxis	9:parataxis	Conn=O
 18	ไป	_	VERB	VACT	_	17	xcomp	17:xcomp	Conn=O
 19	บอก	_	VERB	VACT	_	18	obj	18:obj	Conn=O
 20	สามี	_	NOUN	NCMN	_	19	obj	19:obj	Conn=O
@@ -1641,7 +1641,7 @@
 4	ลอบ	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
 5	สังหาร	_	NOUN	NCMN	_	4	compound	4:compound	Conn=O
 6	นายก	_	ADJ	VATT	_	5	amod	5:amod	Conn=O
-7	ฯ	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
+7	ฯ	_	ADP	RPRE	_	3	parataxis	3:parataxis	Conn=O
 
 # sent_id = T00245.tsv-34
 # text = ด้านนางสังวรณ์ ทัดจำปาภรรยา ร.ท.ธวัชชัยสัมภาษณ์ผ่านรายการเก็บตกจากเนชั่น ว่าก่อนเกิดเหตุไม่มีการพูดคุยอะไรกับสามีมากและไม่มีอะไรผิดสังเกตรู้สึกตกใจข่าวที่ระบุว่าสามีขับรถแดวูบรรทุกระเบิดเพื่อหวังทำร้ายรักษาการนายกรัฐมนตรีสามีปกติออกจากบ้าน 7 โมงเช้าเพื่อส่งลูกไปโรงเรียนแต่วันเกิดเหตุสามีก็ออกจากบ้านแต่เช้าแต่ไม่ได้คิดอะไรคิดว่าคงไปธุระจึงไม่ได้ถามอะไร
@@ -1917,8 +1917,8 @@
 
 # sent_id = T00245.tsv-38
 # text = ที่กองปราบปรามเวลา 12.30 น.พล.ต.ท.อชิรวิทย์ สุพรรณเภสัช ผู้ช่วย ผบ.ตร.ในฐานะโฆษกสำนักงานตำรวจแห่งชาติพล.ต.ต.อัศวินขวัญเมือง พล.ต.ต.วินัยทองสอง พร้อมด้วย พ.ต.ท.กำธร อุ่ยเจริญสว.กลุ่มงานเก็บกู้และตรวจพิสูจน์วัตถุระเบิดบก.ปพ.บช.น. เปิดแถลงข่าวความคืบหน้าการสอบสวนดำเนินคดีกับ ร.ท.ธวัชชัยทั้งชี้แจงกรณีการเก็บกู้วัตถุระเบิดภายในรถยนต์ของผู้ต้องหา
-1	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-2	กอง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ที่	_	SCONJ	PREL	_	0	root	0:root	Conn=O
+2	กอง	_	NOUN	NCMN	_	1	parataxis	1:parataxis	Conn=O
 3	ปราบปราม	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 4	เวลา	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 5	12.30	_	NUM	DCNM	_	6	nummod	6:nummod	Conn=O
@@ -2174,7 +2174,7 @@
 26	ขนส่ง	_	VERB	VACT	_	22	acl	22:acl	Conn=O
 27	ทาง	_	ADP	RPRE	_	28	case	28:case	Conn=O
 28	บก	_	NOUN	NCMN	_	26	obl	26:obl	Conn=O
-29	โดย	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+29	โดย	_	SCONJ	JSBR	_	7	parataxis	7:parataxis	Conn=B-conn
 30	ถูกต้อง	_	ADJ	VATT	_	29	fixed	29:fixed	Conn=O
 31	ตาม	_	ADP	RPRE	_	32	case	32:case	Conn=O
 32	กฎหมาย	_	NOUN	NCMN	_	29	obl	29:obl	Conn=O
@@ -2612,7 +2612,7 @@
 2	ดินระเบิด	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 3	นั้น	_	DET	DDAC	_	2	det	2:det	Conn=O
 4	จะ	_	AUX	XVBM	_	5	aux	5:aux	Conn=O
-5	มี	_	VERB	VSTA	_	0	root	0:root	Conn=O
+5	มี	_	VERB	VSTA	_	2	parataxis	0:root|2:parataxis	Conn=O
 6	เลข	_	NOUN	NCMN	_	5	obj	5:obj	Conn=O
 7	กำกับ	_	VERB	VACT	_	5	xcomp	5:xcomp	Conn=O
 8	อยู่	_	AUX	XVAE	_	7	aux	7:aux	Conn=O
@@ -2629,8 +2629,8 @@
 19	จะ	_	AUX	XVBM	_	20	aux	20:aux	Conn=O
 20	บอก	_	VERB	VACT	_	12	acl:relcl	12:acl:relcl	Conn=O
 21	ได้	_	AUX	XVAE	_	20	aux	20:aux	Conn=O
-22	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-23	วัตถุ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+22	ว่า	_	SCONJ	JSBR	_	2	parataxis	2:parataxis	Conn=O
+23	วัตถุ	_	NOUN	NCMN	_	2	parataxis	2:parataxis	Conn=O
 24	ระเบิด	_	NOUN	NCMN	_	23	compound	23:compound	Conn=O
 25	ดังกล่าว	_	DET	DDAC	_	26	nsubj	26:nsubj	Conn=O
 26	อยู่	_	VERB	VSTA	_	23	acl:relcl	23:acl:relcl	Conn=O
@@ -2642,12 +2642,12 @@
 
 # sent_id = T00245.tsv-51
 # text = ศาลให้ควบคุมตัวที่กองปราบฯ
-1	ศาล	_	PROPN	NPRP	_	0	ROOT	0:ROOT	Conn=O
-2	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+1	ศาล	_	PROPN	NPRP	_	0	root	0:root	Conn=O
+2	ให้	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
 3	ควบคุม	_	VERB	VACT	_	2	xcomp	2:xcomp	Conn=O
 4	ตัว	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
-5	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-6	กอง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+5	ที่	_	SCONJ	PREL	_	2	parataxis	1:parataxis|2:parataxis	Conn=O
+6	กอง	_	NOUN	NCMN	_	5	parataxis	1:parataxis|2:parataxis|5:parataxis	Conn=O
 7	ปราบ	_	VERB	VACT	_	6	acl	6:acl	Conn=O
 8	ฯ	_	PUNCT	PUNC	_	6	punct	6:punct	Conn=O
 
@@ -2759,14 +2759,14 @@
 104	ศาล	_	NOUN	NCMN	_	102	conj	102:conj	Conn=O
 105	ได้	_	AUX	XVAE	_	106	aux	106:aux	Conn=O
 106	อนุญาต	_	VERB	VACT	_	75	xcomp	75:xcomp	Conn=O
-107	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+107	ให้	_	SCONJ	JSBR	_	26	parataxis	26:parataxis	Conn=O
 108	นำ	_	VERB	VACT	_	107	xcomp	107:xcomp	Conn=O
 109	ตัว	_	NOUN	NCMN	_	108	obj	108:obj	Conn=O
 110	กลับ	_	VERB	VACT	_	109	acl	109:acl	Conn=O
 111	ไป	_	AUX	XVAE	_	112	cop	112:cop	Conn=O
 112	สอบปากคำ	_	NOUN	NCMN	_	108	xcomp	108:xcomp	Conn=O
-113	ต่อ	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
-114	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+113	ต่อ	_	ADP	RPRE	_	26	parataxis	26:parataxis	Conn=O
+114	ที่	_	SCONJ	PREL	_	26	parataxis	26:parataxis	Conn=O
 115	กอง	_	VERB	VACT	_	114	acl	114:acl	Conn=O
 116	ปราบปราม	_	NOUN	NCMN	_	115	obj	115:obj	Conn=O
 
@@ -2797,12 +2797,12 @@
 13	ธวัชชัย	_	PROPN	NPRP	_	11	compound	11:compound	Conn=O
 14	ไป	_	AUX	XVAE	_	15	cop	15:cop	Conn=O
 15	สอบปากคำ	_	NOUN	NCMN	_	10	xcomp	10:xcomp	Conn=O
-16	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-17	ห้อง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+16	ที่	_	SCONJ	PREL	_	2	parataxis	2:parataxis	Conn=O
+17	ห้อง	_	NOUN	NCMN	_	2	parataxis	2:parataxis	Conn=O
 18	สอบสวน	_	NOUN	NCMN	_	17	compound	17:compound	Conn=O
 19	ภายใน	_	ADP	RPRE	_	20	case	20:case	Conn=O
 20	สำนักงาน	_	NOUN	NCMN	_	17	nmod	17:nmod	Conn=O
-21	ผู้	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+21	ผู้	_	SCONJ	PREL	_	2	parataxis	2:parataxis	Conn=O
 22	บังคับการ	_	VERB	VACT	_	21	acl	21:acl	Conn=O
 23	กอง	_	NOUN	NCMN	_	22	obj	22:obj	Conn=O
 24	ปราบปราม	_	NOUN	NCMN	_	23	compound	23:compound	Conn=O
@@ -2884,19 +2884,19 @@
 50	ไป	_	AUX	XVAE	_	46	aux	46:aux	Conn=O
 51	นอน	_	ADV	ADVN	_	46	advmod	46:advmod	Conn=O
 52	พักผ่อน	_	ADV	ADVN	_	51	advmod	51:advmod	Conn=O
-53	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-54	ห้อง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+53	ที่	_	SCONJ	PREL	_	16	parataxis	16:parataxis	Conn=O
+54	ห้อง	_	NOUN	NCMN	_	16	parataxis	16:parataxis	Conn=O
 55	ขัง	_	NOUN	NCMN	_	54	compound	54:compound	Conn=O
 
 # sent_id = T00245.tsv-56
 # text = ผบ.ทบ.สั่งพักราชการมือบึ้ม
-1	ผบ.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ผบ.	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ทบ.	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	สั่ง	_	VERB	VACT	_	2	acl	2:acl	Conn=O
 4	พัก	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
 5	ราชการ	_	NOUN	NCMN	_	4	compound	4:compound	Conn=O
 6	มือ	_	NOUN	NCMN	_	4	compound	4:compound	Conn=O
-7	บึ้ม	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
+7	บึ้ม	_	ADP	RPRE	_	1	parataxis	1:parataxis	Conn=O
 
 # sent_id = T00245.tsv-57
 # text = ด้านพล.อ.สนธิ บุญยรัตกลินมีคำสั่งให้กรมกำลังพลทหารบกทำหนังสือเพื่อนำเรียนพล.อ.ธรรมรักษ์ อิศรางกูล_ณ_อยุธยารักษาการรมว.กลาโหมเพื่อลงนามพักราชการ ร.ท.ธวัชชัยเป็นไปตามระเบียบข้าราชการที่ถูกกล่าวหาต้องคดีแต่ยังไม่ได้ระบุความผิดชัดเจนซึ่งทางตำรวจชี้มูลเป็นผู้ต้องสงสัยซึ่งการพักราชการทำให้สะดวกในการสอบสวนและหากผู้ต้องหาไม่มีความผิดก็สามารถกลับเข้ารับราชการตามเดิมได้
@@ -3023,7 +3023,7 @@
 
 # sent_id = T00245.tsv-59
 # text = พล.ต.ขัตติยะ สวัสดิผลหรือเสธ.แดงผู้ทรงคุณวุฒิทบ. กล่าวว่าได้หารือกับพล.อ.พัลลภการประกันตัว ร.ท.ธวัชชัยขณะนี้ทราบว่าตำรวจพยายามโยงเรื่องไปถึง"นาย จ."ซึ่งเป็นพลเรือนเพื่อให้คดีสู่ศาลพลเรือนจึงเกรงว่าในระหว่างที่ถูกควบคุมตัวอาจจะถูกทำร้ายหรือกินยาบังคับให้สารภาพซึ่งปกติแล้วคดีเกี่ยวกับทหารต้องนำตัวผู้ต้องหาไปขังที่เรือนจำทหาร จ.นครปฐมและทางตำรวจไม่สามารถนำตัวไปสอบสวนได้ส่วนที่ ร.ท.ธวัชชัยรับสารภาพให้จ้างวานให้วางระเบิดนั้นเชื่อว่าตำรวจบังคับให้สารภาพเพราะการนำตัวมาแถลงข่าวแต่มีผ้าคลุมหน้าเป็นเรื่องไม่ถูกต้อง
-1	พล.ต.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	พล.ต.	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ขัตติยะ	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	สวัสดิผล	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 4	หรือ	_	CCONJ	JCRG	_	5	cc	5:cc	Conn=O
@@ -3058,8 +3058,8 @@
 33	นาย	_	NOUN	NTTL	_	28	obl	28:obl	Conn=O
 34	จ.	_	NOUN	NCMN	_	33	compound	33:compound	Conn=O
 35	"	_	PUNCT	PUNC	_	13	punct	13:punct	Conn=O
-36	ซึ่ง	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-37	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+36	ซึ่ง	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
+37	เป็น	_	VERB	VSTA	_	36	parataxis	1:parataxis|36:parataxis	Conn=O
 38	พลเรือน	_	NOUN	NCMN	_	37	obj	37:obj	Conn=O
 39	เพื่อ	_	SCONJ	JSBR	_	40	mark	40:mark	Conn=B-conn
 40	ให้	_	VERB	VACT	_	37	advcl	37:advcl	Conn=O
@@ -3118,10 +3118,10 @@
 93	ธวัชชัย	_	PROPN	NPRP	_	92	compound	92:compound	Conn=O
 94	รับ	_	VERB	VACT	_	85	advcl	85:advcl	Conn=O
 95	สารภาพ	_	NOUN	NCMN	_	94	obj	94:obj	Conn=O
-96	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+96	ให้	_	SCONJ	JSBR	_	37	parataxis	1:parataxis|36:parataxis|37:parataxis	Conn=O
 97	จ้าง	_	VERB	VACT	_	96	xcomp	96:xcomp	Conn=O
 98	วาน	_	NOUN	NCMN	_	97	obj	97:obj	Conn=O
-99	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+99	ให้	_	SCONJ	JSBR	_	96	parataxis	1:parataxis|36:parataxis|37:parataxis|96:parataxis	Conn=O
 100	วาง	_	VERB	VACT	_	99	xcomp	99:xcomp	Conn=O
 101	ระเบิด	_	NOUN	NCMN	_	100	obj	100:obj	Conn=O
 102	นั้น	_	DET	DDAC	_	101	det	101:det	Conn=O
@@ -3220,8 +3220,8 @@
 58	เห็น	_	VERB	VSTA	_	3	ccomp	3:ccomp	Conn=O
 59	ไม่	_	PART	NEG	_	60	advmod	60:advmod	Conn=O
 60	ชัด	_	ADV	ADVN	_	58	advmod	58:advmod	Conn=O
-61	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-62	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+61	ว่า	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
+62	เป็น	_	VERB	VSTA	_	3	parataxis	3:parataxis	Conn=O
 63	รถ	_	NOUN	NCMN	_	62	obj	62:obj	Conn=O
 64	แดวู	_	NOUN	NCMN	_	63	compound	63:compound	Conn=O
 65	หรือไม่	_	PART	EITT	_	62	discourse	62:discourse	Conn=O
@@ -3240,7 +3240,7 @@
 78	นำ	_	VERB	VACT	_	74	acl	74:acl	Conn=O
 79	ไป	_	AUX	XVAE	_	78	aux	78:aux	Conn=O
 80	มอบ	_	VERB	VACT	_	78	acl	78:acl	Conn=O
-81	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+81	ให้	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 82	ตำรวจ	_	NOUN	NCMN	_	81	obj	81:obj	Conn=O
 83	โดย	_	SCONJ	JSBR	_	85	mark	85:mark	Conn=B-conn
 84	ไม่	_	PART	NEG	_	85	advmod	85:advmod	Conn=O
@@ -3344,8 +3344,8 @@
 28	ออก	_	AUX	XVAE	_	27	aux	27:aux	Conn=O
 29	ที่	_	SCONJ	JSBR	_	30	mark	30:mark	Conn=O
 30	เห็น	_	VERB	VSTA	_	7	advcl	7:advcl	Conn=O
-31	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-32	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+31	ว่า	_	SCONJ	JSBR	_	2	parataxis	2:parataxis	Conn=O
+32	เป็น	_	VERB	VSTA	_	2	parataxis	2:parataxis	Conn=O
 33	รถ	_	NOUN	NCMN	_	32	obj	32:obj	Conn=O
 34	แดวู	_	NOUN	NCMN	_	33	compound	33:compound	Conn=O
 35	แต่	_	CCONJ	JCRG	_	37	cc	37:cc	Conn=B-conn
@@ -3411,7 +3411,7 @@
 29	ขณะ	_	SCONJ	JSBR	_	30	nsubj	30:nsubj	Conn=B-conn
 30	เข้า	_	VERB	VACT	_	28	acl:relcl	28:acl:relcl	Conn=O
 31	ตรวจค้น	_	VERB	VACT	_	30	xcomp	30:xcomp	Conn=O
-32	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+32	เมื่อ	_	SCONJ	JSBR	_	26	parataxis	26:parataxis	Conn=O
 33	วันที่	_	NOUN	NCMN	_	40	obj	40:obj	Conn=O
 34	10	_	NUM	NCNM	_	33	appos	33:appos	Conn=O
 35	สิงหาคม	_	NOUN	NCMN	_	34	obl:tmod	34:obl:tmod	Conn=O
@@ -3493,7 +3493,7 @@
 49	หา	_	VERB	VACT	_	36	advcl	36:advcl	Conn=O
 50	ตน	_	PRON	PPRS	_	49	obj	49:obj	Conn=O
 51	บอก	_	VERB	VACT	_	49	xcomp	49:xcomp	Conn=O
-52	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+52	ให้	_	SCONJ	JSBR	_	13	parataxis	13:parataxis	Conn=O
 53	พา	_	NOUN	NCMN	_	56	nsubj	56:nsubj	Conn=O
 54	แม่	_	NOUN	NCMN	_	53	compound	53:compound	Conn=O
 55	มา	_	AUX	XVAE	_	56	aux	56:aux	Conn=O
@@ -3772,7 +3772,7 @@
 12	ยิง	_	VERB	VACT	_	3	advcl	3:advcl	Conn=O
 13	เป็น	_	VERB	VSTA	_	12	xcomp	12:xcomp	Conn=O
 14	คน	_	NOUN	NCMN	_	13	obj	13:obj	Conn=O
-15	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+15	ที่	_	SCONJ	PREL	_	3	parataxis	3:parataxis	Conn=O
 16	4	_	NUM	DCNM	_	15	nummod	15:nummod	Conn=O
 
 # sent_id = T00252.tsv-6
@@ -3817,8 +3817,8 @@
 38	โท	_	NOUN	NCMN	_	37	compound	37:compound	Conn=O
 39	อีก	_	ADV	ADVN	_	36	advmod	36:advmod	Conn=O
 40	ใบ	_	ADJ	VATT	_	39	amod	39:amod	Conn=O
-41	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-42	มหาวิทยาลัย	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+41	ที่	_	SCONJ	PREL	_	4	parataxis	4:parataxis	Conn=O
+42	มหาวิทยาลัย	_	NOUN	NCMN	_	4	parataxis	4:parataxis	Conn=O
 43	ธุรกิจบัณฑิตย์	_	NOUN	NCMN	_	42	compound	42:compound	Conn=O
 
 # sent_id = T00252.tsv-7
@@ -3970,7 +3970,7 @@
 61	สุดท้าย	_	ADJ	DONM	_	60	amod	60:amod	Conn=O
 62	เขา	_	PRON	PPRS	_	63	nsubj	63:nsubj	Conn=O
 63	คุย	_	VERB	VACT	_	55	acl:relcl	55:acl:relcl	Conn=O
-64	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+64	ให้	_	SCONJ	JSBR	_	2	parataxis	2:parataxis	Conn=O
 65	ฟัง	_	VERB	VSTA	_	64	xcomp	64:xcomp	Conn=O
 66	ว่า	_	SCONJ	JSBR	_	69	mark	69:mark	Conn=O
 67	อาจ	_	AUX	XVMM	_	69	aux	69:aux	Conn=O
@@ -4026,7 +4026,7 @@
 11	(	_	PUNCT	PUNC	_	12	punct	12:punct	Conn=O
 12	นรต.	_	NOUN	NCMN	_	7	obl	7:obl	Conn=O
 13	)	_	PUNCT	PUNC	_	12	punct	12:punct	Conn=O
-14	รุ่น	_	NOUN	CLTV	_	0	ROOT	0:ROOT	Conn=O
+14	รุ่น	_	NOUN	CLTV	_	7	parataxis	7:parataxis	Conn=O
 15	48	_	NUM	NCNM	_	14	nummod	14:nummod	Conn=O
 16	และ	_	CCONJ	JCRG	_	18	cc	18:cc	Conn=B-conn
 17	ยัง	_	AUX	XVBM	_	18	aux	18:aux	Conn=O
@@ -4109,7 +4109,7 @@
 61	ราชการ	_	NOUN	NCMN	_	60	obj	60:obj	Conn=O
 62	ที่	_	SCONJ	PREL	_	63	nsubj	63:nsubj	Conn=O
 63	พร้อม	_	VERB	VSTA	_	61	acl:relcl	61:acl:relcl	Conn=B-conn
-64	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+64	ให้	_	SCONJ	JSBR	_	13	parataxis	13:parataxis	Conn=O
 65	ข้อมูล	_	NOUN	NCMN	_	64	obj	64:obj	Conn=O
 66	ว่า	_	SCONJ	JSBR	_	70	mark	70:mark	Conn=O
 67	ก่อนหน้า	_	VERB	VSTA	_	70	nsubj	70:nsubj	Conn=O
@@ -4132,22 +4132,22 @@
 84	ใน	_	ADP	RPRE	_	85	case	85:case	Conn=O
 85	ทาง	_	NOUN	NCMN	_	83	obl	83:obl	Conn=O
 86	คดี	_	NOUN	NCMN	_	85	compound	85:compound	Conn=O
-87	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
-88	พ.ต.ต.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+87	แต่	_	CCONJ	JCRG	_	13	parataxis	13:parataxis	Conn=B-conn
+88	พ.ต.ต.	_	NOUN	NCMN	_	13	parataxis	13:parataxis	Conn=O
 89	กิตติศักดิ์	_	PROPN	NPRP	_	88	compound	88:compound	Conn=O
 90	ยอม	_	NOUN	NCMN	_	88	compound	88:compound	Conn=O
 91	และ	_	CCONJ	JCRG	_	92	cc	92:cc	Conn=B-conn
 92	สั่ง	_	VERB	VACT	_	88	conj	88:conj	Conn=O
-93	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+93	ให้	_	SCONJ	JSBR	_	13	parataxis	13:parataxis	Conn=O
 94	ดำเนินคดี	_	VERB	VSTA	_	93	xcomp	93:xcomp	Conn=O
 95	กับ	_	ADP	RPRE	_	96	case	96:case	Conn=O
 96	ผู้ต้องหา	_	NOUN	NCMN	_	94	obl	94:obl	Conn=O
 97	อย่าง	_	PART	FIXV	_	98	advmod	98:advmod	Conn=O
 98	เฉียบขาด	_	VERB	VSTA	_	96	acl:relcl	96:acl:relcl	Conn=O
-99	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=O
+99	แต่	_	CCONJ	JCRG	_	13	parataxis	13:parataxis	Conn=O
 100	ที่	_	SCONJ	PREL	_	102	mark	102:mark	Conn=O
 101	น่า	_	AUX	XVAM	_	102	aux	102:aux	Conn=O
-102	ห่วง	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+102	ห่วง	_	VERB	VSTA	_	13	parataxis	13:parataxis	Conn=O
 103	คือ	_	VERB	VSTA	_	102	obj	102:obj	Conn=O
 104	หาก	_	SCONJ	JSBR	_	106	mark	106:mark	Conn=B-conn
 105	ออก	_	AUX	XVAE	_	106	aux	106:aux	Conn=O
@@ -4185,7 +4185,7 @@
 137	รอง	_	NOUN	NCMN	_	136	obj	136:obj	Conn=O
 138	สารวัตร	_	NOUN	NCMN	_	137	compound	137:compound	Conn=O
 139	ว่า	_	SCONJ	JSBR	_	106	advcl	106:advcl	Conn=O
-140	ให้	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+140	ให้	_	VERB	VACT	_	13	parataxis	13:parataxis	Conn=O
 141	ระมัดระวัง	_	NOUN	NCMN	_	140	obj	140:obj	Conn=O
 142	อย่า	_	NOUN	NCMN	_	141	compound	141:compound	Conn=O
 143	ดำเนินการ	_	VERB	VACT	_	140	xcomp	140:xcomp	Conn=O
@@ -4265,8 +4265,8 @@
 47	2	_	NUM	DCNM	_	49	obl	49:obl	Conn=O
 48	ท้องที่	_	SCONJ	JSBR	_	49	nsubj	49:nsubj	Conn=O
 49	ทราบ	_	VERB	VSTA	_	10	acl	10:acl	Conn=O
-50	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-51	อัธยาศัย	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+50	ว่า	_	SCONJ	JSBR	_	10	parataxis	10:parataxis	Conn=O
+51	อัธยาศัย	_	VERB	VSTA	_	10	parataxis	10:parataxis	Conn=O
 52	ดี	_	ADV	ADVN	_	51	fixed	51:fixed	Conn=O
 53	มาก	_	ADV	ADVN	_	51	fixed	51:fixed	Conn=O
 54	เชื่อ	_	ADV	ADVN	_	51	advmod	51:advmod	Conn=O
@@ -4380,7 +4380,7 @@
 
 # sent_id = T00252.tsv-15
 # text = ด้านหน้ารถพบกองเลือดไหลนองเต็ม
-1	ด้าน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ด้าน	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	หน้า	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	รถ	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 4	พบ	_	VERB	VSTA	_	1	compound	1:compound	Conn=O
@@ -4392,7 +4392,7 @@
 
 # sent_id = T00252.tsv-16
 # text = พื้นถนน
-1	พื้น	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	พื้น	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ถนน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 
 # sent_id = T00252.tsv-17
@@ -4408,14 +4408,14 @@
 9	ขนาด	_	NOUN	NCMN	_	7	compound	7:compound	Conn=O
 10	.38	_	PUNCT	PUNC	_	11	punct	11:punct	Conn=O
 11	เข้า	_	VERB	VACT	_	7	acl:relcl	7:acl:relcl	Conn=O
-12	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+12	ที่	_	SCONJ	PREL	_	5	parataxis	5:parataxis	Conn=O
 13	โหนก	_	NOUN	NCMN	_	12	compound	12:compound	Conn=O
 14	แก้ม	_	NOUN	NCMN	_	12	compound	12:compound	Conn=O
 15	ซ้าย	_	ADJ	VATT	_	14	amod	14:amod	Conn=O
 
 # sent_id = T00252.tsv-18
 # text = กระสุนฝังใน 1 นัด ท้ายทอย 1 นัดและ ชายโครงขวาอีก 1 นัด
-1	กระสุน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	กระสุน	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ฝัง	_	VERB	VACT	_	1	acl	1:acl	Conn=O
 3	ใน	_	ADP	RPRE	_	4	case	4:case	Conn=O
 4	1	_	NUM	NCNM	_	5	nummod	5:nummod	Conn=O
@@ -4432,11 +4432,11 @@
 
 # sent_id = T00252.tsv-19
 # text = อาการสาหัสก่อนเสียชีวิตที่โรงพยาบาลในเวลาต่อมา
-1	อาการ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	อาการ	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	สาหัส	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	ก่อน	_	ADP	RPRE	_	4	case	4:case	Conn=B-conn
 4	เสียชีวิต	_	NOUN	NCMN	_	1	nmod:poss	1:nmod:poss	Conn=O
-5	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+5	ที่	_	SCONJ	PREL	_	1	parataxis	1:parataxis	Conn=O
 6	โรงพยาบาล	_	NOUN	NCMN	_	5	compound	5:compound	Conn=O
 7	ใน	_	ADP	RPRE	_	8	case	8:case	Conn=O
 8	เวลา	_	NOUN	NCMN	_	5	obl	5:obl	Conn=O
@@ -4612,7 +4612,7 @@
 5	ศพ	_	NOUN	NCMN	_	4	compound	4:compound	Conn=O
 6	นั้น	_	DET	DDAC	_	2	det	2:det	Conn=O
 7	ล่าสุด	_	VERB	VSTA	_	0	root	0:root	Conn=O
-8	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+8	เมื่อ	_	SCONJ	JSBR	_	7	parataxis	7:parataxis	Conn=O
 9	เวลา	_	NOUN	NCMN	_	26	obl:tmod	26:obl:tmod	Conn=O
 10	17.00	_	NUM	NCNM	_	11	nummod	11:nummod	Conn=O
 11	น.	_	NOUN	CMTR	_	9	clf	9:clf	Conn=O
@@ -4678,7 +4678,7 @@
 71	ยศ	_	NOUN	NCMN	_	70	compound	70:compound	Conn=O
 72	เป็น	_	VERB	VSTA	_	66	acl	66:acl	Conn=O
 73	พล.ต.อ.	_	NOUN	NCMN	_	72	obj	72:obj	Conn=O
-74	ด้วย	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
+74	ด้วย	_	ADP	RPRE	_	7	parataxis	7:parataxis	Conn=O
 
 # sent_id = T00252.tsv-22
 # text = ผู้สื่อข่าวรายงานว่าบริเวณจุดเกิดเหตุมักเป็นเส้นทางที่มีการดักจี้ชิงทรัพย์และก่อเหตุอยู่เป็นประจำเนื่องจากเป็นเส้นทางเปลี่ยวและสามารถลอดใต้สะพานออกไปยัง อ.อุทัยหรือขึ้นไปยังถนนสายเอเชียได้แต่จากการปราบปรามอย่างหนักทำให้สามารถจับอาวุธปืนได้บ่อยครั้งเบื้องต้นตำรวจกำลังมุ่งประเด็นไปยังบุคคลบางกลุ่มที่เคยถูก พ.ต.ต.กิตติศักดิ์ในข้อหามีอาวุธปืนอาจแสดงความไม่พอใจต่อการจับกุมดังกล่าวก็เป็นได้
@@ -5006,8 +5006,8 @@
 156	เยาวชน	_	NOUN	NCMN	_	152	nmod	152:nmod	Conn=O
 157	และ	_	CCONJ	JCRG	_	158	cc	158:cc	Conn=O
 158	ประชาชน	_	NOUN	NCMN	_	152	conj	152:conj	Conn=O
-159	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-160	ดู	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+159	ว่า	_	SCONJ	JSBR	_	26	parataxis	26:parataxis	Conn=O
+160	ดู	_	VERB	VACT	_	26	parataxis	26:parataxis	Conn=O
 161	ฟุตบอล	_	NOUN	NCMN	_	160	obj	160:obj	Conn=O
 162	ให้	_	SCONJ	JSBR	_	169	mark	169:mark	Conn=O
 163	สนุก	_	NOUN	NCMN	_	169	nsubj	169:nsubj	Conn=O
@@ -5033,7 +5033,7 @@
 183	ใน	_	ADP	RPRE	_	184	case	184:case	Conn=O
 184	เกม	_	NOUN	NCMN	_	182	obl	182:obl	Conn=O
 185	ดี	_	ADJ	VATT	_	184	amod	184:amod	Conn=O
-186	กว่า	_	SCONJ	JCMP	_	0	ROOT	0:ROOT	Conn=B-conn
+186	กว่า	_	SCONJ	JCMP	_	26	parataxis	26:parataxis	Conn=B-conn
 187	ที่	_	SCONJ	PREL	_	189	mark	189:mark	Conn=O
 188	จะ	_	AUX	XVBM	_	189	aux	189:aux	Conn=O
 189	ไป	_	VERB	VACT	_	186	ccomp	186:ccomp	Conn=O
@@ -5046,7 +5046,7 @@
 
 # sent_id = T00350.tsv-4
 # text = ต่อคำถามที่ว่าฟุตบอลโลกครั้งนี้เชียร์ทีมใดเป็นพิเศษ พ.ต.ท.ทักษิณกล่าวว่า ส่วนตัวเป็นคนชอบเชียร์ แต่ไม่เคยเล่น เพราะไม่ถนัด และถ้าถามว่าชอบทีมไหนคิดว่าทีมอังกฤษ ตัวผู้เล่นเอาอาจจะคุ้น เพราะดูฟุตบอลพรีเมียร์ลีก แต่เวลาลงแข่งตนคิดว่าทีมชาติบราซิลมีโอกาส ส่วนฟุตบอลโลกครั้งนี้หากมีเวลาก็จะดู นอกจากนี้ยังได้รับเชิญให้ไปดูคู่ชิงชนะเลิศในวันที่ 9 กรกฎาคม แต่ต้องดูอีกทีว่าสามารถไปได้หรือไม่ศธ.ออก 9
-1	ต่อ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ต่อ	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	คำ	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	ถาม	_	VERB	VACT	_	2	acl	2:acl	Conn=O
 4	ที่ว่า	_	SCONJ	PREL	_	16	nsubj	16:nsubj	Conn=O
@@ -5079,8 +5079,8 @@
 31	และ	_	CCONJ	JCRG	_	33	cc	33:cc	Conn=B-conn
 32	ถ้า	_	SCONJ	JSBR	_	33	nsubj	33:nsubj	Conn=B-conn
 33	ถาม	_	VERB	VACT	_	20	conj	20:conj	Conn=O
-34	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-35	ชอบ	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+34	ว่า	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
+35	ชอบ	_	VERB	VSTA	_	34	parataxis	1:parataxis|34:parataxis	Conn=O
 36	ทีม	_	NOUN	NCMN	_	35	obj	35:obj	Conn=O
 37	ไหน	_	PRON	PNTR	_	38	nsubj	38:nsubj	Conn=O
 38	คิด	_	VERB	VACT	_	36	acl:relcl	36:acl:relcl	Conn=O
@@ -5152,7 +5152,7 @@
 
 # sent_id = T00350.tsv-5
 # text = มาตรการป้องพนันบอลโลก
-1	มาตรการ	_	NOUN	CMTR	_	0	ROOT	0:ROOT	Conn=O
+1	มาตรการ	_	NOUN	CMTR	_	0	root	0:root	Conn=O
 2	ป้อง	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	พนัน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 4	บอล	_	VERB	VACT	_	3	acl	3:acl	Conn=O
@@ -5203,7 +5203,7 @@
 41	ใน	_	ADP	RPRE	_	42	case	42:case	Conn=O
 42	สังกัด	_	NOUN	NCMN	_	40	obl	40:obl	Conn=O
 43	ปฏิบัติ	_	VERB	VACT	_	42	acl	42:acl	Conn=O
-44	ดัง	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
+44	ดัง	_	ADP	RPRE	_	6	parataxis	6:parataxis	Conn=O
 45	นี้	_	DET	DDAC	_	44	det	44:det	Conn=O
 
 # sent_id = T00350.tsv-7
@@ -5236,11 +5236,11 @@
 26	ผล	_	NOUN	NCMN	_	25	obj	25:obj	Conn=O
 27	ฟุตบอล	_	NOUN	NCMN	_	26	compound	26:compound	Conn=O
 28	ให้	_	SCONJ	JSBR	_	26	compound	26:compound	Conn=O
-29	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+29	เป็น	_	VERB	VSTA	_	9	parataxis	9:parataxis	Conn=O
 30	รูปธรรม	_	NOUN	NCMN	_	29	obj	29:obj	Conn=O
 31	และ	_	CCONJ	JCRG	_	32	cc	32:cc	Conn=B-conn
 32	นับ	_	VERB	VACT	_	29	conj	29:conj	Conn=O
-33	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+33	เป็น	_	VERB	VSTA	_	9	parataxis	9:parataxis	Conn=O
 34	พันธกิจ	_	NOUN	NCMN	_	33	obj	33:obj	Conn=O
 35	ทาง	_	NOUN	NCMN	_	34	compound	34:compound	Conn=O
 36	นโยบาย	_	NOUN	NCMN	_	34	compound	34:compound	Conn=O
@@ -5406,7 +5406,7 @@
 57	ยัง	_	AUX	XVBM	_	59	aux	59:aux	Conn=O
 58	ไม่	_	PART	NEG	_	59	advmod	59:advmod	Conn=O
 59	เปลี่ยนแปลง	_	VERB	VACT	_	46	conj	46:conj	Conn=O
-60	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+60	ให้	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 61	สถาน	_	NOUN	NCMN	_	60	obj	60:obj	Conn=O
 62	ศึกษา	_	VERB	VACT	_	61	acl	61:acl	Conn=O
 63	และ	_	CCONJ	JCRG	_	64	cc	64:cc	Conn=O
@@ -5457,7 +5457,7 @@
 30	พบ	_	VERB	VACT	_	23	advcl	23:advcl	Conn=O
 31	ให้	_	SCONJ	JSBR	_	32	case	32:case	Conn=O
 32	แจ้ง	_	NOUN	NCMN	_	30	obl	30:obl	Conn=O
-33	ผู้	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+33	ผู้	_	SCONJ	PREL	_	23	parataxis	23:parataxis	Conn=O
 34	บริหาร	_	VERB	VACT	_	33	acl	33:acl	Conn=O
 35	เพื่อ	_	SCONJ	JSBR	_	36	mark	36:mark	Conn=B-conn
 36	ดำเนินการ	_	VERB	VACT	_	33	advcl	33:advcl	Conn=O
@@ -5500,8 +5500,8 @@
 34	ระหว่าง	_	ADP	RPRE	_	36	mark	36:mark	Conn=O
 35	การ	_	PART	FIXN	_	36	advmod	36:advmod	Conn=O
 36	แข่งขัน	_	VERB	VACT	_	5	conj	5:conj	Conn=O
-37	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-38	มีการ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+37	ว่า	_	SCONJ	JSBR	_	5	parataxis	5:parataxis	Conn=O
+38	มีการ	_	NOUN	NCMN	_	5	parataxis	5:parataxis	Conn=O
 39	ผิดปกติ	_	ADJ	VATT	_	38	amod	38:amod	Conn=O
 40	หรือไม่	_	PART	EITT	_	38	discourse	38:discourse	Conn=O
 41	และ	_	CCONJ	JCRG	_	42	cc	42:cc	Conn=B-conn
@@ -5537,7 +5537,7 @@
 10	ฟุตบอล	_	NOUN	NCMN	_	9	obj	9:obj	Conn=O
 11	เพื่อ	_	SCONJ	JSBR	_	12	mark	12:mark	Conn=B-conn
 12	เผยแพร่	_	VERB	VACT	_	5	advcl	5:advcl	Conn=O
-13	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+13	ให้	_	SCONJ	JSBR	_	5	parataxis	5:parataxis	Conn=O
 14	นักเรียน	_	NOUN	NCMN	_	13	obj	13:obj	Conn=O
 15	ชม	_	NOUN	NCMN	_	14	compound	14:compound	Conn=O
 16	ตาม	_	ADP	RPRE	_	17	case	17:case	Conn=O
@@ -5561,7 +5561,7 @@
 34	คืน	_	NOUN	NCMN	_	32	compound	32:compound	Conn=O
 35	รวมทั้ง	_	ADP	RPRE	_	36	case	36:case	Conn=B-conn
 36	มอบ	_	NOUN	NCMN	_	31	obl	31:obl	Conn=O
-37	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+37	ให้	_	SCONJ	JSBR	_	5	parataxis	5:parataxis	Conn=O
 38	กลุ่ม	_	NOUN	NCMN	_	46	case	46:case	Conn=O
 39	สารสังคมศึกษา	_	NOUN	NCMN	_	38	compound	38:compound	Conn=O
 40	วิชา	_	NOUN	NCMN	_	38	compound	38:compound	Conn=O
@@ -5578,13 +5578,13 @@
 51	ภาษา	_	NOUN	NCMN	_	50	obj	50:obj	Conn=O
 52	และ	_	CCONJ	JCRG	_	53	cc	53:cc	Conn=O
 53	วัฒนธรรม	_	NOUN	NCMN	_	51	conj	51:conj	Conn=O
-54	เพื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
-55	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+54	เพื่อ	_	SCONJ	JSBR	_	5	parataxis	5:parataxis	Conn=B-conn
+55	ให้	_	SCONJ	JSBR	_	5	parataxis	5:parataxis	Conn=O
 56	เกิด	_	VERB	VSTA	_	55	xcomp	55:xcomp	Conn=O
 57	การ	_	PART	FIXN	_	56	compound:prt	56:compound:prt	Conn=O
 58	แลกเปลี่ยน	_	VERB	VACT	_	56	acl	56:acl	Conn=O
 59	เรียนรู้	_	NOUN	NCMN	_	58	obj	58:obj	Conn=O
-60	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+60	ซึ่ง	_	SCONJ	PREL	_	5	parataxis	5:parataxis	Conn=O
 61	กัน	_	ADV	ADVN	_	60	advmod	60:advmod	Conn=O
 62	และ	_	CCONJ	JCRG	_	63	cc	63:cc	Conn=O
 63	กัน	_	ADV	ADVN	_	60	conj	60:conj	Conn=O
@@ -5646,7 +5646,7 @@
 18	ไป	_	AUX	XVAE	_	17	aux	17:aux	Conn=O
 19	ใช้	_	VERB	VACT	_	17	xcomp	17:xcomp	Conn=O
 20	บริการ	_	NOUN	NCMN	_	19	obj	19:obj	Conn=O
-21	และ	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
+21	และ	_	CCONJ	JCRG	_	2	parataxis	2:parataxis	Conn=B-conn
 
 # sent_id = T00350.tsv-15
 # text = 9.หากโรงเรียนประสบปัญหาเรื่องการทายผลฟุตบอลหรือพนันบอลไม่สามารถแก้ไขปัญหาได้เอง ขอให้ประสานงานขอความร่วมมือช่วยเหลือได้ที่สายด่วน 1579 หรือสำนักพัฒนากิจการนักเรียนนักศึกษาและกิจการพิเศษศธ. โทรศัพท์หมายเลข 0-2628-6397 หรือศูนย์สวัสดิภาพเด็ก เยาวชน และสตรี โทร.0-2282-3892-3 หรือโทร.191 หรือสถานีตำรวจท้องที่ทุกแห่งหอการค้าชี้เงินสะพัด 3.5 หมื่น ล.
@@ -5785,7 +5785,7 @@
 4	พฤติกรรม	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
 5	ใน	_	ADP	RPRE	_	6	case	6:case	Conn=O
 6	การ	_	PART	FIXN	_	2	nmod	2:nmod	Conn=O
-7	ติดตาม	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+7	ติดตาม	_	VERB	VACT	_	0	root	0:root	Conn=O
 8	และ	_	CCONJ	JCRG	_	10	cc	10:cc	Conn=O
 9	การ	_	PART	FIXN	_	10	advmod	10:advmod	Conn=O
 10	รับ	_	VERB	VACT	_	7	conj	7:conj	Conn=O
@@ -5850,7 +5850,7 @@
 
 # sent_id = T00350.tsv-20
 # text = ส่วนสถานที่รับชมส่วนใหญ่ร้อยละ 77 จะชมที่บ้าน
-1	ส่วน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ส่วน	_	NOUN	NCMN	_	0	root	0:root	Conn=B-conn
 2	สถานที่	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	รับ	_	VERB	VACT	_	2	acl	2:acl	Conn=O
 4	ชม	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
@@ -5949,7 +5949,7 @@
 
 # sent_id = T00350.tsv-25
 # text = ส่วนจำนวนเงินโดยเฉลี่ยที่จะใช้จ่ายช่วงฟุตบอลโลก พบว่าค่าใช้จ่ายในมหกรรมฟุตบอล ได้แก่ การพนันบอล เม็ดเงินหมุนเวียนประมาณ 19,500 ล้านบาท
-1	ส่วน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ส่วน	_	NOUN	NCMN	_	0	root	0:root	Conn=B-conn
 2	จำนวน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	เงิน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 4	โดย	_	SCONJ	JSBR	_	5	mark	5:mark	Conn=O
@@ -6013,7 +6013,7 @@
 
 # sent_id = T00350.tsv-27
 # text = ซื้อโทรทัศน์ วิทยุ คอมพิวเตอร์ 9,233 บาทต่อคน
-1	ซื้อ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	ซื้อ	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	โทรทัศน์	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	วิทยุ	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 4	คอมพิวเตอร์	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
@@ -6024,7 +6024,7 @@
 
 # sent_id = T00350.tsv-28
 # text = ติดตั้งสัญญาณดาวเทียม เคเบิลทีวี 8,477.2 บาทต่อคน
-1	ติดตั้ง	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	ติดตั้ง	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	สัญญาณ	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	ดาว	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 4	เทียม	_	ADJ	VATT	_	3	amod	3:amod	Conn=O
@@ -6036,7 +6036,7 @@
 
 # sent_id = T00350.tsv-29
 # text = กินอาหารนอกบ้าน 1,909.6 บาทต่อคน
-1	กิน	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	กิน	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	อาหาร	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	นอก	_	ADP	RPRE	_	4	case	4:case	Conn=O
 4	บ้าน	_	NOUN	NCMN	_	1	obl	1:obl	Conn=O
@@ -6047,7 +6047,7 @@
 
 # sent_id = T00350.tsv-30
 # text = สังสรรค์จัดเลี้ยงใน 1,719 บาทต่อคน
-1	สังสรรค์	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	สังสรรค์	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	จัด	_	VERB	VACT	_	1	acl	1:acl	Conn=O
 3	เลี้ยง	_	VERB	VACT	_	2	xcomp	2:xcomp	Conn=O
 4	ใน	_	ADP	RPRE	_	6	case	6:case	Conn=O
@@ -6058,7 +6058,7 @@
 
 # sent_id = T00350.tsv-31
 # text = ซื้อสุราและไวน์ 1,556.8 บาทต่อคน
-1	ซื้อ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	ซื้อ	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	สุรา	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	และ	_	CCONJ	JCRG	_	4	cc	4:cc	Conn=O
 4	ไวน์	_	NOUN	NCMN	_	2	conj	2:conj	Conn=O
@@ -6069,11 +6069,11 @@
 
 # sent_id = T00350.tsv-32
 # text = ซื้อสินค้าของที่ระลึกของทีมบอล 1,488.2 บาทต่อคน
-1	ซื้อ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	ซื้อ	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	สินค้า	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	ของ	_	ADP	RPRE	_	4	case	4:case	Conn=O
-4	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-5	ระลึก	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+4	ที่	_	SCONJ	PREL	_	1	parataxis	1:parataxis	Conn=O
+5	ระลึก	_	NOUN	NCMN	_	4	parataxis	1:parataxis|4:parataxis	Conn=O
 6	ของ	_	ADP	RPRE	_	7	case	7:case	Conn=O
 7	ทีม	_	NOUN	NCMN	_	5	nmod	5:nmod	Conn=O
 8	บอล	_	NOUN	NCMN	_	7	compound	7:compound	Conn=O
@@ -6084,7 +6084,7 @@
 
 # sent_id = T00350.tsv-33
 # text = ซื้อไปรษณียบัตร 1,059 บาทต่อคน
-1	ซื้อ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	ซื้อ	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	ไปรษณียบัตร	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	1,059	_	NUM	DCNM	_	4	nummod	4:nummod	Conn=O
 4	บาท	_	NOUN	CMTR	_	2	clf	2:clf	Conn=O
@@ -6093,7 +6093,7 @@
 
 # sent_id = T00350.tsv-34
 # text = ซื้อหนังสือพิมพ์ 814.9 บาทต่อคน
-1	ซื้อ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	ซื้อ	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	หนังสือพิมพ์	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	814.9	_	NUM	DCNM	_	4	nummod	4:nummod	Conn=O
 4	บาท	_	NOUN	CMTR	_	2	clf	2:clf	Conn=O
@@ -6102,7 +6102,7 @@
 
 # sent_id = T00350.tsv-35
 # text = ซื้อขนมขบเคี้ยว 647.9 บาทต่อคน
-1	ซื้อ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	ซื้อ	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	ขนม	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	ขบเคี้ยว	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 4	647.9	_	NUM	DCNM	_	5	nummod	5:nummod	Conn=O
@@ -6142,7 +6142,7 @@
 28	ลง	_	AUX	XVAE	_	31	aux	31:aux	Conn=O
 29	มา	_	AUX	XVAE	_	31	aux	31:aux	Conn=O
 30	ได้แก่	_	ADP	RPRE	_	31	case	31:case	Conn=O
-31	กลุ่ม	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+31	กลุ่ม	_	NOUN	NCMN	_	4	parataxis	4:parataxis	Conn=O
 32	อายุ	_	NOUN	NCMN	_	31	compound	31:compound	Conn=O
 33	26-29	_	NUM	DCNM	_	34	nummod	34:nummod	Conn=O
 34	ปี	_	NOUN	NCMN	_	31	clf	31:clf	Conn=O
@@ -6190,8 +6190,8 @@
 6	พนัน	_	NOUN	NCMN	_	5	obj	5:obj	Conn=O
 7	บอล	_	NOUN	NCMN	_	6	compound	6:compound	Conn=O
 8	พบ	_	VERB	VSTA	_	5	acl	5:acl	Conn=O
-9	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-10	ผู้	_	PRON	PPRS	_	0	ROOT	0:ROOT	Conn=O
+9	ว่า	_	SCONJ	JSBR	_	5	parataxis	5:parataxis	Conn=O
+10	ผู้	_	PRON	PPRS	_	5	parataxis	5:parataxis	Conn=O
 11	ที่	_	SCONJ	PREL	_	17	mark	17:mark	Conn=O
 12	ระดับ	_	NOUN	NCMN	_	11	compound	11:compound	Conn=O
 13	รายได้	_	VERB	VSTA	_	12	acl	12:acl	Conn=O
@@ -6204,14 +6204,14 @@
 20	ตาม	_	ADP	RPRE	_	21	case	21:case	Conn=O
 21	ระดับ	_	NOUN	NCMN	_	17	obl	17:obl	Conn=O
 22	รายได้	_	NOUN	NCMN	_	21	compound	21:compound	Conn=O
-23	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+23	ที่	_	SCONJ	PREL	_	5	parataxis	5:parataxis	Conn=O
 24	สูง	_	ADJ	VATT	_	23	amod	23:amod	Conn=O
-25	ขึ้น	_	AUX	XVAE	_	0	ROOT	0:ROOT	Conn=O
-26	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
-27	สิ่ง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+25	ขึ้น	_	AUX	XVAE	_	5	parataxis	5:parataxis	Conn=O
+26	แต่	_	CCONJ	JCRG	_	5	parataxis	5:parataxis	Conn=B-conn
+27	สิ่ง	_	NOUN	NCMN	_	5	parataxis	5:parataxis	Conn=O
 28	ที่	_	SCONJ	PREL	_	30	mark	30:mark	Conn=O
 29	น่า	_	AUX	XVAM	_	30	aux	30:aux	Conn=O
-30	เป็นห่วง	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+30	เป็นห่วง	_	VERB	VACT	_	5	parataxis	5:parataxis	Conn=O
 31	คือ	_	VERB	VSTA	_	30	obj	30:obj	Conn=O
 
 # sent_id = T00350.tsv-38
@@ -6366,7 +6366,7 @@
 
 # sent_id = T00350.tsv-43
 # text = พนันประมาณ 19,500 ล้านบาท และกิจกรรมที่ถูกกฎหมายเพิ่มขึ้นจากปกติประมาณ 15,000 ล้านบาท หรือใช้จ่ายเพิ่มขึ้นประมาณร้อยละ 10-5
-1	พนัน	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	พนัน	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	ประมาณ	_	DET	DIBQ	_	4	det	4:det	Conn=O
 3	19,500	_	NUM	DCNM	_	4	nummod	4:nummod	Conn=O
 4	ล้าน	_	NOUN	CNIT	_	1	clf	1:clf	Conn=O
@@ -6389,7 +6389,7 @@
 21	เพิ่ม	_	VERB	VACT	_	20	xcomp	20:xcomp	Conn=O
 22	ขึ้น	_	AUX	XVAE	_	21	aux	21:aux	Conn=O
 23	ประมาณ	_	DET	DIBQ	_	24	det	24:det	Conn=O
-24	ร้อย	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+24	ร้อย	_	NOUN	NCMN	_	1	parataxis	1:parataxis	Conn=O
 25	ละ	_	ADP	RPRE	_	26	case	26:case	Conn=O
 26	10-5	_	NOUN	NCMN	_	24	nmod	24:nmod	Conn=O
 
@@ -6432,8 +6432,8 @@
 1	ระบุ	_	VERB	VACT	_	3	nsubj	3:nsubj	Conn=O
 2	ไม่	_	PART	NEG	_	3	advmod	3:advmod	Conn=O
 3	เหมาะสม	_	VERB	VSTA	_	0	root	0:root	Conn=O
-4	เพราะ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
-5	คน	_	NOUN	CNIT	_	0	ROOT	0:ROOT	Conn=O
+4	เพราะ	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=B-conn
+5	คน	_	NOUN	CNIT	_	3	parataxis	3:parataxis	Conn=O
 6	ละ	_	ADP	RPRE	_	7	case	7:case	Conn=O
 7	ชั้น	_	NOUN	CNIT	_	5	nmod	5:nmod	Conn=O
 8	โต้	_	NOUN	NCMN	_	7	compound	7:compound	Conn=O
@@ -6442,7 +6442,7 @@
 
 # sent_id = T00491.tsv-4
 # text = อภิสิทธิ์" จี้เว้นวรรค ยันเป็นสิทธิ์ของนายกที่เคยลั่นวาจา
-1	อภิสิทธิ์	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	อภิสิทธิ์	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	"	_	PUNCT	PUNC	_	3	punct	3:punct	Conn=O
 3	จี้	_	VERB	VACT	_	1	acl	1:acl	Conn=O
 4	เว้นวรรค	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
@@ -6488,8 +6488,8 @@
 28	เป็น	_	VERB	VSTA	_	27	acl	27:acl	Conn=O
 29	นายก	_	NOUN	NCMN	_	28	obj	28:obj	Conn=O
 30	รัฐมนตรี	_	NOUN	NCMN	_	29	compound	29:compound	Conn=O
-31	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-32	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+31	ว่า	_	SCONJ	JSBR	_	12	parataxis	12:parataxis	Conn=O
+32	เป็น	_	VERB	VSTA	_	12	parataxis	12:parataxis	Conn=O
 33	การ	_	PART	FIXN	_	32	compound:prt	32:compound:prt	Conn=O
 34	กระทำ	_	VERB	VACT	_	32	acl	32:acl	Conn=O
 35	ที่	_	SCONJ	PREL	_	37	mark	37:mark	Conn=O
@@ -6509,12 +6509,12 @@
 49	พล.อ.	_	NOUN	NCMN	_	51	nsubj	51:nsubj	Conn=O
 50	เปรม	_	NOUN	NCMN	_	49	compound	49:compound	Conn=O
 51	อยู่	_	AUX	XVAE	_	43	aux	43:aux	Conn=O
-52	เหนือ	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
-53	กว่า	_	SCONJ	JCMP	_	0	ROOT	0:ROOT	Conn=O
-54	ตำแหน่ง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+52	เหนือ	_	ADP	RPRE	_	12	parataxis	12:parataxis	Conn=O
+53	กว่า	_	SCONJ	JCMP	_	12	parataxis	12:parataxis	Conn=O
+54	ตำแหน่ง	_	NOUN	NCMN	_	12	parataxis	12:parataxis	Conn=O
 55	นายก	_	NOUN	NCMN	_	54	compound	54:compound	Conn=O
 56	รัฐมนตรี	_	NOUN	NCMN	_	54	compound	54:compound	Conn=O
-57	เพราะ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+57	เพราะ	_	SCONJ	JSBR	_	12	parataxis	12:parataxis	Conn=B-conn
 58	เป็น	_	VERB	VSTA	_	60	case	60:case	Conn=O
 59	ถึง	_	ADP	RPRE	_	58	fixed	58:fixed	Conn=O
 60	รัฐบุรุษ	_	NOUN	NCMN	_	57	nmod	57:nmod	Conn=O
@@ -6528,7 +6528,7 @@
 68	นายก	_	NOUN	NCMN	_	67	obj	67:obj	Conn=O
 69	รัฐมนตรี	_	NOUN	NCMN	_	68	compound	68:compound	Conn=O
 70	อีก	_	ADV	ADVN	_	67	advmod	67:advmod	Conn=O
-71	กว่า	_	SCONJ	JCMP	_	0	ROOT	0:ROOT	Conn=O
+71	กว่า	_	SCONJ	JCMP	_	12	parataxis	12:parataxis	Conn=O
 72	20	_	NUM	DCNM	_	73	nummod	73:nummod	Conn=O
 73	คน	_	NOUN	CNIT	_	71	clf	71:clf	Conn=O
 74	ทำไม	_	NOUN	NCMN	_	73	compound	73:compound	Conn=O
@@ -7085,7 +7085,7 @@
 101	ประโยชน์	_	NOUN	NCMN	_	100	compound	100:compound	Conn=O
 102	ของ	_	ADP	RPRE	_	103	case	103:case	Conn=O
 103	ประเทศชาติ	_	NOUN	NCMN	_	100	nmod	100:nmod	Conn=O
-104	และ	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
+104	และ	_	CCONJ	JCRG	_	3	parataxis	3:parataxis	Conn=B-conn
 
 # sent_id = T00491.tsv-12
 # text = การเลือกตั้งจะแพ้ชนะ ไม่ได้ขึ้นอยู่กับประชาชนเพียงอย่างเดียว แต่หลายครั้งจะเห็นได้ว่า การชนะเลือกตั้งเป็นผลมาจากการใช้อำนาจรัฐ อำนาจเงิน เข้ามาเป็นตัวกำหนดการเลือกตั้ง ซึ่งจะเห็นได้ว่าการกระทำของรัฐบาลชุดนี้ใช้เงินภาษีของประชาชน หรืองบหลวง และเงินของสำนักงานสลากกินแบ่งรัฐบาล มาทำโฆษณาประชาสัมพันธ์แผนงานและหน่วยงานต่างๆของรัฐ ถือเป็นการหาเสียงเลือกตั้งทางอ้อม
@@ -7345,9 +7345,9 @@
 
 # sent_id = T00491.tsv-15
 # text = แต่ในทางกลับกัน มีหลายอย่างที่นายกรัฐมนตรีควรจะทำ แต่ไม่ทำ และมีหลายอย่างที่ไม่ควรทำนายกรัฐมนตรีคนนี้กลับทำ ดังนั้นก่อนที่พรรคไทยรักไทยมาเรียกร้องหัวหน้าพรรคประชาธิปัตย์ไปเรียกร้องหัวหน้าพรรคไทยรักไทยจะดีกว่า
-1	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
+1	แต่	_	CCONJ	JCRG	_	0	root	0:root	Conn=B-conn
 2	ในทางกลับกัน	_	SCONJ	JSBR	_	3	mark	3:mark	Conn=I-conn
-3	มี	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+3	มี	_	VERB	VSTA	_	1	parataxis	1:parataxis	Conn=O
 4	หลาย	_	DET	DIBQ	_	5	det	5:det	Conn=O
 5	อย่าง	_	NOUN	CNIT	_	3	obj	3:obj	Conn=O
 6	ที่	_	SCONJ	PREL	_	11	mark	11:mark	Conn=O
@@ -7395,7 +7395,7 @@
 # newdoc id = T00661.tsv
 # sent_id = T00661.tsv-1
 # text = ส่งสัญญาณขึ้น"ดีเซล"สัปดาห์นี้
-1	ส่ง	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	ส่ง	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	สัญญาณ	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	ขึ้น	_	AUX	XVAE	_	1	aux	1:aux	Conn=O
 4	"	_	PUNCT	PUNC	_	1	punct	1:punct	Conn=O
@@ -7437,7 +7437,7 @@
 
 # sent_id = T00661.tsv-4
 # text = นายประเสริฐ บุญสัมพันธ์กรรมการผู้จัดการใหญ่ บริษัทปตท.จำกัด(มหาชน) กล่าวว่าปตท.เตรียมที่จะปรับขึ้นราคาน้ำมันดีเซลอีก 40 สตางค์ต่อลิตรในสัปดาห์นี้ เนื่องจากค่าการตลาดลดลงเหลือเพียงลิตรละ 40 สตางค์
-1	นาย	_	NOUN	NTTL	_	0	ROOT	0:ROOT	Conn=O
+1	นาย	_	NOUN	NTTL	_	0	root	0:root	Conn=O
 2	ประเสริฐ	_	PROPN	NPRP	_	1	appos	1:appos	Conn=O
 3	บุญสัมพันธ์	_	PROPN	NPRP	_	1	flat:name	1:flat:name	Conn=O
 4	กรรมการ	_	NOUN	NCMN	_	1	flat:name	1:flat:name	Conn=O
@@ -7451,8 +7451,8 @@
 12	มหาชน	_	PROPN	NPRP	_	9	appos	9:appos	Conn=O
 13	)	_	PUNCT	PUNC	_	12	punct	12:punct	Conn=O
 14	กล่าว	_	VERB	VACT	_	1	advcl	1:advcl	Conn=O
-15	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-16	ปตท.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+15	ว่า	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
+16	ปตท.	_	NOUN	NCMN	_	15	parataxis	1:parataxis|15:parataxis	Conn=O
 17	เตรียม	_	VERB	VACT	_	16	acl	16:acl	Conn=O
 18	ที่	_	SCONJ	PREL	_	20	mark	20:mark	Conn=O
 19	จะ	_	AUX	XVBM	_	20	aux	20:aux	Conn=O
@@ -7542,7 +7542,7 @@
 # sent_id = T00661.tsv-7
 # text = โดยเห็นว่ามาตรการลดการนำเงินส่งเข้ากองทุนน้ำมันเชื้อเพลิง เพื่อดึงราคาขายปลีกน้ำมันลดลงนั้น ควรจะถูกนำมาใช้เมื่อเกิดภาวะฉุกเฉินเท่านั้น ซึ่งเสี่ยงที่กองทุนจะกลับมาเป็นหนี้อีก
 1	โดย	_	ADP	RPRE	_	2	mark	2:mark	Conn=B-conn
-2	เห็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+2	เห็น	_	VERB	VSTA	_	0	root	0:root	Conn=O
 3	ว่า	_	SCONJ	JSBR	_	5	mark	5:mark	Conn=O
 4	มาตรการ	_	NOUN	NCMN	_	5	nsubj	5:nsubj	Conn=O
 5	ลด	_	VERB	VACT	_	2	ccomp	2:ccomp	Conn=O
@@ -7576,7 +7576,7 @@
 33	เท่านั้น	_	ADV	ADVN	_	30	advmod	30:advmod	Conn=O
 34	ซึ่ง	_	SCONJ	PREL	_	35	nsubj	35:nsubj	Conn=B-conn
 35	เสี่ยง	_	VERB	VACT	_	5	acl:relcl	5:acl:relcl	Conn=O
-36	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+36	ที่	_	SCONJ	PREL	_	2	parataxis	2:parataxis	Conn=O
 37	กองทุน	_	NOUN	NCMN	_	39	nsubj	39:nsubj	Conn=O
 38	จะ	_	AUX	XVBM	_	39	aux	39:aux	Conn=O
 39	กลับ	_	VERB	VACT	_	36	acl:relcl	36:acl:relcl	Conn=O
@@ -7677,7 +7677,7 @@
 7	ร่วม	_	ADV	ADVN	_	8	advmod	8:advmod	Conn=O
 8	แฉ	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 9	2	_	NUM	NCNM	_	8	appos	8:appos	Conn=O
-10	จ่า	_	NOUN	CNIT	_	0	ROOT	0:ROOT	Conn=O
+10	จ่า	_	NOUN	CNIT	_	8	parataxis	8:parataxis	Conn=O
 11	รบ	_	NOUN	NCMN	_	10	compound	10:compound	Conn=O
 12	พิเศษ	_	ADJ	VATT	_	11	amod	11:amod	Conn=O
 13	มือ	_	NOUN	NCMN	_	14	nsubj	14:nsubj	Conn=O
@@ -7688,7 +7688,7 @@
 # text = "จ่ายักษ์ ปูดชื่อสามนายพลโผล่ร่วมแก๊งคาร์บอมบ์
 1	"	_	PUNCT	PUNC	_	3	punct	3:punct	Conn=O
 2	จ่า	_	NOUN	NCMN	_	3	nsubj	3:nsubj	Conn=O
-3	ยักษ์	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+3	ยักษ์	_	VERB	VACT	_	0	root	0:root	Conn=O
 4	ปูด	_	VERB	VACT	_	3	acl	3:acl	Conn=O
 5	ชื่อ	_	NOUN	NCMN	_	4	obj	4:obj	Conn=O
 6	สาม	_	NOUN	NCMN	_	5	compound	5:compound	Conn=O
@@ -7701,7 +7701,7 @@
 
 # sent_id = T00784.tsv-3
 # text = พบแล้ว 2 จ่ารบพิเศษมือประกอบบึ้ม ใช้ปิกอัพตรากงจักรขนอาวุธหนักจากค่ายลพบุรีเล็งถล่ม
-1	พบ	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+1	พบ	_	VERB	VSTA	_	0	root	0:root	Conn=O
 2	แล้ว	_	SCONJ	JSBR	_	1	fixed	1:fixed	Conn=O
 3	2	_	NUM	DCNM	_	4	nummod	4:nummod	Conn=O
 4	จ่า	_	NOUN	CNIT	_	1	clf	1:clf	Conn=O
@@ -7725,7 +7725,7 @@
 
 # sent_id = T00784.tsv-4
 # text = ตร.ค้นบ้านนายพลเพื่อนแม้ว เจอเอกสารซื้อขายปุ๋ยยูเรีย
-1	ตร.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ตร.	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ค้น	_	VERB	VACT	_	1	acl	1:acl	Conn=O
 3	บ้าน	_	NOUN	NCMN	_	2	obj	2:obj	Conn=O
 4	นายพล	_	NOUN	NCMN	_	3	compound	3:compound	Conn=O
@@ -7763,7 +7763,7 @@
 11	ยัวะ	_	VERB	VACT	_	10	acl	10:acl	Conn=O
 12	ตร.	_	NOUN	NCMN	_	11	obj	11:obj	Conn=O
 13	ให้	_	SCONJ	JSBR	_	8	advmod	8:advmod	Conn=O
-14	ข่าว	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+14	ข่าว	_	NOUN	NCMN	_	8	parataxis	8:parataxis	Conn=O
 15	หยาม	_	VERB	VACT	_	14	acl	14:acl	Conn=O
 16	ทหาร	_	NOUN	NCMN	_	15	obj	15:obj	Conn=O
 
@@ -7772,7 +7772,7 @@
 1	หลังจาก	_	SCONJ	JSBR	_	4	mark	4:mark	Conn=B-conn
 2	พนักงาน	_	NOUN	NCMN	_	4	nsubj	4:nsubj	Conn=O
 3	สอบสวน	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
-4	นำ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+4	นำ	_	VERB	VACT	_	0	root	0:root	Conn=O
 5	จ.ส.ต.	_	NOUN	NCMN	_	4	obj	4:obj	Conn=O
 6	ชาคริต	_	NOUN	NCMN	_	5	compound	5:compound	Conn=O
 7	จันทระ	_	NOUN	NCMN	_	5	compound	5:compound	Conn=O
@@ -7843,9 +7843,9 @@
 
 # sent_id = T00784.tsv-8
 # text = ล่าสุด เมื่อเวลา 12.30 น.วันที่ 10 กันยายน พล.ต.ต.วินัยทองสองกล่าวถึงความคืบหน้าการสืบสวนสอบสวนว่า ขณะนี้ได้เร่งให้ชุดสืบสวน และสอบสวนตรวจสอบหลักฐานที่ยึดมาได้จากการเข้าตรวจค้นบ้านผู้ต้องหา และผู้ต้องสงสัย รวม 7 จุด เมื่อวันที่ 9 กันยายน ที่ผ่านมา อย่างละเอียด และจากการตรวจสอบเบื้องต้นพบหลักฐานส่วนใหญ่เป็นเอกสาร และหลักฐานทางการเงินที่ยังไม่มีประโยชน์ต่อรูปคดีมากนัก
-1	ล่าสุด	_	ADJ	VATT	_	0	ROOT	0:ROOT	Conn=O
-2	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-3	เวลา	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ล่าสุด	_	ADJ	VATT	_	0	root	0:root	Conn=O
+2	เมื่อ	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
+3	เวลา	_	NOUN	NCMN	_	2	parataxis	1:parataxis|2:parataxis	Conn=O
 4	12.30	_	NUM	DCNM	_	5	nummod	5:nummod	Conn=O
 5	น.	_	NOUN	CMTR	_	3	clf	3:clf	Conn=O
 6	วันที่	_	NOUN	NCMN	_	5	compound	5:compound	Conn=O
@@ -7961,8 +7961,8 @@
 35	กัน	_	ADV	ADVN	_	34	advmod	34:advmod	Conn=O
 36	อีก	_	ADV	ADVN	_	33	advmod	33:advmod	Conn=O
 37	ครั้ง	_	NOUN	CFQC	_	33	obl	33:obl	Conn=O
-38	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-39	เวลา	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+38	เมื่อ	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
+39	เวลา	_	NOUN	NCMN	_	3	parataxis	3:parataxis	Conn=O
 40	10.00	_	NUM	NCNM	_	41	nummod	41:nummod	Conn=O
 41	น.	_	NOUN	CMTR	_	39	clf	39:clf	Conn=O
 42	วันที่	_	NOUN	NCMN	_	41	compound	41:compound	Conn=O
@@ -8111,7 +8111,7 @@
 
 # sent_id = T00784.tsv-13
 # text = เพิ่มคอมมานโด รปภ."จ่ายักษ์
-1	เพิ่ม	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	เพิ่ม	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	คอมมานโด	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	รปภ.	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 4	"	_	PUNCT	PUNC	_	5	punct	5:punct	Conn=O
@@ -8466,7 +8466,7 @@
 4	กลุ่ม	_	NOUN	CLTV	_	2	clf	2:clf	Conn=O
 5	นี้	_	DET	DDAC	_	4	det	4:det	Conn=O
 6	ยังคง	_	AUX	XVBM	_	7	aux	7:aux	Conn=O
-7	เชื่อ	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+7	เชื่อ	_	VERB	VSTA	_	0	root	0:root	Conn=O
 8	ว่า	_	SCONJ	JSBR	_	11	mark	11:mark	Conn=O
 9	เหตุการณ์	_	NOUN	NCMN	_	11	nsubj	11:nsubj	Conn=O
 10	ลอบ	_	NOUN	NCMN	_	9	compound	9:compound	Conn=O
@@ -8513,7 +8513,7 @@
 
 # sent_id = T00784.tsv-21
 # text = ใช้ปิกอัพทหารขนอาวุธค่ายลพบุรีถล่มซ้ำ
-1	ใช้	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	ใช้	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	ปิกอัพ	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	ทหาร	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 4	ขน	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
@@ -8521,7 +8521,7 @@
 6	ค่าย	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 7	ลพบุรี	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 8	ถล่ม	_	ADJ	VATT	_	7	amod	7:amod	Conn=O
-9	ซ้ำ	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
+9	ซ้ำ	_	ADP	RPRE	_	1	parataxis	1:parataxis	Conn=O
 
 # sent_id = T00784.tsv-22
 # text = ด้านความคืบหน้าการสืบสวนขยายผลนั้น มีรายงานว่า ตามคำให้การของ จ.ส.อ.ชาคริต ที่ระบุไว้ว่า นอกจากรถแดวูที่บรรทุกระเบิดแล้ว ทีมสังหารยังมีการเตรียมอาวุธสงครามจำนวนมากไว้คอยถล่มซ้ำด้วยนั้น จ.ส.อ.ชาคริต ให้รายละเอียดเพิ่มเติมด้วยว่า รถยนต์ที่บรรทุกอาวุธสงครามนั้นเป็นรถกระบะยี่ห้อนิสสัน ฟรอนเทียร์สีบรอนซ์ทอง ทะเบียนตรากงจักร แต่จำหมายเลขไม่ได้
@@ -8580,7 +8580,7 @@
 53	อาวุธ	_	NOUN	NCMN	_	52	obj	52:obj	Conn=O
 54	สงคราม	_	NOUN	NCMN	_	53	compound	53:compound	Conn=O
 55	นั้น	_	DET	DDAC	_	52	obl	52:obl	Conn=O
-56	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+56	เป็น	_	VERB	VSTA	_	6	parataxis	6:parataxis	Conn=O
 57	รถ	_	NOUN	NCMN	_	56	obj	56:obj	Conn=O
 58	กระบะ	_	NOUN	NCMN	_	57	compound	57:compound	Conn=O
 59	ยี่ห้อ	_	NOUN	NCMN	_	57	compound	57:compound	Conn=O
@@ -8639,7 +8639,7 @@
 
 # sent_id = T00784.tsv-24
 # text = พบ 2 จ่าลพบุรีมือประกอบระเบิด
-1	พบ	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+1	พบ	_	VERB	VSTA	_	0	root	0:root	Conn=O
 2	2	_	NUM	NCNM	_	3	nummod	3:nummod	Conn=O
 3	จ่า	_	NOUN	CNIT	_	1	clf	1:clf	Conn=O
 4	ลพบุรี	_	NOUN	NCMN	_	3	compound	3:compound	Conn=O
@@ -8649,7 +8649,7 @@
 
 # sent_id = T00784.tsv-25
 # text = นอกจากนี้ ผู้สื่อข่าวรายงานว่า การสืบสวนหาคนประกอบระเบิดคาร์บอมบ์ ซึ่งถือว่าเป็นตัวละครสำคัญในคดีนี้ จากการตรวจสอบพบว่า มีจ่าทหาร 2 นาย สังกัดหน่วยรบพิเศษ จ.ลพบุรีเป็นผู้ต้องสงสัย
-1	นอกจากนี้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+1	นอกจากนี้	_	SCONJ	JSBR	_	0	root	0:root	Conn=O
 2	ผู้สื่อข่าว	_	NOUN	NCMN	_	3	nsubj	3:nsubj	Conn=O
 3	รายงาน	_	VERB	VACT	_	1	acl:relcl	1:acl:relcl	Conn=O
 4	ว่า	_	SCONJ	JSBR	_	3	obj	3:obj	Conn=O
@@ -8696,7 +8696,7 @@
 1	เพราะ	_	SCONJ	JSBR	_	4	mark	4:mark	Conn=B-conn
 2	จาก	_	ADP	RPRE	_	3	case	3:case	Conn=O
 3	การ	_	PART	FIXN	_	4	advmod	4:advmod	Conn=O
-4	ตรวจสอบ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+4	ตรวจสอบ	_	VERB	VACT	_	0	root	0:root	Conn=O
 5	พบ	_	VERB	VACT	_	4	obj	4:obj	Conn=O
 6	ว่า	_	SCONJ	JSBR	_	7	mark	7:mark	Conn=O
 7	มี	_	VERB	VSTA	_	5	ccomp	5:ccomp	Conn=O
@@ -8809,7 +8809,7 @@
 
 # sent_id = T00784.tsv-28
 # text = เตรียมลุยค้นอีก 2 จุด
-1	เตรียม	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	เตรียม	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	ลุย	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	ค้น	_	VERB	VACT	_	2	acl	2:acl	Conn=O
 4	อีก	_	DET	DDBQ	_	6	det	6:det	Conn=O
@@ -8999,7 +8999,7 @@
 
 # sent_id = T00784.tsv-34
 # text = ส่วนที่ตรวจสอบพบเพิ่มเติม ได้แก่ พล.ต."ก" พล.ต."พ" และ พล.ต."ป" ซึ่งทั้งหมดเป็นนายทหารสังกัด กอ.รมน.และถือเป็นคนสนิทของ พล.อ.พัลลภปิ่นมณี รอง ผอ.กอ.รมน.ซึ่งเป็นกลุ่มที่ทำหน้าที่วิเคราะห์ความเคลื่อนไหวทางการเมือง และความมั่นคงของประเทศ
-1	ส่วน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ส่วน	_	NOUN	NCMN	_	0	root	0:root	Conn=B-conn
 2	ที่	_	SCONJ	PREL	_	3	mark	3:mark	Conn=O
 3	ตรวจสอบ	_	VERB	VACT	_	1	acl	1:acl	Conn=O
 4	พบ	_	VERB	VACT	_	3	xcomp	3:xcomp	Conn=O
@@ -9056,7 +9056,7 @@
 
 # sent_id = T00784.tsv-35
 # text = ค้นบ้านพบเอกสารซื้อขายปุ๋ยยูเรีย
-1	ค้น	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	ค้น	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	บ้าน	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	พบ	_	VERB	VSTA	_	2	acl	2:acl	Conn=O
 4	เอกสาร	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
@@ -9099,10 +9099,10 @@
 31	ตรวจ	_	VERB	VACT	_	23	acl:relcl	23:acl:relcl	Conn=O
 32	ยึด	_	VERB	VACT	_	31	xcomp	31:xcomp	Conn=O
 33	เอกสาร	_	NOUN	NCMN	_	32	obj	32:obj	Conn=O
-34	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+34	ที่	_	SCONJ	PREL	_	1	parataxis	1:parataxis	Conn=O
 35	เกี่ยวกับ	_	ADP	RPRE	_	37	mark	37:mark	Conn=O
 36	การ	_	PART	FIXN	_	37	advmod	37:advmod	Conn=O
-37	ซื้อขาย	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+37	ซื้อขาย	_	VERB	VACT	_	1	parataxis	1:parataxis	Conn=O
 38	ปุ๋ย	_	NOUN	NCMN	_	37	obj	37:obj	Conn=O
 39	ยูเรีย	_	VERB	VACT	_	37	acl	37:acl	Conn=O
 40	ไป	_	AUX	XVAE	_	41	cop	41:cop	Conn=O
@@ -9115,8 +9115,8 @@
 47	สุรศักดิ์	_	PROPN	NPRP	_	46	flat:name	46:flat:name	Conn=O
 48	พยายาม	_	VERB	VACT	_	37	advcl	37:advcl	Conn=O
 49	อธิบาย	_	VERB	VACT	_	48	xcomp	48:xcomp	Conn=O
-50	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-51	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+50	ว่า	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
+51	เป็น	_	VERB	VSTA	_	1	parataxis	1:parataxis	Conn=O
 52	เอกสาร	_	NOUN	NCMN	_	51	obj	51:obj	Conn=O
 53	เกี่ยวกับ	_	ADP	RPRE	_	55	mark	55:mark	Conn=O
 54	การ	_	PART	FIXN	_	55	advmod	55:advmod	Conn=O
@@ -9132,7 +9132,7 @@
 64	ประสาน	_	VERB	VACT	_	59	acl	59:acl	Conn=O
 65	งาน	_	NOUN	NCMN	_	64	obj	64:obj	Conn=O
 66	ให้	_	SCONJ	JSBR	_	55	advmod	55:advmod	Conn=O
-67	บริษัท	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+67	บริษัท	_	NOUN	NCMN	_	1	parataxis	1:parataxis	Conn=O
 68	ใน	_	ADP	RPRE	_	69	case	69:case	Conn=O
 69	ประเทศ	_	NOUN	NCMN	_	67	nmod:poss	67:nmod:poss	Conn=O
 70	บังกลาเทศ	_	NOUN	NCMN	_	69	compound	69:compound	Conn=O
@@ -9364,7 +9364,7 @@
 7	นำ	_	VERB	VACT	_	5	acl	5:acl	Conn=O
 8	ตัว	_	NOUN	NCMN	_	7	obj	7:obj	Conn=O
 9	ไป	_	AUX	XVAE	_	10	cop	10:cop	Conn=O
-10	สอบสวน	_	NOUN	NCMN	_	0	root	0:root	Conn=O
+10	สอบสวน	_	NOUN	NCMN	_	5	parataxis	0:root|5:parataxis	Conn=O
 11	ที่	_	SCONJ	PREL	_	14	mark	14:mark	Conn=O
 12	เซฟเฮ้าส์	_	VERB	VACT	_	14	nsubj	14:nsubj	Conn=O
 13	แล้ว	_	AUX	XVAE	_	14	aux	14:aux	Conn=B-conn
@@ -9373,7 +9373,7 @@
 16	ข่าว	_	NOUN	NCMN	_	15	compound	15:compound	Conn=O
 17	ใน	_	ADP	RPRE	_	18	case	18:case	Conn=O
 18	เวลา	_	NOUN	NCMN	_	15	nmod	15:nmod	Conn=O
-19	ต่อมา	_	DET	DDAC	_	0	ROOT	0:ROOT	Conn=O
+19	ต่อมา	_	DET	DDAC	_	10	parataxis	5:parataxis|10:parataxis	Conn=O
 20	ว่า	_	SCONJ	JSBR	_	23	mark	23:mark	Conn=O
 21	จ.ส.อ.	_	NOUN	NCMN	_	23	nsubj	23:nsubj	Conn=O
 22	ชาคริต	_	NOUN	NCMN	_	21	compound	21:compound	Conn=O
@@ -9402,15 +9402,15 @@
 
 # sent_id = T00784.tsv-43
 # text = "เสธ.หมึก"ซัด ตร.พยายามโยงให้ถึงตัว
-1	"	_	PUNCT	PUNC	_	0	ROOT	0:ROOT	Conn=O
-2	เสธ.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	"	_	PUNCT	PUNC	_	0	root	0:root	Conn=O
+2	เสธ.	_	NOUN	NCMN	_	1	parataxis	1:parataxis	Conn=O
 3	หมึก	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 4	"	_	PUNCT	PUNC	_	5	punct	5:punct	Conn=O
 5	ซัด	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 6	ตร.	_	NOUN	NCMN	_	7	nsubj	7:nsubj	Conn=O
 7	พยายาม	_	VERB	VACT	_	2	acl:relcl	2:acl:relcl	Conn=O
 8	โยง	_	VERB	VACT	_	7	xcomp	7:xcomp	Conn=O
-9	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+9	ให้	_	SCONJ	JSBR	_	2	parataxis	1:parataxis|2:parataxis	Conn=O
 10	ถึง	_	ADP	RPRE	_	11	case	11:case	Conn=O
 11	ตัว	_	NOUN	NCMN	_	9	nmod	9:nmod	Conn=O
 
@@ -9576,7 +9576,7 @@
 1	ยุค	_	ADV	ADVN	_	4	advmod	4:advmod	Conn=O
 2	นี้	_	DET	DDAC	_	1	det	1:det	Conn=O
 3	มัน	_	PRON	PPRS	_	4	nsubj	4:nsubj	Conn=O
-4	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+4	เป็น	_	VERB	VSTA	_	0	root	0:root	Conn=O
 5	ยุค	_	NOUN	NCMN	_	4	obj	4:obj	Conn=O
 6	ของ	_	ADP	RPRE	_	7	case	7:case	Conn=O
 7	ตำรวจ	_	NOUN	NCMN	_	4	obl	4:obl	Conn=O
@@ -9596,7 +9596,7 @@
 21	คอ	_	NOUN	NCMN	_	20	obj	20:obj	Conn=O
 22	ตก	_	VERB	VACT	_	18	xcomp	18:xcomp	Conn=O
 23	กัน	_	ADV	ADVN	_	22	advmod	22:advmod	Conn=O
-24	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+24	เป็น	_	VERB	VSTA	_	4	parataxis	4:parataxis	Conn=O
 25	แถว	_	NOUN	NCMN	_	24	obj	24:obj	Conn=O
 
 # sent_id = T00784.tsv-49
@@ -9645,7 +9645,7 @@
 # sent_id = T00784.tsv-51
 # text = เมื่อถามว่า เชื่อหรือไม่ว่ามีการลอบสังหารนายกฯ พล.ท.พิรัช กล่าวว่า "ดูจากข่าวแล้วมันพิลึกยังไงๆชอบกล ยิ่งดูข่าว จ่ายักษ์ที่หายตัวไปอยู่บ้านนายตำรวจชั้นผู้ใหญ่ สักพักก็ออกมาพูดเป็นฉากๆก็ไม่รู้ว่านายตำรวจคนนี้อยากได้ยศตำแหน่งหรือยังไง
 1	เมื่อ	_	SCONJ	JSBR	_	2	mark	2:mark	Conn=B-conn
-2	ถาม	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+2	ถาม	_	VERB	VACT	_	0	root	0:root	Conn=O
 3	ว่า	_	SCONJ	JSBR	_	4	mark	4:mark	Conn=O
 4	เชื่อ	_	VERB	VSTA	_	2	ccomp	2:ccomp	Conn=O
 5	หรือไม่	_	PART	EITT	_	4	discourse	4:discourse	Conn=O
@@ -9749,7 +9749,7 @@
 # sent_id = T00784.tsv-54
 # text = เมื่อถามว่า เชื่อหรือไม่ว่า พล.อ.พัลลภวางแผนสังหารนายกฯ พล.ท.พิรัช กล่าวว่า "ถ้าคนอย่างไอ้ลภทำ ไม่น่าจะมีจุดบกพร่อง เพราะคนระดับนี้ไม่ควรไปซื้อรถมาจากเต็นท์รถ ต้องหาซื้อจากรถที่ขโมยมา และไม่ควรไปขับลาดตระเวนดูเป้าหมายให้น่าสงสัย สำคัญที่สุด รถบรรทุกระเบิดต้องไม่ให้ใครเห็นเมื่อจอดปุ๊บต้องระเบิดทันที
 1	เมื่อ	_	SCONJ	JSBR	_	2	mark	2:mark	Conn=B-conn
-2	ถาม	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+2	ถาม	_	VERB	VACT	_	0	root	0:root	Conn=O
 3	ว่า	_	SCONJ	JSBR	_	4	mark	4:mark	Conn=O
 4	เชื่อ	_	VERB	VSTA	_	2	ccomp	2:ccomp	Conn=O
 5	หรือไม่	_	PART	EITT	_	4	discourse	4:discourse	Conn=O
@@ -10053,7 +10053,7 @@
 3	ทักษิณ	_	ADJ	DONM	_	2	amod	2:amod	Conn=O
 4	สร้าง	_	VERB	VACT	_	0	root	0:root	Conn=O
 5	ภาพ	_	NOUN	NCMN	_	4	obj	4:obj	Conn=O
-6	อารักขา	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
+6	อารักขา	_	ADP	RPRE	_	4	parataxis	4:parataxis	Conn=O
 
 # sent_id = T00784.tsv-61
 # text = ด้านนายเทพไท เสนพงศ์โฆษกสำนักเลือกตั้งพรรคประชาธิปัตย์ความเห็นถึงกรณีที่ พ.ต.ท.ทักษิณ ชินวัตรนายกรัฐมนตรี เดินทางไปประเทศฟินแลนด์ เมื่อวันที่ 9 กันยายน ที่ผ่านมา โดยมีการรักษาความปลอดภัยอย่างเข้มงวดว่า เป็นภาพที่ไม่เหมาะสม เนื่องจากมีเจ้าหน้าที่แต่งชุดพรางถืออาวุธร้ายแรงครบมือในทุก 50 เมตร
@@ -10116,8 +10116,8 @@
 
 # sent_id = T00784.tsv-62
 # text = "ภาพเหล่านี้ พ.ต.ท.ทักษิณควรคำนึงถึงภาพลักษณ์ของประเทศด้วย เพราะภาพเช่นนี้เราเคยเห็นแต่ในพื้นที่ 3 จังหวัดภาคใต้เท่านั้น
-1	"	_	PUNCT	PUNC	_	0	ROOT	0:ROOT	Conn=O
-2	ภาพ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	"	_	PUNCT	PUNC	_	0	root	0:root	Conn=O
+2	ภาพ	_	NOUN	NCMN	_	1	parataxis	1:parataxis	Conn=O
 3	เหล่า	_	NOUN	CLTV	_	2	clf	2:clf	Conn=O
 4	นี้	_	DET	DDAC	_	3	det	3:det	Conn=O
 5	พ.ต.ท.	_	NOUN	NCMN	_	8	nsubj	8:nsubj	Conn=O
@@ -10136,9 +10136,9 @@
 18	เรา	_	PRON	PPRS	_	20	nsubj	20:nsubj	Conn=O
 19	เคย	_	AUX	XVMM	_	20	aux	20:aux	Conn=O
 20	เห็น	_	VERB	VSTA	_	10	acl:relcl	10:acl:relcl	Conn=O
-21	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=O
+21	แต่	_	CCONJ	JCRG	_	2	parataxis	1:parataxis|2:parataxis	Conn=O
 22	ใน	_	ADP	RPRE	_	23	case	23:case	Conn=O
-23	พื้นที่	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+23	พื้นที่	_	NOUN	NCMN	_	21	parataxis	1:parataxis|2:parataxis|21:parataxis	Conn=O
 24	3	_	NUM	DCNM	_	25	nummod	25:nummod	Conn=O
 25	จังหวัด	_	NOUN	CNIT	_	23	clf	23:clf	Conn=O
 26	ภาค	_	NOUN	NCMN	_	25	compound	25:compound	Conn=O
@@ -10159,8 +10159,8 @@
 10	ขึ้น	_	AUX	XVAE	_	9	aux	9:aux	Conn=O
 11	ใน	_	ADP	RPRE	_	12	case	12:case	Conn=O
 12	กรุงเทพฯ	_	PROPN	NPRP	_	9	obl	9:obl	Conn=O
-13	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-14	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+13	ซึ่ง	_	SCONJ	PREL	_	3	parataxis	3:parataxis	Conn=O
+14	เป็น	_	VERB	VSTA	_	3	parataxis	3:parataxis	Conn=O
 15	เมืองหลวง	_	NOUN	NCMN	_	14	obj	14:obj	Conn=O
 16	ของ	_	ADP	RPRE	_	17	case	17:case	Conn=O
 17	ประเทศ	_	NOUN	NCMN	_	14	obl	14:obl	Conn=O
@@ -10256,7 +10256,7 @@
 5	รู้สึก	_	VERB	VSTA	_	2	acl	2:acl	Conn=O
 6	ของ	_	ADP	RPRE	_	7	case	7:case	Conn=O
 7	ประชาชน	_	NOUN	NCMN	_	5	obl	5:obl	Conn=O
-8	ด้วยว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+8	ด้วยว่า	_	SCONJ	JSBR	_	2	parataxis	2:parataxis	Conn=O
 9	หาก	_	SCONJ	JSBR	_	19	mark	19:mark	Conn=B-conn
 10	พ.ต.ท.	_	NOUN	NCMN	_	19	nsubj	19:nsubj	Conn=O
 11	ทักษิณ	_	DET	DDAN	_	12	nsubj	12:nsubj	Conn=O
@@ -10320,7 +10320,7 @@
 
 # sent_id = T00784.tsv-68
 # text = โดยในกรณีคาร์บอมบ์ลอบสังหาร พ.ต.ท.ทักษิณ ชินวัตรนายกรัฐมนตรี และหัวหน้าพรรคไทยรักไทยฝ่ายเจ้าหน้าที่สืบสวนใกล้ที่จะหาตัวผู้ก่อการมาลงโทษได้แล้ว
-1	โดย	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+1	โดย	_	SCONJ	JSBR	_	0	root	0:root	Conn=B-conn
 2	ใน	_	ADP	RPRE	_	3	case	3:case	Conn=O
 3	กรณี	_	NOUN	NCMN	_	1	nmod:poss	1:nmod:poss	Conn=O
 4	คาร์	_	NOUN	NCMN	_	3	compound	3:compound	Conn=O
@@ -10422,7 +10422,7 @@
 5	วิงวอน	_	NOUN	NCMN	_	3	compound	3:compound	Conn=O
 6	ทุก	_	DET	DIBQ	_	7	det	7:det	Conn=O
 7	ฝ่าย	_	NOUN	CLTV	_	3	clf	3:clf	Conn=O
-8	ใช้การ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+8	ใช้การ	_	VERB	VACT	_	0	root	0:root	Conn=O
 9	แก้	_	VERB	VACT	_	8	acl	8:acl	Conn=O
 10	ปัญหา	_	NOUN	NCMN	_	9	obj	9:obj	Conn=O
 11	ต่าง	_	PRON	PDMN	_	12	nsubj	12:nsubj	Conn=O
@@ -10696,8 +10696,8 @@
 15	หลอก	_	NOUN	NCMN	_	14	obj	14:obj	Conn=O
 16	ผี	_	NOUN	NCMN	_	15	compound	15:compound	Conn=O
 17	กัน	_	ADV	ADVN	_	14	advmod	14:advmod	Conn=O
-18	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-19	ผี	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+18	ว่า	_	SCONJ	JSBR	_	2	parataxis	2:parataxis	Conn=O
+19	ผี	_	NOUN	NCMN	_	2	parataxis	2:parataxis	Conn=O
 20	ดุ	_	NOUN	NCMN	_	19	compound	19:compound	Conn=O
 21	แต่	_	CCONJ	JCRG	_	25	cc	25:cc	Conn=B-conn
 22	ในที่สุด	_	ADV	ADVS	_	25	advmod	25:advmod	Conn=O
@@ -10705,7 +10705,7 @@
 24	ไม่	_	PART	NEG	_	25	advmod	25:advmod	Conn=O
 25	มี	_	VERB	VSTA	_	19	conj	19:conj	Conn=O
 26	ใคร	_	PRON	PNTR	_	25	obj	25:obj	Conn=O
-27	โดน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+27	โดน	_	NOUN	NCMN	_	2	parataxis	2:parataxis	Conn=O
 28	ผีหลอก	_	NOUN	NCMN	_	27	compound	27:compound	Conn=O
 29	แต่	_	CCONJ	JCRG	_	37	cc	37:cc	Conn=B-conn
 30	คน	_	NOUN	NCMN	_	37	nsubj	37:nsubj	Conn=O
@@ -10726,7 +10726,7 @@
 # sent_id = T00784.tsv-77
 # text = เมื่อถามถึงทัศนะของนายกรัฐมนตรีต่อความพยายามปฏิวัติ พ.ต.ท.ทักษิณกล่าวว่า วันนี้เท่าที่ดูยังไม่มีการปฏิวัติ ยังเป็นเรื่องของข่าวลือเท่านั้น ยังไม่เคยเห็นความเคลื่อนไหวในเชิงปฏิวัติ มีแต่การปล่อยข่าวกัน
 1	เมื่อ	_	SCONJ	JSBR	_	2	mark	2:mark	Conn=B-conn
-2	ถาม	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+2	ถาม	_	VERB	VACT	_	0	root	0:root	Conn=O
 3	ถึง	_	ADP	RPRE	_	4	case	4:case	Conn=O
 4	ทัศนะ	_	NOUN	NCMN	_	2	obl	2:obl	Conn=O
 5	ของ	_	ADP	RPRE	_	6	case	6:case	Conn=O
@@ -10775,7 +10775,7 @@
 # sent_id = T00784.tsv-78
 # text = "เป็นข่าวที่คนปล่อยต้องการให้เป็นจริง แต่ไม่จริง แต่บางครั้งข่าวลือมันก็อาจจะลือจนจริงก็ได้ เพราะคนปล่อยพยายามผลักดันให้เป็นจริงให้ได้ มันก็อาจจะเป็นจริงได้" พ.ต.ท.ทักษิณกล่าว
 1	"	_	PUNCT	PUNC	_	2	punct	2:punct	Conn=O
-2	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+2	เป็น	_	VERB	VSTA	_	0	root	0:root	Conn=O
 3	ข่าว	_	NOUN	NCMN	_	2	obj	2:obj	Conn=O
 4	ที่	_	SCONJ	PREL	_	6	mark	6:mark	Conn=O
 5	คน	_	NOUN	NCMN	_	6	nsubj	6:nsubj	Conn=O
@@ -10806,7 +10806,7 @@
 30	ปล่อย	_	VERB	VACT	_	23	ccomp	23:ccomp	Conn=O
 31	พยายาม	_	VERB	VACT	_	30	xcomp	30:xcomp	Conn=O
 32	ผลักดัน	_	VERB	VACT	_	31	xcomp	31:xcomp	Conn=O
-33	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+33	ให้	_	SCONJ	JSBR	_	2	parataxis	2:parataxis	Conn=O
 34	เป็น	_	VERB	VSTA	_	33	xcomp	33:xcomp	Conn=O
 35	จริง	_	ADJ	VATT	_	34	advmod	34:advmod	Conn=O
 36	ให้	_	SCONJ	JSBR	_	42	mark	42:mark	Conn=O
@@ -10833,8 +10833,8 @@
 6	ทักษิณ	_	NOUN	NCMN	_	4	compound	4:compound	Conn=O
 7	เคย	_	AUX	XVMM	_	8	aux	8:aux	Conn=O
 8	ระบุ	_	VERB	VACT	_	2	parataxis	2:parataxis	Conn=O
-9	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-10	ผู้	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+9	ว่า	_	SCONJ	JSBR	_	2	parataxis	2:parataxis	Conn=O
+10	ผู้	_	SCONJ	PREL	_	2	parataxis	2:parataxis	Conn=O
 11	ใน	_	ADP	RPRE	_	12	case	12:case	Conn=O
 12	คดี	_	NOUN	NCMN	_	10	nmod:poss	10:nmod:poss	Conn=O
 13	พยายาม	_	VERB	VACT	_	12	acl	12:acl	Conn=O
@@ -10857,7 +10857,7 @@
 30	ไม่	_	PART	NEG	_	31	advmod	31:advmod	Conn=O
 31	ได้	_	AUX	XVAM	_	32	aux	32:aux	Conn=O
 32	พูด	_	VERB	VACT	_	28	ccomp	28:ccomp	Conn=O
-33	อย่างนั้น	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+33	อย่างนั้น	_	SCONJ	JSBR	_	2	parataxis	2:parataxis	Conn=O
 34	แต่	_	CCONJ	JCRG	_	35	cc	35:cc	Conn=B-conn
 35	ขอ	_	VERB	VACT	_	33	conj	33:conj	Conn=O
 36	เล่า	_	VERB	VACT	_	35	xcomp	35:xcomp	Conn=O
@@ -10915,7 +10915,7 @@
 2	คน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	พยายาม	_	VERB	VACT	_	0	root	0:root	Conn=O
 4	ยุ	_	VERB	VACT	_	3	xcomp	3:xcomp	Conn=O
-5	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+5	ให้	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 6	ขัดแย้ง	_	NOUN	NCMN	_	5	obj	5:obj	Conn=O
 7	คน	_	NOUN	NCMN	_	6	clf	6:clf	Conn=O
 8	ฟัง	_	ADJ	VATT	_	7	amod	7:amod	Conn=O
@@ -10927,13 +10927,13 @@
 14	ขัดแย้ง	_	VERB	VACT	_	11	advcl	11:advcl	Conn=O
 15	แบ่งฝักแบ่งฝ่าย	_	VERB	VACT	_	14	xcomp	14:xcomp	Conn=O
 16	กัน	_	ADV	ADVN	_	15	advmod	15:advmod	Conn=O
-17	ก็	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+17	ก็	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=B-conn
 18	อันตราย	_	ADV	ADVP	_	17	advmod	17:advmod	Conn=O
 
 # newdoc id = T00794.tsv
 # sent_id = T00794.tsv-1
 # text = รวบมือปล้นธ.กสิกรไทย-พบประวัติก่อเหตุหลายแห่ง
-1	รวบ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	รวบ	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	มือ	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	ปล้น	_	VERB	VACT	_	2	acl	2:acl	Conn=O
 4	ธ.	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
@@ -10997,7 +10997,7 @@
 
 # sent_id = T00794.tsv-4
 # text = พบประวัติก่อเหตุเดียวกันนี้กับธนาคารทั้งในกรุงเทพ - สมุทรปราการ
-1	พบ	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+1	พบ	_	VERB	VSTA	_	0	root	0:root	Conn=O
 2	ประวัติ	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	ก่อเหตุ	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 4	เดียว	_	DET	DIAC	_	5	det	5:det	Conn=O
@@ -11015,7 +11015,7 @@
 # text = (1 ตค.) ผู้สื่อข่าวรายงานว่า เหตุคนร้ายใช้อาวุธปืนจี้ชิงทรัพย์เอาเงินสดภายในธนาคารกสิกรไทย สาขาถนนศรีนครินทร์ หลักกิโลเมตรที่ 17 ต.บางเมือง อ.เมือง จ.สมุทรปราการ ได้เงินสดไปจำนวน 1.5 ล้านบาท
 1	(	_	PUNCT	PUNC	_	3	punct	3:punct	Conn=O
 2	1	_	NUM	NLBL	_	3	nummod	3:nummod	Conn=O
-3	ตค.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+3	ตค.	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 4	)	_	PUNCT	PUNC	_	3	punct	3:punct	Conn=O
 5	ผู้สื่อข่าว	_	NOUN	NCMN	_	6	nsubj	6:nsubj	Conn=O
 6	รายงาน	_	VERB	VACT	_	3	acl:relcl	3:acl:relcl	Conn=O
@@ -11082,12 +11082,12 @@
 
 # sent_id = T00794.tsv-7
 # text = ต่อมาพยาน ที่พบเห็นคนร้ายในขณะที่หลบหนี พบว่าพาหนะที่ใช้เป็นรถจักรยานยนต์ ยี่ห้อ ฮอนด้า รุ่น โซนิค สีดำ มีกระดาษปิดทับป้ายทะเบียน
-1	ต่อมา	_	ADV	ADVS	_	0	ROOT	0:ROOT	Conn=B-conn
-2	พยาน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ต่อมา	_	ADV	ADVS	_	0	root	0:root	Conn=B-conn
+2	พยาน	_	NOUN	NCMN	_	1	parataxis	1:parataxis	Conn=O
 3	ที่	_	SCONJ	PREL	_	4	mark	4:mark	Conn=O
-4	พบเห็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+4	พบเห็น	_	VERB	VSTA	_	2	parataxis	1:parataxis|2:parataxis	Conn=O
 5	คนร้าย	_	NOUN	NCMN	_	4	obj	4:obj	Conn=O
-6	ในขณะ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+6	ในขณะ	_	SCONJ	JSBR	_	4	parataxis	1:parataxis|2:parataxis|4:parataxis	Conn=O
 7	ที่	_	SCONJ	PREL	_	23	mark	23:mark	Conn=O
 8	หลบหนี	_	NOUN	NCMN	_	23	nsubj	23:nsubj	Conn=O
 9	พบ	_	VERB	VSTA	_	8	acl	8:acl	Conn=O
@@ -11232,7 +11232,7 @@
 2	เจ้าหน้าที่	_	NOUN	NCMN	_	5	nsubj	5:nsubj	Conn=O
 3	ยัง	_	AUX	XVBM	_	5	aux	5:aux	Conn=O
 4	ไม่	_	PART	NEG	_	5	advmod	5:advmod	Conn=O
-5	เชื่อ	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+5	เชื่อ	_	VERB	VSTA	_	0	root	0:root	Conn=O
 6	ใน	_	ADP	RPRE	_	7	case	7:case	Conn=O
 7	คำ	_	NOUN	NCMN	_	5	obl	5:obl	Conn=O
 8	ให้การ	_	NOUN	NCMN	_	7	compound	7:compound	Conn=O
@@ -11265,8 +11265,8 @@
 
 # sent_id = T00794.tsv-12
 # text = ต่อมาเมื่อช่วงเย็นของวานนี้ ( 30 ก.ย.) เจ้าหน้าที่ ตำรวจได้รวบรวมหลักฐานขออนุมัติหมายจับนายวิเชียร ของศาลจังหวัดสมุทรปราการ
-1	ต่อมา	_	ADV	ADVS	_	0	ROOT	0:ROOT	Conn=B-conn
-2	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+1	ต่อมา	_	ADV	ADVS	_	0	root	0:root	Conn=B-conn
+2	เมื่อ	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
 3	ช่วง	_	NOUN	NCMN	_	15	obl:tmod	15:obl:tmod	Conn=O
 4	เย็น	_	ADJ	VATT	_	3	amod	3:amod	Conn=O
 5	ของ	_	ADP	RPRE	_	6	case	6:case	Conn=O
@@ -11349,13 +11349,13 @@
 # text = จนกระทั่งทราบว่าหลังจากก่อเหตุนายวิเชียร ได้หลบหนีไปอยู่ที่บ้านพรรคพวกในย่านถนนพัฒนาการ เขตคลองตัน กทม.
 1	จนกระทั่ง	_	SCONJ	JSBR	_	2	nsubj	2:nsubj	Conn=B-conn
 2	ทราบ	_	VERB	VSTA	_	0	root	0:root	Conn=O
-3	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+3	ว่า	_	SCONJ	JSBR	_	2	parataxis	2:parataxis	Conn=O
 4	หลังจาก	_	SCONJ	JSBR	_	9	mark	9:mark	Conn=B-conn
 5	ก่อเหตุ	_	NOUN	NCMN	_	9	nsubj	9:nsubj	Conn=O
 6	นาย	_	NOUN	NTTL	_	5	compound	5:compound	Conn=O
 7	วิเชียร	_	PROPN	NPRP	_	5	compound	5:compound	Conn=O
 8	ได้	_	AUX	XVAM	_	9	aux	9:aux	Conn=O
-9	หลบหนี	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+9	หลบหนี	_	VERB	VACT	_	2	parataxis	2:parataxis	Conn=O
 10	ไป	_	AUX	XVAE	_	9	aux	9:aux	Conn=O
 11	อยู่	_	AUX	XVAE	_	9	aux	9:aux	Conn=O
 12	ที่	_	ADP	RPRE	_	13	case	13:case	Conn=O
@@ -11377,8 +11377,8 @@
 4	แจ้ง	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
 5	จาก	_	ADP	RPRE	_	6	case	6:case	Conn=O
 6	สาย	_	NOUN	NCMN	_	3	obl	3:obl	Conn=O
-7	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-8	คนร้าย	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+7	ว่า	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
+8	คนร้าย	_	NOUN	NCMN	_	3	parataxis	3:parataxis	Conn=O
 9	ทั้ง	_	DET	DDBQ	_	10	det	10:det	Conn=O
 10	สอง	_	NUM	DCNM	_	8	nummod	8:nummod	Conn=O
 11	ที่	_	SCONJ	PREL	_	12	mark	12:mark	Conn=O
@@ -11427,8 +11427,8 @@
 20	ไป	_	AUX	XVAE	_	19	aux	19:aux	Conn=O
 21	ขึ้น	_	AUX	XVAE	_	22	cop	22:cop	Conn=O
 22	รถไฟ	_	NOUN	NCMN	_	19	xcomp	19:xcomp	Conn=O
-23	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-24	บริเวณ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+23	ที่	_	SCONJ	PREL	_	4	parataxis	4:parataxis	Conn=O
+24	บริเวณ	_	NOUN	NCMN	_	4	parataxis	4:parataxis	Conn=O
 25	สถานี	_	NOUN	NCMN	_	24	compound	24:compound	Conn=O
 26	รถไฟ	_	NOUN	NCMN	_	24	compound	24:compound	Conn=O
 27	บางซื่อ	_	SCONJ	JSBR	_	28	case	28:case	Conn=O
@@ -11522,8 +11522,8 @@
 8	มา	_	AUX	XVAE	_	9	aux	9:aux	Conn=O
 9	ทำการ	_	VERB	VACT	_	3	acl	3:acl	Conn=O
 10	สอบสวน	_	NOUN	NCMN	_	9	obj	9:obj	Conn=O
-11	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-12	สภ.อ.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+11	ที่	_	SCONJ	PREL	_	3	parataxis	3:parataxis	Conn=O
+12	สภ.อ.	_	NOUN	NCMN	_	3	parataxis	3:parataxis	Conn=O
 13	เมือง	_	VERB	VSTA	_	12	acl	12:acl	Conn=O
 14	สมุทรปราการ	_	NOUN	NCMN	_	13	obj	13:obj	Conn=O
 
@@ -11571,7 +11571,7 @@
 40	อีก	_	DET	DDBQ	_	41	det	41:det	Conn=O
 41	จำนวน	_	NOUN	NCMN	_	33	clf	33:clf	Conn=O
 42	3	_	NUM	DCNM	_	41	nummod	41:nummod	Conn=O
-43	แสน	_	NOUN	CNIT	_	0	ROOT	0:ROOT	Conn=O
+43	แสน	_	NOUN	CNIT	_	10	parataxis	10:parataxis	Conn=O
 44	บาท	_	NOUN	CMTR	_	43	compound	43:compound	Conn=O
 
 # sent_id = T00794.tsv-22
@@ -11607,7 +11607,7 @@
 4	ทั้ง	_	DET	DDBQ	_	5	det	5:det	Conn=O
 5	สอง	_	NUM	DCNM	_	3	nummod	3:nummod	Conn=O
 6	ยัง	_	AUX	XVBM	_	7	aux	7:aux	Conn=O
-7	ให้การ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+7	ให้การ	_	VERB	VACT	_	0	root	0:root	Conn=O
 8	รับ	_	VERB	VACT	_	7	xcomp	7:xcomp	Conn=O
 9	สารภาพ	_	NOUN	NCMN	_	8	obj	8:obj	Conn=O
 10	อีก	_	ADV	ADVN	_	7	advmod	7:advmod	Conn=O
@@ -11642,7 +11642,7 @@
 39	1	_	NUM	DCNM	_	38	appos	38:appos	Conn=O
 40	แสน	_	NOUN	CNIT	_	39	obl:tmod	39:obl:tmod	Conn=O
 41	2	_	NUM	NCNM	_	40	obl:tmod	40:obl:tmod	Conn=O
-42	หมื่น	_	NOUN	CNIT	_	0	ROOT	0:ROOT	Conn=O
+42	หมื่น	_	NOUN	CNIT	_	7	parataxis	7:parataxis	Conn=O
 43	บาท	_	NOUN	CMTR	_	42	compound	42:compound	Conn=O
 
 # sent_id = T00794.tsv-24
@@ -11756,8 +11756,8 @@
 
 # sent_id = T00794.tsv-28
 # text = และก่อนที่จะถูกจับกุม ตนทั้งสองเตรียมที่จะหลบหนีข้ามไปอยู่ประเทศลาวด้านรอยต่อระหว่างประเทศในจังหวัดอุบลราชธานี
-1	และ	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
-2	ก่อน	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+1	และ	_	CCONJ	JCRG	_	0	root	0:root	Conn=B-conn
+2	ก่อน	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=B-conn
 3	ที่	_	SCONJ	PREL	_	6	mark	6:mark	Conn=O
 4	จะ	_	AUX	XVBM	_	6	aux	6:aux	Conn=O
 5	ถูก	_	AUX	XVAM	_	6	aux:pass	6:aux:pass	Conn=O
@@ -11819,8 +11819,8 @@
 33	นำ	_	VERB	VACT	_	7	advcl	7:advcl	Conn=O
 34	ไป	_	AUX	XVAE	_	33	aux	33:aux	Conn=O
 35	เก็บ	_	VERB	VACT	_	33	acl	33:acl	Conn=O
-36	เอา	_	AUX	XVAE	_	0	ROOT	0:ROOT	Conn=O
-37	ไว้	_	AUX	XVAE	_	0	ROOT	0:ROOT	Conn=O
+36	เอา	_	AUX	XVAE	_	7	parataxis	7:parataxis	Conn=O
+37	ไว้	_	AUX	XVAE	_	7	parataxis	7:parataxis	Conn=O
 
 # sent_id = T00794.tsv-30
 # text = ก่อนที่จะเดินทางไปซื้อตั๋วรถไฟเพื่อหลบหนีแต่ถูกจับกุมได้
@@ -11887,7 +11887,7 @@
 
 # sent_id = T00794.tsv-33
 # text = ควบคุมตัวส่งพนักงานสอบสวน สภ.อ.เมืองสมุทรปราการ เพื่อดำเนินคดีตามกฎหมาย
-1	ควบคุม	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	ควบคุม	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	ตัว	_	NOUN	CNIT	_	1	obj	1:obj	Conn=O
 3	ส่ง	_	VERB	VACT	_	2	acl	2:acl	Conn=O
 4	พนักงาน	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
@@ -11928,8 +11928,8 @@
 24	ผล	_	NOUN	NCMN	_	23	obj	23:obj	Conn=O
 25	การ	_	PART	FIXN	_	23	compound:prt	23:compound:prt	Conn=O
 26	จับกุม	_	VERB	VACT	_	23	acl	23:acl	Conn=O
-27	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-28	กอง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+27	ที่	_	SCONJ	PREL	_	14	parataxis	14:parataxis	Conn=O
+28	กอง	_	NOUN	NCMN	_	14	parataxis	14:parataxis	Conn=O
 29	บัญชาการ	_	NOUN	NCMN	_	28	compound	28:compound	Conn=O
 30	ตำรวจ	_	NOUN	NCMN	_	28	compound	28:compound	Conn=O
 31	ภูธร	_	NOUN	NCMN	_	28	compound	28:compound	Conn=O
@@ -11972,12 +11972,12 @@
 
 # sent_id = T00800.tsv-3
 # text = ขอโทษรมต.คนอื่นที่เป็นบรรทัดฐานโดยไม่ตั้งใจ
-1	ขอโทษ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ขอโทษ	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	รมต.	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	คน	_	NOUN	CNIT	_	1	clf	1:clf	Conn=O
 4	อื่น	_	DET	DIAC	_	3	det	3:det	Conn=O
-5	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-6	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+5	ที่	_	SCONJ	PREL	_	1	parataxis	1:parataxis	Conn=O
+6	เป็น	_	VERB	VSTA	_	5	parataxis	1:parataxis|5:parataxis	Conn=O
 7	บรรทัดฐาน	_	NOUN	NCMN	_	6	obj	6:obj	Conn=O
 8	โดย	_	SCONJ	JSBR	_	10	mark	10:mark	Conn=O
 9	ไม่	_	PART	NEG	_	10	advmod	10:advmod	Conn=O
@@ -12039,7 +12039,7 @@
 # text = (1 ตค.) นายสิทธิชัย โภไคยอุดม รมว.เทคโนโลยีสารสนเทศและการสื่อสาร(ไอซีที) ได้เดินทางมาพบนายกรัฐมนตรีที่ตึกไทยคู่ฟ้า ทำเนียบรัฐบาล เพื่อยื่นหนังสือลาออกจากตำแหน่ง ภายหลังจากถูก คณะกรรมการป้องกันและปราบปรามการทุจริตแห่งชาติเกิน 5 %
 1	(	_	PUNCT	PUNC	_	3	punct	3:punct	Conn=O
 2	1	_	NUM	NLBL	_	3	nummod	3:nummod	Conn=O
-3	ตค.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+3	ตค.	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 4	)	_	PUNCT	PUNC	_	3	punct	3:punct	Conn=O
 5	นาย	_	NOUN	NTTL	_	14	nsubj	14:nsubj	Conn=O
 6	สิทธิชัย	_	PROPN	NPRP	_	5	appos	5:appos	Conn=O
@@ -12195,7 +12195,7 @@
 
 # sent_id = T00800.tsv-14
 # text = ซึ่งในกระทรวงสามารถมีรัฐมนตรีมารักษาการแทนได้ แต่ต้องเป็นคนที่ข้าราชการในกระทรวงกลัวด้วย เพราะถ้าหน่วยงานหรือข้าราชการไม่กลัว ก็เละเหมือนกัน
-1	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ซึ่ง	_	SCONJ	PREL	_	5	parataxis	5:parataxis	Conn=B-conn
 2	ใน	_	ADP	RPRE	_	3	case	3:case	Conn=O
 3	กระทรวง	_	NOUN	NCMN	_	5	obl	5:obl	Conn=O
 4	สามารถ	_	AUX	XVAM	_	5	aux	5:aux	Conn=O
@@ -12209,7 +12209,7 @@
 12	ต้อง	_	AUX	XVMM	_	13	aux	13:aux	Conn=O
 13	เป็น	_	VERB	VSTA	_	5	conj	5:conj	Conn=O
 14	คน	_	NOUN	NCMN	_	13	obj	13:obj	Conn=O
-15	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+15	ที่	_	SCONJ	PREL	_	5	parataxis	5:parataxis	Conn=O
 16	ข้าราชการ	_	NOUN	NCMN	_	15	compound	15:compound	Conn=O
 17	ใน	_	ADP	RPRE	_	18	case	18:case	Conn=O
 18	กระทรวง	_	NOUN	NCMN	_	15	nmod:poss	15:nmod:poss	Conn=O
@@ -12228,10 +12228,10 @@
 
 # sent_id = T00800.tsv-15
 # text = ผู้สื่อข่าวถามว่า ปัญหาที่เรายังไม่ได้ทำและยังค้างอยู่ ที่รัฐมนตรีคนใหม่เข้ามาจะต้องทำต่อคือปัญหาอะไร นายสิทธิชัย กล่าวว่า ในกระทรวงไอซีที ปัญหาและอุปสรรค รัฐมนตรีคนใหม่ที่เข้ามาก็คงยังมีอยู่ ไม่มีทางพ้นไปได้ ก็ต้องแก้อุปสรรคนี้ให้ได้
-1	ผู้สื่อข่าว	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ผู้สื่อข่าว	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ถาม	_	VERB	VACT	_	1	acl	1:acl	Conn=O
-3	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-4	ปัญหา	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+3	ว่า	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
+4	ปัญหา	_	NOUN	NCMN	_	3	parataxis	1:parataxis|3:parataxis	Conn=O
 5	ที่	_	SCONJ	PREL	_	10	mark	10:mark	Conn=O
 6	เรา	_	PRON	PPRS	_	10	nsubj	10:nsubj	Conn=O
 7	ยัง	_	AUX	XVBM	_	10	aux	10:aux	Conn=O
@@ -12287,7 +12287,7 @@
 57	แก้	_	VERB	VACT	_	50	xcomp	50:xcomp	Conn=O
 58	อุปสรรค	_	NOUN	NCMN	_	57	obj	57:obj	Conn=O
 59	นี้	_	DET	DDAC	_	58	det	58:det	Conn=O
-60	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+60	ให้	_	SCONJ	JSBR	_	4	parataxis	1:parataxis|3:parataxis|4:parataxis	Conn=O
 61	ได้	_	VERB	VSTA	_	60	xcomp	60:xcomp	Conn=O
 
 # sent_id = T00800.tsv-16
@@ -12307,7 +12307,7 @@
 
 # sent_id = T00800.tsv-17
 # text = ตอนที่คุณชายอุ๋ย(ม.ร.ว.ปริดิยาธร เทวกุล) เขาช่วยได้เยอะมา แต่พอท่านไม่อยู่ก็เลยขาดๆ
-1	ตอน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ตอน	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ที่	_	SCONJ	PREL	_	3	mark	3:mark	Conn=O
 3	คุณ	_	VERB	VACT	_	1	acl	1:acl	Conn=O
 4	ชาย	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
@@ -12334,7 +12334,7 @@
 
 # sent_id = T00800.tsv-18
 # text = ส่วนงานในกระทรวงนั้นตอนนี้ผมไม่ห่วงอะไรแล้ว
-1	ส่วน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ส่วน	_	NOUN	NCMN	_	0	root	0:root	Conn=B-conn
 2	งาน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	ใน	_	ADP	RPRE	_	4	case	4:case	Conn=O
 4	กระทรวง	_	NOUN	NCMN	_	1	nmod:poss	1:nmod:poss	Conn=O
@@ -12349,11 +12349,11 @@
 
 # sent_id = T00800.tsv-19
 # text = แต่ที่เป็นห่วงก็คือเป็นเรื่องของครม.ทั้งหมด เพราะมันเป็นเรื่องของการจัดซื้อ จัดจ้าง ที่ตอนนี้มีการเร่งงบประมาณ
-1	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
+1	แต่	_	CCONJ	JCRG	_	0	root	0:root	Conn=B-conn
 2	ที่	_	SCONJ	PREL	_	5	mark	5:mark	Conn=O
 3	เป็นห่วง	_	NOUN	NCMN	_	5	nsubj	5:nsubj	Conn=O
 4	ก็	_	SCONJ	JSBR	_	5	advmod	5:advmod	Conn=O
-5	คือ	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+5	คือ	_	VERB	VSTA	_	1	parataxis	1:parataxis	Conn=O
 6	เป็น	_	VERB	VSTA	_	5	xcomp	5:xcomp	Conn=O
 7	เรื่อง	_	NOUN	NCMN	_	6	obj	6:obj	Conn=O
 8	ของ	_	ADP	RPRE	_	9	case	9:case	Conn=O
@@ -12369,16 +12369,16 @@
 18	ซื้อ	_	VERB	VACT	_	17	xcomp	17:xcomp	Conn=O
 19	จัด	_	VERB	VACT	_	18	obj	18:obj	Conn=O
 20	จ้าง	_	NOUN	NCMN	_	19	obj	19:obj	Conn=O
-21	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-22	ตอน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+21	ที่	_	SCONJ	PREL	_	5	parataxis	1:parataxis|5:parataxis	Conn=O
+22	ตอน	_	NOUN	NCMN	_	21	parataxis	1:parataxis|5:parataxis|21:parataxis	Conn=O
 23	นี้	_	DET	DDAC	_	22	det	22:det	Conn=O
-24	มีการ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+24	มีการ	_	NOUN	NCMN	_	22	parataxis	1:parataxis|5:parataxis|21:parataxis|22:parataxis	Conn=O
 25	เร่ง	_	VERB	VACT	_	24	acl	24:acl	Conn=O
 26	งบประมาณ	_	NOUN	NCMN	_	25	obj	25:obj	Conn=O
 
 # sent_id = T00800.tsv-20
 # text = แต่ขณะเดียวกันก็ยังไม่ มีการวางมาตรการที่จะไม่ให้เกิดคอร์รัปชั่นขึ้น ดังนั้นทุกอย่างจึงยังเป็นธุรกิจเหมือนปกติ
-1	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
+1	แต่	_	CCONJ	JCRG	_	0	root	0:root	Conn=B-conn
 2	ขณะเดียวกัน	_	CCONJ	JCRG	_	6	cc	6:cc	Conn=O
 3	ก็	_	SCONJ	JSBR	_	6	nsubj	6:nsubj	Conn=O
 4	ยัง	_	AUX	XVBM	_	6	aux	6:aux	Conn=O
@@ -12389,7 +12389,7 @@
 9	ที่	_	SCONJ	PREL	_	12	mark	12:mark	Conn=O
 10	จะ	_	AUX	XVBM	_	12	aux	12:aux	Conn=O
 11	ไม่	_	PART	NEG	_	12	advmod	12:advmod	Conn=O
-12	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+12	ให้	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
 13	เกิด	_	VERB	VSTA	_	12	xcomp	12:xcomp	Conn=O
 14	คอร์รัปชั่น	_	NOUN	NCMN	_	13	obj	13:obj	Conn=O
 15	ขึ้น	_	AUX	XVAE	_	13	aux	13:aux	Conn=O
@@ -12398,7 +12398,7 @@
 18	อย่าง	_	NOUN	CNIT	_	21	nsubj	21:nsubj	Conn=O
 19	จึง	_	AUX	XVBM	_	21	aux	21:aux	Conn=B-conn
 20	ยัง	_	AUX	XVBM	_	21	aux	21:aux	Conn=O
-21	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+21	เป็น	_	VERB	VSTA	_	12	parataxis	1:parataxis|12:parataxis	Conn=O
 22	ธุรกิจ	_	NOUN	NCMN	_	21	obj	21:obj	Conn=O
 23	เหมือน	_	VERB	VSTA	_	22	acl	22:acl	Conn=O
 24	ปกติ	_	ADV	ADVS	_	23	advmod	23:advmod	Conn=O
@@ -12545,8 +12545,8 @@
 
 # sent_id = T00800.tsv-27
 # text = ซึ่งปัญหาในทีโอที ก็เหมือนกับปัญหาในรัฐวิสาหกิจขณะนี้
-1	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=B-conn
-2	ปัญหา	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ซึ่ง	_	SCONJ	PREL	_	0	root	0:root	Conn=B-conn
+2	ปัญหา	_	NOUN	NCMN	_	1	parataxis	1:parataxis	Conn=O
 3	ใน	_	ADP	RPRE	_	4	case	4:case	Conn=O
 4	ทีโอที	_	NOUN	NCMN	_	2	nmod:poss	2:nmod:poss	Conn=O
 5	ก็	_	SCONJ	JSBR	_	6	nsubj	6:nsubj	Conn=O
@@ -12559,7 +12559,7 @@
 
 # sent_id = T00800.tsv-28
 # text = ปัญหาคือรัฐมนตรีที่กำกับดูแล รู้ปัญหาแต่ไม่มีอำนาจ ขณะที่รัฐมนตรีที่มีอำนาจแต่ไม่รู้ปัญหา
-1	ปัญหา	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ปัญหา	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	คือ	_	VERB	VSTA	_	1	acl	1:acl	Conn=O
 3	รัฐมนตรี	_	NOUN	NCMN	_	2	obj	2:obj	Conn=O
 4	ที่	_	SCONJ	PREL	_	5	mark	5:mark	Conn=O
@@ -12583,10 +12583,10 @@
 
 # sent_id = T00800.tsv-29
 # text = ผู้สื่อข่าวถามว่า ก่อนหน้าที่ค่อนข้างมีความสนิทสนมกับพล.ร.อ.บรรณวิทย์เก่งเรียนเมื่อท่านออกไปแล้ว ก็มีการเคลื่อนไหวโจมตีรัฐบาลหลายเรื่อง คิดว่าจะมีผลกระทบอะไรกับรัฐบาลหรือไม่ รมว.ไอซีที กล่าวว่า ตนไม่ขอให้ความเห็นเรื่องเหล่านี้
-1	ผู้สื่อข่าว	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ผู้สื่อข่าว	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ถาม	_	VERB	VACT	_	1	acl	1:acl	Conn=O
-3	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-4	ก่อนหน้า	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+3	ว่า	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
+4	ก่อนหน้า	_	NOUN	NCMN	_	3	parataxis	1:parataxis|3:parataxis	Conn=O
 5	ที่	_	SCONJ	PREL	_	7	mark	7:mark	Conn=O
 6	ค่อนข้าง	_	ADV	ADVN	_	7	advmod	7:advmod	Conn=O
 7	มี	_	VERB	VSTA	_	4	ccomp	4:ccomp	Conn=O
@@ -12596,8 +12596,8 @@
 11	พล.ร.อ.	_	NOUN	NCMN	_	9	obl	9:obl	Conn=O
 12	บรรณวิทย์	_	PROPN	NPRP	_	11	compound	11:compound	Conn=O
 13	เก่งเรียน	_	NOUN	NCMN	_	11	compound	11:compound	Conn=O
-14	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
-15	ท่าน	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+14	เมื่อ	_	SCONJ	JSBR	_	4	parataxis	1:parataxis|3:parataxis|4:parataxis	Conn=B-conn
+15	ท่าน	_	VERB	VACT	_	14	parataxis	1:parataxis|3:parataxis|4:parataxis|14:parataxis	Conn=O
 16	ออก	_	AUX	XVAE	_	15	aux	15:aux	Conn=O
 17	ไป	_	AUX	XVAE	_	15	aux	15:aux	Conn=O
 18	แล้ว	_	AUX	XVAE	_	15	aux	15:aux	Conn=O
@@ -12625,7 +12625,7 @@
 40	ตน	_	NOUN	NCMN	_	42	nsubj	42:nsubj	Conn=O
 41	ไม่	_	PART	NEG	_	42	advmod	42:advmod	Conn=O
 42	ขอ	_	VERB	VACT	_	38	ccomp	38:ccomp	Conn=O
-43	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+43	ให้	_	SCONJ	JSBR	_	15	parataxis	1:parataxis|3:parataxis|4:parataxis|14:parataxis|15:parataxis	Conn=O
 44	ความเห็น	_	VERB	VSTA	_	43	xcomp	43:xcomp	Conn=O
 45	เรื่อง	_	NOUN	NCMN	_	44	obj	44:obj	Conn=O
 46	เหล่า	_	NOUN	NCMN	_	45	clf	45:clf	Conn=O
@@ -12706,13 +12706,13 @@
 
 # sent_id = T00800.tsv-32
 # text = เป็นเรื่องจริยธรรมส่วนตัวกัน เป็นเรื่องความคิดของแต่ละคน
-1	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+1	เป็น	_	VERB	VSTA	_	0	root	0:root	Conn=O
 2	เรื่อง	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	จริยธรรม	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 4	ส่วน	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 5	ตัว	_	NOUN	CNIT	_	2	compound	2:compound	Conn=O
 6	กัน	_	ADV	ADVN	_	1	advmod	1:advmod	Conn=O
-7	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+7	เป็น	_	VERB	VSTA	_	1	parataxis	1:parataxis	Conn=O
 8	เรื่อง	_	NOUN	NCMN	_	7	obj	7:obj	Conn=O
 9	ความ	_	PART	FIXN	_	7	compound:prt	7:compound:prt	Conn=O
 10	คิด	_	VERB	VACT	_	7	acl	7:acl	Conn=O
@@ -12730,7 +12730,7 @@
 6	กับ	_	ADP	RPRE	_	5	fixed	5:fixed	Conn=O
 7	กระแส	_	NOUN	NCMN	_	9	obl	9:obl	Conn=O
 8	กดดัน	_	NOUN	NCMN	_	7	compound	7:compound	Conn=O
-9	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+9	ให้	_	SCONJ	JSBR	_	0	root	0:root	Conn=O
 10	นายก	_	VERB	VSTA	_	9	xcomp	9:xcomp	Conn=O
 11	ฯ	_	PUNCT	PUNC	_	12	punct	12:punct	Conn=O
 12	ลาออก	_	NOUN	NCMN	_	10	obj	10:obj	Conn=O
@@ -12758,7 +12758,7 @@
 34	กระแส	_	NOUN	NCMN	_	33	obj	33:obj	Conn=O
 35	กดดัน	_	NOUN	NCMN	_	34	compound	34:compound	Conn=O
 36	อะไร	_	PRON	PNTR	_	34	compound	34:compound	Conn=O
-37	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+37	ที่	_	SCONJ	PREL	_	9	parataxis	9:parataxis	Conn=O
 38	ไหน	_	PRON	PNTR	_	37	compound	37:compound	Conn=O
 
 # sent_id = T00800.tsv-34
@@ -12784,9 +12784,9 @@
 19	นาย	_	NOUN	NTTL	_	21	nsubj	21:nsubj	Conn=O
 20	สิทธิชัย	_	PROPN	NPRP	_	19	flat:name	19:flat:name	Conn=O
 21	กล่าว	_	VERB	VACT	_	12	xcomp	12:xcomp	Conn=O
-22	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+22	ว่า	_	SCONJ	JSBR	_	12	parataxis	12:parataxis	Conn=O
 23	ไม่	_	PART	NEG	_	24	advmod	24:advmod	Conn=O
-24	เกี่ยว	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+24	เกี่ยว	_	VERB	VSTA	_	12	parataxis	12:parataxis	Conn=O
 25	กัน	_	ADV	ADVN	_	24	advmod	24:advmod	Conn=O
 
 # sent_id = T00800.tsv-35
@@ -12823,7 +12823,7 @@
 10	ๆ	_	PUNCT	PUNC	_	13	punct	13:punct	Conn=O
 11	ผม	_	PRON	PPRS	_	13	obl	13:obl	Conn=O
 12	ก็	_	SCONJ	JSBR	_	13	nsubj	13:nsubj	Conn=B-conn
-13	ตัดสินใจ	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+13	ตัดสินใจ	_	VERB	VSTA	_	0	root	0:root	Conn=O
 14	เหมือน	_	SCONJ	JCMP	_	15	case	15:case	Conn=O
 15	เดิม	_	NOUN	NCMN	_	13	obl	13:obl	Conn=O
 16	ทันที	_	ADV	ADVN	_	13	advmod	13:advmod	Conn=O
@@ -12866,12 +12866,12 @@
 5	ที่	_	SCONJ	PREL	_	7	mark	7:mark	Conn=O
 6	ผม	_	PRON	PPRS	_	7	nsubj	7:nsubj	Conn=O
 7	คิด	_	VERB	VACT	_	2	advcl	2:advcl	Conn=O
-8	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-9	ถูกต้อง	_	ADV	ADVN	_	0	ROOT	0:ROOT	Conn=O
+8	ว่า	_	SCONJ	JSBR	_	2	parataxis	2:parataxis	Conn=O
+9	ถูกต้อง	_	ADV	ADVN	_	2	parataxis	2:parataxis	Conn=O
 
 # sent_id = T00800.tsv-40
 # text = ส่วนใครจะคิดว่าการลาออกของผมเป็นการสร้างบรรทัดฐานให้กับรัฐมนตรีคนอื่นๆนั้น มันก็เป็นการทำโดยที่ไม่ได้ตั้งใจ
-1	ส่วน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ส่วน	_	NOUN	NCMN	_	0	root	0:root	Conn=B-conn
 2	ใคร	_	PRON	PNTR	_	4	nsubj	4:nsubj	Conn=O
 3	จะ	_	AUX	XVBM	_	4	aux	4:aux	Conn=O
 4	คิด	_	VERB	VACT	_	1	acl:relcl	1:acl:relcl	Conn=O
@@ -12891,7 +12891,7 @@
 18	อื่น	_	DET	DIAC	_	20	det	20:det	Conn=O
 19	ๆ	_	PUNCT	PUNC	_	20	punct	20:punct	Conn=O
 20	นั้น	_	DET	DDAC	_	1	det	1:det	Conn=O
-21	มัน	_	PRON	PPRS	_	0	ROOT	0:ROOT	Conn=O
+21	มัน	_	PRON	PPRS	_	1	parataxis	1:parataxis	Conn=O
 22	ก็	_	SCONJ	JSBR	_	25	mark	25:mark	Conn=O
 23	เป็น	_	VERB	VSTA	_	25	obj	25:obj	Conn=O
 24	การ	_	PART	FIXN	_	23	compound:prt	23:compound:prt	Conn=O
@@ -12904,8 +12904,8 @@
 
 # sent_id = T00800.tsv-41
 # text = ถ้าเป็นอย่างนั้นก็ต้องขอโทษคนที่เดือดร้อน แต่ผมทำเพื่อตัวเอง ไม่ได้ตั้งใจจะทำให้เป็นลูกระนาดกระทบกระเทือนไปถึงรัฐมนตรีคนอื่น
-1	ถ้า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
-2	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+1	ถ้า	_	SCONJ	JSBR	_	0	root	0:root	Conn=B-conn
+2	เป็น	_	VERB	VSTA	_	1	parataxis	1:parataxis	Conn=O
 3	อย่างนั้น	_	NOUN	NCMN	_	2	obj	2:obj	Conn=O
 4	ก็	_	SCONJ	JSBR	_	6	nsubj	6:nsubj	Conn=B-conn
 5	ต้อง	_	AUX	XVMM	_	6	cop	6:cop	Conn=O
@@ -12953,14 +12953,14 @@
 16	เกิน	_	ADV	ADVN	_	17	advmod	17:advmod	Conn=O
 17	5	_	NUM	DCNM	_	18	nummod	18:nummod	Conn=O
 18	%	_	NOUN	CMTR	_	15	clf	15:clf	Conn=O
-19	ด้วย	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
+19	ด้วย	_	ADP	RPRE	_	2	parataxis	2:parataxis	Conn=O
 
 # sent_id = T00800.tsv-43
 # text = ผู้สื่อข่าวถามว่า มองรัฐบาลหลังจากนี้ไปจะเป็นอย่างไร รมว.ไอซีที กล่าวว่า คิดว่ารัฐบาลยังอยู่ในตำแหน่งที่จะต้องบริหารในช่วงวิกฤตนี้ไปอีกหลายเดือน
-1	ผู้สื่อข่าว	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ผู้สื่อข่าว	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ถาม	_	VERB	VACT	_	1	acl	1:acl	Conn=O
-3	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-4	มอง	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+3	ว่า	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
+4	มอง	_	VERB	VACT	_	3	parataxis	1:parataxis|3:parataxis	Conn=O
 5	รัฐบาล	_	NOUN	NCMN	_	4	obj	4:obj	Conn=O
 6	หลังจาก	_	SCONJ	JSBR	_	10	nsubj	10:nsubj	Conn=O
 7	นี้	_	DET	DDAC	_	6	det	6:det	Conn=O
@@ -13081,7 +13081,7 @@
 
 # sent_id = T00800.tsv-47
 # text = ซึ่งกับตนเองก็เคยมีบ้างที่ไปปรึกษานายธีรภัทร์แต่ส่วนตัวแล้วไม่สนิท เพราะไม่เคยรู้จักมาก่อน
-1	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ซึ่ง	_	SCONJ	PREL	_	0	root	0:root	Conn=B-conn
 2	กับ	_	ADP	RPRE	_	3	case	3:case	Conn=O
 3	ตนเอง	_	PRON	PDMN	_	1	nmod:poss	1:nmod:poss	Conn=O
 4	ก็	_	SCONJ	JSBR	_	6	mark	6:mark	Conn=O
@@ -13104,7 +13104,7 @@
 21	เคย	_	AUX	XVMM	_	22	aux	22:aux	Conn=O
 22	รู้จัก	_	VERB	VSTA	_	18	acl:relcl	18:acl:relcl	Conn=O
 23	มา	_	AUX	XVAE	_	22	aux	22:aux	Conn=O
-24	ก่อน	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
+24	ก่อน	_	ADP	RPRE	_	1	parataxis	1:parataxis	Conn=O
 
 # sent_id = T00800.tsv-48
 # text = ในครม.ตนรู้จักเพียงนายเกริกไกร จีระแพทย์ คนเดียวเท่านั้น
@@ -13150,12 +13150,12 @@
 26	ออก	_	VERB	VACT	_	7	acl:relcl	7:acl:relcl	Conn=O
 27	จาก	_	ADP	RPRE	_	28	case	28:case	Conn=O
 28	ครม.	_	NOUN	NCMN	_	26	obl	26:obl	Conn=O
-29	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
-30	เสียดาย	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+29	แต่	_	CCONJ	JCRG	_	2	parataxis	2:parataxis	Conn=B-conn
+30	เสียดาย	_	NOUN	NCMN	_	2	parataxis	2:parataxis	Conn=O
 31	ที่	_	SCONJ	PREL	_	34	mark	34:mark	Conn=O
 32	ไม่	_	PART	NEG	_	33	advmod	33:advmod	Conn=O
 33	ได้	_	AUX	XVAM	_	34	aux	34:aux	Conn=O
-34	ร่วม	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+34	ร่วม	_	VERB	VACT	_	2	parataxis	2:parataxis	Conn=O
 35	งาน	_	NOUN	NCMN	_	34	obj	34:obj	Conn=O
 36	กับ	_	ADP	RPRE	_	37	case	37:case	Conn=O
 37	พล.อ.	_	NOUN	NCMN	_	34	obl	34:obl	Conn=O
@@ -13191,7 +13191,7 @@
 11	อย่าง	_	PART	FIXV	_	7	compound:prt	7:compound:prt	Conn=O
 12	เต็มที่	_	VERB	VSTA	_	7	xcomp	7:xcomp	Conn=O
 13	นี้	_	DET	DDAC	_	12	det	12:det	Conn=O
-14	สิ่ง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+14	สิ่ง	_	NOUN	NCMN	_	2	parataxis	2:parataxis	Conn=O
 15	ตอบแทน	_	NOUN	NCMN	_	14	compound	14:compound	Conn=O
 16	ที่	_	SCONJ	PREL	_	17	nsubj	17:nsubj	Conn=O
 17	คุ้ม	_	VERB	VACT	_	14	acl:relcl	14:acl:relcl	Conn=O
@@ -13349,7 +13349,7 @@
 
 # sent_id = T00883.tsv-4
 # text = กทม.ยันโรงเรียนในสังกัดปลอดโรคมือ เท้า ปาก
-1	กทม.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	กทม.	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ยัน	_	VERB	VACT	_	1	acl	1:acl	Conn=O
 3	โรงเรียน	_	NOUN	NCMN	_	2	obj	2:obj	Conn=O
 4	ใน	_	ADP	RPRE	_	5	case	5:case	Conn=O
@@ -13404,7 +13404,7 @@
 
 # sent_id = T00883.tsv-7
 # text = ลำปางผวาโคลนถล่มโรงเรียน
-1	ลำปาง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ลำปาง	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ผวา	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	โคลน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 4	ถล่ม	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
@@ -13761,7 +13761,7 @@
 
 # sent_id = T00883.tsv-12
 # text = ด้าน นายเสริมศักดิ์ พงษ์พานิช รักษาการ รมช.มหาดไทย กล่าวว่า น้ำจะท่วม กทม.ได้ น้ำในแม่น้ำเจ้าพระยาจะต้องมีปริมาณถึง 2,500 ลบ.ม.ต่อวินาที และต้องดูระดับน้ำทะเลหนุนด้วย ซึ่งขณะนี้ได้มีการเตรียมการรับมือน้ำท่วมตั้งแต่ จ.นครสวรรค์ ลงมาแล้ว ไม่ว่าจะเป็นน้ำที่จะระบายไปทาง จ.สุพรรณบุรี จ.นครปฐม หรือที่จะระบายไปทาง จ.พระนครศรีอยุธยา และไปลงทะเลที่อ่าวไทย โดยจะไม่ให้ผ่านในตัวแม่น้ำเจ้าพระยามากเกินไป
-1	ด้าน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ด้าน	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	นาย	_	NOUN	NTTL	_	1	compound	1:compound	Conn=O
 3	เสริมศักดิ์	_	PROPN	NPRP	_	1	compound	1:compound	Conn=O
 4	พงษ์พานิช	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
@@ -13865,7 +13865,7 @@
 
 # sent_id = T00883.tsv-14
 # text = นายวัลลภ สุวรรณดี รองผู้ว่าฯ กทม. กล่าวว่า ขณะนี้ กทม.มีโรงเรียนปิดอยู่ 1 แห่ง เป็นโรงเรียนเอกชน ที่เขตวังทองหลาง โดยพบเด็กป่วยคนแรกเมื่อ 27 สิงหาคม 2549 ต่อมาพบอีก 3 ราย ในวันที่ 1, 7 และ 8 กันยายน ที่ผ่านมา รวมทั้งหมด 4 ราย เป็นเด็กอนุบาล 1 ห้องเดียวกัน 3 คน อนุบาล 2 จำนวน 1 คน จึงปิดโรงเรียน 4 วัน ระหว่างวันที่ 9-12 กันยายน ที่ผ่านมา แต่ต้องเปิดเรียนเพื่อทำการสอบ ระหว่างวันที่ 13-18 กันยายน 2549 จะปิดอีกครั้งในวันที่ 19 กันยายน-2 ตุลาคม 2549 นอกจากนี้ ได้สั่งให้เจ้าหน้าที่สำนักอนามัยไปดูแลโรงเรียนดังกล่าวทันที เพื่อทำความสะอาดพรม ห้องแอร์ อุปกรณ์ของเล่นเด็ก โดยใช้น้ำยาฆ่าเชื้อ
-1	นาย	_	NOUN	NTTL	_	0	ROOT	0:ROOT	Conn=O
+1	นาย	_	NOUN	NTTL	_	0	root	0:root	Conn=O
 2	วัลลภ	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	สุวรรณดี	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 4	รอง	_	ADJ	VATT	_	3	amod	3:amod	Conn=O
@@ -13886,8 +13886,8 @@
 19	เป็น	_	VERB	VSTA	_	18	acl	18:acl	Conn=O
 20	โรงเรียน	_	NOUN	NCMN	_	19	obj	19:obj	Conn=O
 21	เอกชน	_	NOUN	NCMN	_	20	compound	20:compound	Conn=O
-22	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-23	เขต	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+22	ที่	_	SCONJ	PREL	_	1	parataxis	1:parataxis	Conn=O
+23	เขต	_	NOUN	NCMN	_	22	parataxis	1:parataxis|22:parataxis	Conn=O
 24	วังทองหลาง	_	NOUN	NCMN	_	23	compound	23:compound	Conn=O
 25	โดย	_	SCONJ	JSBR	_	26	mark	26:mark	Conn=B-conn
 26	พบ	_	VERB	VACT	_	23	advcl	23:advcl	Conn=O
@@ -14163,7 +14163,7 @@
 35	จังหวัด	_	NOUN	NCMN	_	34	compound	34:compound	Conn=O
 36	ระยอง	_	NOUN	NCMN	_	34	compound	34:compound	Conn=O
 37	กล่าว	_	VERB	VACT	_	4	acl	4:acl	Conn=O
-38	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+38	ว่า	_	SCONJ	JSBR	_	4	parataxis	4:parataxis	Conn=O
 39	หลังจาก	_	SCONJ	JSBR	_	88	mark	88:mark	Conn=B-conn
 40	ที่	_	SCONJ	PREL	_	41	mark	41:mark	Conn=O
 41	ฝน	_	VERB	VACT	_	39	ccomp	39:ccomp	Conn=O
@@ -14213,7 +14213,7 @@
 85	พื้นที่	_	NOUN	NCMN	_	79	nmod:poss	79:nmod:poss	Conn=O
 86	เสี่ยง	_	VERB	VACT	_	85	acl	85:acl	Conn=O
 87	ภัย	_	NOUN	NCMN	_	86	obj	86:obj	Conn=O
-88	ได้แก่	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+88	ได้แก่	_	VERB	VSTA	_	4	parataxis	4:parataxis	Conn=O
 89	ต.	_	NOUN	NCMN	_	88	obj	88:obj	Conn=O
 90	น้ำเป็น	_	VERB	VSTA	_	89	acl	89:acl	Conn=O
 91	และ	_	CCONJ	JCRG	_	92	cc	92:cc	Conn=O
@@ -14422,7 +14422,7 @@
 
 # sent_id = T00883.tsv-19
 # text = ชาวชุมแสงขนของหนีน้ำจ้าละหวั่น
-1	ชาว	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ชาว	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ชุมแสง	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	ขน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 4	ของ	_	ADP	RPRE	_	5	case	5:case	Conn=O
@@ -14760,7 +14760,7 @@
 
 # sent_id = T00883.tsv-24
 # text = ส่วน จ.ลำปาง นายชุมพล รัตน์เลิศลบ ผู้อำนวยการสำนักงานเขตพื้นที่การศึกษาลำปาง เขต 1 กล่าวว่า จ.ลำปาง พบว่า มี 2 โรงเรียนที่อยู่ในเขตพื้นที่เสี่ยงดินถล่ม คือ โรงเรียนบ้านทุ่งหลวง หมู่ 5 และโรงเรียนบ้านแม่เลียงพัฒนา อ.เสริมงาม ขณะนี้ได้สั่งการให้ผู้บริหารโรงเรียนแจ้งให้ครูทุกคนทราบว่า หากมีฝนตกลงมามากให้หยุดการเรียนการสอนและแจ้งให้รีบกลับบ้านทันที
-1	ส่วน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ส่วน	_	NOUN	NCMN	_	0	root	0:root	Conn=B-conn
 2	จ.	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	ลำปาง	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 4	นาย	_	NOUN	NTTL	_	1	compound	1:compound	Conn=O
@@ -14816,7 +14816,7 @@
 54	ทุก	_	DET	DIBQ	_	55	det	55:det	Conn=O
 55	คน	_	NOUN	CNIT	_	53	clf	53:clf	Conn=O
 56	ทราบ	_	VERB	VSTA	_	52	xcomp	52:xcomp	Conn=O
-57	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+57	ว่า	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
 58	หาก	_	SCONJ	JSBR	_	59	nsubj	59:nsubj	Conn=B-conn
 59	มี	_	VERB	VSTA	_	57	acl:relcl	57:acl:relcl	Conn=O
 60	ฝน	_	NOUN	NCMN	_	59	obj	59:obj	Conn=O
@@ -14873,8 +14873,8 @@
 34	4	_	NUM	NCNM	_	35	nummod	35:nummod	Conn=O
 35	ต.	_	NOUN	CNIT	_	31	clf	31:clf	Conn=O
 36	แม่ปะ	_	NOUN	NCMN	_	35	compound	35:compound	Conn=O
-37	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-38	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+37	ซึ่ง	_	SCONJ	PREL	_	9	parataxis	9:parataxis	Conn=O
+38	เป็น	_	VERB	VSTA	_	9	parataxis	9:parataxis	Conn=O
 39	หมู่บ้าน	_	NOUN	NCMN	_	38	obj	38:obj	Conn=O
 40	ที่	_	SCONJ	PREL	_	41	mark	41:mark	Conn=O
 41	อยู่	_	VERB	VSTA	_	38	advcl	38:advcl	Conn=O
@@ -15017,7 +15017,7 @@
 
 # sent_id = T00883.tsv-28
 # text = เสนอ ครม.แก้น้ำท่วมลุ่มน้ำยม
-1	เสนอ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	เสนอ	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	ครม.	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	แก้	_	VERB	VACT	_	2	acl	2:acl	Conn=O
 4	น้ำ	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
@@ -15116,7 +15116,7 @@
 87	ทำ	_	VERB	VACT	_	86	xcomp	86:xcomp	Conn=O
 88	ฝาย	_	NOUN	NCMN	_	87	obj	87:obj	Conn=O
 89	ยาง	_	ADJ	VATT	_	88	amod	88:amod	Conn=O
-90	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+90	ที่	_	SCONJ	PREL	_	17	parataxis	17:parataxis	Conn=O
 91	พิจิตร	_	NOUN	NCMN	_	90	compound	90:compound	Conn=O
 92	และ	_	CCONJ	JCRG	_	93	cc	93:cc	Conn=O
 93	สุโขทัย	_	NOUN	NCMN	_	90	conj	90:conj	Conn=O
@@ -15147,7 +15147,7 @@
 
 # sent_id = T00883.tsv-31
 # text = ส่วน จ.สุราษฎร์ธานี นายธวัชชัย เทอดเผ่าไทย รองผู้ว่าฯ สุราษฎร์ธานี กล่าวว่า ปัญหาดินภูเขาถล่มทับเส้นทางได้รับแก้ไขแล้ว ทางจังหวัดได้เสนอของบประมาณผ่านกรมทางหลวง เพื่อจัดทำที่กั้นดินถล่มริมถนนประมาณ 20 ล้านบาท และมีการติดตั้งสัญญาณเตือนภัยเพิ่มเติม ซึ่งบางส่วนได้ติดตั้งสัญญาณเตือนภัยไปแล้ว ทั้งนี้ เพื่อความปลอดภัยของผู้ที่อาศัยอยู่ในบริเวณใกล้เคียง รวมถึงนักท่องเที่ยวที่ต้องผ่านเข้า-ออก
-1	ส่วน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ส่วน	_	NOUN	NCMN	_	0	root	0:root	Conn=B-conn
 2	จ.	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	สุราษฎร์ธานี	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 4	นาย	_	NOUN	NTTL	_	1	compound	1:compound	Conn=O
@@ -15234,7 +15234,7 @@
 
 # sent_id = T00883.tsv-32
 # text = ขณะที่ จ.นครศรีธรรมราช นายวิชิต มณีโลกย์ หัวหน้าฝ่ายป้องกันและปฏิบัติการ สำนักงานป้องกันและบรรเทาสาธารณภัยจังหวัดนครศรีธรรมราช กล่าวว่า ได้เตือนภัยประชาชนที่อยู่ในพื้นที่ราบลุ่ม ที่ลาดเชิงเขา ให้อพยพมาอยู่ในพื้นที่ปลอดภัย ขณะนี้ได้ส่งหนังสือแจ้งเตือนไปยังอำเภอต่างๆแล้ว เพื่อให้แจ้งต่อไปยังประชาชนให้ระมัดระวังและติดตามข่าวตลอดเวลา
-1	ขณะ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ขณะ	_	SCONJ	JSBR	_	0	root	0:root	Conn=B-conn
 2	ที่	_	SCONJ	PREL	_	17	mark	17:mark	Conn=O
 3	จ.	_	NOUN	NCMN	_	11	nsubj	11:nsubj	Conn=O
 4	นครศรีธรรมราช	_	DET	DDAC	_	5	det	5:det	Conn=O
@@ -15313,7 +15313,7 @@
 # sent_id = T00887.tsv-2
 # text = 1 สิงหาคม 2550 21.14 น.
 1	1	_	NUM	NCNM	_	2	nummod	2:nummod	Conn=O
-2	สิงหาคม	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+2	สิงหาคม	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 3	2550	_	NUM	NCNM	_	4	nummod	4:nummod	Conn=O
 4	21.14	_	NUM	NCNM	_	5	nummod	5:nummod	Conn=O
 5	น.	_	NOUN	CMTR	_	2	clf	2:clf	Conn=O
@@ -15330,7 +15330,7 @@
 
 # sent_id = T00887.tsv-4
 # text = ขณะที่ตาลิบันขู่ใหม่พร้อมฆ่าตัวประกันทุกเมื่อหลังพ้นเส้นตายมาแล้ว
-1	ขณะ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ขณะ	_	SCONJ	JSBR	_	0	root	0:root	Conn=B-conn
 2	ที่	_	SCONJ	PREL	_	6	mark	6:mark	Conn=O
 3	ตาลิบัน	_	NOUN	NCMN	_	6	nsubj	6:nsubj	Conn=O
 4	ขู่	_	NOUN	NCMN	_	3	compound	3:compound	Conn=O
@@ -15349,8 +15349,8 @@
 
 # sent_id = T00887.tsv-5
 # text = เผยตัวประกัน 2 คนป่วยหนัก
-1	เผย	_	ADV	ADVN	_	0	ROOT	0:ROOT	Conn=O
-2	ตัว	_	NOUN	CNIT	_	0	ROOT	0:ROOT	Conn=O
+1	เผย	_	ADV	ADVN	_	0	root	0:root	Conn=O
+2	ตัว	_	NOUN	CNIT	_	1	parataxis	1:parataxis	Conn=O
 3	ประกัน	_	VERB	VSTA	_	2	acl	2:acl	Conn=O
 4	2	_	NUM	DCNM	_	5	nummod	5:nummod	Conn=O
 5	คน	_	NOUN	CNIT	_	2	clf	2:clf	Conn=O
@@ -15359,7 +15359,7 @@
 
 # sent_id = T00887.tsv-6
 # text = ชะตากรรมตัวประกันเยอรมันน่าเป็นห่วงเช่นกัน
-1	ชะตากรรม	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ชะตากรรม	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ตัว	_	NOUN	CNIT	_	1	compound	1:compound	Conn=O
 3	ประกัน	_	VERB	VACT	_	2	acl	2:acl	Conn=O
 4	เยอรมัน	_	PRON	PPRS	_	5	nsubj	5:nsubj	Conn=O
@@ -15389,12 +15389,12 @@
 18	เป็น	_	VERB	VSTA	_	13	acl	13:acl	Conn=O
 19	การ	_	PART	FIXN	_	13	discourse	13:discourse	Conn=O
 20	กระทำ	_	VERB	VACT	_	13	acl	13:acl	Conn=O
-21	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+21	ที่	_	SCONJ	PREL	_	3	parataxis	3:parataxis	Conn=O
 22	ไร้	_	VERB	VSTA	_	21	acl	21:acl	Conn=O
 23	สามัญสำนึก	_	NOUN	NCMN	_	22	obj	22:obj	Conn=O
 24	และ	_	CCONJ	JCRG	_	25	cc	25:cc	Conn=B-conn
 25	เรียกร้อง	_	NOUN	NCMN	_	21	conj	21:conj	Conn=O
-26	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+26	ให้	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 27	ปล่อย	_	VERB	VACT	_	26	xcomp	26:xcomp	Conn=O
 28	ตัว	_	NOUN	CNIT	_	27	obj	27:obj	Conn=O
 29	ประกัน	_	ADV	ADVN	_	27	advmod	27:advmod	Conn=O
@@ -15516,15 +15516,15 @@
 34	ใน	_	ADP	RPRE	_	35	case	35:case	Conn=O
 35	จังหวัด	_	NOUN	NCMN	_	28	obl	28:obl	Conn=O
 36	กาซนี	_	NOUN	NCMN	_	35	compound	35:compound	Conn=O
-37	หลังจาก	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
-38	ผ่านพ้น	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+37	หลังจาก	_	SCONJ	JSBR	_	7	parataxis	7:parataxis	Conn=B-conn
+38	ผ่านพ้น	_	NOUN	NCMN	_	7	parataxis	7:parataxis	Conn=O
 39	เส้นตาย	_	VERB	VSTA	_	38	acl	38:acl	Conn=O
 40	ที่	_	SCONJ	PREL	_	43	mark	43:mark	Conn=O
 41	กลุ่ม	_	NOUN	NCMN	_	43	nsubj	43:nsubj	Conn=O
 42	ตาลิบัน	_	NOUN	NCMN	_	41	compound	41:compound	Conn=O
 43	กำหนด	_	VERB	VACT	_	38	advcl	38:advcl	Conn=O
-44	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-45	บ่าย	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+44	เมื่อ	_	SCONJ	JSBR	_	7	parataxis	7:parataxis	Conn=O
+45	บ่าย	_	NOUN	NCMN	_	7	parataxis	7:parataxis	Conn=O
 46	วัน	_	NOUN	NCMN	_	45	compound	45:compound	Conn=O
 47	นี้	_	DET	DDAC	_	46	det	46:det	Conn=O
 48	ตาม	_	ADP	RPRE	_	49	case	49:case	Conn=O
@@ -15909,7 +15909,7 @@
 
 # sent_id = T00887.tsv-19
 # text = กาซนี โฆษกของกลุ่มกบฏตาลิบันในอัฟกานิสถาน เผยวันนี้ว่า ตัวประกันหญิง 2 คน ในจำนวน 21 คน ที่ถูกกลุ่มกบฏตาลิบันจับเป็นตัวประกันกำลังป่วยหนัก และว่าผู้แทนเจรจาฝ่ายรัฐบาลอัฟกันยังไม่ได้ติดต่อกลุ่มกบฏ ขณะใกล้ถึงกำหนดเส้นตายในเวลา 14.30 น.วันนี้
-1	กาซนี	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	กาซนี	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	โฆษก	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	ของ	_	ADP	RPRE	_	4	case	4:case	Conn=O
 4	กลุ่ม	_	NOUN	NCMN	_	1	nmod:poss	1:nmod:poss	Conn=O
@@ -15978,8 +15978,8 @@
 6	กลุ่ม	_	NOUN	NCMN	_	5	compound	5:compound	Conn=O
 7	ตาลิบัน	_	NOUN	NCMN	_	5	compound	5:compound	Conn=O
 8	กล่าว	_	VERB	VACT	_	4	acl	4:acl	Conn=O
-9	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-10	ตัว	_	NOUN	CNIT	_	0	ROOT	0:ROOT	Conn=O
+9	ว่า	_	SCONJ	JSBR	_	4	parataxis	4:parataxis	Conn=O
+10	ตัว	_	NOUN	CNIT	_	4	parataxis	4:parataxis	Conn=O
 11	ประกัน	_	VERB	VSTA	_	10	acl	10:acl	Conn=O
 12	ส่วนใหญ่	_	DET	DDAN	_	13	nsubj	13:nsubj	Conn=O
 13	ป่วย	_	VERB	VACT	_	10	acl:relcl	10:acl:relcl	Conn=O
@@ -16006,7 +16006,7 @@
 34	ตัว	_	NOUN	NCMN	_	29	obl	29:obl	Conn=O
 35	ประกัน	_	VERB	VSTA	_	34	acl	34:acl	Conn=O
 36	ทั้ง	_	DET	DDBQ	_	37	det	37:det	Conn=O
-37	สอง	_	NUM	DCNM	_	0	ROOT	0:ROOT	Conn=O
+37	สอง	_	NUM	DCNM	_	4	parataxis	4:parataxis	Conn=O
 38	และ	_	CCONJ	JCRG	_	43	cc	43:cc	Conn=B-conn
 39	ว่า	_	SCONJ	JSBR	_	43	mark	43:mark	Conn=O
 40	กลุ่ม	_	NOUN	NCMN	_	43	nsubj	43:nsubj	Conn=O
@@ -16230,10 +16230,10 @@
 112	ครั้ง	_	NOUN	CFQC	_	111	compound	111:compound	Conn=O
 113	หลัง	_	ADJ	DONM	_	112	amod	112:amod	Conn=O
 114	สุด	_	ADV	ADVN	_	113	advmod	113:advmod	Conn=O
-115	ไป	_	AUX	XVAE	_	0	ROOT	0:ROOT	Conn=O
-116	แล้ว	_	AUX	XVAE	_	0	ROOT	0:ROOT	Conn=O
-117	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-118	เวลา	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+115	ไป	_	AUX	XVAE	_	4	parataxis	4:parataxis	Conn=O
+116	แล้ว	_	AUX	XVAE	_	4	parataxis	4:parataxis	Conn=O
+117	เมื่อ	_	SCONJ	JSBR	_	4	parataxis	4:parataxis	Conn=O
+118	เวลา	_	NOUN	NCMN	_	4	parataxis	4:parataxis	Conn=O
 119	14.30	_	NUM	DCNM	_	120	nummod	120:nummod	Conn=O
 120	น.	_	NOUN	CMTR	_	118	clf	118:clf	Conn=O
 121	วัน	_	NOUN	NCMN	_	118	clf	118:clf	Conn=O
@@ -16266,15 +16266,15 @@
 19	รัฐบาล	_	NOUN	NCMN	_	18	compound	18:compound	Conn=O
 20	เยอรมนี	_	NOUN	NCMN	_	18	compound	18:compound	Conn=O
 21	ระบุ	_	VERB	VACT	_	5	acl	5:acl	Conn=O
-22	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-23	วิศวกร	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+22	ว่า	_	SCONJ	JSBR	_	5	parataxis	5:parataxis	Conn=O
+23	วิศวกร	_	NOUN	NCMN	_	5	parataxis	5:parataxis	Conn=O
 24	ผู้	_	SCONJ	PREL	_	26	nsubj	26:nsubj	Conn=O
 25	นั้น	_	DET	DDAC	_	24	det	24:det	Conn=O
 26	เสียชีวิต	_	VERB	VSTA	_	23	acl:relcl	23:acl:relcl	Conn=O
-27	เพราะ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
-28	สภาพ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+27	เพราะ	_	SCONJ	JSBR	_	5	parataxis	5:parataxis	Conn=B-conn
+28	สภาพ	_	NOUN	NCMN	_	5	parataxis	5:parataxis	Conn=O
 29	แวดล้อม	_	VERB	VSTA	_	28	acl	28:acl	Conn=O
-30	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+30	ที่	_	SCONJ	PREL	_	5	parataxis	5:parataxis	Conn=O
 31	คุมขัง	_	VERB	VSTA	_	30	acl	30:acl	Conn=O
 32	เลวร้าย	_	NOUN	NCMN	_	31	obj	31:obj	Conn=O
 
@@ -16294,10 +16294,10 @@
 12	แห่ง	_	ADP	RPRE	_	13	case	13:case	Conn=O
 13	ชาติ	_	NOUN	NCMN	_	6	nmod:poss	6:nmod:poss	Conn=O
 14	ครั้ง	_	NOUN	CFQC	_	13	compound	13:compound	Conn=O
-15	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+15	ที่	_	SCONJ	PREL	_	6	parataxis	6:parataxis	Conn=O
 16	4	_	NUM	NCNM	_	17	nummod	17:nummod	Conn=O
 17	1	_	NUM	NCNM	_	18	nummod	18:nummod	Conn=O
-18	สิงหาคม	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+18	สิงหาคม	_	NOUN	NCMN	_	6	parataxis	6:parataxis	Conn=O
 19	2550	_	NUM	NCNM	_	20	nummod	20:nummod	Conn=O
 20	21:02	_	NUM	NCNM	_	21	nummod	21:nummod	Conn=O
 21	น.	_	NOUN	CMTR	_	18	clf	18:clf	Conn=O
@@ -16370,7 +16370,7 @@
 # text = (1 ส.ค.) นพ.สมยศ เจริญศักดิ์ อธิบดีกรมพัฒนาการแพทย์แผนไทยและการแพทย์ทางเลือก ร่วมกันแถลงข่าวมหกรรมสมุนไพรแห่งชาติครั้งที่ 4 "1 ถ้วยน้ำพริก 100 ชนิดสมุนไพร 60 ล้านไทยแข็งแรง" จัดขึ้นระหว่างวันที่ 29 สิงหาคมถึงวันที่ 2 กันยายน ที่อิมแพค เมืองทองธานี
 1	(	_	PUNCT	PUNC	_	3	punct	3:punct	Conn=O
 2	1	_	NUM	NLBL	_	3	nummod	3:nummod	Conn=O
-3	ส.ค.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+3	ส.ค.	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 4	)	_	PUNCT	PUNC	_	3	punct	3:punct	Conn=O
 5	นพ.	_	PUNCT	PUNC	_	6	punct	6:punct	Conn=O
 6	สมยศ	_	NOUN	NCMN	_	3	conj	3:conj	Conn=O
@@ -16389,7 +16389,7 @@
 19	เลือก	_	VERB	VACT	_	17	acl	17:acl	Conn=O
 20	ร่วม	_	VERB	VACT	_	6	acl	6:acl	Conn=O
 21	กัน	_	ADV	ADVN	_	3	advmod	3:advmod	Conn=O
-22	แถลง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+22	แถลง	_	NOUN	NCMN	_	3	parataxis	3:parataxis	Conn=O
 23	ข่าว	_	NOUN	NCMN	_	22	compound	22:compound	Conn=O
 24	มหกรรม	_	NOUN	NCMN	_	22	compound	22:compound	Conn=O
 25	สมุนไพร	_	NOUN	NCMN	_	22	compound	22:compound	Conn=O
@@ -16749,7 +16749,7 @@
 73	จำหน่าย	_	VERB	VACT	_	70	xcomp	70:xcomp	Conn=O
 74	ภายใน	_	ADP	RPRE	_	75	case	75:case	Conn=O
 75	งาน	_	NOUN	NCMN	_	73	obl	73:obl	Conn=O
-76	ด้วย	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
+76	ด้วย	_	ADP	RPRE	_	30	parataxis	30:parataxis	Conn=O
 
 # sent_id = T00887.tsv-32
 # text = ดร.ภญ.สุภาพร ปิติพร โรงพยาบาลเจ้าพระยาอภัยภูเบศร กล่าวว่าจะเปิดตัวสมุนไพรที่บรรเทาอาการปวดข้อและกล้ามเนื้อในงานมหกรรมครั้งนี้คือ ลูกกลิ้งพริก สมุนไพรเถาวัลย์เปรียง มีผลการศึกษาเทียบกับยาแผนปัจจุบันให้ผลไม่แตกต่างกัน ถือเป็นทางเลือกหนึ่งที่จะนำสมุนไพรมาบำบัดรักษาโรค
@@ -17083,9 +17083,9 @@
 63	จึง	_	AUX	XVBM	_	64	aux	64:aux	Conn=B-conn
 64	เปรียบ	_	VERB	VACT	_	58	advmod	58:advmod	Conn=O
 65	เสมือน	_	NOUN	NCMN	_	64	obj	64:obj	Conn=O
-66	ผู้	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+66	ผู้	_	SCONJ	PREL	_	31	parataxis	31:parataxis	Conn=O
 67	ยิ่งใหญ่	_	VERB	VACT	_	66	acl	66:acl	Conn=O
-68	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+68	ที่	_	SCONJ	PREL	_	31	parataxis	31:parataxis	Conn=O
 69	โบยบิน	_	NOUN	NCMN	_	74	nsubj	74:nsubj	Conn=O
 70	บน	_	ADP	RPRE	_	71	case	71:case	Conn=O
 71	ปีก	_	NOUN	NCMN	_	69	nmod:poss	69:nmod:poss	Conn=O
@@ -17095,14 +17095,14 @@
 75	เขา	_	PRON	PPRS	_	76	nsubj	76:nsubj	Conn=O
 76	มี	_	VERB	VSTA	_	74	acl:relcl	74:acl:relcl	Conn=O
 77	หัวใจ	_	NOUN	NCMN	_	76	obj	76:obj	Conn=O
-78	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-79	ยิ่งใหญ่	_	AUX	XVBM	_	0	ROOT	0:ROOT	Conn=O
-80	เช่น	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+78	ที่	_	SCONJ	PREL	_	31	parataxis	31:parataxis	Conn=O
+79	ยิ่งใหญ่	_	AUX	XVBM	_	31	parataxis	31:parataxis	Conn=O
+80	เช่น	_	SCONJ	JSBR	_	31	parataxis	31:parataxis	Conn=O
 81	เดียว	_	DET	DIAC	_	83	det	83:det	Conn=O
 82	กับ	_	ADP	RPRE	_	81	fixed	81:fixed	Conn=O
 83	นัก	_	NOUN	NCMN	_	80	clf	80:clf	Conn=O
 84	รบ	_	NOUN	NCMN	_	83	compound	83:compound	Conn=O
-85	ผู้	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+85	ผู้	_	SCONJ	PREL	_	31	parataxis	31:parataxis	Conn=O
 86	กล้า	_	VERB	VACT	_	85	acl	85:acl	Conn=O
 87	ของ	_	ADP	RPRE	_	88	case	88:case	Conn=O
 88	เรา	_	PRON	PPRS	_	85	nmod:poss	85:nmod:poss	Conn=O
@@ -17243,8 +17243,8 @@
 11	ของ	_	ADP	RPRE	_	12	case	12:case	Conn=O
 12	สตีฟ	_	NOUN	NCMN	_	10	obl	10:obl	Conn=O
 13	เชื่อ	_	VERB	VSTA	_	12	acl	12:acl	Conn=O
-14	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-15	ทำให้	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+14	ว่า	_	SCONJ	JSBR	_	7	parataxis	7:parataxis	Conn=O
+15	ทำให้	_	VERB	VACT	_	7	parataxis	7:parataxis	Conn=O
 16	คน	_	NOUN	NCMN	_	15	obj	15:obj	Conn=O
 17	ทั่ว	_	ADP	RPRE	_	18	case	18:case	Conn=O
 18	โลก	_	NOUN	NCMN	_	16	nmod	16:nmod	Conn=O
@@ -17360,7 +17360,7 @@
 4	พลอย	_	VERB	VSTA	_	3	acl	3:acl	Conn=O
 5	ได้	_	AUX	XVAE	_	4	aux	4:aux	Conn=O
 6	ไป	_	AUX	XVAE	_	7	aux	7:aux	Conn=O
-7	เรียน	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+7	เรียน	_	VERB	VACT	_	0	root	0:root	Conn=O
 8	ที่	_	SCONJ	PREL	_	12	mark	12:mark	Conn=O
 9	มหาวิทยาลัยมหานคร	_	NOUN	NCMN	_	12	nsubj	12:nsubj	Conn=O
 10	คณะ	_	NOUN	NCMN	_	9	compound	9:compound	Conn=O
@@ -17434,7 +17434,7 @@
 
 # sent_id = T00981.tsv-9
 # text = ด้าน น.ส.ลาดทองแท้ กล่าวว่า หลังจากทราบข่าวตกใจและเสียใจมาก ไม่คิดว่าสตีฟจะเสียชีวิตเช่นนี้ ในความรู้สึกแล้วสตีฟเหมือนทาร์ซาน เหมือนฮีโร่ เขามีนิสัยดีมาก ยังตั้งใจว่าอยากจะไปฝึกงานและทำงานด้วย เพื่อเอาความรู้มาใช้ในประเทศไทยการศึกษาชีวิตของสัตว์ป่าเพื่อการอนุรักษ์ ช่วงที่อยู่กับสตีฟจะได้รับคำแนะนำจากทีมงานและคู่หูของเขาคือ เวส กับ รอลรี่ ซึ่งทุกคนเหมือนเป็นอาจารย์
-1	ด้าน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ด้าน	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	น.ส.	_	NOUN	NTTL	_	1	compound	1:compound	Conn=O
 3	ลาดทองแท้	_	PROPN	NPRP	_	4	nsubj	4:nsubj	Conn=O
 4	กล่าว	_	VERB	VACT	_	1	acl:relcl	1:acl:relcl	Conn=O
@@ -17520,7 +17520,7 @@
 84	ทุก	_	DET	DIBQ	_	85	det	85:det	Conn=O
 85	คน	_	NOUN	CNIT	_	87	obl:tmod	87:obl:tmod	Conn=O
 86	เหมือน	_	SCONJ	JCMP	_	87	nsubj	87:nsubj	Conn=O
-87	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+87	เป็น	_	VERB	VSTA	_	1	parataxis	1:parataxis	Conn=O
 88	อาจารย์	_	NOUN	NCMN	_	87	obj	87:obj	Conn=O
 
 # sent_id = T00981.tsv-10
@@ -17637,7 +17637,7 @@
 1	นาย	_	NOUN	NTTL	_	3	nsubj	3:nsubj	Conn=O
 2	สเตนตัน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	กล่าว	_	VERB	VACT	_	0	root	0:root	Conn=O
-4	ด้วยว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+4	ด้วยว่า	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 5	ก่อน	_	ADP	RPRE	_	10	mark	10:mark	Conn=B-conn
 6	ที่	_	SCONJ	PREL	_	5	fixed	5:fixed	Conn=O
 7	ช่าง	_	ADJ	VATT	_	8	amod	8:amod	Conn=O
@@ -17667,7 +17667,7 @@
 31	โดย	_	ADP	RPRE	_	32	case	32:case	Conn=B-conn
 32	ภาพ	_	NOUN	NCMN	_	27	obl	27:obl	Conn=O
 33	แสดง	_	VERB	VACT	_	32	acl	32:acl	Conn=O
-34	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+34	ให้	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 35	เห็น	_	VERB	VSTA	_	34	xcomp	34:xcomp	Conn=O
 36	ว่า	_	SCONJ	JSBR	_	39	mark	39:mark	Conn=O
 37	สตีฟ	_	NOUN	NCMN	_	39	nsubj	39:nsubj	Conn=O
@@ -17737,8 +17737,8 @@
 101	และ	_	CCONJ	JCRG	_	102	cc	102:cc	Conn=B-conn
 102	เสียชีวิต	_	NOUN	NCMN	_	99	conj	99:conj	Conn=O
 103	ในที่สุด	_	ADV	ADVS	_	102	advmod	102:advmod	Conn=B-conn
-104	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=B-conn
-105	ภาพ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+104	ซึ่ง	_	SCONJ	PREL	_	3	parataxis	3:parataxis	Conn=B-conn
+105	ภาพ	_	NOUN	NCMN	_	3	parataxis	3:parataxis	Conn=O
 106	ที่	_	SCONJ	PREL	_	107	mark	107:mark	Conn=O
 107	เห็น	_	VERB	VSTA	_	105	ccomp	105:ccomp	Conn=O
 108	นั้น	_	DET	DDAC	_	107	obj	107:obj	Conn=O
@@ -17757,7 +17757,7 @@
 
 # sent_id = T00981.tsv-12
 # text = ด้าน นายเบน ครอปป์ ผู้สร้างสารคดีสิ่งแวดล้อม ชาวออสเตรเลีย ที่ได้ชมภาพวิดีโอเช่นกัน กล่าวว่า สตีฟว่ายเข้าใกล้ปลากระเบนขนาดใหญ่ น้ำหนักประมาณ 100 กิโลกรัม ก่อนจะถูกทำร้าย ขณะที่ผู้เชี่ยวชาญให้ความเห็นว่า ปลากระเบนหันไปทำร้ายเพราะเข้าใจว่าตกอยู่ในอันตราย เนื่องจากสตีฟว่ายอยู่ด้านบน ขณะที่ข้างหน้าก็มีช่างภาพอีกคน ทั้งที่ปกติสัตว์ประเภทนี้จะขี้อายและไม่ก้าวร้าว
-1	ด้าน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ด้าน	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	นาย	_	NOUN	NTTL	_	1	compound	1:compound	Conn=O
 3	เบน	_	PROPN	NPRP	_	1	compound	1:compound	Conn=O
 4	ครอปป์	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
@@ -18114,7 +18114,7 @@
 89	ค้า	_	VERB	VACT	_	68	acl:relcl	68:acl:relcl	Conn=O
 90	ของ	_	ADP	RPRE	_	91	case	91:case	Conn=O
 91	นาย	_	NOUN	NCMN	_	89	obl	89:obl	Conn=O
-92	เออร์วิน	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
+92	เออร์วิน	_	ADP	RPRE	_	4	parataxis	4:parataxis	Conn=O
 
 # sent_id = T00981.tsv-16
 # text = ด้าน ดร.ธรณ์ ธำรงนาวาสวัสดิ์ อาจารย์ประจำภาควิชาทางทะเล คณะประมง มหาวิทยาลัยเกษตรศาสตร์กล่าวว่า ปลากระเบนทั่วโลกมีไม่ต่ำกว่า 300 ชนิด ส่วนปลากระเบนในประเทศไทยไม่มีการสำรวจเป็นตัวเลขที่ชัดเจน คาดการณ์ว่ามีประมาณ 100 ชนิด โดยปลากระเบนเกือบทุกชนิดมีพิษ โดยพิษจะอยู่บริเวณผิวหนังบางๆของเงี่ยง ยกเว้นกระเบนราหูที่อาศัยอยู่ในทะเลซึ่งพิษของปลากระเบนเป็นพิษกลุ่มเดียวกับปลาหิน ปลาสิงโต อาจทำให้เสียชีวิตได้ แต่พิษของปลากระเบนจะรุนแรงน้อยกว่า
@@ -18182,8 +18182,8 @@
 62	อยู่	_	AUX	XVAE	_	61	aux	61:aux	Conn=O
 63	ใน	_	ADP	RPRE	_	64	case	64:case	Conn=O
 64	ทะเล	_	NOUN	NCMN	_	61	obl	61:obl	Conn=O
-65	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=B-conn
-66	พิษ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+65	ซึ่ง	_	SCONJ	PREL	_	12	parataxis	12:parataxis	Conn=B-conn
+66	พิษ	_	NOUN	NCMN	_	12	parataxis	12:parataxis	Conn=O
 67	ของ	_	ADP	RPRE	_	68	case	68:case	Conn=O
 68	ปลากระเบน	_	NOUN	NCMN	_	66	nmod:poss	66:nmod:poss	Conn=O
 69	เป็น	_	VERB	VSTA	_	68	acl	68:acl	Conn=O
@@ -18450,7 +18450,7 @@
 5	ต้อง	_	AUX	XVMM	_	6	aux	6:aux	Conn=O
 6	สลาย	_	VERB	VACT	_	0	root	0:root	Conn=O
 7	แก๊งค์	_	NOUN	NCMN	_	6	obj	6:obj	Conn=O
-8	อ็อฟโฟร์	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
+8	อ็อฟโฟร์	_	ADP	RPRE	_	6	parataxis	6:parataxis	Conn=O
 
 # sent_id = T01341.tsv-5
 # text = ด้าน"หมอเลี๊ยบ" เรียกประชุมพรรคอีกรอบค่ำนี้
@@ -18479,8 +18479,8 @@
 
 # sent_id = T01341.tsv-7
 # text = เมื่อเวลา 17.30 น.วันที่ 11 กันยายน นายไพจิตร ศรีวรขาน ส.ส.นครพนม พรรคพลังประชาชนในฐานะแกนนำกลุ่มอีสานพัฒนาให้สัมภาษณ์ถึงกรณีที่ นพ.สุรพงษ์ สืบวงศ์ลี รักษาการรองนายกรัฐมนตรี ในฐานะเลขาธิการพรรคพลังประชาชนเรียกประชุมส.ส.อีกครั้งว่า
-1	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-2	เวลา	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	เมื่อ	_	SCONJ	JSBR	_	0	root	0:root	Conn=O
+2	เวลา	_	NOUN	NCMN	_	1	parataxis	1:parataxis	Conn=O
 3	17.30	_	NUM	DCNM	_	4	nummod	4:nummod	Conn=O
 4	น.	_	NOUN	CMTR	_	2	clf	2:clf	Conn=O
 5	วันที่	_	NOUN	NCMN	_	4	compound	4:compound	Conn=O
@@ -18498,7 +18498,7 @@
 17	แกนนำ	_	NOUN	NCMN	_	16	compound	16:compound	Conn=O
 18	กลุ่ม	_	NOUN	NCMN	_	16	compound	16:compound	Conn=O
 19	อีสานพัฒนา	_	NOUN	NCMN	_	16	compound	16:compound	Conn=O
-20	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+20	ให้	_	SCONJ	JSBR	_	2	parataxis	1:parataxis|2:parataxis	Conn=O
 21	สัมภาษณ์	_	VERB	VSTA	_	20	xcomp	20:xcomp	Conn=O
 22	ถึง	_	ADP	RPRE	_	23	case	23:case	Conn=O
 23	กรณีที่	_	NOUN	NCMN	_	21	obl	21:obl	Conn=O
@@ -18551,7 +18551,7 @@
 26	100	_	NUM	DCNM	_	27	nummod	27:nummod	Conn=O
 27	คน	_	NOUN	CNIT	_	16	clf	16:clf	Conn=O
 28	จะ	_	AUX	XVBM	_	29	aux	29:aux	Conn=O
-29	รวมตัว	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+29	รวมตัว	_	VERB	VSTA	_	2	parataxis	2:parataxis	Conn=O
 30	กัน	_	ADV	ADVN	_	29	advmod	29:advmod	Conn=O
 31	เพื่อ	_	SCONJ	JSBR	_	32	mark	32:mark	Conn=B-conn
 32	แจ้ง	_	VERB	VACT	_	29	advcl	29:advcl	Conn=O
@@ -18602,8 +18602,8 @@
 
 # sent_id = T01341.tsv-9
 # text = "อย่างไรก็ตามหากพรรคจะอ้างมติพรรคหรือลงโทษส.ส.ที่ยกมือสวนโหวต โดยใช้ข้อบังคับพรรคมาอ้าง เราก็จะแย้งว่าส.ส.มีเอกสิทธิ์ตามรัฐธรรมนูญและขอท้าแกนนำที่สนับสนุนนายสมัครให้ตั้งคณะกรรมการขึ้นมาสอบสวนทางกลุ่มส.ส.ที่ไม่เห็นด้วยได้เลย" นายไพจิต กล่าว
-1	"	_	PUNCT	PUNC	_	0	ROOT	0:ROOT	Conn=O
-2	อย่างไรก็ตาม	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+1	"	_	PUNCT	PUNC	_	0	root	0:root	Conn=O
+2	อย่างไรก็ตาม	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
 3	หาก	_	SCONJ	JSBR	_	6	mark	6:mark	Conn=B-conn
 4	พรรค	_	NOUN	NCMN	_	6	nsubj	6:nsubj	Conn=O
 5	จะ	_	AUX	XVBM	_	6	aux	6:aux	Conn=O
@@ -18721,7 +18721,7 @@
 # text = ดังนั้นหากขู่ว่าจะลงโทษหากทางกลุ่มโหวตสวนมติพรรคในวันพรุ่งนี้ ทางกลุ่มก็จะเสนอว่ากลุ่มที่สนับสนุนนายสมัครซึ่งเป็นคนกลุ่มน้อยควรจะออกจากพรรคไปแทน
 1	ดังนั้น	_	SCONJ	JSBR	_	3	mark	3:mark	Conn=B-conn
 2	หาก	_	SCONJ	JSBR	_	3	nsubj	3:nsubj	Conn=B-conn
-3	ขู่	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+3	ขู่	_	VERB	VACT	_	0	root	0:root	Conn=O
 4	ว่า	_	SCONJ	JSBR	_	6	mark	6:mark	Conn=O
 5	จะ	_	AUX	XVBM	_	6	aux	6:aux	Conn=O
 6	ลง	_	VERB	VACT	_	3	ccomp	3:ccomp	Conn=O
@@ -18740,10 +18740,10 @@
 19	ก็	_	SCONJ	JSBR	_	21	mark	21:mark	Conn=B-conn
 20	จะ	_	AUX	XVBM	_	21	aux	21:aux	Conn=O
 21	เสนอ	_	VERB	VACT	_	6	advcl	6:advcl	Conn=O
-22	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-23	กลุ่ม	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+22	ว่า	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
+23	กลุ่ม	_	NOUN	NCMN	_	22	parataxis	3:parataxis|22:parataxis	Conn=O
 24	ที่	_	SCONJ	PREL	_	25	mark	25:mark	Conn=O
-25	สนับสนุน	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+25	สนับสนุน	_	VERB	VACT	_	23	parataxis	3:parataxis|22:parataxis|23:parataxis	Conn=O
 26	นาย	_	NOUN	NTTL	_	25	obj	25:obj	Conn=O
 27	สมัคร	_	PROPN	NPRP	_	26	compound	26:compound	Conn=O
 28	ซึ่ง	_	SCONJ	PREL	_	39	mark	39:mark	Conn=O
@@ -18833,7 +18833,7 @@
 # text = "70 ส.ส.พปช."ยันโหวตไม่เอา"สมัคร"
 1	"	_	PUNCT	PUNC	_	3	punct	3:punct	Conn=O
 2	70	_	NUM	NLBL	_	3	nummod	3:nummod	Conn=O
-3	ส.ส.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+3	ส.ส.	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 4	พปช.	_	NOUN	NCMN	_	3	compound	3:compound	Conn=O
 5	"	_	PUNCT	PUNC	_	6	punct	6:punct	Conn=O
 6	ยัน	_	NOUN	NCMN	_	3	compound	3:compound	Conn=O
@@ -18846,7 +18846,7 @@
 
 # sent_id = T01341.tsv-14
 # text = อย่างไรก็ตามเมื่อเวลา 17.00 น. ส.ส.พรรคพลังประชาชนหนึ่ง ประกอบด้วย แกนนำกลุ่มอีสานพัฒนา กลุ่มขุนค้อน กลุ่มโคราช ภาคเหนือ ภาคใต้ ภาคกลาง และ กทม. ร่วมกันแถลงข่าว โดยนายไพจิตร กล่าวว่า พวกตนประมาณ 70 คน เห็นตรงกันว่าขณะนี้พรรคยังไม่มีมติที่จะเสนอชื่อนายสมัครเพื่อให้กลับมาเป็นนายกรัฐมนตรี
-1	อย่างไรก็ตาม	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+1	อย่างไรก็ตาม	_	SCONJ	JSBR	_	0	root	0:root	Conn=O
 2	เมื่อ	_	SCONJ	JSBR	_	10	mark	10:mark	Conn=O
 3	เวลา	_	NOUN	NCMN	_	10	nsubj	10:nsubj	Conn=O
 4	17.00	_	NUM	NCNM	_	5	nummod	5:nummod	Conn=O
@@ -18930,9 +18930,9 @@
 16	มา	_	AUX	XVAE	_	13	aux	13:aux	Conn=O
 17	อย่าง	_	PART	FIXV	_	13	compound:prt	13:compound:prt	Conn=O
 18	ดี	_	ADJ	VATT	_	13	advmod	13:advmod	Conn=O
-19	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
-20	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
-21	ศาล	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+19	แต่	_	CCONJ	JCRG	_	6	parataxis	6:parataxis	Conn=B-conn
+20	เมื่อ	_	SCONJ	JSBR	_	6	parataxis	6:parataxis	Conn=B-conn
+21	ศาล	_	VERB	VACT	_	6	parataxis	6:parataxis	Conn=O
 22	รัฐธรรมนูญ	_	NOUN	NCMN	_	21	obj	21:obj	Conn=O
 23	วินิจฉัย	_	NOUN	NCMN	_	22	compound	22:compound	Conn=O
 24	แม้	_	SCONJ	JSBR	_	28	mark	28:mark	Conn=B-conn
@@ -19241,7 +19241,7 @@
 # text = ผู้สื่อข่าวถามว่าหากที่ประชุมพรรคมีมติเสนอชื่อนายสมัครเป็นนายกฯ ทางกลุ่มจะดำเนินการอย่างไร
 1	ผู้สื่อข่าว	_	NOUN	NCMN	_	2	nsubj	2:nsubj	Conn=O
 2	ถาม	_	VERB	VACT	_	0	root	0:root	Conn=O
-3	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+3	ว่า	_	SCONJ	JSBR	_	2	parataxis	2:parataxis	Conn=O
 4	หาก	_	SCONJ	JSBR	_	7	mark	7:mark	Conn=B-conn
 5	ที่ประชุม	_	NOUN	NCMN	_	7	nsubj	7:nsubj	Conn=O
 6	พรรค	_	NOUN	NCMN	_	5	compound	5:compound	Conn=O
@@ -19262,7 +19262,7 @@
 
 # sent_id = T01341.tsv-21
 # text = นายไพจิตรกล่าวว่า เชื่อว่า พรรคจะมีการฟังความเห็นของสมาชิกจำนวน 70-80 คนที่ถือว่ามีความหมายที่จะทำให้พรรคเดินไปในทิศทางเดียวกัน หวังว่าจะมีการทบทวนให้เกิดความรอบคอบ เพราะมีสมาชิกที่เห็นต่าง ตนเชื่อว่าจะมีข้อยุติได้ และหากพรุ่งนี้(12 ก.ย.) ยังไม่มีมติของพรรคก็ถือว่าพรรคจะให้โหวตตามอัธยาศัย หรือฟรีโหวต แต่ถ้าพรรคจะมีมติเราก็คงจะได้อภิปรายอย่างตรงไปตรงมาเพื่อหาข้อยุติที่ตรงกัน
-1	นาย	_	NOUN	NTTL	_	0	ROOT	0:ROOT	Conn=O
+1	นาย	_	NOUN	NTTL	_	0	root	0:root	Conn=O
 2	ไพจิตร	_	SCONJ	JSBR	_	3	nsubj	3:nsubj	Conn=O
 3	กล่าว	_	VERB	VACT	_	1	acl:relcl	1:acl:relcl	Conn=O
 4	ว่า	_	SCONJ	JSBR	_	5	mark	5:mark	Conn=O
@@ -19349,7 +19349,7 @@
 85	จะ	_	AUX	XVBM	_	86	aux	86:aux	Conn=O
 86	มี	_	VERB	VSTA	_	76	xcomp	76:xcomp	Conn=O
 87	มติ	_	NOUN	NCMN	_	86	obj	86:obj	Conn=O
-88	เรา	_	PRON	PPRS	_	0	ROOT	0:ROOT	Conn=O
+88	เรา	_	PRON	PPRS	_	1	parataxis	1:parataxis	Conn=O
 89	ก็	_	SCONJ	JSBR	_	92	mark	92:mark	Conn=B-conn
 90	คง	_	AUX	XVBM	_	92	aux	92:aux	Conn=O
 91	จะ	_	AUX	XVBM	_	92	aux	92:aux	Conn=O
@@ -19380,7 +19380,7 @@
 
 # sent_id = T01341.tsv-23
 # text = นายไพจิตรกล่าวว่า คำว่าเป็นเอกสิทธิ์ก็คือส่วนใหญ่จะโหวตไปอีกทางหนึ่ง บางส่วนที่เกรงใจก็อาจจะงดออกเสียง หรือส่วนที่เกรงใจมากๆก็อาจจะโหวตตาม ในชั้นนี้ไม่ได้ลงในรายละเอียด อย่างไรก็ตามทางกลุ่มยังไม่มีชื่อบุคคลที่จะเสนอแทนนายสมัคร แต่เห็นว่ายังมีคนที่เหมาะสมอยู่พอที่จะทำงานประคับประคองพรรคได้
-1	นาย	_	NOUN	NTTL	_	0	ROOT	0:ROOT	Conn=O
+1	นาย	_	NOUN	NTTL	_	0	root	0:root	Conn=O
 2	ไพจิตร	_	SCONJ	JSBR	_	3	nsubj	3:nsubj	Conn=O
 3	กล่าว	_	VERB	VACT	_	1	acl:relcl	1:acl:relcl	Conn=O
 4	ว่า	_	SCONJ	JSBR	_	3	ccomp	3:ccomp	Conn=O
@@ -19483,7 +19483,7 @@
 23	บ้าน	_	NOUN	NCMN	_	25	nsubj	25:nsubj	Conn=O
 24	พัก	_	NOUN	NCMN	_	23	compound	23:compound	Conn=O
 25	ปรากฏ	_	VERB	VSTA	_	18	advcl	18:advcl	Conn=O
-26	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+26	ว่า	_	SCONJ	JSBR	_	6	parataxis	6:parataxis	Conn=O
 27	เมื่อ	_	SCONJ	JSBR	_	35	mark	35:mark	Conn=O
 28	เวลา	_	NOUN	NCMN	_	35	nsubj	35:nsubj	Conn=O
 29	18.00	_	NUM	NCNM	_	30	nummod	30:nummod	Conn=O
@@ -19652,8 +19652,8 @@
 45	ก็	_	SCONJ	JSBR	_	46	nsubj	46:nsubj	Conn=I-conn
 46	ได้	_	VERB	VSTA	_	0	root	0:root	Conn=O
 47	คุย	_	NOUN	NCMN	_	46	obj	46:obj	Conn=O
-48	ตั้งแต่	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
-49	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+48	ตั้งแต่	_	ADP	RPRE	_	46	parataxis	46:parataxis	Conn=O
+49	เมื่อ	_	SCONJ	JSBR	_	46	parataxis	46:parataxis	Conn=O
 50	คืน	_	NOUN	NCMN	_	56	nsubj	56:nsubj	Conn=O
 51	แล้ว	_	AUX	XVAE	_	56	aux	56:aux	Conn=O
 52	ก็	_	SCONJ	JSBR	_	56	advmod	56:advmod	Conn=B-conn
@@ -19689,8 +19689,8 @@
 82	ฝ่าย	_	NOUN	NCMN	_	84	nsubj	84:nsubj	Conn=O
 83	ไม่	_	PART	NEG	_	84	advmod	84:advmod	Conn=O
 84	เอา	_	VERB	VACT	_	77	conj	77:conj	Conn=O
-85	ก็	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
-86	ตั้ง	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+85	ก็	_	SCONJ	JSBR	_	46	parataxis	46:parataxis	Conn=B-conn
+86	ตั้ง	_	VERB	VACT	_	46	parataxis	46:parataxis	Conn=O
 87	ตัว	_	NOUN	NCMN	_	86	obj	86:obj	Conn=O
 88	แทน	_	VERB	VSTA	_	87	acl	87:acl	Conn=O
 89	3	_	NUM	DCNM	_	90	nummod	90:nummod	Conn=O
@@ -19792,7 +19792,7 @@
 2	สำหรับ	_	SCONJ	JSBR	_	5	advmod	5:advmod	Conn=O
 3	วันพรุ่งนี้	_	SCONJ	JSBR	_	5	advmod	5:advmod	Conn=O
 4	เรา	_	PRON	PPRS	_	5	nsubj	5:nsubj	Conn=O
-5	มอง	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+5	มอง	_	VERB	VACT	_	0	root	0:root	Conn=O
 6	ประเทศชาติ	_	NOUN	NCMN	_	5	obj	5:obj	Conn=O
 7	เป็น	_	VERB	VSTA	_	6	acl	6:acl	Conn=O
 8	หลัก	_	NOUN	NCMN	_	7	obj	7:obj	Conn=O
@@ -19828,7 +19828,7 @@
 
 # sent_id = T01341.tsv-30
 # text = ขณะที่ร.ท.กุเทพ ใสกระจ่าง โฆษกพรรคพลังประชาชนกล่าวว่าการแสดงท่าทีอย่างนี้แสดงว่ามีปัญหาก็จะต้องมาคุยกันในเย็นวันนี้ ตอนนี้ต่างคนต่างพูด ยังไม่ลงตัว ประชุมเย็นวันนี้ เพื่อพิจารณารายชื่อบุคคลที่จะเป็นนายกรัฐมนตรี เพื่อที่จะเสนอให้พรรคร่วมได้พิจารณา
-1	ขณะ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ขณะ	_	SCONJ	JSBR	_	0	root	0:root	Conn=B-conn
 2	ที่	_	SCONJ	PREL	_	9	mark	9:mark	Conn=O
 3	ร.ท.	_	NOUN	NCMN	_	9	nsubj	9:nsubj	Conn=O
 4	กุเทพ	_	NOUN	NCMN	_	3	compound	3:compound	Conn=O
@@ -19892,7 +19892,7 @@
 # newdoc id = T01365.tsv
 # sent_id = T01365.tsv-1
 # text = เลห์แมนล้มละลายลูกค้าประกัน"เอไอเอ"เช็กข้อมูลวุ่น
-1	เลห์แมน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	เลห์แมน	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ล้มละลาย	_	VERB	VSTA	_	1	acl	1:acl	Conn=O
 3	ลูกค้า	_	NOUN	NCMN	_	2	obj	2:obj	Conn=O
 4	ประกัน	_	VERB	VSTA	_	3	acl	3:acl	Conn=O
@@ -19920,7 +19920,7 @@
 
 # sent_id = T01365.tsv-3
 # text = ลูกค้าประกัน "เอไอเอ" ตื่นเช็กข้อมูลวุ่น
-1	ลูกค้า	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ลูกค้า	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ประกัน	_	VERB	VSTA	_	1	acl	1:acl	Conn=O
 3	"	_	PUNCT	PUNC	_	1	punct	1:punct	Conn=O
 4	เอไอเอ	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
@@ -19932,7 +19932,7 @@
 
 # sent_id = T01365.tsv-4
 # text = คลัง-ธปท.-คปภ.ออกโรงการันตีฐานะแกร่งกว่าบริษัทแม่ ปีนี้มีกำไรกว่า 7 หมื่นล้านบาท เตือนอย่าตระหนก
-1	คลัง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	คลัง	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	-	_	PUNCT	PUNC	_	3	punct	3:punct	Conn=O
 3	ธปท.	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 4	-	_	PUNCT	PUNC	_	5	punct	5:punct	Conn=O
@@ -19941,7 +19941,7 @@
 7	การันตี	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 8	ฐานะ	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 9	แกร่ง	_	ADJ	VATT	_	8	amod	8:amod	Conn=O
-10	กว่า	_	SCONJ	JCMP	_	0	ROOT	0:ROOT	Conn=O
+10	กว่า	_	SCONJ	JCMP	_	1	parataxis	1:parataxis	Conn=O
 11	บริษัท	_	NOUN	NCMN	_	15	nsubj	15:nsubj	Conn=O
 12	แม่	_	NOUN	NCMN	_	11	compound	11:compound	Conn=O
 13	ปี	_	NOUN	NCMN	_	11	clf	11:clf	Conn=O
@@ -20028,7 +20028,7 @@
 47	ต่อ	_	ADP	RPRE	_	48	case	48:case	Conn=O
 48	เศรษฐกิจ	_	NOUN	NCMN	_	44	obl	44:obl	Conn=O
 49	ไทย	_	PROPN	NPRP	_	48	compound	48:compound	Conn=O
-50	ในที่สุด	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=B-conn
+50	ในที่สุด	_	ADP	RPRE	_	4	parataxis	4:parataxis	Conn=B-conn
 
 # sent_id = T01365.tsv-7
 # text = นอกจากนี้ นักวิเคราะห์ยังพากันแสดงความวิตกว่าสถาบันการเงินอย่างเอไอจี อาจเป็นเหยื่อรายถัดไปที่กิจการอาจต้องล่มสลาย ในวิกฤติการเงินครั้งเลวร้ายที่สุดที่เกิดกับภาคธนาคารสหรัฐ นับจากเกิดวิกฤติเศรษฐกิจตกต่ำครั้งใหญ่ของโลกเมื่อเกือบ 80 ปีที่แล้ว
@@ -20079,11 +20079,11 @@
 45	ใหญ่	_	ADJ	VATT	_	44	amod	44:amod	Conn=O
 46	ของ	_	ADP	RPRE	_	47	case	47:case	Conn=O
 47	โลก	_	NOUN	NCMN	_	40	nmod	40:nmod	Conn=O
-48	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+48	เมื่อ	_	SCONJ	JSBR	_	7	parataxis	7:parataxis	Conn=O
 49	เกือบ	_	DET	DIBQ	_	51	det	51:det	Conn=O
 50	80	_	NUM	DCNM	_	51	nummod	51:nummod	Conn=O
-51	ปี	_	NOUN	CMTR	_	0	ROOT	0:ROOT	Conn=O
-52	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+51	ปี	_	NOUN	CMTR	_	7	parataxis	7:parataxis	Conn=O
+52	ที่	_	SCONJ	PREL	_	7	parataxis	7:parataxis	Conn=O
 53	แล้ว	_	AUX	XVBM	_	52	aux	52:aux	Conn=O
 
 # sent_id = T01365.tsv-8
@@ -20271,7 +20271,7 @@
 13	ว่า	_	SCONJ	JSBR	_	15	mark	15:mark	Conn=O
 14	ได้	_	AUX	XVAM	_	15	aux	15:aux	Conn=O
 15	มอบ	_	VERB	VACT	_	12	ccomp	12:ccomp	Conn=O
-16	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+16	ให้	_	SCONJ	JSBR	_	7	parataxis	7:parataxis	Conn=O
 17	หน่วยงาน	_	NOUN	NCMN	_	16	obj	16:obj	Conn=O
 18	ที่	_	SCONJ	PREL	_	21	mark	21:mark	Conn=O
 19	เกี่ยวข้อง	_	VERB	VSTA	_	18	acl	18:acl	Conn=O
@@ -20401,7 +20401,7 @@
 74	เงิน	_	NOUN	NCMN	_	73	obj	73:obj	Conn=O
 75	สำรอง	_	VERB	VACT	_	74	acl	74:acl	Conn=O
 76	กองทุน	_	NOUN	NCMN	_	75	obj	75:obj	Conn=O
-77	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+77	ให้	_	SCONJ	JSBR	_	7	parataxis	7:parataxis	Conn=O
 78	เพียงพอ	_	VERB	VSTA	_	77	xcomp	77:xcomp	Conn=O
 79	และ	_	CCONJ	JCRG	_	80	cc	80:cc	Conn=B-conn
 80	เป็น	_	VERB	VSTA	_	77	conj	77:conj	Conn=O
@@ -20417,7 +20417,7 @@
 3	ส่วน	_	NOUN	NCMN	_	1	obl	1:obl	Conn=O
 4	ของ	_	ADP	RPRE	_	5	case	5:case	Conn=O
 5	เอไอเอ	_	NOUN	NCMN	_	3	nmod:poss	3:nmod:poss	Conn=O
-6	มี	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+6	มี	_	VERB	VSTA	_	0	root	0:root	Conn=O
 7	เงิน	_	NOUN	NCMN	_	6	obj	6:obj	Conn=O
 8	กองทุน	_	NOUN	NCMN	_	7	compound	7:compound	Conn=O
 9	มาก	_	ADV	ADVN	_	6	advmod	6:advmod	Conn=O
@@ -20443,7 +20443,7 @@
 
 # sent_id = T01365.tsv-14
 # text = นอกจากนี้ หากดูสัดส่วนเอไอเอในไทย เมื่อเปรียบเทียบกับเอไอจีของสหรัฐ คิดเป็นสัดส่วนหุ้นเพียง 1.36% เท่านั้น ซึ่งถือว่าเป็นสัดส่วนที่น้อยมาก ดังนั้นจึงอยากฝากเตือนถึงผู้เอาประกันว่า ไม่จำเป็นต้องวิตกในเรื่องนี้
-1	นอกจากนี้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+1	นอกจากนี้	_	SCONJ	JSBR	_	0	root	0:root	Conn=B-conn
 2	หาก	_	SCONJ	JSBR	_	3	mark	3:mark	Conn=B-conn
 3	ดู	_	VERB	VACT	_	1	ccomp	1:ccomp	Conn=O
 4	สัดส่วน	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
@@ -20457,7 +20457,7 @@
 12	ของ	_	ADP	RPRE	_	13	case	13:case	Conn=O
 13	สหรัฐ	_	NOUN	NCMN	_	11	nmod	11:nmod	Conn=O
 14	คิด	_	VERB	VACT	_	13	acl	13:acl	Conn=O
-15	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+15	เป็น	_	VERB	VSTA	_	1	parataxis	1:parataxis	Conn=O
 16	สัดส่วน	_	NOUN	NCMN	_	15	obj	15:obj	Conn=O
 17	หุ้น	_	NOUN	NCMN	_	16	compound	16:compound	Conn=O
 18	เพียง	_	DET	DDBQ	_	20	det	20:det	Conn=O
@@ -20492,7 +20492,7 @@
 
 # sent_id = T01365.tsv-15
 # text = อย่างไรก็ตาม หากประชาชนมีข้อสงสัยในเรื่องฐานะของบริษัทประกันภัย สามารถติดต่อสอบถามได้โดยตรงจากสายด่วนประกันภัย 1186
-1	อย่างไรก็ตาม	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+1	อย่างไรก็ตาม	_	SCONJ	JSBR	_	0	root	0:root	Conn=B-conn
 2	หาก	_	SCONJ	JSBR	_	3	mark	3:mark	Conn=B-conn
 3	ประชาชน	_	VERB	VACT	_	1	ccomp	1:ccomp	Conn=O
 4	มี	_	VERB	VSTA	_	3	obj	3:obj	Conn=O
@@ -20621,17 +20621,17 @@
 46	มั่นคง	_	VERB	VSTA	_	42	advcl	42:advcl	Conn=O
 47	และ	_	CCONJ	JCRG	_	48	cc	48:cc	Conn=B-conn
 48	คปภ.	_	NOUN	NCMN	_	46	conj	46:conj	Conn=O
-49	ก็	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
-50	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+49	ก็	_	SCONJ	JSBR	_	17	parataxis	17:parataxis	Conn=B-conn
+50	เป็น	_	VERB	VSTA	_	17	parataxis	17:parataxis	Conn=O
 51	ผู้	_	PRON	PPRS	_	52	nsubj	52:nsubj	Conn=O
 52	ควบคุม	_	VERB	VACT	_	50	acl:relcl	50:acl:relcl	Conn=O
 53	อยู่แล้ว	_	AUX	XVAE	_	52	aux	52:aux	Conn=O
 
 # sent_id = T01365.tsv-18
 # text = ผู้สื่อข่าวรายงานว่า เมื่อวันที่ 16 กันยายน ที่ผ่านมา มีผู้ถือกรมธรรม์ของเอไอเอ โทรมาสอบถามที่คอลเซ็นเตอร์ 1581 จำนวนมาก ตลอดทั้งวัน โดยส่วนใหญ่สอบถามเหตุการณ์ที่เกิดขึ้นว่าบริษัทได้รับผลกระทบมากน้อยแค่ไหน เพราะมีความวิตกกังวลต่อเหตุการณ์ที่เกิดขึ้น
-1	ผู้สื่อข่าว	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ผู้สื่อข่าว	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	รายงาน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
-3	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+3	ว่า	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
 4	เมื่อ	_	SCONJ	JSBR	_	19	mark	19:mark	Conn=O
 5	วันที่	_	NOUN	NCMN	_	11	nsubj	11:nsubj	Conn=O
 6	16	_	NUM	NCNM	_	5	appos	5:appos	Conn=O
@@ -20647,7 +20647,7 @@
 16	เอไอเอ	_	NOUN	NCMN	_	11	obl	11:obl	Conn=O
 17	โทร	_	NOUN	NCMN	_	16	compound	16:compound	Conn=O
 18	มา	_	AUX	XVAE	_	19	aux	19:aux	Conn=O
-19	สอบถาม	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+19	สอบถาม	_	VERB	VACT	_	3	parataxis	1:parataxis|3:parataxis	Conn=O
 20	ที่	_	SCONJ	PREL	_	21	case	21:case	Conn=O
 21	คอล	_	NOUN	NCMN	_	19	obl	19:obl	Conn=O
 22	เซ็นเตอร์	_	NOUN	NCMN	_	21	compound	21:compound	Conn=O
@@ -20756,14 +20756,14 @@
 
 # sent_id = T01365.tsv-20
 # text = ขณะที่ผู้บริหารชี้แจงให้พนักงานผู้บริหารฝ่ายขายว่า เหตุการณ์ที่เกิดขึ้นไม่ได้ส่งผลกระทบต่อสถานะของเอไอเอ และขณะนี้ได้ทำเรื่องไปยังสำนักงานใหญ่ที่นิวยอร์ก เพื่อขอให้สำนักงานใหญ่ตอบกลับมาเพื่อที่จะได้แถลงการณ์ต่อผู้ถือกรมธรรม์ที่เป็นคนไทยต่อไป
-1	ขณะ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ขณะ	_	NOUN	NCMN	_	0	root	0:root	Conn=B-conn
 2	ที่	_	SCONJ	PREL	_	4	mark	4:mark	Conn=O
 3	ผู้	_	PRON	PPRS	_	4	nsubj	4:nsubj	Conn=O
 4	บริหาร	_	VERB	VACT	_	1	acl	1:acl	Conn=O
 5	ชี้แจง	_	NOUN	NCMN	_	4	obj	4:obj	Conn=O
-6	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-7	พนักงาน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
-8	ผู้	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+6	ให้	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
+7	พนักงาน	_	NOUN	NCMN	_	6	parataxis	1:parataxis|6:parataxis	Conn=O
+8	ผู้	_	SCONJ	PREL	_	7	parataxis	1:parataxis|6:parataxis|7:parataxis	Conn=O
 9	บริหาร	_	VERB	VACT	_	8	acl	8:acl	Conn=O
 10	ฝ่ายขาย	_	NOUN	NCMN	_	9	obj	9:obj	Conn=O
 11	ว่า	_	SCONJ	JSBR	_	18	mark	18:mark	Conn=O
@@ -20844,9 +20844,9 @@
 25	บริษัท	_	NOUN	NCMN	_	23	obl	23:obl	Conn=O
 26	แม่	_	NOUN	NCMN	_	25	compound	25:compound	Conn=O
 27	เท่านั้น	_	ADV	ADVN	_	23	advmod	23:advmod	Conn=O
-28	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=B-conn
+28	ซึ่ง	_	SCONJ	PREL	_	10	parataxis	10:parataxis	Conn=B-conn
 29	หาก	_	SCONJ	JSBR	_	30	mark	30:mark	Conn=B-conn
-30	พิจารณา	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+30	พิจารณา	_	VERB	VACT	_	10	parataxis	10:parataxis	Conn=O
 31	จาก	_	ADP	RPRE	_	32	case	32:case	Conn=O
 32	สัดส่วน	_	NOUN	NCMN	_	30	obl	30:obl	Conn=O
 33	เงิน	_	NOUN	NCMN	_	32	compound	32:compound	Conn=O
@@ -20867,7 +20867,7 @@
 48	อยู่	_	VERB	VSTA	_	46	acl:relcl	46:acl:relcl	Conn=O
 49	ใน	_	ADP	RPRE	_	50	case	50:case	Conn=O
 50	ระดับ	_	NOUN	NCMN	_	48	obl	48:obl	Conn=O
-51	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+51	ที่	_	SCONJ	PREL	_	10	parataxis	10:parataxis	Conn=O
 52	สูง	_	ADJ	VATT	_	51	amod	51:amod	Conn=O
 53	กว่า	_	SCONJ	JCMP	_	54	case	54:case	Conn=O
 54	ค่า	_	NOUN	NCMN	_	51	nmod:poss	51:nmod:poss	Conn=O
@@ -20876,8 +20876,8 @@
 57	ของ	_	ADP	RPRE	_	58	case	58:case	Conn=O
 58	ระบบ	_	NOUN	NCMN	_	55	obl	55:obl	Conn=O
 59	ธนาคาร	_	NOUN	NCMN	_	58	compound	58:compound	Conn=O
-60	ทั้งหมด	_	DET	DDAN	_	0	ROOT	0:ROOT	Conn=O
-61	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+60	ทั้งหมด	_	DET	DDAN	_	10	parataxis	10:parataxis	Conn=O
+61	ที่	_	SCONJ	PREL	_	10	parataxis	10:parataxis	Conn=O
 62	15	_	NUM	DCNM	_	63	nummod	63:nummod	Conn=O
 63	%	_	NOUN	NCMN	_	61	clf	61:clf	Conn=O
 64	มาก	_	ADV	ADVN	_	61	advmod	61:advmod	Conn=O
@@ -20926,8 +20926,8 @@
 40	จาก	_	ADP	RPRE	_	41	case	41:case	Conn=O
 41	บริษัท	_	NOUN	NCMN	_	39	obl	39:obl	Conn=O
 42	แม่	_	NOUN	NCMN	_	41	compound	41:compound	Conn=O
-43	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
-44	บีไอเอส	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+43	แต่	_	CCONJ	JCRG	_	5	parataxis	5:parataxis	Conn=B-conn
+44	บีไอเอส	_	NOUN	NCMN	_	5	parataxis	5:parataxis	Conn=O
 45	ก็	_	SCONJ	JSBR	_	47	mark	47:mark	Conn=B-conn
 46	ยัง	_	AUX	XVBM	_	47	aux	47:aux	Conn=O
 47	สูง	_	ADJ	VATT	_	44	ccomp	44:ccomp	Conn=O
@@ -21053,7 +21053,7 @@
 
 # sent_id = T01365.tsv-25
 # text = เนื่องจากธนาคารเอไอจี และบริษัทในเครือของเอไอจี ทั้งในไทยและต่างประเทศก็ยังสามารถช่วยเหลือกันได้ หากเกิดกรณีฉุกเฉิน เช่น การช่วยเหลือด้านสภาพคล่องจากบริษัทเอไอจีที่มีสาขาอยู่ในฮ่องกง เป็นต้น
-1	เนื่องจาก	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+1	เนื่องจาก	_	SCONJ	JSBR	_	0	root	0:root	Conn=B-conn
 2	ธนาคารเอไอจี	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	และ	_	CCONJ	JCRG	_	4	cc	4:cc	Conn=O
 4	บริษัท	_	NOUN	NCMN	_	1	conj	1:conj	Conn=O
@@ -21098,7 +21098,7 @@
 1	ขณะ	_	SCONJ	JSBR	_	4	case	4:case	Conn=B-conn
 2	ที่	_	SCONJ	PREL	_	1	fixed	1:fixed	Conn=O
 3	การ	_	PART	FIXN	_	1	fixed	1:fixed	Conn=O
-4	ซื้อขาย	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+4	ซื้อขาย	_	VERB	VACT	_	0	root	0:root	Conn=O
 5	ใน	_	ADP	RPRE	_	6	case	6:case	Conn=O
 6	ตลาด	_	NOUN	NCMN	_	4	obl	4:obl	Conn=O
 7	หลักทรัพย์	_	PROPN	NPRP	_	6	compound	6:compound	Conn=O
@@ -21161,13 +21161,13 @@
 64	แรง	_	ADJ	VATT	_	63	amod	63:amod	Conn=O
 65	ขาย	_	VERB	VACT	_	62	acl	62:acl	Conn=O
 66	ยังคง	_	ADV	ADVN	_	65	advmod	65:advmod	Conn=O
-67	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+67	เป็น	_	VERB	VSTA	_	4	parataxis	4:parataxis	Conn=O
 68	ของ	_	ADP	RPRE	_	69	case	69:case	Conn=O
 69	นัก	_	NOUN	NCMN	_	67	obl:poss	67:obl:poss	Conn=O
 70	ลง	_	AUX	XVAE	_	71	cop	71:cop	Conn=O
 71	ทุน	_	NOUN	NCMN	_	69	acl	69:acl	Conn=O
 72	ต่างชาติ	_	NOUN	NCMN	_	71	compound	71:compound	Conn=O
-73	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+73	ที่	_	SCONJ	PREL	_	67	parataxis	4:parataxis|67:parataxis	Conn=O
 74	ขาย	_	VERB	VACT	_	73	acl	73:acl	Conn=O
 75	สุทธิ	_	NOUN	NCMN	_	74	obj	74:obj	Conn=O
 76	อีก	_	DET	DDBQ	_	78	det	78:det	Conn=O
@@ -21336,7 +21336,7 @@
 96	สถาบัน	_	NOUN	NCMN	_	95	obj	95:obj	Conn=O
 97	การเงิน	_	NOUN	NCMN	_	96	compound	96:compound	Conn=O
 98	มากน้อย	_	NOUN	NCMN	_	96	compound	96:compound	Conn=O
-99	เพียง	_	DET	DDBQ	_	0	ROOT	0:ROOT	Conn=O
+99	เพียง	_	DET	DDBQ	_	5	parataxis	5:parataxis	Conn=O
 100	ใด	_	DET	DIAC	_	99	det	99:det	Conn=O
 
 # sent_id = T01365.tsv-29
@@ -21441,9 +21441,9 @@
 23	มูลค่า	_	NOUN	NCMN	_	22	obj	22:obj	Conn=O
 24	ไม่	_	PART	NEG	_	25	advmod	25:advmod	Conn=O
 25	น้อย	_	ADJ	VATT	_	5	xcomp	5:xcomp	Conn=O
-26	กว่า	_	SCONJ	JCMP	_	0	ROOT	0:ROOT	Conn=O
+26	กว่า	_	SCONJ	JCMP	_	5	parataxis	5:parataxis	Conn=O
 27	1	_	NUM	DCNM	_	26	appos	26:appos	Conn=O
-28	หมื่น	_	NOUN	CNIT	_	0	ROOT	0:ROOT	Conn=O
+28	หมื่น	_	NOUN	CNIT	_	5	parataxis	5:parataxis	Conn=O
 29	ล้าน	_	NUM	DCNM	_	30	nummod	30:nummod	Conn=O
 30	บาท	_	NOUN	CMTR	_	28	clf	28:clf	Conn=O
 31	เช่น	_	ADP	RPRE	_	32	case	32:case	Conn=B-conn
@@ -21476,7 +21476,7 @@
 # text = นอกจากนี้ ยังมีโรงแรม รีสอร์ท และที่ดินเปล่าในเมืองท่องเที่ยว เช่น ซื้อที่ดินเปล่าในเกาะสมุย 2 แปลง จำนวน 131 ไร่ และเช่าที่ดินเนื้อที่ 7 ไร่ ในเกาะสมุยราคารวม 1,175 ล้านบาท จากบริษัท แปซิฟิค แอสเซ็ทส์ จำกัด (มหาชน) หรือพีเอ
 1	นอกจากนี้	_	SCONJ	JSBR	_	3	mark	3:mark	Conn=B-conn
 2	ยัง	_	AUX	XVBM	_	3	aux	3:aux	Conn=O
-3	มี	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+3	มี	_	VERB	VSTA	_	0	root	0:root	Conn=O
 4	โรง	_	NOUN	NCMN	_	3	obj	3:obj	Conn=O
 5	แรม	_	NOUN	NCMN	_	4	compound	4:compound	Conn=O
 6	รีสอร์ท	_	NOUN	NCMN	_	4	compound	4:compound	Conn=O
@@ -21529,7 +21529,7 @@
 2	กลุ่ม	_	NOUN	NCMN	_	1	fixed	1:fixed	Conn=O
 3	เลห์แมน	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 4	บราเธอร์ส	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
-5	ต้องการ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+5	ต้องการ	_	VERB	VACT	_	0	root	0:root	Conn=O
 6	ขาย	_	VERB	VACT	_	5	xcomp	5:xcomp	Conn=O
 7	ให้	_	SCONJ	JSBR	_	10	mark	10:mark	Conn=O
 8	แก่	_	ADP	RPRE	_	7	fixed	7:fixed	Conn=O
@@ -21573,7 +21573,7 @@
 # newdoc id = T01388.tsv
 # sent_id = T01388.tsv-1
 # text = ก๊วนเนวินแหกมติหนุนสมชาย ขอ 6 เก้าอี้แลก-พปช.ขู่ยุบสภา
-1	ก๊วน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ก๊วน	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	เนวิน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	แหก	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 4	มติ	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
@@ -21681,7 +21681,7 @@
 
 # sent_id = T01388.tsv-5
 # text = แม้ว่าที่ประชุมคณะกรรมการบริหารพรรคพลังประชาชนช่วงสายวันที่ 15 กันยายน จะมีมติเป็นเอกฉันท์เสนอชื่อนายสมชาย วงศ์สวัสดิ์ รองหัวหน้าพรรค ขึ้นเป็นนายกรัฐมนตรี
-1	แม้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+1	แม้	_	SCONJ	JSBR	_	0	root	0:root	Conn=B-conn
 2	ว่า	_	SCONJ	JSBR	_	15	mark	15:mark	Conn=O
 3	ที่ประชุม	_	NOUN	NCMN	_	15	nsubj	15:nsubj	Conn=O
 4	คณะ	_	NOUN	NCMN	_	3	compound	3:compound	Conn=O
@@ -21714,7 +21714,7 @@
 
 # sent_id = T01388.tsv-6
 # text = แต่เมื่อมีการนำมติของคณะกรรมการบริหารพรรคเข้าสู่ที่ประชุม ส.ส.ของพรรคในช่วงบ่ายวันเดียวกัน กลับปรากฏว่า บรรดา ส.ส.กลุ่มเพื่อนเนวินออกนอกห้องประชุม และมาเปิดแถลงข่าวนอกห้อง เรียกร้องให้มีการทบทวนมติของคณะกรรมการบริหารพรรค
-1	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
+1	แต่	_	CCONJ	JCRG	_	0	root	0:root	Conn=B-conn
 2	เมื่อ	_	SCONJ	JSBR	_	11	mark	11:mark	Conn=B-conn
 3	มีการ	_	NOUN	NCMN	_	11	nsubj	11:nsubj	Conn=O
 4	นำ	_	VERB	VACT	_	3	acl	3:acl	Conn=O
@@ -21724,7 +21724,7 @@
 8	กรรมการ	_	NOUN	NCMN	_	7	compound	7:compound	Conn=O
 9	บริหาร	_	VERB	VACT	_	8	acl	8:acl	Conn=O
 10	พรรค	_	NOUN	NCMN	_	7	compound	7:compound	Conn=O
-11	เข้า	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+11	เข้า	_	VERB	VACT	_	1	parataxis	1:parataxis	Conn=O
 12	สู่	_	ADP	RPRE	_	13	case	13:case	Conn=O
 13	ที่ประชุม	_	NOUN	NCMN	_	11	obl	11:obl	Conn=O
 14	ส.ส.	_	NOUN	NCMN	_	13	compound	13:compound	Conn=O
@@ -21757,7 +21757,7 @@
 41	ห้อง	_	NOUN	NCMN	_	37	obl	37:obl	Conn=O
 42	เรียกร้อง	_	VERB	VSTA	_	41	acl	41:acl	Conn=O
 43	ให้	_	SCONJ	JSBR	_	30	conj	30:conj	Conn=O
-44	มีการ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+44	มีการ	_	NOUN	NCMN	_	11	parataxis	1:parataxis|11:parataxis	Conn=O
 45	ทบทวน	_	VERB	VACT	_	44	acl	44:acl	Conn=O
 46	มติ	_	NOUN	NCMN	_	45	obj	45:obj	Conn=O
 47	ของ	_	ADP	RPRE	_	48	case	48:case	Conn=O
@@ -22011,7 +22011,7 @@
 58	ไป	_	AUX	XVAE	_	57	aux	57:aux	Conn=O
 59	ใน	_	ADP	RPRE	_	60	case	60:case	Conn=O
 60	ทิศทาง	_	NOUN	NCMN	_	57	obl	57:obl	Conn=O
-61	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+61	ที่	_	SCONJ	PREL	_	7	parataxis	7:parataxis	Conn=O
 62	ดี	_	ADJ	VATT	_	61	amod	61:amod	Conn=O
 63	และ	_	CCONJ	JCRG	_	64	cc	64:cc	Conn=B-conn
 64	รับฟัง	_	NOUN	NCMN	_	61	conj	61:conj	Conn=O
@@ -22071,8 +22071,8 @@
 34	ต่าง	_	VERB	VSTA	_	27	ccomp	27:ccomp	Conn=O
 35	รู้	_	VERB	VSTA	_	34	xcomp	34:xcomp	Conn=O
 36	ดี	_	ADV	ADVN	_	35	advmod	35:advmod	Conn=O
-37	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-38	ผู้	_	PRON	PPRS	_	0	ROOT	0:ROOT	Conn=O
+37	ว่า	_	SCONJ	JSBR	_	10	parataxis	10:parataxis	Conn=O
+38	ผู้	_	PRON	PPRS	_	10	parataxis	10:parataxis	Conn=O
 39	ที่	_	SCONJ	PREL	_	40	mark	40:mark	Conn=O
 40	เหมาะสม	_	VERB	VSTA	_	38	ccomp	38:ccomp	Conn=O
 41	มี	_	VERB	VSTA	_	40	xcomp	40:xcomp	Conn=O
@@ -22100,7 +22100,7 @@
 
 # sent_id = T01388.tsv-13
 # text = ดังนั้น ที่ประชุมจึงมีมติเอกฉันท์ให้เสนอชื่อนายสมชายเป็นนายกรัฐมนตรี และไม่ได้มีการถกเถียงอะไรมากนัก หลังจากนั้นนายสมชายได้ขอบคุณที่ประชุมที่ให้การสนับสนุน และได้จับมือนายสมพงษ์และ นพ.สุรพงษ์ ชูขึ้นเพื่อแสดงความยินดีร่วมกัน
-1	ดังนั้น	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ดังนั้น	_	SCONJ	JSBR	_	4	parataxis	4:parataxis	Conn=B-conn
 2	ที่ประชุม	_	NOUN	NCMN	_	4	nsubj	4:nsubj	Conn=O
 3	จึง	_	AUX	XVBM	_	4	aux	4:aux	Conn=B-conn
 4	มี	_	VERB	VSTA	_	1	root	1:root	Conn=O
@@ -22152,7 +22152,7 @@
 
 # sent_id = T01388.tsv-14
 # text = กลุ่มเพื่อนเนวินรวบรัด
-1	กลุ่ม	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	กลุ่ม	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	เพื่อน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	เนวิน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 4	รวบรัด	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
@@ -22183,8 +22183,8 @@
 22	เพื่อ	_	SCONJ	JSBR	_	23	mark	23:mark	Conn=B-conn
 23	บันทึก	_	VERB	VACT	_	9	advcl	9:advcl	Conn=O
 24	ภาพ	_	NOUN	NCMN	_	23	obj	23:obj	Conn=O
-25	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=B-conn
-26	แกนนำ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+25	ซึ่ง	_	SCONJ	PREL	_	9	parataxis	9:parataxis	Conn=B-conn
+26	แกนนำ	_	NOUN	NCMN	_	9	parataxis	9:parataxis	Conn=O
 27	กลุ่ม	_	NOUN	NCMN	_	26	compound	26:compound	Conn=O
 28	เพื่อน	_	NOUN	NCMN	_	26	compound	26:compound	Conn=O
 29	เนวิน	_	NOUN	NCMN	_	26	compound	26:compound	Conn=O
@@ -22221,7 +22221,7 @@
 
 # sent_id = T01388.tsv-16
 # text = นายทรงศักดิ์กล่าวว่า ทำอย่างนี้ใช้ไม่ได้ เพราะมติกรรมการบริหารพรรคต้องเป็นเสียงส่วนใหญ่ ไม่ใช่รวบรัดเสนอชื่อนายสมชายขึ้นมา กรรมการบริหารที่นั่งในที่ประชุมยังไม่ได้อภิปราย ตนจะนำประเด็นนี้ไปพูดในที่ประชุมพรรค ไม่เช่นนี้จะเกิดสภาล่มเหมือนวันศุกร์ที่ 12 กันยายน ที่ผ่านมาอีก
-1	นาย	_	NOUN	NTTL	_	0	ROOT	0:ROOT	Conn=O
+1	นาย	_	NOUN	NTTL	_	0	root	0:root	Conn=O
 2	ทรงศักดิ์	_	SCONJ	JSBR	_	3	nsubj	3:nsubj	Conn=O
 3	กล่าว	_	VERB	VACT	_	1	acl:relcl	1:acl:relcl	Conn=O
 4	ว่า	_	SCONJ	JSBR	_	8	mark	8:mark	Conn=O
@@ -22279,7 +22279,7 @@
 56	เหมือน	_	SCONJ	JCMP	_	57	case	57:case	Conn=O
 57	วัน	_	NOUN	NCMN	_	53	obl	53:obl	Conn=O
 58	ศุกร์	_	DET	DIAC	_	57	det	57:det	Conn=O
-59	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+59	ที่	_	SCONJ	PREL	_	1	parataxis	1:parataxis	Conn=O
 60	12	_	NUM	NCNM	_	61	nummod	61:nummod	Conn=O
 61	กันยายน	_	NOUN	NCMN	_	59	clf	59:clf	Conn=O
 62	ที่	_	SCONJ	PREL	_	63	obl:tmod	63:obl:tmod	Conn=O
@@ -22289,7 +22289,7 @@
 
 # sent_id = T01388.tsv-17
 # text = เมื่อเวลา 11.40 น. นายเนวิน ชิดชอบ แกนนำกลุ่มเพื่อนเนวินเดินทางมาที่พรรคพลังประชาชนเร่งรีบ ด้วยรถโตโยต้า แฮร์ริเออร์ สีขาว โดยขับมาจอดเทียบที่ชั้น 4 ของอาคาร ด้วยสีหน้าเคร่งเครียด และพูดคุยโทรศัพท์ตลอดเวลา จากนั้นได้เดินเข้าไปคุยกับ ส.ส.กลุ่มเพื่อนเนวินรออยู่ที่ห้องประชุมชั้น 4
-1	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+1	เมื่อ	_	SCONJ	JSBR	_	12	parataxis	12:parataxis	Conn=O
 2	เวลา	_	NOUN	NCMN	_	12	nsubj	12:nsubj	Conn=O
 3	11.40	_	NUM	DCNM	_	4	nummod	4:nummod	Conn=O
 4	น.	_	NOUN	CMTR	_	2	clf	2:clf	Conn=O
@@ -22317,7 +22317,7 @@
 26	มา	_	AUX	XVAE	_	25	aux	25:aux	Conn=O
 27	จอด	_	VERB	VACT	_	25	xcomp	25:xcomp	Conn=O
 28	เทียบ	_	VERB	VACT	_	27	acl	27:acl	Conn=O
-29	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+29	ที่	_	SCONJ	PREL	_	12	parataxis	12:parataxis	Conn=O
 30	ชั้น	_	NOUN	NCMN	_	29	compound	29:compound	Conn=O
 31	4	_	NUM	NCNM	_	30	nummod	30:nummod	Conn=O
 32	ของ	_	ADP	RPRE	_	33	case	33:case	Conn=O
@@ -22402,8 +22402,8 @@
 
 # sent_id = T01388.tsv-20
 # text = ปรากฏว่า ส.ส.อีสานกลุ่มเพื่อนเนวิน อาทิ นายวิเชียร ขาวขำ ส.ส.อุดรธานี นายศุภชัย โพธิ์สุ ส.ส.นครพนม นายนิสิต สินธุไพร ส.ส.ร้อยเอ็ด ได้ลุกขึ้นขอให้ประธานในที่ประชุมเปิดโอกาสให้ ส.ส.ลุกขึ้นอภิปรายคุณสมบัติความเหมาะสมทั้ง 3 ส.ว่าใครมีข้อดีข้อเสียอย่างไร เพื่อให้สมาชิกได้รับทราบ แต่นายสุวัฒน์แย้งว่า เป็นมติที่ประชุมไปแล้ว และพยายามจะรวบรัดให้ยุติการประชุม ทำให้ ส.ส.กลุ่มเพื่อนเนวิน 72 คน ไม่พอใจ ลุกขึ้นวอล์กเอาท์ออกจากห้องประชุมทันที
-1	ปรากฏ	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
-2	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+1	ปรากฏ	_	VERB	VSTA	_	0	root	0:root	Conn=O
+2	ว่า	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
 3	ส.ส.	_	NOUN	NCMN	_	25	nsubj	25:nsubj	Conn=O
 4	อีสาน	_	VERB	VACT	_	3	acl	3:acl	Conn=O
 5	กลุ่ม	_	NOUN	NCMN	_	4	obj	4:obj	Conn=O
@@ -22463,8 +22463,8 @@
 59	นาย	_	NOUN	NTTL	_	61	nsubj	61:nsubj	Conn=O
 60	สุวัฒน์	_	PROPN	NPRP	_	59	appos	59:appos	Conn=O
 61	แย้ง	_	VERB	VSTA	_	54	conj	54:conj	Conn=O
-62	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-63	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+62	ว่า	_	SCONJ	JSBR	_	2	parataxis	1:parataxis|2:parataxis	Conn=O
+63	เป็น	_	VERB	VSTA	_	62	parataxis	1:parataxis|2:parataxis|62:parataxis	Conn=O
 64	มติ	_	NOUN	NCMN	_	63	obj	63:obj	Conn=O
 65	ที่ประชุม	_	NOUN	NCMN	_	64	compound	64:compound	Conn=O
 66	ไป	_	AUX	XVAE	_	63	aux	63:aux	Conn=O
@@ -22517,15 +22517,15 @@
 18	ศุภชัย	_	PROPN	NPRP	_	13	compound	13:compound	Conn=O
 19	โพธิ์สุ	_	NOUN	NCMN	_	13	compound	13:compound	Conn=O
 20	ได้	_	AUX	XVAM	_	21	aux	21:aux	Conn=O
-21	นำ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+21	นำ	_	VERB	VACT	_	0	root	0:root	Conn=O
 22	เอกสาร	_	NOUN	NCMN	_	21	obj	21:obj	Conn=O
 23	แถลง	_	NOUN	NCMN	_	22	compound	22:compound	Conn=O
 24	การณ์	_	NOUN	NCMN	_	22	compound	22:compound	Conn=O
 25	เรียกร้อง	_	VERB	VSTA	_	21	acl	21:acl	Conn=O
-26	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+26	ให้	_	SCONJ	JSBR	_	21	parataxis	21:parataxis	Conn=O
 27	พรรค	_	NOUN	NCMN	_	26	compound	26:compound	Conn=O
 28	พลังประชาชน	_	NOUN	NCMN	_	26	compound	26:compound	Conn=O
-29	มติ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+29	มติ	_	NOUN	NCMN	_	26	parataxis	21:parataxis|26:parataxis	Conn=O
 30	ของ	_	ADP	RPRE	_	31	case	31:case	Conn=O
 31	คณะ	_	NOUN	NCMN	_	29	nmod	29:nmod	Conn=O
 32	กรรมการ	_	NOUN	NCMN	_	31	compound	31:compound	Conn=O
@@ -22551,8 +22551,8 @@
 52	คน	_	NOUN	CNIT	_	48	clf	48:clf	Conn=O
 53	โดย	_	ADP	RPRE	_	54	mark	54:mark	Conn=B-conn
 54	ระบุ	_	VERB	VACT	_	40	advcl	40:advcl	Conn=O
-55	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-56	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+55	ว่า	_	SCONJ	JSBR	_	29	parataxis	21:parataxis|26:parataxis|29:parataxis	Conn=O
+56	เป็น	_	VERB	VSTA	_	55	parataxis	21:parataxis|26:parataxis|29:parataxis|55:parataxis	Conn=O
 57	ลายมือชื่อ	_	NOUN	NCMN	_	56	obj	56:obj	Conn=O
 58	ของ	_	ADP	RPRE	_	59	case	59:case	Conn=O
 59	ส.ส.	_	NOUN	NCMN	_	56	obl	56:obl	Conn=O
@@ -22668,7 +22668,7 @@
 22	เกิด	_	VERB	VSTA	_	21	xcomp	21:xcomp	Conn=O
 23	เงื่อนไข	_	NOUN	NCMN	_	22	obj	22:obj	Conn=O
 24	ก่อ	_	NOUN	NCMN	_	23	compound	23:compound	Conn=O
-25	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+25	ให้	_	SCONJ	JSBR	_	6	parataxis	6:parataxis	Conn=O
 26	เกิด	_	VERB	VSTA	_	25	xcomp	25:xcomp	Conn=O
 27	ความ	_	PART	FIXN	_	26	compound:prt	26:compound:prt	Conn=O
 28	ข้อ	_	VERB	VSTA	_	26	acl	26:acl	Conn=O
@@ -22744,7 +22744,7 @@
 61	กลุ่ม	_	NOUN	NCMN	_	59	ccomp	59:ccomp	Conn=O
 62	จะ	_	AUX	XVBM	_	63	aux	63:aux	Conn=O
 63	ขอ	_	VERB	VACT	_	43	advcl	43:advcl	Conn=O
-64	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+64	ให้	_	SCONJ	JSBR	_	13	parataxis	13:parataxis	Conn=O
 65	ใช้	_	VERB	VACT	_	64	xcomp	64:xcomp	Conn=O
 66	เอกสิทธิ์	_	NOUN	NCMN	_	65	obj	65:obj	Conn=O
 67	ตาม	_	ADP	RPRE	_	68	case	68:case	Conn=O
@@ -22799,7 +22799,7 @@
 21	ใน	_	ADP	RPRE	_	22	case	22:case	Conn=O
 22	วัน	_	NOUN	NCMN	_	17	obl	17:obl	Conn=O
 23	พุธ	_	NOUN	NCMN	_	22	appos	22:appos	Conn=O
-24	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+24	ที่	_	SCONJ	PREL	_	3	parataxis	3:parataxis	Conn=O
 25	17	_	NUM	DCNM	_	26	nummod	26:nummod	Conn=O
 26	กันยายน	_	NOUN	CNIT	_	24	clf	24:clf	Conn=O
 27	นี้	_	DET	DDAC	_	26	det	26:det	Conn=O
@@ -22993,7 +22993,7 @@
 2	หาก	_	SCONJ	JSBR	_	5	mark	5:mark	Conn=B-conn
 3	พรรค	_	NOUN	NCMN	_	5	nsubj	5:nsubj	Conn=O
 4	ไม่	_	PART	NEG	_	5	advmod	5:advmod	Conn=O
-5	ฟัง	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+5	ฟัง	_	VERB	VACT	_	0	root	0:root	Conn=O
 6	ความ	_	PART	FIXN	_	5	compound:prt	5:compound:prt	Conn=O
 7	เห็น	_	VERB	VSTA	_	5	acl	5:acl	Conn=O
 8	ใน	_	ADP	RPRE	_	9	case	9:case	Conn=O
@@ -23048,7 +23048,7 @@
 # text = เมื่อถามย้ำว่า อะไรที่ไม่ชัดเจนถึงไม่ยอมรับมติดังกล่าว
 1	เมื่อ	_	SCONJ	JSBR	_	3	mark	3:mark	Conn=B-conn
 2	ถาม	_	VERB	VACT	_	3	nsubj	3:nsubj	Conn=O
-3	ย้ำ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+3	ย้ำ	_	VERB	VACT	_	0	root	0:root	Conn=O
 4	ว่า	_	SCONJ	JSBR	_	8	mark	8:mark	Conn=O
 5	อะไร	_	PRON	PNTR	_	8	obl	8:obl	Conn=O
 6	ที่	_	SCONJ	PREL	_	8	nsubj	8:nsubj	Conn=O
@@ -23062,7 +23062,7 @@
 
 # sent_id = T01388.tsv-33
 # text = นายทรงศักดิ์กล่าวว่า ที่ผ่านมาสถานการณ์การเมืองมีการเปลี่ยนแปลงตลอดเวลา และไม่รู้ว่าก่อนวันที่ 17 กันยายน จะมีอะไรเข้ามาแทรกแซงอีกหรือไม่ การที่เราเรียกร้องว่าควรจะฟังความคิดเห็นของ ส.ส. ก็ต้องรับฟังหลายๆด้าน โดยเฉพาะเสียงของประชาชนที่บอกผ่าน ส.ส.จะต้องดูประเทศเป็นหลัก
-1	นาย	_	NOUN	NTTL	_	0	ROOT	0:ROOT	Conn=O
+1	นาย	_	NOUN	NTTL	_	0	root	0:root	Conn=O
 2	ทรงศักดิ์	_	SCONJ	JSBR	_	3	nsubj	3:nsubj	Conn=O
 3	กล่าว	_	VERB	VACT	_	1	acl:relcl	1:acl:relcl	Conn=O
 4	ว่า	_	SCONJ	JSBR	_	8	mark	8:mark	Conn=O
@@ -23125,7 +23125,7 @@
 
 # sent_id = T01388.tsv-34
 # text = ผู้สื่อข่าวรายงานด้วยว่า เดิมกลุ่มเพื่อนเนวิน ส.ส.ในกลุ่มช่วงเวลา 17.00 น. ที่ร้านอาหารบัว ย่านถนน แต่ตอนหลังเปลี่ยนใจปักหลักติดตามการประชุมรอบค่ำของแกนนำพรรคกับอดีตสมาชิกบ้านเลขที่_111 ที่เข้ามาเคลียร์ความขัดแย้งการเสนอชื่อนายกฯ คนใหม่ ที่พรรคพลังประชาชน
-1	ผู้สื่อข่าว	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ผู้สื่อข่าว	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	รายงาน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	ด้วยว่า	_	SCONJ	JSBR	_	5	case	5:case	Conn=O
 4	เดิม	_	ADJ	VATT	_	3	amod	3:amod	Conn=O
@@ -23139,8 +23139,8 @@
 12	เวลา	_	NOUN	NCMN	_	11	compound	11:compound	Conn=O
 13	17.00	_	NUM	NCNM	_	14	nummod	14:nummod	Conn=O
 14	น.	_	NOUN	CMTR	_	11	obl:tmod	11:obl:tmod	Conn=O
-15	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-16	ร้าน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+15	ที่	_	SCONJ	PREL	_	1	parataxis	1:parataxis	Conn=O
+16	ร้าน	_	NOUN	NCMN	_	15	parataxis	1:parataxis|15:parataxis	Conn=O
 17	อาหารบัว	_	NOUN	NCMN	_	16	compound	16:compound	Conn=O
 18	ย่าน	_	NOUN	NCMN	_	16	compound	16:compound	Conn=O
 19	ถนน	_	NOUN	NCMN	_	16	compound	16:compound	Conn=O
@@ -23472,7 +23472,7 @@
 
 # sent_id = T01388.tsv-41
 # text = ขู่ยุบสภาถ้าตกลงกันไม่ได้
-1	ขู่	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ขู่	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ยุบ	_	VERB	VACT	_	1	acl	1:acl	Conn=O
 3	สภา	_	NOUN	NCMN	_	2	obj	2:obj	Conn=O
 4	ถ้า	_	SCONJ	JSBR	_	5	advmod	5:advmod	Conn=B-conn
@@ -23495,7 +23495,7 @@
 10	พรรค	_	NOUN	NCMN	_	4	compound	4:compound	Conn=O
 11	พลังประชาชน	_	NOUN	NCMN	_	4	compound	4:compound	Conn=O
 12	แถลง	_	VERB	VACT	_	0	root	0:root	Conn=O
-13	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+13	ว่า	_	SCONJ	JSBR	_	12	parataxis	12:parataxis	Conn=O
 14	หาก	_	SCONJ	JSBR	_	17	mark	17:mark	Conn=B-conn
 15	คืน	_	VERB	VACT	_	17	nsubj	17:nsubj	Conn=O
 16	นี้	_	DET	DDAC	_	15	det	15:det	Conn=O
@@ -23555,10 +23555,10 @@
 70	นายก	_	NOUN	NCMN	_	69	compound	69:compound	Conn=O
 71	ฯ	_	PUNCT	PUNC	_	72	punct	72:punct	Conn=O
 72	ครั้ง	_	NOUN	CFQC	_	69	clf	69:clf	Conn=O
-73	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+73	ที่	_	SCONJ	PREL	_	12	parataxis	12:parataxis	Conn=O
 74	2	_	NUM	NCNM	_	73	nummod	73:nummod	Conn=O
-75	ขึ้น	_	AUX	XVAE	_	0	ROOT	0:ROOT	Conn=O
-76	มา	_	AUX	XVAE	_	0	ROOT	0:ROOT	Conn=O
+75	ขึ้น	_	AUX	XVAE	_	12	parataxis	12:parataxis	Conn=O
+76	มา	_	AUX	XVAE	_	12	parataxis	12:parataxis	Conn=O
 
 # sent_id = T01388.tsv-43
 # text = ตอนนี้ยังไม่ได้แจ้งเรื่องนี้ไปยังพรรคร่วมรัฐบาล เพราะยังไม่ได้ข้อยุติ หากเกิดขึ้นจริงๆก็ขอโทษพรรคร่วมรัฐบาลด้วย เพราะไม่รู้จะทำอย่างไร และอยากขอแรงพรรคร่วมรัฐบาลมาช่วยคุยกับ 72 ส.ส.ด้วย หากไม่อยากให้การยุบสภาเกิดขึ้น
@@ -23654,13 +23654,13 @@
 30	สมชาย	_	PROPN	NPRP	_	29	compound	29:compound	Conn=O
 31	เป็น	_	VERB	VSTA	_	26	xcomp	26:xcomp	Conn=O
 32	นายก	_	NOUN	NCMN	_	31	obj	31:obj	Conn=O
-33	ฯ	_	PUNCT	PUNC	_	0	ROOT	0:ROOT	Conn=O
-34	โดย	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+33	ฯ	_	PUNCT	PUNC	_	26	parataxis	26:parataxis	Conn=O
+34	โดย	_	SCONJ	JSBR	_	26	parataxis	26:parataxis	Conn=B-conn
 35	ให้	_	VERB	VACT	_	34	xcomp	34:xcomp	Conn=O
 36	มา	_	AUX	XVAE	_	37	aux	37:aux	Conn=O
 37	ลง	_	VERB	VACT	_	35	xcomp	35:xcomp	Conn=O
 38	ชื่อ	_	NOUN	NCMN	_	37	obj	37:obj	Conn=O
-39	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+39	ที่	_	SCONJ	PREL	_	26	parataxis	26:parataxis	Conn=O
 40	ชั้น	_	NOUN	NCMN	_	39	compound	39:compound	Conn=O
 41	2	_	NUM	NCNM	_	42	nummod	42:nummod	Conn=O
 42	อาคาร	_	NOUN	NCMN	_	39	clf	39:clf	Conn=O
@@ -23774,7 +23774,7 @@
 12	รมช.	_	NOUN	NCMN	_	8	obl	8:obl	Conn=O
 13	4	_	NUM	NCNM	_	14	nummod	14:nummod	Conn=O
 14	เก้าอี้	_	NOUN	CMTR	_	12	clf	12:clf	Conn=O
-15	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+15	เป็น	_	VERB	VSTA	_	3	parataxis	3:parataxis	Conn=O
 16	6	_	NUM	NCNM	_	17	nummod	17:nummod	Conn=O
 17	เก้าอี้	_	NOUN	CNIT	_	15	clf	15:clf	Conn=O
 18	โดย	_	SCONJ	JSBR	_	20	mark	20:mark	Conn=O
@@ -23802,7 +23802,7 @@
 40	คลัง	_	NOUN	NCMN	_	20	obj	20:obj	Conn=O
 41	โดย	_	ADP	RPRE	_	42	mark	42:mark	Conn=B-conn
 42	ขอ	_	VERB	VACT	_	20	advcl	20:advcl	Conn=O
-43	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+43	ให้	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 44	ให้	_	VERB	VACT	_	43	xcomp	43:xcomp	Conn=O
 45	นาย	_	NOUN	NCMN	_	44	obj	44:obj	Conn=O
 46	สันติ	_	PROPN	NPRP	_	45	appos	45:appos	Conn=O
@@ -23825,13 +23825,13 @@
 63	สุดท้าย	_	ADJ	DONM	_	62	amod	62:amod	Conn=O
 64	โดย	_	ADP	RPRE	_	65	case	65:case	Conn=B-conn
 65	ขู่	_	NOUN	NCMN	_	48	obl	48:obl	Conn=O
-66	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+66	ว่า	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 67	หาก	_	SCONJ	JSBR	_	72	mark	72:mark	Conn=B-conn
 68	ไม่	_	PART	NEG	_	69	advmod	69:advmod	Conn=O
 69	ได้	_	AUX	XVAM	_	72	aux	72:aux	Conn=O
 70	ก็	_	SCONJ	JSBR	_	72	advmod	72:advmod	Conn=B-conn
 71	จะ	_	AUX	XVBM	_	72	aux	72:aux	Conn=O
-72	นำ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+72	นำ	_	VERB	VACT	_	3	parataxis	3:parataxis	Conn=O
 73	ส.ส.	_	NOUN	NCMN	_	72	obj	72:obj	Conn=O
 74	ของ	_	ADP	RPRE	_	75	case	75:case	Conn=O
 75	พรรค	_	NOUN	NCMN	_	72	obl	72:obl	Conn=O
@@ -24013,7 +24013,7 @@
 4	อีสานพัฒนา	_	NOUN	NCMN	_	3	compound	3:compound	Conn=O
 5	ก็	_	SCONJ	JSBR	_	7	mark	7:mark	Conn=B-conn
 6	ได้	_	AUX	XVAM	_	7	aux	7:aux	Conn=O
-7	เสนอ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+7	เสนอ	_	VERB	VACT	_	0	root	0:root	Conn=O
 8	ให้	_	SCONJ	JSBR	_	11	mark	11:mark	Conn=O
 9	นาย	_	NOUN	NTTL	_	11	nsubj	11:nsubj	Conn=O
 10	สมชาย	_	PROPN	NPRP	_	9	compound	9:compound	Conn=O
@@ -24032,8 +24032,8 @@
 23	เป็น	_	VERB	VSTA	_	11	advcl	11:advcl	Conn=O
 24	โควตา	_	NOUN	NCMN	_	23	obj	23:obj	Conn=O
 25	กลาง	_	ADJ	VATT	_	24	amod	24:amod	Conn=O
-26	เพื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
-27	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+26	เพื่อ	_	SCONJ	JSBR	_	7	parataxis	7:parataxis	Conn=B-conn
+27	ให้	_	SCONJ	JSBR	_	26	parataxis	7:parataxis|26:parataxis	Conn=O
 28	นำ	_	VERB	VACT	_	27	xcomp	27:xcomp	Conn=O
 29	มา	_	AUX	XVAE	_	28	aux	28:aux	Conn=O
 30	พิจารณา	_	VERB	VACT	_	28	acl	28:acl	Conn=O
@@ -24113,16 +24113,16 @@
 48	นาย	_	NOUN	NTTL	_	47	obj	47:obj	Conn=O
 49	สมชาย	_	PROPN	NPRP	_	48	compound	48:compound	Conn=O
 50	แล้ว	_	AUX	XVAE	_	43	aux	43:aux	Conn=O
-51	เพราะ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
-52	พรรค	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+51	เพราะ	_	SCONJ	JSBR	_	7	parataxis	7:parataxis	Conn=B-conn
+52	พรรค	_	NOUN	NCMN	_	7	parataxis	7:parataxis	Conn=O
 53	มีการ	_	NOUN	NCMN	_	52	compound	52:compound	Conn=O
 54	ขู่	_	NOUN	NCMN	_	52	compound	52:compound	Conn=O
-55	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+55	ว่า	_	SCONJ	JSBR	_	7	parataxis	7:parataxis	Conn=O
 56	หาก	_	SCONJ	JSBR	_	60	mark	60:mark	Conn=B-conn
 57	ส.ส.	_	NOUN	NCMN	_	60	nsubj	60:nsubj	Conn=O
 58	ไม่	_	PART	NEG	_	59	advmod	59:advmod	Conn=O
 59	มา	_	AUX	XVAE	_	60	aux	60:aux	Conn=O
-60	ลง	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+60	ลง	_	VERB	VACT	_	7	parataxis	7:parataxis	Conn=O
 61	ชื่อ	_	NOUN	NCMN	_	60	obj	60:obj	Conn=O
 62	สนับสนุน	_	VERB	VACT	_	61	acl	61:acl	Conn=O
 63	นาย	_	NOUN	NTTL	_	62	obj	62:obj	Conn=O
@@ -24332,7 +24332,7 @@
 
 # sent_id = T01388.tsv-58
 # text = นับถอยหลัง 48 ชม.อันตราย
-1	นับ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+1	นับ	_	VERB	VACT	_	0	root	0:root	Conn=O
 2	ถอย	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	หลัง	_	ADP	RPRE	_	5	case	5:case	Conn=O
 4	48	_	NUM	DCNM	_	5	nummod	5:nummod	Conn=O
@@ -24510,14 +24510,14 @@
 28	เนวิน	_	NOUN	NCMN	_	26	compound	26:compound	Conn=O
 29	ลง	_	AUX	XVAE	_	30	cop	30:cop	Conn=O
 30	คะแนน	_	NOUN	NCMN	_	3	ccomp	3:ccomp	Conn=O
-31	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+31	ให้	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 32	และ	_	CCONJ	JCRG	_	36	cc	36:cc	Conn=B-conn
 33	เลวร้าย	_	NOUN	NCMN	_	36	nsubj	36:nsubj	Conn=O
 34	ที่สุด	_	ADV	ADVN	_	36	advmod	36:advmod	Conn=O
 35	อาจ	_	AUX	XVMM	_	36	aux	36:aux	Conn=O
 36	ไป	_	VERB	VACT	_	31	conj	31:conj	Conn=O
 37	เท	_	VERB	VACT	_	36	obj	36:obj	Conn=O
-38	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+38	ให้	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 39	พรรค	_	NOUN	NCMN	_	41	nsubj	41:nsubj	Conn=O
 40	ประชาธิปัตย์	_	NOUN	NCMN	_	39	compound	39:compound	Conn=O
 41	เป็น	_	VERB	VSTA	_	38	acl:relcl	38:acl:relcl	Conn=O
@@ -24543,7 +24543,7 @@
 1	ผู้สื่อข่าว	_	NOUN	NCMN	_	3	nsubj	3:nsubj	Conn=O
 2	รายงาน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	เพิ่มเติม	_	VERB	VSTA	_	0	root	0:root	Conn=O
-4	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+4	ว่า	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 5	เมื่อ	_	SCONJ	JSBR	_	6	mark	6:mark	Conn=B-conn
 6	ดู	_	VERB	VACT	_	4	ccomp	4:ccomp	Conn=O
 7	จาก	_	ADP	RPRE	_	8	case	8:case	Conn=O
@@ -24736,20 +24736,20 @@
 61	นั่น	_	VERB	VSTA	_	57	acl:relcl	57:acl:relcl	Conn=O
 62	หมาย	_	NOUN	NCMN	_	61	obj	61:obj	Conn=O
 63	ความ	_	PART	FIXN	_	61	compound:prt	61:compound:prt	Conn=O
-64	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-65	โอกาส	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+64	ว่า	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
+65	โอกาส	_	NOUN	NCMN	_	3	parataxis	3:parataxis	Conn=O
 66	ที่	_	SCONJ	PREL	_	71	mark	71:mark	Conn=O
 67	ตัว	_	NOUN	NCMN	_	71	nsubj:pass	71:nsubj:pass	Conn=O
 68	นายก	_	DET	DDAC	_	67	det	67:det	Conn=O
 69	ฯ	_	PUNCT	PUNC	_	71	punct	71:punct	Conn=O
 70	จะ	_	AUX	XVBM	_	71	aux	71:aux	Conn=O
-71	เปลี่ยน	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+71	เปลี่ยน	_	VERB	VACT	_	3	parataxis	3:parataxis	Conn=O
 72	จาก	_	ADP	RPRE	_	73	case	73:case	Conn=O
 73	ชื่อ	_	NOUN	NCMN	_	71	obl	71:obl	Conn=O
 74	นาย	_	NOUN	NTTL	_	73	compound	73:compound	Conn=O
 75	สมชาย	_	PROPN	NPRP	_	73	compound	73:compound	Conn=O
-76	ก็	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
-77	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+76	ก็	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=B-conn
+77	เป็น	_	VERB	VSTA	_	3	parataxis	3:parataxis	Conn=O
 78	สิ่ง	_	NOUN	NCMN	_	77	obj	77:obj	Conn=O
 79	ที่	_	SCONJ	PREL	_	80	nsubj	80:nsubj	Conn=O
 80	เกิด	_	VERB	VSTA	_	78	acl:relcl	78:acl:relcl	Conn=O
@@ -24822,7 +24822,7 @@
 5	กลุ่ม	_	NOUN	NCMN	_	4	compound	4:compound	Conn=O
 6	เพื่อน	_	NOUN	NCMN	_	4	compound	4:compound	Conn=O
 7	เนวิน	_	VERB	VSTA	_	0	root	0:root	Conn=O
-8	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+8	ว่า	_	SCONJ	JSBR	_	7	parataxis	7:parataxis	Conn=O
 9	เมื่อ	_	SCONJ	JSBR	_	48	mark	48:mark	Conn=O
 10	วันที่	_	NOUN	NCMN	_	48	nsubj	48:nsubj	Conn=O
 11	14	_	NUM	DCNM	_	10	appos	10:appos	Conn=O
@@ -24862,7 +24862,7 @@
 45	ทราบ	_	VERB	VSTA	_	44	obj	44:obj	Conn=O
 46	ไม่	_	PART	NEG	_	47	advmod	47:advmod	Conn=O
 47	ได้	_	AUX	XVAM	_	48	aux	48:aux	Conn=O
-48	แสดง	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+48	แสดง	_	VERB	VACT	_	7	parataxis	7:parataxis	Conn=O
 49	ความเห็น	_	NOUN	NCMN	_	48	obj	48:obj	Conn=O
 50	อะไร	_	PRON	PNTR	_	51	nsubj	51:nsubj	Conn=O
 51	กลับ	_	VERB	VACT	_	49	acl:relcl	49:acl:relcl	Conn=O
@@ -24875,8 +24875,8 @@
 1	แหล่ง	_	ADV	ADVN	_	3	advmod	3:advmod	Conn=O
 2	ข่าว	_	NOUN	NCMN	_	3	nsubj	3:nsubj	Conn=O
 3	กล่าว	_	VERB	VACT	_	0	root	0:root	Conn=O
-4	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-5	ข้อ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+4	ว่า	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
+5	ข้อ	_	NOUN	NCMN	_	3	parataxis	3:parataxis	Conn=O
 6	อ้าง	_	PRON	PNTR	_	5	compound	5:compound	Conn=O
 7	ที่	_	SCONJ	PREL	_	8	nsubj	8:nsubj	Conn=O
 8	บอก	_	VERB	VACT	_	5	acl:relcl	5:acl:relcl	Conn=O
@@ -24909,7 +24909,7 @@
 35	นั้น	_	DET	DDAC	_	34	det	34:det	Conn=O
 36	อยาก	_	AUX	XVMM	_	37	aux	37:aux	Conn=O
 37	ถาม	_	VERB	VACT	_	8	ccomp	8:ccomp	Conn=O
-38	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+38	ว่า	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 39	หาก	_	SCONJ	JSBR	_	52	mark	52:mark	Conn=B-conn
 40	นาย	_	NOUN	NTTL	_	42	nsubj	42:nsubj	Conn=O
 41	สมชาย	_	PROPN	NPRP	_	40	appos	40:appos	Conn=O
@@ -24961,7 +24961,7 @@
 # sent_id = T01388.tsv-71
 # text = "สหัส"ลาออกจากรองนายกฯ แล้ว
 1	"	_	PUNCT	PUNC	_	2	punct	2:punct	Conn=O
-2	สหัส	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+2	สหัส	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 3	"	_	PUNCT	PUNC	_	2	punct	2:punct	Conn=O
 4	ลาออก	_	NOUN	NCMN	_	2	punct	2:punct	Conn=O
 5	จาก	_	ADP	RPRE	_	6	case	6:case	Conn=O
@@ -25062,7 +25062,7 @@
 # sent_id = T01388.tsv-75
 # text = "ประชา"เชื่อยุบสภาอังคารนี้
 1	"	_	PUNCT	PUNC	_	2	punct	2:punct	Conn=O
-2	ประชา	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+2	ประชา	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 3	"	_	PUNCT	PUNC	_	2	punct	2:punct	Conn=O
 4	เชื่อ	_	NOUN	NCMN	_	2	conj	2:conj	Conn=O
 5	ยุบ	_	VERB	VACT	_	4	acl	4:acl	Conn=O
@@ -25263,7 +25263,7 @@
 8	หัวหน้า	_	NOUN	NCMN	_	2	flat:name	2:flat:name	Conn=O
 9	พรรค	_	NOUN	NCMN	_	2	flat:name	2:flat:name	Conn=O
 10	ชาติไทย	_	PROPN	NPRP	_	2	flat:name	2:flat:name	Conn=O
-11	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+11	ให้	_	SCONJ	JSBR	_	0	root	0:root	Conn=O
 12	สัมภาษณ์	_	VERB	VSTA	_	11	xcomp	11:xcomp	Conn=O
 13	ถึง	_	ADP	RPRE	_	14	case	14:case	Conn=O
 14	กรณีที่	_	NOUN	NCMN	_	12	obl	12:obl	Conn=O
@@ -25279,9 +25279,9 @@
 24	วงศ์สวัสดิ์	_	PROPN	NPRP	_	23	flat:name	23:flat:name	Conn=O
 25	เป็น	_	VERB	VSTA	_	21	compound	21:compound	Conn=O
 26	นายก	_	NOUN	NCMN	_	25	obj	25:obj	Conn=O
-27	ฯ	_	PUNCT	PUNC	_	0	ROOT	0:ROOT	Conn=O
-28	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-29	ส.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+27	ฯ	_	PUNCT	PUNC	_	11	parataxis	11:parataxis	Conn=O
+28	ว่า	_	SCONJ	JSBR	_	27	parataxis	11:parataxis|27:parataxis	Conn=O
+29	ส.	_	NOUN	NCMN	_	28	parataxis	11:parataxis|27:parataxis|28:parataxis	Conn=O
 30	ไหน	_	PRON	PNTR	_	29	compound	29:compound	Conn=O
 31	ก็	_	SCONJ	JSBR	_	33	nsubj	33:nsubj	Conn=O
 32	ได้	_	AUX	XVAM	_	33	cop	33:cop	Conn=O
@@ -25313,7 +25313,7 @@
 1	นาย	_	NOUN	NCMN	_	3	nsubj	3:nsubj	Conn=O
 2	บรรหาร	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	กล่าว	_	VERB	VACT	_	0	root	0:root	Conn=O
-4	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+4	ว่า	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 5	แล้ว	_	SCONJ	JSBR	_	8	mark	8:mark	Conn=O
 6	เขา	_	PRON	PPRS	_	8	nsubj	8:nsubj	Conn=O
 7	จะ	_	AUX	XVBM	_	8	aux	8:aux	Conn=O
@@ -25487,8 +25487,8 @@
 35	สถานการณ์	_	NOUN	NCMN	_	34	obj	34:obj	Conn=O
 36	บ้านเมือง	_	NOUN	NCMN	_	35	compound	35:compound	Conn=O
 37	ดี	_	ADJ	VATT	_	36	amod	36:amod	Conn=O
-38	ขึ้น	_	AUX	XVAE	_	0	ROOT	0:ROOT	Conn=O
-39	ได้	_	AUX	XVAE	_	0	ROOT	0:ROOT	Conn=O
+38	ขึ้น	_	AUX	XVAE	_	7	parataxis	7:parataxis	Conn=O
+39	ได้	_	AUX	XVAE	_	7	parataxis	7:parataxis	Conn=O
 
 # sent_id = T01388.tsv-85
 # text = พล.อ.อนุพงษ์ว่า ส่วนการตั้งคณะกรรมการติดตามสถานการณ์เพื่อดูแลความมั่นคงนั้น ส่วนหนึ่งจะใช้คณะกรรมการชุดเดิม ซึ่งจะมีการประชุมหารือหลังจากที่รักษาการนายกรัฐมนตรีลงนามคำสั่ง เพื่อเตรียมพร้อมหากเกิดเหตุการณ์ในวันโหวตเลือกนายกรัฐมนตรี แต่คาดว่าเหตุการณ์จะไม่รุนแรง
@@ -25532,7 +25532,7 @@
 38	เตรียม	_	VERB	VACT	_	35	ccomp	35:ccomp	Conn=O
 39	พร้อม	_	VERB	VSTA	_	38	xcomp	38:xcomp	Conn=O
 40	หาก	_	SCONJ	JSBR	_	39	obj	39:obj	Conn=B-conn
-41	เกิด	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+41	เกิด	_	VERB	VSTA	_	19	parataxis	19:parataxis	Conn=O
 42	เหตุการณ์	_	NOUN	NCMN	_	41	obj	41:obj	Conn=O
 43	ใน	_	ADP	RPRE	_	44	case	44:case	Conn=O
 44	วัน	_	NOUN	NCMN	_	41	obl	41:obl	Conn=O
@@ -25588,8 +25588,8 @@
 23	เป็น	_	VERB	VSTA	_	6	ccomp	6:ccomp	Conn=O
 24	ที่	_	SCONJ	PREL	_	25	nsubj	25:nsubj	Conn=O
 25	ยอมรับ	_	VERB	VACT	_	23	acl:relcl	23:acl:relcl	Conn=O
-26	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=B-conn
-27	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+26	ซึ่ง	_	SCONJ	PREL	_	6	parataxis	6:parataxis	Conn=B-conn
+27	เป็น	_	VERB	VSTA	_	6	parataxis	6:parataxis	Conn=O
 28	สิ่ง	_	NOUN	NCMN	_	27	obj	27:obj	Conn=O
 29	ที่	_	SCONJ	PREL	_	34	mark	34:mark	Conn=O
 30	ดี	_	ADJ	VATT	_	29	amod	29:amod	Conn=O
@@ -25607,7 +25607,7 @@
 42	ประเทศ	_	NOUN	NCMN	_	37	obl	37:obl	Conn=O
 43	เป็น	_	VERB	VSTA	_	42	acl	42:acl	Conn=O
 44	สิ่ง	_	NOUN	NCMN	_	43	obj	43:obj	Conn=O
-45	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+45	ที่	_	SCONJ	PREL	_	6	parataxis	6:parataxis	Conn=O
 46	ดี	_	ADJ	VATT	_	45	amod	45:amod	Conn=O
 47	หาก	_	SCONJ	JSBR	_	49	mark	49:mark	Conn=B-conn
 48	ได้	_	AUX	XVAM	_	49	cop	49:cop	Conn=O
@@ -25679,8 +25679,8 @@
 
 # sent_id = T01388.tsv-90
 # text = พล.อ.บุญสร้างว่า ทหารไม่ได้ซื้อง่าย ถ้าซื้อง่ายคงไม่ใช่ทหาร
-1	พล.อ.	_	ADV	ADVN	_	0	ROOT	0:ROOT	Conn=O
-2	บุญสร้าง	_	PRON	PDMN	_	0	ROOT	0:ROOT	Conn=O
+1	พล.อ.	_	ADV	ADVN	_	0	root	0:root	Conn=O
+2	บุญสร้าง	_	PRON	PDMN	_	1	parataxis	1:parataxis	Conn=O
 3	ว่า	_	SCONJ	JSBR	_	7	mark	7:mark	Conn=O
 4	ทหาร	_	NOUN	NCMN	_	7	nsubj	7:nsubj	Conn=O
 5	ไม่	_	PART	NEG	_	6	advmod	6:advmod	Conn=O
@@ -25739,7 +25739,7 @@
 10	จะ	_	AUX	XVBM	_	11	aux	11:aux	Conn=O
 11	หยุด	_	VERB	VSTA	_	0	root	0:root	Conn=O
 12	ต่อ	_	VERB	VACT	_	11	xcomp	11:xcomp	Conn=O
-13	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+13	ให้	_	SCONJ	JSBR	_	11	parataxis	11:parataxis	Conn=O
 14	เป็น	_	VERB	VSTA	_	13	xcomp	13:xcomp	Conn=O
 15	ดุลพินิจ	_	NOUN	NCMN	_	14	obj	14:obj	Conn=O
 16	ของ	_	ADP	RPRE	_	17	case	17:case	Conn=O
@@ -25750,7 +25750,7 @@
 
 # sent_id = T01448.tsv-4
 # text = ขณะที่อธิการบดี มศว และ มธ. ประสานเสียงเปิดเรียนตามปกติ และมั่นใจไม่มีเหตุรุนแรง
-1	ขณะ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=B-conn
+1	ขณะ	_	NOUN	NCMN	_	0	root	0:root	Conn=B-conn
 2	ที่	_	SCONJ	PREL	_	9	mark	9:mark	Conn=O
 3	อธิการบดี	_	NOUN	NCMN	_	9	nsubj	9:nsubj	Conn=O
 4	มศว	_	NOUN	NCMN	_	3	compound	3:compound	Conn=O
@@ -25863,7 +25863,7 @@
 38	เข้าใจ	_	VERB	VSTA	_	35	xcomp	35:xcomp	Conn=O
 39	เด็ก	_	NOUN	NCMN	_	38	obj	38:obj	Conn=O
 40	อย่า	_	NOUN	NCMN	_	39	compound	39:compound	Conn=O
-41	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+41	ให้	_	SCONJ	JSBR	_	9	parataxis	9:parataxis	Conn=O
 42	เด็ก	_	NOUN	NCMN	_	41	obj	41:obj	Conn=O
 43	เดือดร้อน	_	ADJ	VATT	_	42	amod	42:amod	Conn=O
 44	ซึ่ง	_	SCONJ	PREL	_	46	nsubj	46:nsubj	Conn=B-conn
@@ -25925,7 +25925,7 @@
 43	บริการ	_	VERB	VACT	_	42	obj	42:obj	Conn=O
 44	ให้	_	SCONJ	JSBR	_	45	case	45:case	Conn=O
 45	ประชาชน	_	NOUN	NCMN	_	43	obl:poss	43:obl:poss	Conn=O
-46	ตาม	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
+46	ตาม	_	ADP	RPRE	_	12	parataxis	12:parataxis	Conn=O
 47	ปกติ	_	ADP	RPRE	_	46	fixed	46:fixed	Conn=O
 
 # sent_id = T01448.tsv-8
@@ -26282,9 +26282,9 @@
 40	อากร	_	NOUN	NCMN	_	39	compound	39:compound	Conn=O
 41	ต่าง	_	PRON	PDMN	_	42	nsubj	42:nsubj	Conn=O
 42	ๆ	_	VERB	VACT	_	39	acl:relcl	39:acl:relcl	Conn=O
-43	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+43	ให้	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 44	แก่	_	ADP	RPRE	_	43	fixed	43:fixed	Conn=O
-45	รัฐ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+45	รัฐ	_	NOUN	NCMN	_	3	parataxis	3:parataxis	Conn=O
 46	ตาม	_	ADP	RPRE	_	47	case	47:case	Conn=O
 47	ประมวล	_	VERB	VACT	_	45	nmod:poss	45:nmod:poss	Conn=O
 48	กฎหมาย	_	NOUN	NCMN	_	47	obj	47:obj	Conn=O
@@ -26294,7 +26294,7 @@
 # text = นอกจากนี้ ยังทราบว่าขณะที่กองทุนรวมบางกอกแคปปิตอลทำ สัญญาซื้อขายทรัพย์สินกับ ปรส. กองทุนรวมบางกอกแคปปิตอลยังไม่มีสภาพเป็นนิติบุคคล ตลอดจนการจดทะเบียนกองทุนรวมฯ ไม่ชอบด้วยกฎหมาย น่าเชื่อได้ว่าการนำทรัพย์สินของตนและห้างหุ้นส่วนหัวหิน_เคหะภัณฑ์ จำกัด โอนไปให้กับกองทุนรวมบางกอกแคปปิตอล เป็นการกระทำที่ไม่ไม่ชอบด้วยกฎหมาย จึงมาร้องทุกข์ขอให้ดำเนินคดีกับกองทุนรวมบางกอกแคปปิตอลและบุคคลอื่นที่มีส่วนเกี่ยวข้องกับการซื้อขายทรัพย์สินของ 56 สถาบันการเงิน
 1	นอกจากนี้	_	SCONJ	JSBR	_	3	mark	3:mark	Conn=B-conn
 2	ยัง	_	AUX	XVBM	_	3	aux	3:aux	Conn=O
-3	ทราบ	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+3	ทราบ	_	VERB	VSTA	_	0	root	0:root	Conn=O
 4	ว่า	_	SCONJ	JSBR	_	21	mark	21:mark	Conn=O
 5	ขณะ	_	NOUN	NCMN	_	21	nsubj	21:nsubj	Conn=B-conn
 6	ที่	_	SCONJ	PREL	_	7	mark	7:mark	Conn=O
@@ -26361,7 +26361,7 @@
 67	ร้อง	_	VERB	VACT	_	66	acl	66:acl	Conn=O
 68	ทุกข์	_	NOUN	NCMN	_	67	obj	67:obj	Conn=O
 69	ขอ	_	VERB	VACT	_	66	acl	66:acl	Conn=O
-70	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+70	ให้	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 71	ดำเนินคดี	_	VERB	VSTA	_	70	xcomp	70:xcomp	Conn=O
 72	กับ	_	ADP	RPRE	_	73	case	73:case	Conn=O
 73	กองทุน	_	NOUN	NCMN	_	71	obl	71:obl	Conn=O
@@ -26411,7 +26411,7 @@
 
 # sent_id = T01487.tsv-9
 # text = ด้าน พล.ต.อ.สมบัติ อมรวิวัฒน์ กล่าวว่า คดี ปรส.เป็นคดีพิเศษ ที่อยู่ระหว่างการสอบสวนและเตรียมจะสรุปสำนวนใน ภาพรวมใหญ่ที่ต้องพิจารณา คือ มีการกระทำความผิดใน ปรส.หรือไม่ ซึ่งขณะนี้มีผู้ร้องทุกข์แล้ว 4-5 ราย กรณีของนายนิพนธุ์ ก็จะนำเข้าสู่การสอบสวนเพื่อให้ความเป็นธรรม
-1	ด้าน	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ด้าน	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	พล.ต.อ.	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	สมบัติ	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 4	อมรวิวัฒน์	_	PROPN	NPRP	_	5	nsubj	5:nsubj	Conn=O
@@ -26492,8 +26492,8 @@
 17	ราคา	_	NOUN	NCMN	_	10	obl	10:obl	Conn=O
 18	เพียง	_	DET	DDBQ	_	19	det	19:det	Conn=O
 19	ร้อย	_	NOUN	NCMN	_	17	clf	17:clf	Conn=O
-20	ละ	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
-21	17	_	NUM	NCNM	_	0	ROOT	0:ROOT	Conn=O
+20	ละ	_	ADP	RPRE	_	10	parataxis	10:parataxis	Conn=O
+21	17	_	NUM	NCNM	_	10	parataxis	10:parataxis	Conn=O
 22	หรือ	_	CCONJ	JCRG	_	23	cc	23:cc	Conn=O
 23	หมื่น	_	NOUN	NCMN	_	21	conj	21:conj	Conn=O
 24	กว่า	_	SCONJ	JCMP	_	25	advmod	25:advmod	Conn=O
@@ -26504,7 +26504,7 @@
 # newdoc id = T01524.tsv
 # sent_id = T01524.tsv-1
 # text = สวช.พบ 6 โรคใหม่กับคนติดมือถือ
-1	สวช.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	สวช.	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	พบ	_	VERB	VSTA	_	1	acl	1:acl	Conn=O
 3	6	_	NUM	NCNM	_	4	nummod	4:nummod	Conn=O
 4	โรค	_	NOUN	NCMN	_	1	clf	1:clf	Conn=O
@@ -26696,7 +26696,7 @@
 1	ซึ่ง	_	SCONJ	PREL	_	4	mark	4:mark	Conn=B-conn
 2	บาง	_	DET	DIBQ	_	3	det	3:det	Conn=O
 3	คน	_	NOUN	CNIT	_	4	nsubj	4:nsubj	Conn=O
-4	มี	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+4	มี	_	VERB	VSTA	_	0	root	0:root	Conn=O
 5	มือถือ	_	NOUN	NCMN	_	4	obj	4:obj	Conn=O
 6	ตั้งแต่	_	ADP	RPRE	_	7	case	7:case	Conn=O
 7	เด็ก	_	NOUN	NCMN	_	5	nmod	5:nmod	Conn=O
@@ -26745,7 +26745,7 @@
 50	ใช้	_	VERB	VACT	_	41	conj	41:conj	Conn=O
 51	ไม่	_	PART	NEG	_	52	advmod	52:advmod	Conn=O
 52	เป็น	_	VERB	VSTA	_	50	xcomp	50:xcomp	Conn=O
-53	ทำให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+53	ทำให้	_	SCONJ	JSBR	_	4	parataxis	4:parataxis	Conn=O
 54	เกิด	_	VERB	VSTA	_	53	xcomp	53:xcomp	Conn=O
 55	โรค	_	NOUN	NCMN	_	54	obj	54:obj	Conn=O
 56	ใหม่	_	ADJ	VATT	_	55	amod	55:amod	Conn=O
@@ -27094,8 +27094,8 @@
 20	หรือ	_	CCONJ	JCRG	_	21	cc	21:cc	Conn=B-conn
 21	พูด	_	NOUN	NCMN	_	17	conj	17:conj	Conn=O
 22	โกหก	_	NOUN	NCMN	_	21	compound	21:compound	Conn=O
-23	ผู้	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-24	อื่น	_	DET	DIAC	_	0	ROOT	0:ROOT	Conn=O
+23	ผู้	_	SCONJ	PREL	_	4	parataxis	4:parataxis	Conn=O
+24	อื่น	_	DET	DIAC	_	4	parataxis	4:parataxis	Conn=O
 25	หรือ	_	CCONJ	JCRG	_	26	cc	26:cc	Conn=B-conn
 26	นิยม	_	VERB	VSTA	_	24	conj	24:conj	Conn=O
 27	ส่ง	_	VERB	VACT	_	26	obj	26:obj	Conn=O
@@ -27123,7 +27123,7 @@
 8	โทรศัพท์	_	NOUN	NCMN	_	5	acl:relcl	5:acl:relcl	Conn=O
 9	มือถือ	_	VERB	VSTA	_	8	acl	8:acl	Conn=O
 10	ยัง	_	AUX	XVBM	_	11	aux	11:aux	Conn=O
-11	ทำให้	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+11	ทำให้	_	VERB	VACT	_	46	parataxis	46:parataxis	Conn=O
 12	เสีย	_	VERB	VSTA	_	11	obj	11:obj	Conn=O
 13	สุขภาพ	_	NOUN	NCMN	_	12	obj	12:obj	Conn=O
 14	เช่น	_	ADP	RPRE	_	15	case	15:case	Conn=B-conn
@@ -27153,7 +27153,7 @@
 38	ทาง	_	NOUN	NCMN	_	37	compound	37:compound	Conn=O
 39	เส้น	_	NOUN	NCMN	_	37	compound	37:compound	Conn=O
 40	ประสาท	_	NOUN	NCMN	_	37	compound	37:compound	Conn=O
-41	เพราะ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=B-conn
+41	เพราะ	_	SCONJ	JSBR	_	46	parataxis	46:parataxis	Conn=B-conn
 42	คลื่น	_	NOUN	NCMN	_	46	obl	46:obl	Conn=O
 43	จาก	_	ADP	RPRE	_	44	case	44:case	Conn=O
 44	มือถือ	_	NOUN	NCMN	_	42	nmod	42:nmod	Conn=O
@@ -27405,7 +27405,7 @@
 63	และ	_	CCONJ	JCRG	_	65	cc	65:cc	Conn=B-conn
 64	ต้อง	_	AUX	XVMM	_	65	aux	65:aux	Conn=O
 65	สอน	_	VERB	VACT	_	57	conj	57:conj	Conn=O
-66	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+66	ให้	_	SCONJ	JSBR	_	50	parataxis	50:parataxis	Conn=O
 67	รู้จัก	_	VERB	VSTA	_	66	xcomp	66:xcomp	Conn=O
 68	คำ	_	NOUN	NCMN	_	67	obj	67:obj	Conn=O
 69	ว่า	_	SCONJ	JSBR	_	70	nsubj	70:nsubj	Conn=O
@@ -27414,12 +27414,12 @@
 # sent_id = T01524.tsv-16
 # text = อย่างไรก็ตามสิ่งที่สำคัญที่สุดก็คือตัวเด็กเองต้องคำนึงถึงกาลเทศะและความจำเป็นที่จะใช้โทรศัพท์มือถือด้วย จากการทั้งนี้จากการสำรวจพฤติกรรมเด็กและเยาวชน ในหัวข้อ สภาวะด้านปัญหาสังคมตั้งแต่ระดับประถมศึกษา-อุดมศึกษาทั่วประเทศ ของสถาบันรามจิตติกับกระทรวงวัฒนธรรมเมื่อปีที่ผ่านมา
 1	อย่างไรก็ตาม	_	SCONJ	JSBR	_	2	det	2:det	Conn=B-conn
-2	สิ่ง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+2	สิ่ง	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 3	ที่	_	SCONJ	PREL	_	7	mark	7:mark	Conn=O
 4	สำคัญ	_	ADJ	VATT	_	3	amod	3:amod	Conn=O
 5	ที่สุด	_	ADV	ADVN	_	4	advmod	4:advmod	Conn=O
 6	ก็	_	SCONJ	JSBR	_	7	nsubj	7:nsubj	Conn=B-conn
-7	คือ	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+7	คือ	_	VERB	VSTA	_	2	parataxis	2:parataxis	Conn=O
 8	ตัว	_	NOUN	NCMN	_	7	obj	7:obj	Conn=O
 9	เด็ก	_	NOUN	NCMN	_	8	compound	8:compound	Conn=O
 10	เอง	_	PRON	PDMN	_	12	nsubj	12:nsubj	Conn=O
@@ -27465,8 +27465,8 @@
 50	กับ	_	ADP	RPRE	_	51	case	51:case	Conn=O
 51	กระทรวง	_	NOUN	NCMN	_	48	nmod:poss	48:nmod:poss	Conn=O
 52	วัฒนธรรม	_	NOUN	NCMN	_	51	compound	51:compound	Conn=O
-53	เมื่อ	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-54	ปี	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+53	เมื่อ	_	SCONJ	JSBR	_	7	parataxis	2:parataxis|7:parataxis	Conn=O
+54	ปี	_	NOUN	NCMN	_	53	parataxis	2:parataxis|7:parataxis|53:parataxis	Conn=O
 55	ที่	_	SCONJ	PREL	_	56	case	56:case	Conn=O
 56	ผ่าน	_	VERB	VSTA	_	54	nmod:poss	54:nmod:poss	Conn=O
 57	มา	_	AUX	XVAE	_	54	appos	54:appos	Conn=O
@@ -27613,7 +27613,7 @@
 
 # sent_id = T01603.tsv-4
 # text = พร้อมวอนประชาชนเลือก ส.ก.-ส.ข.ของพรรคเข้าสภา กทม. เพื่อให้งานของ กทม.เดินหน้าต่อไปได้
-1	พร้อม	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=B-conn
+1	พร้อม	_	VERB	VSTA	_	0	root	0:root	Conn=B-conn
 2	วอน	_	NOUN	NCMN	_	1	obj	1:obj	Conn=O
 3	ประชาชน	_	NOUN	NCMN	_	2	compound	2:compound	Conn=O
 4	เลือก	_	VERB	VACT	_	2	acl	2:acl	Conn=O
@@ -27689,7 +27689,7 @@
 51	พื้นที่	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 52	หาเสียง	_	NOUN	NCMN	_	51	compound	51:compound	Conn=O
 53	ให้	_	SCONJ	JSBR	_	51	compound	51:compound	Conn=O
-54	ส.ก.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+54	ส.ก.	_	NOUN	NCMN	_	51	parataxis	51:parataxis	Conn=O
 55	-	_	PUNCT	PUNC	_	56	punct	56:punct	Conn=O
 56	ส.ข.	_	NOUN	NCMN	_	54	compound	54:compound	Conn=O
 57	ของ	_	ADP	RPRE	_	58	case	58:case	Conn=O
@@ -27701,7 +27701,7 @@
 2	พบปะ	_	NOUN	NCMN	_	1	fixed	1:fixed	Conn=O
 3	ประชาชน	_	NOUN	NCMN	_	1	fixed	1:fixed	Conn=O
 4	ที่	_	SCONJ	PREL	_	1	fixed	1:fixed	Conn=O
-5	ไป	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+5	ไป	_	VERB	VACT	_	0	root	0:root	Conn=O
 6	ออกกำลังกาย	_	NOUN	NCMN	_	5	obj	5:obj	Conn=O
 7	ที่	_	SCONJ	PREL	_	8	mark	8:mark	Conn=O
 8	สวน	_	VERB	VACT	_	5	advcl	5:advcl	Conn=O
@@ -27736,8 +27736,8 @@
 
 # sent_id = T01603.tsv-7
 # text = แต่สิ่งที่ทำให้ประเทศชาติบ้านเมืองเดินต่อไปได้คือการที่คนไทยยึดมั่นความถูกต้องดังนั้น อะไรที่ถูกต้องจะต้องช่วยกันสนับสนุน แต่อะไรที่ไม่ถูกต้องคนไทยในฐานะเจ้าของประเทศต้องไม่ยอม
-1	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
-2	สิ่ง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	แต่	_	CCONJ	JCRG	_	0	root	0:root	Conn=B-conn
+2	สิ่ง	_	NOUN	NCMN	_	1	parataxis	1:parataxis	Conn=O
 3	ที่	_	SCONJ	PREL	_	4	nsubj	4:nsubj	Conn=O
 4	ทำให้	_	VERB	VACT	_	2	acl:relcl	2:acl:relcl	Conn=O
 5	ประเทศชาติ	_	NOUN	NCMN	_	4	obj	4:obj	Conn=O
@@ -27761,8 +27761,8 @@
 23	ช่วย	_	VERB	VACT	_	16	advcl	16:advcl	Conn=O
 24	กัน	_	ADV	ADVN	_	23	advmod	23:advmod	Conn=O
 25	สนับสนุน	_	VERB	VACT	_	23	xcomp	23:xcomp	Conn=O
-26	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
-27	อะไร	_	PRON	PNTR	_	0	ROOT	0:ROOT	Conn=O
+26	แต่	_	CCONJ	JCRG	_	2	parataxis	1:parataxis|2:parataxis	Conn=B-conn
+27	อะไร	_	PRON	PNTR	_	26	parataxis	1:parataxis|2:parataxis|26:parataxis	Conn=O
 28	ที่	_	SCONJ	PREL	_	30	mark	30:mark	Conn=O
 29	ไม่	_	PART	NEG	_	30	advmod	30:advmod	Conn=O
 30	ถูกต้อง	_	VERB	VSTA	_	27	ccomp	27:ccomp	Conn=O
@@ -27778,12 +27778,12 @@
 
 # sent_id = T01603.tsv-8
 # text = แต่ทั้งนี้ทั้งนั้นจะต้องเป็นพลเมืองและเป็นนักประชาธิปไตยที่ดีคือยึดหลักของความสงบสุข ความสันติสุข พูดจาแสดงความคิดเห็นด้วยเหตุด้วยผล ด้วยความสุภาพ และช่วยกันหาทางออกให้กับประเทศ
-1	แต่	_	CCONJ	JCRG	_	0	ROOT	0:ROOT	Conn=B-conn
+1	แต่	_	CCONJ	JCRG	_	0	root	0:root	Conn=B-conn
 2	ทั้งนี้	_	CCONJ	JCRG	_	6	cc	6:cc	Conn=O
 3	ทั้งนั้น	_	SCONJ	JSBR	_	6	nsubj	6:nsubj	Conn=O
 4	จะ	_	AUX	XVBM	_	6	aux	6:aux	Conn=O
 5	ต้อง	_	AUX	XVMM	_	6	aux	6:aux	Conn=O
-6	เป็น	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+6	เป็น	_	VERB	VSTA	_	1	parataxis	1:parataxis	Conn=O
 7	พลเมือง	_	NOUN	NCMN	_	6	obj	6:obj	Conn=O
 8	และ	_	CCONJ	JCRG	_	9	cc	9:cc	Conn=B-conn
 9	เป็น	_	VERB	VSTA	_	6	conj	6:conj	Conn=O
@@ -27935,7 +27935,7 @@
 1	โดย	_	ADP	RPRE	_	4	mark	4:mark	Conn=O
 2	ไม่	_	PART	NEG	_	3	advmod	3:advmod	Conn=O
 3	ต้อง	_	AUX	XVMM	_	4	aux	4:aux	Conn=O
-4	ถกเถียง	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+4	ถกเถียง	_	VERB	VACT	_	0	root	0:root	Conn=O
 5	กัน	_	ADV	ADVN	_	4	advmod	4:advmod	Conn=O
 6	ว่า	_	SCONJ	JSBR	_	8	mark	8:mark	Conn=O
 7	ใคร	_	PRON	PNTR	_	8	nsubj	8:nsubj	Conn=O
@@ -28007,7 +28007,7 @@
 32	โกษะโยธิน	_	NOUN	NCMN	_	30	obl:tmod	30:obl:tmod	Conn=O
 33	มา	_	AUX	XVAE	_	34	aux	34:aux	Conn=O
 34	เป็น	_	VERB	VSTA	_	25	acl:relcl	25:acl:relcl	Conn=O
-35	ผู้	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+35	ผู้	_	SCONJ	PREL	_	4	parataxis	4:parataxis	Conn=O
 36	ว่าราชการ	_	VERB	VACT	_	35	acl	35:acl	Conn=O
 37	กรุงเทพมหานคร	_	NOUN	NCMN	_	36	obj	36:obj	Conn=O
 38	(	_	PUNCT	PUNC	_	39	punct	39:punct	Conn=O
@@ -28017,10 +28017,10 @@
 # sent_id = T01603.tsv-13
 # text = ปรากฏว่า ส.ก.ที่สังกัดพรรคการเมืองที่แข่งกับพรรคประชาธิปัตย์ตัวเองเป็นฝ่ายค้าน
 1	ปรากฏ	_	VERB	VSTA	_	0	root	0:root	Conn=O
-2	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-3	ส.ก.	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+2	ว่า	_	SCONJ	JSBR	_	1	parataxis	1:parataxis	Conn=O
+3	ส.ก.	_	NOUN	NCMN	_	1	parataxis	1:parataxis	Conn=O
 4	ที่	_	SCONJ	PREL	_	5	mark	5:mark	Conn=O
-5	สังกัด	_	VERB	VSTA	_	0	ROOT	0:ROOT	Conn=O
+5	สังกัด	_	VERB	VSTA	_	1	parataxis	1:parataxis	Conn=O
 6	พรรค	_	NOUN	NCMN	_	5	obj	5:obj	Conn=O
 7	การเมือง	_	NOUN	NCMN	_	6	compound	6:compound	Conn=O
 8	ที่	_	SCONJ	PREL	_	9	mark	9:mark	Conn=O
@@ -28049,12 +28049,12 @@
 12	สภา	_	NOUN	NCMN	_	11	obj	11:obj	Conn=O
 13	กทม.	_	NOUN	NCMN	_	12	compound	12:compound	Conn=O
 14	ยากลำบาก	_	VERB	VACT	_	11	acl	11:acl	Conn=O
-15	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=B-conn
+15	ซึ่ง	_	SCONJ	PREL	_	8	parataxis	8:parataxis	Conn=B-conn
 16	หาก	_	SCONJ	JSBR	_	20	mark	20:mark	Conn=B-conn
 17	สภา	_	VERB	VACT	_	20	csubj	20:csubj	Conn=O
 18	กทม.	_	NOUN	NCMN	_	17	obj	17:obj	Conn=O
 19	ไม่	_	PART	NEG	_	20	advmod	20:advmod	Conn=O
-20	อนุมัติ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+20	อนุมัติ	_	VERB	VACT	_	8	parataxis	8:parataxis	Conn=O
 21	เงิน	_	NOUN	NCMN	_	20	obj	20:obj	Conn=O
 22	ให้	_	SCONJ	JSBR	_	24	mark	24:mark	Conn=O
 23	ก็	_	SCONJ	JSBR	_	24	nsubj	24:nsubj	Conn=B-conn
@@ -28107,7 +28107,7 @@
 26	ห้อง	_	NOUN	NCMN	_	23	obl	23:obl	Conn=O
 27	ประชุม	_	VERB	VACT	_	26	acl	26:acl	Conn=O
 28	บ้าง	_	ADV	ADVN	_	27	advmod	27:advmod	Conn=O
-29	ประท้วง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+29	ประท้วง	_	NOUN	NCMN	_	3	parataxis	3:parataxis	Conn=O
 30	บ้าง	_	PRON	PDMN	_	32	nsubj	32:nsubj	Conn=O
 31	จึง	_	AUX	XVBM	_	32	aux	32:aux	Conn=B-conn
 32	ขอ	_	VERB	VACT	_	29	acl:relcl	29:acl:relcl	Conn=O
@@ -28166,7 +28166,7 @@
 28	ดูแล	_	VERB	VACT	_	26	xcomp	26:xcomp	Conn=O
 29	การ	_	PART	FIXN	_	28	compound:prt	28:compound:prt	Conn=O
 30	เลือกตั้ง	_	VERB	VACT	_	28	acl	28:acl	Conn=O
-31	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+31	ให้	_	SCONJ	JSBR	_	8	parataxis	8:parataxis	Conn=O
 32	เป็น	_	VERB	VSTA	_	31	xcomp	31:xcomp	Conn=O
 33	ไป	_	AUX	XVAE	_	32	aux	32:aux	Conn=O
 34	ด้วย	_	ADP	RPRE	_	35	case	35:case	Conn=O
@@ -28203,15 +28203,15 @@
 6	เลือกตั้ง	_	VERB	VACT	_	4	acl	4:acl	Conn=O
 7	ใน	_	ADP	RPRE	_	8	case	8:case	Conn=O
 8	กทม.	_	PROPN	NPRP	_	6	obl	6:obl	Conn=O
-9	ก็ตาม	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+9	ก็ตาม	_	SCONJ	JSBR	_	4	parataxis	4:parataxis	Conn=O
 10	แต่	_	CCONJ	JCRG	_	9	fixed	9:fixed	Conn=B-conn
 11	ที่	_	SCONJ	PREL	_	12	obj	12:obj	Conn=O
 12	ผ่าน	_	VERB	VSTA	_	9	acl:relcl	9:acl:relcl	Conn=O
 13	มา	_	AUX	XVAE	_	12	aux	12:aux	Conn=O
 14	ยัง	_	ADP	RPRE	_	15	mark	15:mark	Conn=O
 15	พบ	_	VERB	VSTA	_	9	advcl	9:advcl	Conn=O
-16	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-17	มีการ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+16	ว่า	_	SCONJ	JSBR	_	4	parataxis	4:parataxis	Conn=O
+17	มีการ	_	NOUN	NCMN	_	4	parataxis	4:parataxis	Conn=O
 18	ร้องเรียน	_	NOUN	NCMN	_	17	compound	17:compound	Conn=O
 19	เรื่อง	_	ADP	RPRE	_	21	mark	21:mark	Conn=O
 20	การ	_	PART	FIXN	_	21	advmod	21:advmod	Conn=O
@@ -28298,7 +28298,7 @@
 
 # sent_id = T01603.tsv-21
 # text = ขณะที่คุณหญิงสุดารัตน์ เกยุราพันธุ์ รักษาการ รมว.เกษตรและสหกรณ์รองหัวหน้าพรรคไทยรักไทยกล่าวระหว่างเดินสายหาเสียงให้ผู้สมัคร ส.ก.และส.ข.ของพรรคที่สวนลุมพินี ว่า สิ่งที่พรรคจะนำเสนอกับชาวกทม.คือหากเลือกผู้สมัครของพรรคจะได้ประโยชน์ดังนี้
-1	ขณะ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ขณะ	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ที่	_	SCONJ	PREL	_	15	mark	15:mark	Conn=O
 3	คุณหญิง	_	NOUN	NCMN	_	15	nsubj	15:nsubj	Conn=O
 4	สุดารัตน์	_	PROPN	NPRP	_	3	compound	3:compound	Conn=O
@@ -28347,7 +28347,7 @@
 47	จะ	_	AUX	XVBM	_	48	aux	48:aux	Conn=O
 48	ได้	_	VERB	VSTA	_	15	advcl	15:advcl	Conn=O
 49	ประโยชน์	_	NOUN	NCMN	_	48	obj	48:obj	Conn=O
-50	ดัง	_	ADP	RPRE	_	0	ROOT	0:ROOT	Conn=O
+50	ดัง	_	ADP	RPRE	_	1	parataxis	1:parataxis	Conn=O
 51	นี้	_	DET	DDAC	_	50	det	50:det	Conn=O
 
 # sent_id = T01603.tsv-22
@@ -28461,7 +28461,7 @@
 
 # sent_id = T01611.tsv-3
 # text = ผู้ปกครองทนไม่ไหวนำภาพร้องสื่อตรวจสอบ
-1	ผู้ปกครอง	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ผู้ปกครอง	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	ทน	_	SCONJ	JSBR	_	5	mark	5:mark	Conn=O
 3	ไม่	_	PART	NEG	_	4	advmod	4:advmod	Conn=O
 4	ไหว	_	AUX	XVAM	_	5	aux	5:aux	Conn=O
@@ -28536,8 +28536,8 @@
 43	ใน	_	ADP	RPRE	_	44	case	44:case	Conn=O
 44	จ.	_	NOUN	NCMN	_	29	nmod	29:nmod	Conn=O
 45	ชลบุรี	_	NOUN	NCMN	_	44	compound	44:compound	Conn=O
-46	ซึ่ง	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
-47	นำ	_	VERB	VACT	_	0	ROOT	0:ROOT	Conn=O
+46	ซึ่ง	_	SCONJ	PREL	_	4	parataxis	4:parataxis	Conn=O
+47	นำ	_	VERB	VACT	_	4	parataxis	4:parataxis	Conn=O
 48	ภาพถ่าย	_	NOUN	NCMN	_	47	obj	47:obj	Conn=O
 49	จาก	_	ADP	RPRE	_	50	case	50:case	Conn=O
 50	คลิป	_	NOUN	NCMN	_	47	obl	47:obl	Conn=O
@@ -28633,11 +28633,11 @@
 24	ขึ้น	_	AUX	XVAE	_	26	aux	26:aux	Conn=O
 25	มา	_	AUX	XVAE	_	26	cop	26:cop	Conn=O
 26	ว่า	_	SCONJ	JSBR	_	21	xcomp	21:xcomp	Conn=O
-27	ที่	_	SCONJ	PREL	_	0	ROOT	0:ROOT	Conn=O
+27	ที่	_	SCONJ	PREL	_	5	parataxis	5:parataxis	Conn=O
 28	หลัง	_	ADP	RPRE	_	29	case	29:case	Conn=O
-29	อย่า	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+29	อย่า	_	NOUN	NCMN	_	5	parataxis	5:parataxis	Conn=O
 30	ปีนเกลียว	_	NOUN	NCMN	_	29	compound	29:compound	Conn=O
-31	อีก	_	DET	DDBQ	_	0	ROOT	0:ROOT	Conn=O
+31	อีก	_	DET	DDBQ	_	5	parataxis	5:parataxis	Conn=O
 32	พร้อมกับ	_	CCONJ	JCRG	_	33	cc	33:cc	Conn=B-conn
 33	ให้	_	VERB	VACT	_	31	conj	31:conj	Conn=O
 34	นักเรียน	_	NOUN	NCMN	_	33	obj	33:obj	Conn=O
@@ -28870,7 +28870,7 @@
 29	นักเรียน	_	NOUN	NCMN	_	27	obl	27:obl	Conn=O
 30	ให้	_	ADP	RPRE	_	31	case	31:case	Conn=O
 31	มาก	_	ADJ	VATT	_	27	obl	27:obl	Conn=O
-32	กว่า	_	SCONJ	JCMP	_	0	ROOT	0:ROOT	Conn=O
+32	กว่า	_	SCONJ	JCMP	_	9	parataxis	9:parataxis	Conn=O
 33	ที่	_	SCONJ	PREL	_	34	mark	34:mark	Conn=O
 34	เป็นอยู่	_	VERB	VSTA	_	32	advcl	32:advcl	Conn=O
 35	"	_	PUNCT	PUNC	_	36	punct	36:punct	Conn=O
@@ -28896,7 +28896,7 @@
 14	ข่าว	_	NOUN	NCMN	_	13	obj	13:obj	Conn=O
 15	จึง	_	AUX	XVBM	_	16	aux	16:aux	Conn=B-conn
 16	ขอร้อง	_	VERB	VACT	_	13	xcomp	13:xcomp	Conn=O
-17	ให้	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
+17	ให้	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
 18	ลบ	_	VERB	VACT	_	17	xcomp	17:xcomp	Conn=O
 19	ไฟล์	_	NOUN	NCMN	_	18	obj	18:obj	Conn=O
 20	ภาพ	_	NOUN	NCMN	_	19	compound	19:compound	Conn=O
@@ -28930,8 +28930,8 @@
 48	สอบถาม	_	VERB	VACT	_	37	acl	37:acl	Conn=O
 49	จึง	_	AUX	XVBM	_	50	aux	50:aux	Conn=O
 50	ทราบ	_	VERB	VSTA	_	19	acl:relcl	19:acl:relcl	Conn=O
-51	ว่า	_	SCONJ	JSBR	_	0	ROOT	0:ROOT	Conn=O
-52	ภาพ	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+51	ว่า	_	SCONJ	JSBR	_	3	parataxis	3:parataxis	Conn=O
+52	ภาพ	_	NOUN	NCMN	_	3	parataxis	3:parataxis	Conn=O
 53	ที่	_	SCONJ	PREL	_	55	nsubj:pass	55:nsubj:pass	Conn=O
 54	ถูก	_	AUX	XVAM	_	55	aux:pass	55:aux:pass	Conn=O
 55	บันทึก	_	VERB	VACT	_	52	acl:relcl	52:acl:relcl	Conn=O
@@ -28961,7 +28961,7 @@
 
 # sent_id = T01611.tsv-14
 # text = ผู้สื่อข่าวรายงานว่า หลังจากภาพนักเรียนหญิงโรงเรียนพาณิชย์แห่งนี้แพร่สะพัดออกไป จึงติดต่อสอบถามไปยังโรงเรียนดังกล่าว แต่ก็ไม่สามารถติดต่ออาจารย์ผู้สอนได้ เนื่องจากเป็นวันอาทิตย์ ดังนั้นจึงไม่มีอาจารย์คนใดสามารถให้คำตอบเกี่ยวกับเรื่องนี้ได้
-1	ผู้สื่อข่าว	_	NOUN	NCMN	_	0	ROOT	0:ROOT	Conn=O
+1	ผู้สื่อข่าว	_	NOUN	NCMN	_	0	root	0:root	Conn=O
 2	รายงาน	_	NOUN	NCMN	_	1	compound	1:compound	Conn=O
 3	ว่า	_	SCONJ	JSBR	_	16	mark	16:mark	Conn=O
 4	หลังจาก	_	SCONJ	JSBR	_	12	mark	12:mark	Conn=B-conn

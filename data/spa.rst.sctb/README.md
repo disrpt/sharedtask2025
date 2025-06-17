@@ -2,7 +2,6 @@
 
 The RST Spanish-Chinese Treebank - Spanish section
 
-
 ## Introduction
 
 ﻿The RST Spanish-Chinese Treebank is a corpus of specialized texts in Spanish and their parallel texts in Chinese. All the texts are annotated manually with discourse relations under the theoretical framework Rhetorical Structure Theory (RST) (Mann and Thompson, 1988). RSTTool (O’Donnell, 2000) is used to annotate this corpus. The annotation results are saved by rstWeb (Zeldes, 2016). 
@@ -12,7 +11,7 @@ In total, 100 texts are included in this corpus. The genres of these texts are: 
 ### References
 
   * Cao Shuyuan, da Cunha Iria, and Iruskieta Mikel. 2018. [The RST Spanish-Chinese Treebank](https://aclanthology.org/W18-4917/). In Proceedings of the Joint Workshop of Linguistic Annotation, Multiword Expression and Constructions (LAW-MWE-CxG-2018), 156-166. 
-    ```
+    ```bibtex
     @inproceedings{cao-etal-2018-rst,
     title = "The {RST} {S}panish-{C}hinese Treebank",
     author = "Cao, Shuyuan  and
@@ -30,7 +29,7 @@ In total, 100 texts are included in this corpus. The genres of these texts are: 
     ```
 
   * Cao Shuyuan, Xue Nianwen, da Cunha Iria, Iruskieta Mikel, and Wang Chuan. 2017. [Discourse Segmentation for Building a RST Chinese Treebank](https://aclanthology.org/W17-3610/). In Proceedings of 6th Workshop “Recent Advances in RST and Related Formalisms”, 73-81.
-    ```
+    ```bibtex
     @inproceedings{cao-etal-2017-discourse,
     title = "Discourse Segmentation for Building a {RST} {C}hinese Treebank",
     author = "Cao, Shuyuan  and
@@ -51,7 +50,7 @@ In total, 100 texts are included in this corpus. The genres of these texts are: 
     ```
     
   * Cao Shuyuan, da Cunha Iria, Iruskieta Mikel. 2017. [Toward the Elaboration of a Spanish-Chinese Parallel Annotated Corpus](https://easychair.org/publications/paper/l). EPiC Series of Language and Linguistics, 2: 315-324.
-    ```
+    ```bibtex
     @inproceedings{AESLA2016:Toward_Elaboration_of_Spanish_Chinese,
       author    = {Shuyuan Cao and Iria Da-Cunha and Mikel Iruskieta},
       title     = {Toward the Elaboration of a Spanish-Chinese Parallel Annotated Corpus},
@@ -70,7 +69,7 @@ In total, 100 texts are included in this corpus. The genres of these texts are: 
     ```
 
   * Cao Shuyuan, da Cunha Iria, and Iruskieta Mikel. 2016. [A Corpus-based Approach for Spanish-Chinese Language Learning](https://aclanthology.org/W16-4913/). In Proceedings of the 3rd Workshop on Natural Language Processing Techniques for Educational Applications (NLP-TEA3), 97-106. 
-    ```
+    ```bibtex
     @inproceedings{cao-etal-2016-corpus,
     title = "A Corpus-based Approach for {S}panish-{C}hinese Language Learning",
     author = "Cao, Shuyuan  and
@@ -88,7 +87,7 @@ In total, 100 texts are included in this corpus. The genres of these texts are: 
     ```
 
 
-## DISRPT 2023 Shared Task Information
+## DISRPT 2025 Shared Task Information
 
 Automatic parses were added using Stanza's pretrained Spanish Ancora model, with some additional postprocessing to resolve sentence splitting errors. 
 

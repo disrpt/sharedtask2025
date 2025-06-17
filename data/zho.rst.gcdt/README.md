@@ -12,20 +12,20 @@ GCDT covers over 60K tokens across five genres of freely available text, using t
 
 The corpus contains 50 documents, 10 from each of the five genres below.
 
-In total, there are 62,905 tokens and  9,717 EDUs. The label set contains 32 discourse relations.
+In total, there are 62,905 tokens and  9,717 EDUs. The label set originally contains 32 discourse relations.
 
 A `train`/`dev`/`test` split is given, with a 8:1:1 proportion based on genre.
 
 
-## DISRPT 2023 Shared Task Information
+## DISRPT 2025 Shared Task Information
 
-Tokenization, sentence segmentation, POS tagging and syntactic dependency parses are made available using Stanza.
+Tokenization, sentence segmentation, POS tagging and syntactic dependency parses are made available using Stanza. This dataset contains discontinuous discourse units (split 'same-unit'). 
 
 ## References
 
 [GCDT: A Chinese RST Treebank for Multigenre and Multilingual Discourse Parsing](https://aclanthology.org/2022.aacl-short.47/) (Peng et al., AACL-IJCNLP 2022)
 
-```
+```bibtex
 @inproceedings{peng_gcdt_2022,
 	address = {Online only},
 	title = {{GCDT}: {A} {Chinese} {RST} {Treebank} for {Multigenre} and {Multilingual} {Discourse} {Parsing}},
@@ -45,7 +45,7 @@ Tokenization, sentence segmentation, POS tagging and syntactic dependency parses
 
 
 Please cite the following for the [Chinese Discourse Annotation Reference Manual](https://hal.archives-ouvertes.fr/hal-03821884):
-```
+```bibtex
 @techreport{peng_chinese_2022,
 	type = {Research {Report}},
 	title = {Chinese {Discourse} {Annotation} {Reference} {Manual}},

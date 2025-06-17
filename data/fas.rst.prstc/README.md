@@ -10,7 +10,8 @@ For more information about corpus articles, see [the source repository](https://
 
 
 If you find this work useful in your research, please cite: [arxiv.org/abs/2106.13833](https://arxiv.org/abs/2106.13833)
-```
+
+```bibtex
 @article{shahmohammadi2021persian,
       title={Persian {Rhetorical Structure Theory}}, 
       author={Sara Shahmohammadi and Hadi Veisi and Ali Darzi},
@@ -29,7 +30,7 @@ If you find this work useful in your research, please cite: [arxiv.org/abs/2106.
 
 [4]  Zeldes, A. (2016, June). rstWeb-a browser-based annotation interface for Rhetorical Structure Theory and discourse relations. In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Demonstrations (pp. 1-5).
 
-## DISRPT 2023 Shared Task Information
+## DISRPT 2025 Shared Task Information
 
 Tokenization, sentence splits, POS tags, morphology and syntactic parses were added using Stanza's default `fa` model.
 This dataset contains cases of token that are multi-word contraction. Tokenization reflects those cases by providing the contracted form (with a range of IDs as ID) followed by both of parts of the "extended" form.

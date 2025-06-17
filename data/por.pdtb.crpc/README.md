@@ -11,7 +11,7 @@ The corpus contains the annotation of Explicit, Implicit, AltLex, EntRel and NoR
 More information at: https://www.clul.ulisboa.pt/en/recurso/portuguese-discourse-bank
 
 
-## DISRPT 2023 Shared Task Information
+## DISRPT 2025 Shared Task Information
 
 The texts were tokenized using the LX-tokenizer which separates punctuation marks from words, splits into sentences and deals with contracted forms and clitics in Portuguese.
 POS tagging and syntactic parses were obtained using Stanza.
@@ -27,7 +27,8 @@ In the end, we have:
 ## References
 
 Mendes, Amália & Pierre Lejeune (2022).[ CRPC-DB – A Discourse Bank for Portuguese](https://dl.acm.org/doi/abs/10.1007/978-3-030-98305-5_8). In Computational Processing of the Portuguese Language PROPOR 2022 (pp. 79-89). Berlin, Heidelberg: Springer. http://hdl.handle.net/10451/54255
-```
+
+```bibtex
 @inproceedings{CRPC-DB-Portuguese,
 author = {Mendes, Am\'{a}lia and Lejeune, Pierre},
 title = {CRPC-DB a Discourse Bank for Portuguese},
@@ -48,7 +49,8 @@ location = {Fortaleza, Brazil}
 
 
 Généreux, M., Hendrickx, I., and Mendes, A. (2012). [Introducing the reference corpus of contemporary portuguese on-line](https://aclanthology.org/L12-1143/). In Nicoletta Calzolari, et al., editors, LREC’2012 – Eighth International Conference on Language Resources and Evaluation, pages 2237–2244, Istanbul,Turkey, May. European Language Resources Association (ELRA).
-```
+
+```bibtex
 @inproceedings{genereux-etal-2012-introducing,
     title = "Introducing the Reference Corpus of Contemporary {P}ortuguese Online",
     author = "G{\'e}n{\'e}reux, Michel  and
@@ -67,7 +69,8 @@ Généreux, M., Hendrickx, I., and Mendes, A. (2012). [Introducing the reference
 
 
 Prasad, R., Dinesh, N., Lee, A., Miltsakaki, E., Robaldo, L., Joshi, A. K., and Webber, B. L. (2008). [The Penn Discourse Treebank 2.0](https://aclanthology.org/L08-1093/). In LREC2008.
-```
+
+```bibtex
 @inproceedings{prasad-etal-2008-penn,
     title = "The {P}enn {D}iscourse {T}ree{B}ank 2.0.",
     author = "Prasad, Rashmi  and
@@ -89,7 +92,8 @@ Prasad, R., Dinesh, N., Lee, A., Miltsakaki, E., Robaldo, L., Joshi, A. K., and 
 
 
 Webber, B., Prasad, R., Lee, A., and Joshi, A. (2016). [A discourse-annotated corpus of conjoined VPs](https://aclanthology.org/W16-1704/). In Proceedings of the 10th Linguistics Annotation Workshop, pages 22–31.
-```
+
+```bibtex
 @inproceedings{webber-etal-2016-discourse,
     title = "A Discourse-Annotated Corpus of Conjoined {VP}s",
     author = "Webber, Bonnie  and
