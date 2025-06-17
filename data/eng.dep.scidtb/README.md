@@ -31,9 +31,9 @@ It is noted that some modifications were made to adapt to the scientific domain.
 SciDTB, Background relation is divided into three subtypes: Related, Goal, and General, because the
 background description in scientific abstracts usually has more different intents. 
 
-## DISRPT 2023 Shared Task Information
+## DISRPT 2025 Shared Task Information
 
-For the 2023 shared task, the original split from the authors is adopted, 
+For the 2023 and 2025 shared tasks, the original split from the authors is adopted, 
 with 492 documents in the `train` set, 154 in the `dev` set, and 152 in the `test` set. 
 
 Data has been tokenized, split into sentences, POS tagged, and parsed using Stanza. 
@@ -43,7 +43,7 @@ This dataset contains cases of token that are multi-words contraction. The token
 ## References
 
 [SciDTB: Discourse Dependency TreeBank for Scientific Abstracts](https://aclanthology.org/P18-2071/) (Yang & Li, ACL 2018)
-```
+```bibtex
 @inproceedings{yang-li-2018-scidtb,
     title = "{S}ci{DTB}: Discourse Dependency {T}ree{B}ank for Scientific Abstracts",
     author = "Yang, An  and

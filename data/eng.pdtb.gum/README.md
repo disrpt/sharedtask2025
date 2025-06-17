@@ -57,12 +57,12 @@ The corpus is created as part of the course LING-4427 (Computational Corpus Ling
 
 For more details see: https://gucorpling.org/gum
 
-## DISRPT 2023 Shared Task Information
+## DISRPT 2025 Shared Task Information
 
-For the DISRPT 2023 shared task on elementary discourse unit segmentation, 
-only 11 open text genres were included with plain text, while the remaining twelfth genre, 
+For the DISRPT 2025 shared task on elementary discourse unit segmentation, 
+only 15 open text genres were included with plain text, while the remaining genre, 
 containing Reddit forum discussions, **must be reconstructed** using the script 
-in `utils/process_underscore_2024.py` (see main repository README).  
+in `utils/process_underscore_2025.py` (see main repository README).  
 Following the 2023 shared task, four more genres were added (court, essay, letter and 
 podcast were not included in 2023).
 

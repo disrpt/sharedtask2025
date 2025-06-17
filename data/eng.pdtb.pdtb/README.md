@@ -38,7 +38,7 @@ The resulting partition is decribed in the eng.pdtb.pdtb_partition.json, and cor
 
 ### Obtaining the Text
 
-Since the underlying Wall Street Journal text cannot be placed openly online, the shared task data has replaced token information with underscores. To reconstruct the data, users must obtain a copy of the LDC release 2.0 of the Penn Treebank Wall Street Journal corpus (LDC95T7) and run the Python script in `utils/process_underscores.py pdtb -m add`. Alternatively, the same files are found in PDTB 3.0 raw file directory, which can be used instead. For more details, run `python utils/process_underscores.py -h`. 
+Since the underlying Wall Street Journal text cannot be placed openly online, the shared task data has replaced token information with underscores. To reconstruct the data, users must obtain a copy of the LDC release 2.0 of the Penn Treebank Wall Street Journal corpus (LDC95T7) and run the Python script in `utils/process_underscores_2024.py pdtb -m add`. Alternatively, the same files are found in PDTB 3.0 raw file directory, which can be used instead. For more details, run `python utils/process_underscores_2024.py -h`. 
 
 ### Notes on Segmentation
 
@@ -56,10 +56,10 @@ Each relation segments a text independently. Segments may be discontinuous, and 
 
 With respect to the PDTB, the DISRPT task only requires identifying segments corresponding to the explicit connectives in the text.
 
-  * Labelling a token with "Seg=B-Conn" indicates that it is at the beginning of an explicit connective.
-  * Labelling a token with "Seg=I-Conn" indicates that it is a continuation of the start of the connective
+  * Labelling a token with "Conn=B-conn" indicates that it is at the beginning of an explicit connective.
+  * Labelling a token with "Conn=I-conn" indicates that it is a continuation of the start of the connective
    to its left;
-  * Labelling a token with "_" indicates that is is outside the segment to its left.
+  * Labelling a token with "Conn=O" indicates that is is outside the segment to its left.
 
 The following illustrate DISRPT labelling of a sentence (abbreviated to B/I) with several distinct connectives (including a modified connective 'especially if') and of a sentence with a discontinuous connective ('not only ... but also').
 

@@ -27252,13 +27252,13 @@
 11	in	in	ADP	IN	_	12	case	12:case	Conn=O
 12	prison	prison	NOUN	NN	Number=Sing	10	obl	10:obl:in	Conn=O|Entity=(6-place-giv:act-sssss-cf7-1-coref-Prison)
 13	for	for	ADP	IN	_	16	case	16:case	Conn=O
-14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Conn=O|Entity=(13-abstract-new-nnnnn-cf18-3-sgl
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Conn=O|Entity=(13-abstract-new-nnnnn-cf17-3-sgl
 15	store	store	NOUN	NN	Number=Sing	16	compound	16:compound	Conn=O|Entity=(14-place-new-nnnnn-cf22-1-sgl)
 16	holdup	holdup	NOUN	NN	Number=Sing	10	obl	10:obl:for	Conn=O
 17	on	on	ADP	IN	_	18	case	18:case	Conn=O
-18	blacks	black	NOUN	NNS	Number=Plur	16	nmod	16:nmod:on	Conn=O|Entity=(15-person-new-nnnnn-cf16-1-sgl)13)|MSeg=black-s
+18	blacks	black	NOUN	NNS	Number=Plur	16	nmod	16:nmod:on	Conn=O|Entity=(15-person-new-nnnnn-cf15-1-sgl)13)|MSeg=black-s
 19	or	or	CCONJ	CC	_	21	cc	21:cc	Conn=O
-20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	Conn=O|Entity=(16-person-new-nnnnn-cf17-2-sgl
+20	a	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	Conn=O|Entity=(16-person-new-nnnnn-cf16-2-sgl
 21	black	black	NOUN	NN	Number=Sing	16	conj	10:obl:for|16:conj:or	Conn=O|Entity=16)
 22	and	and	CCONJ	CC	_	68	cc	68:cc	Conn=B-conn
 23	if	if	SCONJ	IN	_	29	mark	29:mark	Conn=B-conn
@@ -27274,14 +27274,14 @@
 32	racially	racially	ADV	RB	Degree=Pos	33	advmod	33:advmod	Conn=O
 33	motivated	motivated	ADJ	JJ	Degree=Pos	31	xcomp	31:xcomp	Conn=O|MSeg=motiv-at-ed
 34	with	with	ADP	IN	_	35	case	35:case	Conn=O
-35	justice	justice	NOUN	NN	Number=Sing	31	obl	31:obl:with	Conn=O|Entity=(18-abstract-undefined-undefined-cf11-1-coref)|MSeg=just-ice
+35	justice	justice	NOUN	NN	Number=Sing	31	obl	31:obl:with	Conn=O|Entity=(18-abstract-new-nnnnn-cf18-1-coref)|MSeg=just-ice
 36	in	in	ADP	IN	_	40	case	40:case	Conn=O
 37	a	a	DET	DT	Definite=Ind|PronType=Art	40	det	40:det	Conn=O|Entity=(19-abstract-new-nnnnn-cf19-4-sgl
 38	double	double	ADJ	JJ	Degree=Pos	39	advmod	39:advmod	Conn=O
 39	sided	sided	ADJ	JJ	Degree=Pos	40	amod	40:amod	Conn=O|MSeg=sid-ed
 40	way	way	NOUN	NN	Number=Sing	31	obl	31:obl:in	Conn=O|Entity=19)
 41	dropping	drop	VERB	VBG	Tense=Pres|VerbForm=Part	31	advcl	31:advcl	Conn=O|MSeg=dropp-ing
-42	the	the	DET	DT	Definite=Def|PronType=Art	44	det	44:det	Conn=O|Entity=(20-abstract-new-nnnnn-cf13-3,7,11-sgl
+42	the	the	DET	DT	Definite=Def|PronType=Art	44	det	44:det	Conn=O|Entity=(20-abstract-new-nnnnn-cf12-3,7,11-sgl
 43	"	"	PUNCT	``	_	44	punct	44:punct	Conn=O|SpaceAfter=No
 44	I	I	NOUN	NN	Number=Sing	41	obj	41:obj	Conn=O|SpaceAfter=No
 45	"	"	PUNCT	''	_	44	punct	44:punct	Conn=O|SpaceAfter=No
@@ -27319,9 +27319,9 @@
 76	judges	judge	NOUN	NNS	Number=Plur	72	obl	72:obl:with	Conn=O|Entity=7)23)|MSeg=judge-s
 77	from	from	ADP	IN	_	82	case	82:case	Conn=O
 78	a	a	DET	DT	Definite=Ind|PronType=Art	82	det	82:det	Conn=O|Entity=(24-abstract-new-nnnss-cf20-4,5-sgl
-79	Koranic	Koranic	ADJ	NNP	Degree=Pos	82	amod	82:amod	Conn=O|Entity=(25-abstract-new-nnnnn-cf14-1-sgl)
+79	Koranic	Koranic	ADJ	NNP	Degree=Pos	82	amod	82:amod	Conn=O|Entity=(25-abstract-new-nnnnn-cf13-1-sgl)
 80	and	and	CCONJ	CC	_	81	cc	81:cc	Conn=O
-81	Torooh	Torah	PROPN	NNP	Number=Sing|Typo=Yes	79	conj	79:conj:and|82:compound	Conn=O|CorrectForm=Torah|Entity=(26-abstract-new-nnnnn-cf15-1-sgl-Torah)|XML=<sic ana:::"Torah"></sic>
+81	Torooh	Torah	PROPN	NNP	Number=Sing|Typo=Yes	79	conj	79:conj:and|82:compound	Conn=O|CorrectForm=Torah|Entity=(26-abstract-new-nnnnn-cf14-1-sgl-Torah)|XML=<sic ana:::"Torah"></sic>
 82	perspective	perspective	NOUN	NN	Number=Sing	86	obl	86:obl:from	Conn=O|Entity=24)|MSeg=perspect-ive
 83-84	thats	_	_	_	_	_	_	_	_
 83	that	that	PRON	DT	Number=Sing|PronType=Dem	86	nsubj	86:nsubj|91:nsubj	Conn=O|Entity=(23-abstract-giv:act-nnnnn-cf2-1-coref)|XML=<w>
@@ -27339,7 +27339,7 @@
 95	which	which	PRON	WDT	PronType=Rel	96	nsubj	86:ref	Conn=O
 96	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	86	acl:relcl	86:acl:relcl	Conn=O|MSeg=mean-s
 97	if	if	SCONJ	IN	_	102	mark	102:mark	Conn=B-conn
-98	just	just	ADJ	JJ	Degree=Pos	99	amod	99:amod	Conn=O|Entity=(27-event-new-nnssn-cf12-2-coref
+98	just	just	ADJ	JJ	Degree=Pos	99	amod	99:amod	Conn=O|Entity=(27-event-new-nnssn-cf11-2-coref
 99	treatment	treatment	NOUN	NN	Number=Sing	102	nsubj:pass	102:nsubj:pass	Conn=O|Entity=27)|MSeg=treat-ment
 100	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	102	aux:pass	102:aux:pass	Conn=O
 101	not	not	PART	RB	Polarity=Neg	102	advmod	102:advmod	Conn=O|Negation=Yes

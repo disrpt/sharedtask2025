@@ -32,7 +32,7 @@ Based on SciDTB and Penn Discourse Treebank (PDTB) (Prasad et al., 2008), the au
 They indicate that they merged some classes, such as Cause-Effect + Explain → Cause-Result. Some classes are also renamed from SciDTB to fit the biomedical domain, such as Evaluation → Findings.
 
 
-## DISRPT 2023 Shared Task Information
+## DISRPT 2025 Shared Task Information
 
 The dataset only contains a `dev` and `test` partition, without a `train` partition. 
 This dataset thus corresponds to an Out of Domain setting: 
@@ -46,7 +46,7 @@ Tokenization, sentence splits, POS tagging, and syntactic parsing were obtained 
 [Out-of-Domain Discourse Dependency Parsing via Bootstrapping: {A}n Empirical Analysis on its Effectiveness and Limitation](https://aclanthology.org/2022.tacl-1.8/)
 (Nishida & Matsumoto, TACL 2022)
 
-```
+```bibtex
 @article{nishida-matsumoto-2022-domain,
     title = "Out-of-Domain Discourse Dependency Parsing via Bootstrapping: An Empirical Analysis on Its Effectiveness and Limitation",
     author = "Nishida, Noriki  and

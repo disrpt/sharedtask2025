@@ -53255,7 +53255,7 @@
 32	_____	_	PRON	WDT	PronType=Rel	33	nsubj	30:ref	Conn=O
 33	_______	manage	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	acl:relcl	30:acl:relcl	Conn=O
 34	_____	_	ADP	IN	_	37	advmod	37:advmod	Conn=O
-35	_	_	#	#	_	37	compound	37:compound	Conn=O
+35	_	_	SYM	#	_	37	compound	37:compound	Conn=O
 36	__	_	NUM	CD	NumForm=Digit|NumType=Card	37	compound	37:compound	Conn=O
 37	_______	_	NUM	CD	NumForm=Word|NumType=Card	33	obj	33:obj	Conn=O
 38	_	_	PUNCT	-LRB-	_	39	punct	39:punct	Conn=O
@@ -72389,7 +72389,7 @@
 22	__________	security	NOUN	NNS	Number=Plur	17	appos	17:appos	Conn=O
 23	____	_	ADJ	JJ	Degree=Pos	22	amod	22:amod	Conn=O
 24	____	_	ADP	IN	_	28	case	28:case	Conn=O
-25	_	_	#	#	_	27	compound	27:compound	Conn=O
+25	_	_	SYM	#	_	27	compound	27:compound	Conn=O
 26	___	_	NUM	CD	NumForm=Digit|NumType=Card	27	compound	27:compound	Conn=O
 27	_______	_	NUM	CD	NumForm=Word|NumType=Card	28	nummod	28:nummod	Conn=O
 28	_______	_	NOUN	NN	Number=Sing	22	nmod	22:nmod:with	Conn=O
@@ -73259,7 +73259,7 @@
 5	_	_	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Conn=O
 6	___	_	PART	RB	Polarity=Neg	7	advmod	7:advmod	Conn=O
 7	______________	_	ADJ	JJ	Degree=Pos	10	amod	10:amod	Conn=O
-8	_	_	#	#	_	10	compound	10:compound	Conn=O
+8	_	_	SYM	#	_	10	compound	10:compound	Conn=O
 9	_	_	NUM	CD	NumForm=Digit|NumType=Card	10	compound	10:compound	Conn=O
 10	_______	_	NUM	CD	NumForm=Word|NumType=Card	0	root	0:root	Conn=O
 11	_	_	PUNCT	-LRB-	_	12	punct	12:punct	Conn=O
@@ -74279,7 +74279,7 @@
 2	_______	drop	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Conn=O
 3	___	_	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	14:nmod:poss	Conn=O
 4	_______	_	ADJ	JJ	Degree=Pos	14	amod	14:amod	Conn=O
-5	_	_	#	#	_	7	compound	7:compound	Conn=O
+5	_	_	SYM	#	_	7	compound	7:compound	Conn=O
 6	_____	_	NUM	CD	NumForm=Digit|NumType=Frac	7	compound	7:compound	Conn=O
 7	_______	_	NUM	CD	NumForm=Word|NumType=Card	14	dep	14:dep	Conn=O
 8	_	_	PUNCT	-LRB-	_	9	punct	9:punct	Conn=O

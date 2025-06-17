@@ -256,6 +256,7 @@
 255	Wednesday	_	_	_	_	_	_	_	Conn=O
 256	next	_	_	_	_	_	_	_	Conn=O
 257	,	_	_	_	_	_	_	_	Conn=O
+258-259	I'm	_	_	_	_	_	_	_	_
 258	I	_	_	_	_	_	_	_	Conn=O
 259	'm	_	_	_	_	_	_	_	Conn=O
 260	going	_	_	_	_	_	_	_	Conn=O
@@ -390,6 +391,7 @@
 389	to	_	_	_	_	_	_	_	Conn=O
 390	meet	_	_	_	_	_	_	_	Conn=O
 391	.	_	_	_	_	_	_	_	Conn=O
+392-393	I'll	_	_	_	_	_	_	_	_
 392	I	_	_	_	_	_	_	_	Conn=O
 393	'll	_	_	_	_	_	_	_	Conn=O
 394	know	_	_	_	_	_	_	_	Conn=O
@@ -523,6 +525,7 @@
 522	closest	_	_	_	_	_	_	_	Conn=O
 523	house	_	_	_	_	_	_	_	Conn=O
 524	.	_	_	_	_	_	_	_	Conn=O
+525-526	It's	_	_	_	_	_	_	_	_
 525	It	_	_	_	_	_	_	_	Conn=O
 526	's	_	_	_	_	_	_	_	Conn=O
 527	the	_	_	_	_	_	_	_	Conn=O
@@ -589,6 +592,7 @@
 588	next	_	_	_	_	_	_	_	Conn=O
 589	meet	_	_	_	_	_	_	_	Conn=O
 590	,	_	_	_	_	_	_	_	Conn=O
+591-592	you'll	_	_	_	_	_	_	_	_
 591	you	_	_	_	_	_	_	_	Conn=O
 592	'll	_	_	_	_	_	_	_	Conn=O
 593	be	_	_	_	_	_	_	_	Conn=O
@@ -633,6 +637,7 @@
 632	,	_	_	_	_	_	_	_	Conn=O
 633	please	_	_	_	_	_	_	_	Conn=O
 634	,	_	_	_	_	_	_	_	Conn=O
+635-636	don't	_	_	_	_	_	_	_	_
 635	do	_	_	_	_	_	_	_	Conn=O
 636	n't	_	_	_	_	_	_	_	Conn=O
 637	hold	_	_	_	_	_	_	_	Conn=O
@@ -649,6 +654,7 @@
 648	the	_	_	_	_	_	_	_	Conn=O
 649	next	_	_	_	_	_	_	_	Conn=O
 650	she	_	_	_	_	_	_	_	Conn=O
+651-652	wasn't	_	_	_	_	_	_	_	_
 651	was	_	_	_	_	_	_	_	Conn=O
 652	n't	_	_	_	_	_	_	_	Conn=O
 653	.	_	_	_	_	_	_	_	Conn=O
@@ -1365,6 +1371,7 @@
 705	educational	_	_	_	_	_	_	_	Conn=O
 706	institution	_	_	_	_	_	_	_	Conn=O
 707	.	_	_	_	_	_	_	_	Conn=O
+708-709	I'll	_	_	_	_	_	_	_	_
 708	I	_	_	_	_	_	_	_	Conn=O
 709	'll	_	_	_	_	_	_	_	Conn=O
 710	see	_	_	_	_	_	_	_	Conn=O
@@ -1573,6 +1580,7 @@
 913	or	_	_	_	_	_	_	_	Conn=O
 914	compose	_	_	_	_	_	_	_	Conn=O
 915	,	_	_	_	_	_	_	_	Conn=O
+916-917	one's	_	_	_	_	_	_	_	_
 916	one	_	_	_	_	_	_	_	Conn=O
 917	's	_	_	_	_	_	_	_	Conn=O
 918	expression	_	_	_	_	_	_	_	Conn=O
@@ -1644,6 +1652,7 @@
 47	,	_	_	_	_	_	_	_	Conn=O
 48	and	_	_	_	_	_	_	_	Conn=B-conn
 49	now	_	_	_	_	_	_	_	Conn=O
+50-51	it's	_	_	_	_	_	_	_	_
 50	it	_	_	_	_	_	_	_	Conn=O
 51	's	_	_	_	_	_	_	_	Conn=O
 52	considered	_	_	_	_	_	_	_	Conn=O
@@ -1981,6 +1990,7 @@
 384	house	_	_	_	_	_	_	_	Conn=O
 385	into	_	_	_	_	_	_	_	Conn=O
 386	my	_	_	_	_	_	_	_	Conn=O
+387-388	sister's	_	_	_	_	_	_	_	_
 387	sister	_	_	_	_	_	_	_	Conn=O
 388	's	_	_	_	_	_	_	_	Conn=O
 389	trust	_	_	_	_	_	_	_	Conn=O
@@ -2155,6 +2165,7 @@
 558	in	_	_	_	_	_	_	_	Conn=O
 559	.	_	_	_	_	_	_	_	Conn=O
 560	We	_	_	_	_	_	_	_	Conn=O
+561-562	cannot	_	_	_	_	_	_	_	_
 561	can	_	_	_	_	_	_	_	Conn=O
 562	not	_	_	_	_	_	_	_	Conn=O
 563	trust	_	_	_	_	_	_	_	Conn=O
@@ -2258,6 +2269,7 @@
 661	,	_	_	_	_	_	_	_	Conn=O
 662	as	_	_	_	_	_	_	_	Conn=O
 663	to	_	_	_	_	_	_	_	Conn=O
+664-665	one's	_	_	_	_	_	_	_	_
 664	one	_	_	_	_	_	_	_	Conn=O
 665	's	_	_	_	_	_	_	_	Conn=O
 666	care	_	_	_	_	_	_	_	Conn=O
@@ -2432,6 +2444,7 @@
 1	Now	_	_	_	_	_	_	_	Conn=O
 2	after	_	_	_	_	_	_	_	Conn=O
 3	last	_	_	_	_	_	_	_	Conn=O
+4-5	episodes's	_	_	_	_	_	_	_	_
 4	episodes	_	_	_	_	_	_	_	Conn=O
 5	's	_	_	_	_	_	_	_	Conn=O
 6	amazing	_	_	_	_	_	_	_	Conn=O
@@ -2472,10 +2485,12 @@
 41	Manchester	_	_	_	_	_	_	_	Conn=O
 42	City	_	_	_	_	_	_	_	Conn=O
 43	,	_	_	_	_	_	_	_	Conn=O
+44-45	today's	_	_	_	_	_	_	_	_
 44	today	_	_	_	_	_	_	_	Conn=O
 45	's	_	_	_	_	_	_	_	Conn=O
 46	episode	_	_	_	_	_	_	_	Conn=O
 47	is	_	_	_	_	_	_	_	Conn=O
+48-49	gonna	_	_	_	_	_	_	_	_
 48	gon	_	_	_	_	_	_	_	Conn=O
 49	na	_	_	_	_	_	_	_	Conn=O
 50	start	_	_	_	_	_	_	_	Conn=O
@@ -2486,6 +2501,7 @@
 55	that	_	_	_	_	_	_	_	Conn=O
 56	you	_	_	_	_	_	_	_	Conn=O
 57	know	_	_	_	_	_	_	_	Conn=O
+58-59	aren't	_	_	_	_	_	_	_	_
 58	are	_	_	_	_	_	_	_	Conn=O
 59	n't	_	_	_	_	_	_	_	Conn=O
 60	as	_	_	_	_	_	_	_	Conn=O
@@ -2496,6 +2512,7 @@
 65	couple	_	_	_	_	_	_	_	Conn=O
 66	of	_	_	_	_	_	_	_	Conn=O
 67	matches	_	_	_	_	_	_	_	Conn=O
+68-69	we've	_	_	_	_	_	_	_	_
 68	we	_	_	_	_	_	_	_	Conn=O
 69	've	_	_	_	_	_	_	_	Conn=O
 70	had	_	_	_	_	_	_	_	Conn=O
@@ -2531,8 +2548,10 @@
 100	the	_	_	_	_	_	_	_	Conn=O
 101	hardest	_	_	_	_	_	_	_	Conn=O
 102	games	_	_	_	_	_	_	_	Conn=O
+103-104	I'm	_	_	_	_	_	_	_	_
 103	I	_	_	_	_	_	_	_	Conn=O
 104	'm	_	_	_	_	_	_	_	Conn=O
+105-106	gonna	_	_	_	_	_	_	_	_
 105	gon	_	_	_	_	_	_	_	Conn=O
 106	na	_	_	_	_	_	_	_	Conn=O
 107	be	_	_	_	_	_	_	_	Conn=O
@@ -2554,6 +2573,7 @@
 123	they	_	_	_	_	_	_	_	Conn=O
 124	play	_	_	_	_	_	_	_	Conn=O
 125	,	_	_	_	_	_	_	_	Conn=O
+126-127	they're	_	_	_	_	_	_	_	_
 126	they	_	_	_	_	_	_	_	Conn=O
 127	're	_	_	_	_	_	_	_	Conn=O
 128	exactly	_	_	_	_	_	_	_	Conn=O
@@ -2561,9 +2581,11 @@
 130	Napoli	_	_	_	_	_	_	_	Conn=O
 131	.	_	_	_	_	_	_	_	Conn=O
 132	So	_	_	_	_	_	_	_	Conn=B-conn
+133-134	we're	_	_	_	_	_	_	_	_
 133	we	_	_	_	_	_	_	_	Conn=O
 134	're	_	_	_	_	_	_	_	Conn=O
 135	just	_	_	_	_	_	_	_	Conn=O
+136-137	gonna	_	_	_	_	_	_	_	_
 136	gon	_	_	_	_	_	_	_	Conn=O
 137	na	_	_	_	_	_	_	_	Conn=O
 138	start	_	_	_	_	_	_	_	Conn=O
@@ -2576,8 +2598,10 @@
 145	against	_	_	_	_	_	_	_	Conn=O
 146	Benevento	_	_	_	_	_	_	_	Conn=O
 147	.	_	_	_	_	_	_	_	Conn=O
+148-149	We're	_	_	_	_	_	_	_	_
 148	We	_	_	_	_	_	_	_	Conn=O
 149	're	_	_	_	_	_	_	_	Conn=O
+150-151	gonna	_	_	_	_	_	_	_	_
 150	gon	_	_	_	_	_	_	_	Conn=O
 151	na	_	_	_	_	_	_	_	Conn=O
 152	play	_	_	_	_	_	_	_	Conn=O
@@ -2598,6 +2622,7 @@
 167	this	_	_	_	_	_	_	_	Conn=O
 168	episode	_	_	_	_	_	_	_	Conn=O
 169	.	_	_	_	_	_	_	_	Conn=O
+170-171	We've	_	_	_	_	_	_	_	_
 170	We	_	_	_	_	_	_	_	Conn=O
 171	've	_	_	_	_	_	_	_	Conn=O
 172	got	_	_	_	_	_	_	_	Conn=O
@@ -2628,6 +2653,7 @@
 197	card	_	_	_	_	_	_	_	Conn=O
 198	.	_	_	_	_	_	_	_	Conn=O
 199	Now	_	_	_	_	_	_	_	Conn=O
+200-201	I've	_	_	_	_	_	_	_	_
 200	I	_	_	_	_	_	_	_	Conn=O
 201	've	_	_	_	_	_	_	_	Conn=O
 202	mentioned	_	_	_	_	_	_	_	Conn=O
@@ -2660,6 +2686,7 @@
 229	The	_	_	_	_	_	_	_	Conn=O
 230	Scudetto	_	_	_	_	_	_	_	Conn=O
 231	was	_	_	_	_	_	_	_	Conn=O
+232-233	gonna	_	_	_	_	_	_	_	_
 232	gon	_	_	_	_	_	_	_	Conn=O
 233	na	_	_	_	_	_	_	_	Conn=O
 234	be	_	_	_	_	_	_	_	Conn=O
@@ -2667,6 +2694,7 @@
 236	all	_	_	_	_	_	_	_	Conn=O
 237	the	_	_	_	_	_	_	_	Conn=O
 238	time	_	_	_	_	_	_	_	Conn=O
+239-240	UVA's	_	_	_	_	_	_	_	_
 239	UVA	_	_	_	_	_	_	_	Conn=O
 240	's	_	_	_	_	_	_	_	Conn=O
 241	just	_	_	_	_	_	_	_	Conn=O
@@ -2682,6 +2710,7 @@
 251	coming	_	_	_	_	_	_	_	Conn=O
 252	up	_	_	_	_	_	_	_	Conn=O
 253	and	_	_	_	_	_	_	_	Conn=B-conn
+254-255	I'm	_	_	_	_	_	_	_	_
 254	I	_	_	_	_	_	_	_	Conn=O
 255	'm	_	_	_	_	_	_	_	Conn=O
 256	going	_	_	_	_	_	_	_	Conn=O
@@ -2691,11 +2720,13 @@
 260	this	_	_	_	_	_	_	_	Conn=O
 261	match	_	_	_	_	_	_	_	Conn=O
 262	because	_	_	_	_	_	_	_	Conn=B-conn
+263-264	it's	_	_	_	_	_	_	_	_
 263	it	_	_	_	_	_	_	_	Conn=O
 264	's	_	_	_	_	_	_	_	Conn=O
 265	at	_	_	_	_	_	_	_	Conn=O
 266	home	_	_	_	_	_	_	_	Conn=O
 267	.	_	_	_	_	_	_	_	Conn=O
+268-269	I'd	_	_	_	_	_	_	_	_
 268	I	_	_	_	_	_	_	_	Conn=O
 269	'd	_	_	_	_	_	_	_	Conn=O
 270	like	_	_	_	_	_	_	_	Conn=O
@@ -2718,8 +2749,10 @@
 287	scored	_	_	_	_	_	_	_	Conn=O
 288	Jović	_	_	_	_	_	_	_	Conn=O
 289	so	_	_	_	_	_	_	_	Conn=B-conn
+290-291	I'm	_	_	_	_	_	_	_	_
 290	I	_	_	_	_	_	_	_	Conn=O
 291	'm	_	_	_	_	_	_	_	Conn=O
+292-293	gonna	_	_	_	_	_	_	_	_
 292	gon	_	_	_	_	_	_	_	Conn=O
 293	na	_	_	_	_	_	_	_	Conn=O
 294	continue	_	_	_	_	_	_	_	Conn=O
@@ -2730,6 +2763,7 @@
 299	this	_	_	_	_	_	_	_	Conn=O
 300	game	_	_	_	_	_	_	_	Conn=O
 301	.	_	_	_	_	_	_	_	Conn=O
+302-303	He's	_	_	_	_	_	_	_	_
 302	He	_	_	_	_	_	_	_	Conn=O
 303	's	_	_	_	_	_	_	_	Conn=O
 304	up	_	_	_	_	_	_	_	Conn=O
@@ -2746,11 +2780,13 @@
 315	and	_	_	_	_	_	_	_	Conn=B-conn
 316	then	_	_	_	_	_	_	_	Conn=B-conn
 317	just	_	_	_	_	_	_	_	Conn=O
+318-319	hasn't	_	_	_	_	_	_	_	_
 318	has	_	_	_	_	_	_	_	Conn=O
 319	n't	_	_	_	_	_	_	_	Conn=O
 320	scored	_	_	_	_	_	_	_	Conn=O
 321	.	_	_	_	_	_	_	_	Conn=O
 322	I	_	_	_	_	_	_	_	Conn=O
+323-324	don't	_	_	_	_	_	_	_	_
 323	do	_	_	_	_	_	_	_	Conn=O
 324	n't	_	_	_	_	_	_	_	Conn=O
 325	know	_	_	_	_	_	_	_	Conn=O
@@ -2759,6 +2795,7 @@
 328	thought	_	_	_	_	_	_	_	Conn=O
 329	he	_	_	_	_	_	_	_	Conn=O
 330	was	_	_	_	_	_	_	_	Conn=O
+331-332	gonna	_	_	_	_	_	_	_	_
 331	gon	_	_	_	_	_	_	_	Conn=O
 332	na	_	_	_	_	_	_	_	Conn=O
 333	be	_	_	_	_	_	_	_	Conn=O
@@ -2768,6 +2805,7 @@
 337	future	_	_	_	_	_	_	_	Conn=O
 338	star	_	_	_	_	_	_	_	Conn=O
 339	but	_	_	_	_	_	_	_	Conn=B-conn
+340-341	he's	_	_	_	_	_	_	_	_
 340	he	_	_	_	_	_	_	_	Conn=O
 341	's	_	_	_	_	_	_	_	Conn=O
 342	still	_	_	_	_	_	_	_	Conn=O
@@ -2818,14 +2856,17 @@
 387	Scudetto	_	_	_	_	_	_	_	Conn=O
 388	if	_	_	_	_	_	_	_	Conn=B-conn
 389	it	_	_	_	_	_	_	_	Conn=O
+390-391	wasn't	_	_	_	_	_	_	_	_
 390	was	_	_	_	_	_	_	_	Conn=O
 391	n't	_	_	_	_	_	_	_	Conn=O
+392-393	gonna	_	_	_	_	_	_	_	_
 392	gon	_	_	_	_	_	_	_	Conn=O
 393	na	_	_	_	_	_	_	_	Conn=O
 394	be	_	_	_	_	_	_	_	Conn=O
 395	this	_	_	_	_	_	_	_	Conn=O
 396	season	_	_	_	_	_	_	_	Conn=O
 397	,	_	_	_	_	_	_	_	Conn=O
+398-399	I'm	_	_	_	_	_	_	_	_
 398	I	_	_	_	_	_	_	_	Conn=O
 399	'm	_	_	_	_	_	_	_	Conn=O
 400	pushing	_	_	_	_	_	_	_	Conn=O
@@ -2840,8 +2881,10 @@
 409	.	_	_	_	_	_	_	_	Conn=O
 410	I	_	_	_	_	_	_	_	Conn=O
 411	think	_	_	_	_	_	_	_	Conn=O
+412-413	we're	_	_	_	_	_	_	_	_
 412	we	_	_	_	_	_	_	_	Conn=O
 413	're	_	_	_	_	_	_	_	Conn=O
+414-415	gonna	_	_	_	_	_	_	_	_
 414	gon	_	_	_	_	_	_	_	Conn=O
 415	na	_	_	_	_	_	_	_	Conn=O
 416	have	_	_	_	_	_	_	_	Conn=O
@@ -2890,6 +2933,7 @@
 459	by	_	_	_	_	_	_	_	Conn=O
 460	Paquetá	_	_	_	_	_	_	_	Conn=O
 461	.	_	_	_	_	_	_	_	Conn=O
+462-463	Here's	_	_	_	_	_	_	_	_
 462	Here	_	_	_	_	_	_	_	Conn=O
 463	's	_	_	_	_	_	_	_	Conn=O
 464	Paquetá	_	_	_	_	_	_	_	Conn=O
@@ -2927,8 +2971,10 @@
 496	Luca	_	_	_	_	_	_	_	Conn=O
 497	Jović	_	_	_	_	_	_	_	Conn=O
 498	,	_	_	_	_	_	_	_	Conn=O
+499-500	he's	_	_	_	_	_	_	_	_
 499	he	_	_	_	_	_	_	_	Conn=O
 500	's	_	_	_	_	_	_	_	Conn=O
+501-502	gonna	_	_	_	_	_	_	_	_
 501	gon	_	_	_	_	_	_	_	Conn=O
 502	na	_	_	_	_	_	_	_	Conn=O
 503	touch	_	_	_	_	_	_	_	Conn=O
@@ -2940,6 +2986,7 @@
 509	it	_	_	_	_	_	_	_	Conn=O
 510	.	_	_	_	_	_	_	_	Conn=O
 511	I	_	_	_	_	_	_	_	Conn=O
+512-513	didn't	_	_	_	_	_	_	_	_
 512	did	_	_	_	_	_	_	_	Conn=O
 513	n't	_	_	_	_	_	_	_	Conn=O
 514	ah	_	_	_	_	_	_	_	Conn=O
@@ -3029,6 +3076,7 @@
 598	like	_	_	_	_	_	_	_	Conn=O
 599	it	_	_	_	_	_	_	_	Conn=O
 600	was	_	_	_	_	_	_	_	Conn=O
+601-602	gonna	_	_	_	_	_	_	_	_
 601	gon	_	_	_	_	_	_	_	Conn=O
 602	na	_	_	_	_	_	_	_	Conn=O
 603	be	_	_	_	_	_	_	_	Conn=O
@@ -3043,6 +3091,7 @@
 612	a	_	_	_	_	_	_	_	Conn=O
 613	penalty	_	_	_	_	_	_	_	Conn=O
 614	and	_	_	_	_	_	_	_	Conn=B-conn
+615-616	we're	_	_	_	_	_	_	_	_
 615	we	_	_	_	_	_	_	_	Conn=O
 616	're	_	_	_	_	_	_	_	Conn=O
 617	one	_	_	_	_	_	_	_	Conn=O
@@ -3103,6 +3152,7 @@
 672	times	_	_	_	_	_	_	_	Conn=O
 673	is	_	_	_	_	_	_	_	Conn=O
 674	he	_	_	_	_	_	_	_	Conn=O
+675-676	gonna	_	_	_	_	_	_	_	_
 675	gon	_	_	_	_	_	_	_	Conn=O
 676	na	_	_	_	_	_	_	_	Conn=O
 677	get	_	_	_	_	_	_	_	Conn=O
@@ -3122,6 +3172,7 @@
 691	my	_	_	_	_	_	_	_	Conn=O
 692	field	_	_	_	_	_	_	_	Conn=O
 693	and	_	_	_	_	_	_	_	Conn=B-conn
+694-695	cannot	_	_	_	_	_	_	_	_
 694	can	_	_	_	_	_	_	_	Conn=O
 695	not	_	_	_	_	_	_	_	Conn=O
 696	finish	_	_	_	_	_	_	_	Conn=O
@@ -3136,6 +3187,7 @@
 705	a	_	_	_	_	_	_	_	Conn=O
 706	moment	_	_	_	_	_	_	_	Conn=O
 707	,	_	_	_	_	_	_	_	Conn=O
+708-709	I'm	_	_	_	_	_	_	_	_
 708	I	_	_	_	_	_	_	_	Conn=O
 709	'm	_	_	_	_	_	_	_	Conn=O
 710	going	_	_	_	_	_	_	_	Conn=O
@@ -3160,6 +3212,7 @@
 729	,	_	_	_	_	_	_	_	Conn=O
 730	how	_	_	_	_	_	_	_	Conn=O
 731	we	_	_	_	_	_	_	_	Conn=O
+732-733	didn't	_	_	_	_	_	_	_	_
 732	did	_	_	_	_	_	_	_	Conn=O
 733	n't	_	_	_	_	_	_	_	Conn=O
 734	score	_	_	_	_	_	_	_	Conn=O
@@ -3182,11 +3235,13 @@
 751	City	_	_	_	_	_	_	_	Conn=O
 752	,	_	_	_	_	_	_	_	Conn=O
 753	who	_	_	_	_	_	_	_	Conn=O
+754-755	today's	_	_	_	_	_	_	_	_
 754	today	_	_	_	_	_	_	_	Conn=O
 755	's	_	_	_	_	_	_	_	Conn=O
 756	ah	_	_	_	_	_	_	_	Conn=O
 757	is	_	_	_	_	_	_	_	Conn=O
 758	next	_	_	_	_	_	_	_	Conn=O
+759-760	we're	_	_	_	_	_	_	_	_
 759	we	_	_	_	_	_	_	_	Conn=O
 760	're	_	_	_	_	_	_	_	Conn=O
 761	down	_	_	_	_	_	_	_	Conn=O
@@ -3204,15 +3259,19 @@
 773	,	_	_	_	_	_	_	_	Conn=O
 774	but	_	_	_	_	_	_	_	Conn=B-conn
 775	because	_	_	_	_	_	_	_	Conn=B-conn
+776-777	I'm	_	_	_	_	_	_	_	_
 776	I	_	_	_	_	_	_	_	Conn=O
 777	'm	_	_	_	_	_	_	_	Conn=O
+778-779	gonna	_	_	_	_	_	_	_	_
 778	gon	_	_	_	_	_	_	_	Conn=O
 779	na	_	_	_	_	_	_	_	Conn=O
 780	simulate	_	_	_	_	_	_	_	Conn=O
 781	this	_	_	_	_	_	_	_	Conn=O
 782	,	_	_	_	_	_	_	_	Conn=O
+783-784	it's	_	_	_	_	_	_	_	_
 783	it	_	_	_	_	_	_	_	Conn=O
 784	's	_	_	_	_	_	_	_	Conn=O
+785-786	gonna	_	_	_	_	_	_	_	_
 785	gon	_	_	_	_	_	_	_	Conn=O
 786	na	_	_	_	_	_	_	_	Conn=O
 787	make	_	_	_	_	_	_	_	Conn=O
@@ -3239,9 +3298,11 @@
 808	back	_	_	_	_	_	_	_	Conn=O
 809	line	_	_	_	_	_	_	_	Conn=O
 810	but	_	_	_	_	_	_	_	Conn=B-conn
+811-812	that's	_	_	_	_	_	_	_	_
 811	that	_	_	_	_	_	_	_	Conn=O
 812	's	_	_	_	_	_	_	_	Conn=O
 813	what	_	_	_	_	_	_	_	Conn=O
+814-815	I'm	_	_	_	_	_	_	_	_
 814	I	_	_	_	_	_	_	_	Conn=O
 815	'm	_	_	_	_	_	_	_	Conn=O
 816	going	_	_	_	_	_	_	_	Conn=O
@@ -3265,13 +3326,16 @@
 834	on	_	_	_	_	_	_	_	Conn=O
 835	Ibrahimovic	_	_	_	_	_	_	_	Conn=O
 836	so	_	_	_	_	_	_	_	Conn=B-conn
+837-838	he's	_	_	_	_	_	_	_	_
 837	he	_	_	_	_	_	_	_	Conn=O
 838	's	_	_	_	_	_	_	_	Conn=O
+839-840	gonna	_	_	_	_	_	_	_	_
 839	gon	_	_	_	_	_	_	_	Conn=O
 840	na	_	_	_	_	_	_	_	Conn=O
 841	be	_	_	_	_	_	_	_	Conn=O
 842	tired	_	_	_	_	_	_	_	Conn=O
 843	.	_	_	_	_	_	_	_	Conn=O
+844-845	It's	_	_	_	_	_	_	_	_
 844	It	_	_	_	_	_	_	_	Conn=O
 845	's	_	_	_	_	_	_	_	Conn=O
 846	a	_	_	_	_	_	_	_	Conn=O
@@ -3418,6 +3482,7 @@
 67	the	_	_	_	_	_	_	_	Conn=O
 68	screen	_	_	_	_	_	_	_	Conn=O
 69	,	_	_	_	_	_	_	_	Conn=O
+70-71	there's	_	_	_	_	_	_	_	_
 70	there	_	_	_	_	_	_	_	Conn=O
 71	's	_	_	_	_	_	_	_	Conn=O
 72	your	_	_	_	_	_	_	_	Conn=O
@@ -3597,8 +3662,10 @@
 246	million	_	_	_	_	_	_	_	Conn=O
 247	dollars	_	_	_	_	_	_	_	Conn=O
 248	,	_	_	_	_	_	_	_	Conn=O
+249-250	he's	_	_	_	_	_	_	_	_
 249	he	_	_	_	_	_	_	_	Conn=O
 250	's	_	_	_	_	_	_	_	Conn=O
+251-252	gonna	_	_	_	_	_	_	_	_
 251	gon	_	_	_	_	_	_	_	Conn=O
 252	na	_	_	_	_	_	_	_	Conn=O
 253	walk	_	_	_	_	_	_	_	Conn=O
@@ -3609,6 +3676,7 @@
 258	I	_	_	_	_	_	_	_	Conn=O
 259	quit	_	_	_	_	_	_	_	Conn=O
 260	,	_	_	_	_	_	_	_	Conn=O
+261-262	can't	_	_	_	_	_	_	_	_
 261	ca	_	_	_	_	_	_	_	Conn=O
 262	n't	_	_	_	_	_	_	_	Conn=O
 263	wait	_	_	_	_	_	_	_	Conn=O
@@ -3631,6 +3699,7 @@
 280	,	_	_	_	_	_	_	_	Conn=O
 281	his	_	_	_	_	_	_	_	Conn=O
 282	parents	_	_	_	_	_	_	_	Conn=O
+283-284	gonna	_	_	_	_	_	_	_	_
 283	gon	_	_	_	_	_	_	_	Conn=O
 284	na	_	_	_	_	_	_	_	Conn=O
 285	ask	_	_	_	_	_	_	_	Conn=O
@@ -3641,8 +3710,10 @@
 290	trash	_	_	_	_	_	_	_	Conn=O
 291	out	_	_	_	_	_	_	_	Conn=O
 292	and	_	_	_	_	_	_	_	Conn=B-conn
+293-294	he's	_	_	_	_	_	_	_	_
 293	he	_	_	_	_	_	_	_	Conn=O
 294	's	_	_	_	_	_	_	_	Conn=O
+295-296	gonna	_	_	_	_	_	_	_	_
 295	gon	_	_	_	_	_	_	_	Conn=O
 296	na	_	_	_	_	_	_	_	Conn=O
 297	laugh	_	_	_	_	_	_	_	Conn=O
@@ -3781,6 +3852,7 @@
 430	,	_	_	_	_	_	_	_	Conn=O
 431	right	_	_	_	_	_	_	_	Conn=O
 432	?	_	_	_	_	_	_	_	Conn=O
+433-434	Which's	_	_	_	_	_	_	_	_
 433	Which	_	_	_	_	_	_	_	Conn=O
 434	's	_	_	_	_	_	_	_	Conn=O
 435	good	_	_	_	_	_	_	_	Conn=O
@@ -3810,6 +3882,7 @@
 459	of	_	_	_	_	_	_	_	Conn=O
 460	it	_	_	_	_	_	_	_	Conn=O
 461	.	_	_	_	_	_	_	_	Conn=O
+462-463	He's	_	_	_	_	_	_	_	_
 462	He	_	_	_	_	_	_	_	Conn=O
 463	's	_	_	_	_	_	_	_	Conn=O
 464	just	_	_	_	_	_	_	_	Conn=O
@@ -3823,6 +3896,7 @@
 472	from	_	_	_	_	_	_	_	Conn=O
 473	Zayt	_	_	_	_	_	_	_	Conn=O
 474	,	_	_	_	_	_	_	_	Conn=O
+475-476	doesn't	_	_	_	_	_	_	_	_
 475	does	_	_	_	_	_	_	_	Conn=O
 476	n't	_	_	_	_	_	_	_	Conn=O
 477	want	_	_	_	_	_	_	_	Conn=O
@@ -3841,6 +3915,7 @@
 490	very	_	_	_	_	_	_	_	Conn=O
 491	early	_	_	_	_	_	_	_	Conn=O
 492	.	_	_	_	_	_	_	_	Conn=O
+493-494	That's	_	_	_	_	_	_	_	_
 493	That	_	_	_	_	_	_	_	Conn=O
 494	's	_	_	_	_	_	_	_	Conn=O
 495	a	_	_	_	_	_	_	_	Conn=O
@@ -3882,6 +3957,7 @@
 531	Pressure	_	_	_	_	_	_	_	Conn=O
 532	Plant	_	_	_	_	_	_	_	Conn=O
 533	but	_	_	_	_	_	_	_	Conn=B-conn
+534-535	you're	_	_	_	_	_	_	_	_
 534	you	_	_	_	_	_	_	_	Conn=O
 535	're	_	_	_	_	_	_	_	Conn=O
 536	only	_	_	_	_	_	_	_	Conn=O
@@ -3890,6 +3966,7 @@
 539	,	_	_	_	_	_	_	_	Conn=O
 540	but	_	_	_	_	_	_	_	Conn=B-conn
 541	again	_	_	_	_	_	_	_	Conn=O
+542-543	you're	_	_	_	_	_	_	_	_
 542	you	_	_	_	_	_	_	_	Conn=O
 543	're	_	_	_	_	_	_	_	Conn=O
 544	this	_	_	_	_	_	_	_	Conn=O
@@ -3920,6 +3997,7 @@
 569	and	_	_	_	_	_	_	_	Conn=O
 570	engage	_	_	_	_	_	_	_	Conn=O
 571	.	_	_	_	_	_	_	_	Conn=O
+572-573	What's	_	_	_	_	_	_	_	_
 572	What	_	_	_	_	_	_	_	Conn=O
 573	's	_	_	_	_	_	_	_	Conn=O
 574	up	_	_	_	_	_	_	_	Conn=O
@@ -4000,6 +4078,7 @@
 649	player	_	_	_	_	_	_	_	Conn=O
 650	down	_	_	_	_	_	_	_	Conn=O
 651	below	_	_	_	_	_	_	_	Conn=O
+652-653	gonna	_	_	_	_	_	_	_	_
 652	gon	_	_	_	_	_	_	_	Conn=O
 653	na	_	_	_	_	_	_	_	Conn=O
 654	see	_	_	_	_	_	_	_	Conn=O
@@ -4015,6 +4094,7 @@
 664	.	_	_	_	_	_	_	_	Conn=O
 665	Tchub	_	_	_	_	_	_	_	Conn=O
 666	was	_	_	_	_	_	_	_	Conn=O
+667-668	gonna	_	_	_	_	_	_	_	_
 667	gon	_	_	_	_	_	_	_	Conn=O
 668	na	_	_	_	_	_	_	_	Conn=O
 669	roll	_	_	_	_	_	_	_	Conn=O
@@ -4026,6 +4106,7 @@
 675	like	_	_	_	_	_	_	_	Conn=O
 676	no	_	_	_	_	_	_	_	Conn=O
 677	engagement	_	_	_	_	_	_	_	Conn=O
+678-679	gonna	_	_	_	_	_	_	_	_
 678	gon	_	_	_	_	_	_	_	Conn=O
 679	na	_	_	_	_	_	_	_	Conn=O
 680	happen	_	_	_	_	_	_	_	Conn=O
@@ -4050,6 +4131,7 @@
 699	of	_	_	_	_	_	_	_	Conn=O
 700	times	_	_	_	_	_	_	_	Conn=O
 701	,	_	_	_	_	_	_	_	Conn=O
+702-703	gonna	_	_	_	_	_	_	_	_
 702	gon	_	_	_	_	_	_	_	Conn=O
 703	na	_	_	_	_	_	_	_	Conn=O
 704	go	_	_	_	_	_	_	_	Conn=O
@@ -4087,6 +4169,7 @@
 736	that	_	_	_	_	_	_	_	Conn=O
 737	will	_	_	_	_	_	_	_	Conn=O
 738	end	_	_	_	_	_	_	_	Conn=O
+739-740	JarkoS'	_	_	_	_	_	_	_	_
 739	JarkoS	_	_	_	_	_	_	_	Conn=O
 740	'	_	_	_	_	_	_	_	Conn=O
 741	Fortnite	_	_	_	_	_	_	_	Conn=O
@@ -4099,6 +4182,7 @@
 748	earlier	_	_	_	_	_	_	_	Conn=O
 749	on	_	_	_	_	_	_	_	Conn=O
 750	.	_	_	_	_	_	_	_	Conn=O
+751-752	We'll	_	_	_	_	_	_	_	_
 751	We	_	_	_	_	_	_	_	Conn=O
 752	'll	_	_	_	_	_	_	_	Conn=O
 753	see	_	_	_	_	_	_	_	Conn=O
@@ -4113,6 +4197,7 @@
 762	this	_	_	_	_	_	_	_	Conn=O
 763	lobby	_	_	_	_	_	_	_	Conn=O
 764	when	_	_	_	_	_	_	_	Conn=B-conn
+765-766	it's	_	_	_	_	_	_	_	_
 765	it	_	_	_	_	_	_	_	Conn=O
 766	's	_	_	_	_	_	_	_	Conn=O
 767	all	_	_	_	_	_	_	_	Conn=O
@@ -4142,6 +4227,7 @@
 791	.	_	_	_	_	_	_	_	Conn=O
 792	Well	_	_	_	_	_	_	_	Conn=O
 793	,	_	_	_	_	_	_	_	Conn=O
+794-795	I've	_	_	_	_	_	_	_	_
 794	I	_	_	_	_	_	_	_	Conn=O
 795	've	_	_	_	_	_	_	_	Conn=O
 796	said	_	_	_	_	_	_	_	Conn=O
@@ -4214,6 +4300,7 @@
 863	at	_	_	_	_	_	_	_	Conn=O
 864	Megamall	_	_	_	_	_	_	_	Conn=O
 865	is	_	_	_	_	_	_	_	Conn=O
+866-867	gonna	_	_	_	_	_	_	_	_
 866	gon	_	_	_	_	_	_	_	Conn=O
 867	na	_	_	_	_	_	_	_	Conn=O
 868	push	_	_	_	_	_	_	_	Conn=O
@@ -4310,6 +4397,7 @@
 959	.	_	_	_	_	_	_	_	Conn=O
 960	He	_	_	_	_	_	_	_	Conn=O
 961	,	_	_	_	_	_	_	_	Conn=O
+962-963	that's	_	_	_	_	_	_	_	_
 962	that	_	_	_	_	_	_	_	Conn=O
 963	's	_	_	_	_	_	_	_	Conn=O
 964	unbelievable	_	_	_	_	_	_	_	Conn=O
@@ -4350,6 +4438,7 @@
 999	for	_	_	_	_	_	_	_	Conn=O
 1000	me	_	_	_	_	_	_	_	Conn=O
 1001	,	_	_	_	_	_	_	_	Conn=O
+1002-1003	I'll	_	_	_	_	_	_	_	_
 1002	I	_	_	_	_	_	_	_	Conn=O
 1003	'll	_	_	_	_	_	_	_	Conn=O
 1004	just	_	_	_	_	_	_	_	Conn=O
@@ -4389,6 +4478,7 @@
 1038	like	_	_	_	_	_	_	_	Conn=O
 1039	the	_	_	_	_	_	_	_	Conn=O
 1040	aggression	_	_	_	_	_	_	_	Conn=O
+1041-1042	doesn't	_	_	_	_	_	_	_	_
 1041	does	_	_	_	_	_	_	_	Conn=O
 1042	n't	_	_	_	_	_	_	_	Conn=O
 1043	end	_	_	_	_	_	_	_	Conn=O
@@ -4428,6 +4518,7 @@
 1077	that	_	_	_	_	_	_	_	Conn=O
 1078	same	_	_	_	_	_	_	_	Conn=O
 1079	tactic	_	_	_	_	_	_	_	Conn=O
+1080-1081	you've	_	_	_	_	_	_	_	_
 1080	you	_	_	_	_	_	_	_	Conn=O
 1081	've	_	_	_	_	_	_	_	Conn=O
 1082	seen	_	_	_	_	_	_	_	Conn=O
@@ -4465,6 +4556,7 @@
 1114	of	_	_	_	_	_	_	_	Conn=O
 1115	loot	_	_	_	_	_	_	_	Conn=O
 1116	.	_	_	_	_	_	_	_	Conn=O
+1117-1118	He's	_	_	_	_	_	_	_	_
 1117	He	_	_	_	_	_	_	_	Conn=O
 1118	's	_	_	_	_	_	_	_	Conn=O
 1119	trying	_	_	_	_	_	_	_	Conn=O
@@ -4484,6 +4576,7 @@
 1133	These	_	_	_	_	_	_	_	Conn=O
 1134	two	_	_	_	_	_	_	_	Conn=O
 1135	players	_	_	_	_	_	_	_	Conn=O
+1136-1137	gonna	_	_	_	_	_	_	_	_
 1136	gon	_	_	_	_	_	_	_	Conn=O
 1137	na	_	_	_	_	_	_	_	Conn=O
 1138	end	_	_	_	_	_	_	_	Conn=O
@@ -4512,6 +4605,7 @@
 1161	sniper	_	_	_	_	_	_	_	Conn=O
 1162	rifle	_	_	_	_	_	_	_	Conn=O
 1163	.	_	_	_	_	_	_	_	Conn=O
+1164-1165	That's	_	_	_	_	_	_	_	_
 1164	That	_	_	_	_	_	_	_	Conn=O
 1165	's	_	_	_	_	_	_	_	Conn=O
 1166	end	_	_	_	_	_	_	_	Conn=O
@@ -4521,6 +4615,7 @@
 1170	.	_	_	_	_	_	_	_	Conn=O
 1171	Okay	_	_	_	_	_	_	_	Conn=O
 1172	.	_	_	_	_	_	_	_	Conn=O
+1173-1174	He's	_	_	_	_	_	_	_	_
 1173	He	_	_	_	_	_	_	_	Conn=O
 1174	's	_	_	_	_	_	_	_	Conn=O
 1175	looking	_	_	_	_	_	_	_	Conn=O
@@ -4665,6 +4760,7 @@
 81	of	_	_	_	_	_	_	_	Conn=O
 82	saving	_	_	_	_	_	_	_	Conn=O
 83	the	_	_	_	_	_	_	_	Conn=O
+84-85	mother's	_	_	_	_	_	_	_	_
 84	mother	_	_	_	_	_	_	_	Conn=O
 85	's	_	_	_	_	_	_	_	Conn=O
 86	life	_	_	_	_	_	_	_	Conn=O
@@ -4732,6 +4828,7 @@
 148	impairment	_	_	_	_	_	_	_	Conn=O
 149	of	_	_	_	_	_	_	_	Conn=O
 150	the	_	_	_	_	_	_	_	Conn=O
+151-152	wife's	_	_	_	_	_	_	_	_
 151	wife	_	_	_	_	_	_	_	Conn=O
 152	's	_	_	_	_	_	_	_	Conn=O
 153	health	_	_	_	_	_	_	_	Conn=O
@@ -4794,6 +4891,7 @@
 210	overbroadly	_	_	_	_	_	_	_	Conn=O
 211	infringing	_	_	_	_	_	_	_	Conn=O
 212	those	_	_	_	_	_	_	_	Conn=O
+213-214	plaintiffs'	_	_	_	_	_	_	_	_
 213	plaintiffs	_	_	_	_	_	_	_	Conn=O
 214	'	_	_	_	_	_	_	_	Conn=O
 215	Ninth	_	_	_	_	_	_	_	Conn=O
@@ -4806,6 +4904,7 @@
 222	court	_	_	_	_	_	_	_	Conn=O
 223	ruled	_	_	_	_	_	_	_	Conn=O
 224	the	_	_	_	_	_	_	_	Conn=O
+225-226	Does'	_	_	_	_	_	_	_	_
 225	Does	_	_	_	_	_	_	_	Conn=O
 226	'	_	_	_	_	_	_	_	Conn=O
 227	complaint	_	_	_	_	_	_	_	Conn=O
@@ -4831,6 +4930,7 @@
 247	from	_	_	_	_	_	_	_	Conn=O
 248	the	_	_	_	_	_	_	_	Conn=O
 249	District	_	_	_	_	_	_	_	Conn=O
+250-251	Court's	_	_	_	_	_	_	_	_
 250	Court	_	_	_	_	_	_	_	Conn=O
 251	's	_	_	_	_	_	_	_	Conn=O
 252	grant	_	_	_	_	_	_	_	Conn=O
@@ -4925,6 +5025,7 @@
 341	(a)	_	_	_	_	_	_	_	Conn=O
 342	Contrary	_	_	_	_	_	_	_	Conn=O
 343	to	_	_	_	_	_	_	_	Conn=O
+344-345	appellee's	_	_	_	_	_	_	_	_
 344	appellee	_	_	_	_	_	_	_	Conn=O
 345	's	_	_	_	_	_	_	_	Conn=O
 346	contention	_	_	_	_	_	_	_	Conn=O
@@ -4933,6 +5034,7 @@
 349	natural	_	_	_	_	_	_	_	Conn=O
 350	termination	_	_	_	_	_	_	_	Conn=O
 351	of	_	_	_	_	_	_	_	Conn=O
+352-353	Roe's	_	_	_	_	_	_	_	_
 352	Roe	_	_	_	_	_	_	_	Conn=O
 353	's	_	_	_	_	_	_	_	Conn=O
 354	pregnancy	_	_	_	_	_	_	_	Conn=O
@@ -5048,6 +5150,7 @@
 464	.	_	_	_	_	_	_	_	Conn=O
 465	(c)	_	_	_	_	_	_	_	Conn=O
 466	The	_	_	_	_	_	_	_	Conn=O
+467-468	Does'	_	_	_	_	_	_	_	_
 467	Does	_	_	_	_	_	_	_	Conn=O
 468	'	_	_	_	_	_	_	_	Conn=O
 469	complaint	_	_	_	_	_	_	_	Conn=O
@@ -5108,6 +5211,7 @@
 524	procedure	_	_	_	_	_	_	_	Conn=O
 525	on	_	_	_	_	_	_	_	Conn=O
 526	the	_	_	_	_	_	_	_	Conn=O
+527-528	mother's	_	_	_	_	_	_	_	_
 527	mother	_	_	_	_	_	_	_	Conn=O
 528	's	_	_	_	_	_	_	_	Conn=O
 529	behalf	_	_	_	_	_	_	_	Conn=O
@@ -5145,6 +5249,7 @@
 561	,	_	_	_	_	_	_	_	Conn=O
 562	including	_	_	_	_	_	_	_	Conn=O
 563	a	_	_	_	_	_	_	_	Conn=O
+564-565	woman's	_	_	_	_	_	_	_	_
 564	woman	_	_	_	_	_	_	_	Conn=O
 565	's	_	_	_	_	_	_	_	Conn=O
 566	qualified	_	_	_	_	_	_	_	Conn=O
@@ -5157,6 +5262,7 @@
 573	Though	_	_	_	_	_	_	_	Conn=B-conn
 574	the	_	_	_	_	_	_	_	Conn=O
 575	State	_	_	_	_	_	_	_	Conn=O
+576-577	cannot	_	_	_	_	_	_	_	_
 576	can	_	_	_	_	_	_	_	Conn=O
 577	not	_	_	_	_	_	_	_	Conn=O
 578	override	_	_	_	_	_	_	_	Conn=O
@@ -5172,6 +5278,7 @@
 588	both	_	_	_	_	_	_	_	Conn=O
 589	the	_	_	_	_	_	_	_	Conn=O
 590	pregnant	_	_	_	_	_	_	_	Conn=O
+591-592	woman's	_	_	_	_	_	_	_	_
 591	woman	_	_	_	_	_	_	_	Conn=O
 592	's	_	_	_	_	_	_	_	Conn=O
 593	health	_	_	_	_	_	_	_	Conn=O
@@ -5199,6 +5306,7 @@
 615	stages	_	_	_	_	_	_	_	Conn=O
 616	of	_	_	_	_	_	_	_	Conn=O
 617	the	_	_	_	_	_	_	_	Conn=O
+618-619	woman's	_	_	_	_	_	_	_	_
 618	woman	_	_	_	_	_	_	_	Conn=O
 619	's	_	_	_	_	_	_	_	Conn=O
 620	approach	_	_	_	_	_	_	_	Conn=O
@@ -5240,6 +5348,7 @@
 656	of	_	_	_	_	_	_	_	Conn=O
 657	the	_	_	_	_	_	_	_	Conn=O
 658	pregnant	_	_	_	_	_	_	_	Conn=O
+659-660	woman's	_	_	_	_	_	_	_	_
 659	woman	_	_	_	_	_	_	_	Conn=O
 660	's	_	_	_	_	_	_	_	Conn=O
 661	attending	_	_	_	_	_	_	_	Conn=O
@@ -5428,6 +5537,7 @@
 844	fully	_	_	_	_	_	_	_	Conn=O
 845	recognize	_	_	_	_	_	_	_	Conn=O
 846	the	_	_	_	_	_	_	_	Conn=O
+847-848	Court's	_	_	_	_	_	_	_	_
 847	Court	_	_	_	_	_	_	_	Conn=O
 848	's	_	_	_	_	_	_	_	Conn=O
 849	ruling	_	_	_	_	_	_	_	Conn=O
@@ -5719,6 +5829,7 @@
 164	account	_	_	_	_	_	_	_	Conn=O
 165	on	_	_	_	_	_	_	_	Conn=O
 166	the	_	_	_	_	_	_	_	Conn=O
+167-168	Company's	_	_	_	_	_	_	_	_
 167	Company	_	_	_	_	_	_	_	Conn=O
 168	's	_	_	_	_	_	_	_	Conn=O
 169	website	_	_	_	_	_	_	_	Conn=O
@@ -5981,6 +6092,7 @@
 426	based	_	_	_	_	_	_	_	Conn=O
 427	on	_	_	_	_	_	_	_	Conn=O
 428	the	_	_	_	_	_	_	_	Conn=O
+429-430	Company's	_	_	_	_	_	_	_	_
 429	Company	_	_	_	_	_	_	_	Conn=O
 430	's	_	_	_	_	_	_	_	Conn=O
 431	net	_	_	_	_	_	_	_	Conn=O
@@ -5989,6 +6101,7 @@
 434	c)	_	_	_	_	_	_	_	Conn=O
 435	Transaction	_	_	_	_	_	_	_	Conn=O
 436	Fees	_	_	_	_	_	_	_	Conn=O
+437-438	Company's	_	_	_	_	_	_	_	_
 437	Company	_	_	_	_	_	_	_	Conn=O
 438	's	_	_	_	_	_	_	_	Conn=O
 439	transaction	_	_	_	_	_	_	_	Conn=O
@@ -6311,6 +6424,7 @@
 756	;	_	_	_	_	_	_	_	Conn=O
 757	ii)	_	_	_	_	_	_	_	Conn=O
 758	If	_	_	_	_	_	_	_	Conn=B-conn
+759-760	Company's	_	_	_	_	_	_	_	_
 759	Company	_	_	_	_	_	_	_	Conn=O
 760	's	_	_	_	_	_	_	_	Conn=O
 761	agent	_	_	_	_	_	_	_	Conn=O
@@ -6490,6 +6604,7 @@
 935	duration	_	_	_	_	_	_	_	Conn=O
 936	of	_	_	_	_	_	_	_	Conn=O
 937	the	_	_	_	_	_	_	_	Conn=O
+938-939	Company's	_	_	_	_	_	_	_	_
 938	Company	_	_	_	_	_	_	_	Conn=O
 939	's	_	_	_	_	_	_	_	Conn=O
 940	Offering	_	_	_	_	_	_	_	Conn=O
@@ -6537,6 +6652,7 @@
 982	i)	_	_	_	_	_	_	_	Conn=O
 983	The	_	_	_	_	_	_	_	Conn=O
 984	other	_	_	_	_	_	_	_	Conn=O
+985-986	party's	_	_	_	_	_	_	_	_
 985	party	_	_	_	_	_	_	_	Conn=O
 986	's	_	_	_	_	_	_	_	Conn=O
 987	material	_	_	_	_	_	_	_	Conn=O
@@ -6730,6 +6846,7 @@
 1175	effect	_	_	_	_	_	_	_	Conn=O
 1176	upon	_	_	_	_	_	_	_	Conn=O
 1177	a	_	_	_	_	_	_	_	Conn=O
+1178-1179	party's	_	_	_	_	_	_	_	_
 1178	party	_	_	_	_	_	_	_	Conn=O
 1179	's	_	_	_	_	_	_	_	Conn=O
 1180	ability	_	_	_	_	_	_	_	Conn=O
@@ -6743,6 +6860,7 @@
 1188	Agreement	_	_	_	_	_	_	_	Conn=O
 1189	or	_	_	_	_	_	_	_	Conn=O
 1190	a	_	_	_	_	_	_	_	Conn=O
+1191-1192	party's	_	_	_	_	_	_	_	_
 1191	party	_	_	_	_	_	_	_	Conn=O
 1192	's	_	_	_	_	_	_	_	Conn=O
 1193	costs	_	_	_	_	_	_	_	Conn=O
@@ -6785,6 +6903,7 @@
 1230	performance	_	_	_	_	_	_	_	Conn=O
 1231	of	_	_	_	_	_	_	_	Conn=O
 1232	such	_	_	_	_	_	_	_	Conn=O
+1233-1234	party's	_	_	_	_	_	_	_	_
 1233	party	_	_	_	_	_	_	_	Conn=O
 1234	's	_	_	_	_	_	_	_	Conn=O
 1235	rights	_	_	_	_	_	_	_	Conn=O
@@ -9530,6 +9649,7 @@
 132	Since	_	_	_	_	_	_	_	Conn=O
 133	then	_	_	_	_	_	_	_	Conn=O
 134	—	_	_	_	_	_	_	_	Conn=O
+135-136	'tis	_	_	_	_	_	_	_	_
 135	't	_	_	_	_	_	_	_	Conn=O
 136	is	_	_	_	_	_	_	_	Conn=O
 137	centuries	_	_	_	_	_	_	_	Conn=O
@@ -9545,6 +9665,7 @@
 147	first	_	_	_	_	_	_	_	Conn=O
 148	surmised	_	_	_	_	_	_	_	Conn=O
 149	the	_	_	_	_	_	_	_	Conn=O
+150-151	Horses'	_	_	_	_	_	_	_	_
 150	Horses	_	_	_	_	_	_	_	Conn=O
 151	'	_	_	_	_	_	_	_	Conn=O
 152	Heads	_	_	_	_	_	_	_	Conn=O
@@ -9663,6 +9784,7 @@
 53	door	_	_	_	_	_	_	_	Conn=O
 54	.	_	_	_	_	_	_	_	Conn=O
 55	"	_	_	_	_	_	_	_	Conn=O
+56-57	'Tis	_	_	_	_	_	_	_	_
 56	'T	_	_	_	_	_	_	_	Conn=O
 57	is	_	_	_	_	_	_	_	Conn=O
 58	some	_	_	_	_	_	_	_	Conn=O
@@ -9791,6 +9913,7 @@
 181	stood	_	_	_	_	_	_	_	Conn=O
 182	repeating	_	_	_	_	_	_	_	Conn=O
 183	"	_	_	_	_	_	_	_	Conn=O
+184-185	'Tis	_	_	_	_	_	_	_	_
 184	'T	_	_	_	_	_	_	_	Conn=O
 185	is	_	_	_	_	_	_	_	Conn=O
 186	some	_	_	_	_	_	_	_	Conn=O
@@ -10046,6 +10169,7 @@
 436	explore	_	_	_	_	_	_	_	Conn=O
 437	;	_	_	_	_	_	_	_	Conn=O
 438	—	_	_	_	_	_	_	_	Conn=O
+439-440	'Tis	_	_	_	_	_	_	_	_
 439	'T	_	_	_	_	_	_	_	Conn=O
 440	is	_	_	_	_	_	_	_	Conn=O
 441	the	_	_	_	_	_	_	_	Conn=O
@@ -10199,6 +10323,7 @@
 589	is	_	_	_	_	_	_	_	Conn=O
 590	on	_	_	_	_	_	_	_	Conn=O
 591	the	_	_	_	_	_	_	_	Conn=O
+592-593	Night's	_	_	_	_	_	_	_	_
 592	Night	_	_	_	_	_	_	_	Conn=O
 593	's	_	_	_	_	_	_	_	Conn=O
 594	Plutonian	_	_	_	_	_	_	_	Conn=O
@@ -10237,6 +10362,7 @@
 627	;	_	_	_	_	_	_	_	Conn=O
 628	For	_	_	_	_	_	_	_	Conn=O
 629	we	_	_	_	_	_	_	_	Conn=O
+630-631	cannot	_	_	_	_	_	_	_	_
 630	can	_	_	_	_	_	_	_	Conn=O
 631	not	_	_	_	_	_	_	_	Conn=O
 632	help	_	_	_	_	_	_	_	Conn=O
@@ -10517,6 +10643,7 @@
 907	burned	_	_	_	_	_	_	_	Conn=O
 908	into	_	_	_	_	_	_	_	Conn=O
 909	my	_	_	_	_	_	_	_	Conn=O
+910-911	bosom's	_	_	_	_	_	_	_	_
 910	bosom	_	_	_	_	_	_	_	Conn=O
 911	's	_	_	_	_	_	_	_	Conn=O
 912	core	_	_	_	_	_	_	_	Conn=O
@@ -10536,6 +10663,7 @@
 926	reclining	_	_	_	_	_	_	_	Conn=O
 927	On	_	_	_	_	_	_	_	Conn=O
 928	the	_	_	_	_	_	_	_	Conn=O
+929-930	cushion's	_	_	_	_	_	_	_	_
 929	cushion	_	_	_	_	_	_	_	Conn=O
 930	's	_	_	_	_	_	_	_	Conn=O
 931	velvet	_	_	_	_	_	_	_	Conn=O
@@ -10847,6 +10975,7 @@
 1237	tempest	_	_	_	_	_	_	_	Conn=O
 1238	and	_	_	_	_	_	_	_	Conn=O
 1239	the	_	_	_	_	_	_	_	Conn=O
+1240-1241	Night's	_	_	_	_	_	_	_	_
 1240	Night	_	_	_	_	_	_	_	Conn=O
 1241	's	_	_	_	_	_	_	_	Conn=O
 1242	Plutonian	_	_	_	_	_	_	_	Conn=O
@@ -10941,6 +11070,7 @@
 1331	seeming	_	_	_	_	_	_	_	Conn=O
 1332	of	_	_	_	_	_	_	_	Conn=O
 1333	a	_	_	_	_	_	_	_	Conn=O
+1334-1335	demon's	_	_	_	_	_	_	_	_
 1334	demon	_	_	_	_	_	_	_	Conn=O
 1335	's	_	_	_	_	_	_	_	Conn=O
 1336	that	_	_	_	_	_	_	_	Conn=O
@@ -12591,6 +12721,7 @@
 138	=	_	_	_	_	_	_	_	Conn=O
 139	y	_	_	_	_	_	_	_	Conn=O
 140	,	_	_	_	_	_	_	_	Conn=O
+141-142	they're	_	_	_	_	_	_	_	_
 141	they	_	_	_	_	_	_	_	Conn=O
 142	're	_	_	_	_	_	_	_	Conn=O
 143	necessarily	_	_	_	_	_	_	_	Conn=O
@@ -14268,6 +14399,7 @@
 1008	must	_	_	_	_	_	_	_	Conn=O
 1009	represent	_	_	_	_	_	_	_	Conn=O
 1010	the	_	_	_	_	_	_	_	Conn=O
+1011-1012	student’s	_	_	_	_	_	_	_	_
 1011	student	_	_	_	_	_	_	_	Conn=O
 1012	’s	_	_	_	_	_	_	_	Conn=O
 1013	own	_	_	_	_	_	_	_	Conn=O
@@ -14510,6 +14642,7 @@
 112	(	_	_	_	_	_	_	_	Conn=O
 113	which	_	_	_	_	_	_	_	Conn=O
 114	you	_	_	_	_	_	_	_	Conn=O
+115-116	won’t	_	_	_	_	_	_	_	_
 115	wo	_	_	_	_	_	_	_	Conn=O
 116	n’t	_	_	_	_	_	_	_	Conn=O
 117	have	_	_	_	_	_	_	_	Conn=O
@@ -14544,6 +14677,7 @@
 146	provided	_	_	_	_	_	_	_	Conn=O
 147	)	_	_	_	_	_	_	_	Conn=O
 148	and	_	_	_	_	_	_	_	Conn=B-conn
+149-150	you’re	_	_	_	_	_	_	_	_
 149	you	_	_	_	_	_	_	_	Conn=O
 150	’re	_	_	_	_	_	_	_	Conn=O
 151	expected	_	_	_	_	_	_	_	Conn=O
@@ -14571,9 +14705,11 @@
 173	other	_	_	_	_	_	_	_	Conn=O
 174	participants	_	_	_	_	_	_	_	Conn=O
 175	.	_	_	_	_	_	_	_	Conn=O
+176-177	We’re	_	_	_	_	_	_	_	_
 176	We	_	_	_	_	_	_	_	Conn=O
 177	’re	_	_	_	_	_	_	_	Conn=O
 178	making	_	_	_	_	_	_	_	Conn=O
+179-180	Techtonica’s	_	_	_	_	_	_	_	_
 179	Techtonica	_	_	_	_	_	_	_	Conn=O
 180	’s	_	_	_	_	_	_	_	Conn=O
 181	program	_	_	_	_	_	_	_	Conn=O
@@ -15707,6 +15843,7 @@
 12	heard	_	_	_	_	_	_	_	Conn=O
 13	from	_	_	_	_	_	_	_	Conn=O
 14	her	_	_	_	_	_	_	_	Conn=O
+15-16	I'm	_	_	_	_	_	_	_	_
 15	I	_	_	_	_	_	_	_	Conn=O
 16	'm	_	_	_	_	_	_	_	Conn=O
 17	not	_	_	_	_	_	_	_	Conn=O
@@ -15731,6 +15868,7 @@
 36	to	_	_	_	_	_	_	_	Conn=O
 37	say	_	_	_	_	_	_	_	Conn=O
 38	.	_	_	_	_	_	_	_	Conn=O
+39-40	I'm	_	_	_	_	_	_	_	_
 39	I	_	_	_	_	_	_	_	Conn=O
 40	'm	_	_	_	_	_	_	_	Conn=O
 41	only	_	_	_	_	_	_	_	Conn=O
@@ -15756,6 +15894,7 @@
 61	daughter	_	_	_	_	_	_	_	Conn=O
 62	again	_	_	_	_	_	_	_	Conn=O
 63	,	_	_	_	_	_	_	_	Conn=O
+64-65	I'll	_	_	_	_	_	_	_	_
 64	I	_	_	_	_	_	_	_	Conn=O
 65	'll	_	_	_	_	_	_	_	Conn=O
 66	have	_	_	_	_	_	_	_	Conn=O
@@ -15776,10 +15915,12 @@
 81	lucky	_	_	_	_	_	_	_	Conn=O
 82	stars	_	_	_	_	_	_	_	Conn=O
 83	you	_	_	_	_	_	_	_	Conn=O
+84-85	Ashley's	_	_	_	_	_	_	_	_
 84	Ashley	_	_	_	_	_	_	_	Conn=O
 85	's	_	_	_	_	_	_	_	Conn=O
 86	father	_	_	_	_	_	_	_	Conn=O
 87	or	_	_	_	_	_	_	_	Conn=B-conn
+88-89	youd	_	_	_	_	_	_	_	_
 88	you	_	_	_	_	_	_	_	Conn=O
 89	d	_	_	_	_	_	_	_	Conn=O
 90	already	_	_	_	_	_	_	_	Conn=O
@@ -15820,6 +15961,7 @@
 125	you	_	_	_	_	_	_	_	Conn=O
 126	said	_	_	_	_	_	_	_	Conn=O
 127	.	_	_	_	_	_	_	_	Conn=O
+128-129	I'm	_	_	_	_	_	_	_	_
 128	I	_	_	_	_	_	_	_	Conn=O
 129	'm	_	_	_	_	_	_	_	Conn=O
 130	still	_	_	_	_	_	_	_	Conn=O
@@ -15836,6 +15978,7 @@
 141	Buick	_	_	_	_	_	_	_	Conn=O
 142	and	_	_	_	_	_	_	_	Conn=B-conn
 143	if	_	_	_	_	_	_	_	Conn=B-conn
+144-145	it's	_	_	_	_	_	_	_	_
 144	it	_	_	_	_	_	_	_	Conn=O
 145	's	_	_	_	_	_	_	_	Conn=O
 146	1	_	_	_	_	_	_	_	Conn=O
@@ -15899,6 +16042,7 @@
 204	long	_	_	_	_	_	_	_	Conn=O
 205	time	_	_	_	_	_	_	_	Conn=O
 206	ago	_	_	_	_	_	_	_	Conn=O
+207-208	don't	_	_	_	_	_	_	_	_
 207	do	_	_	_	_	_	_	_	Conn=O
 208	n't	_	_	_	_	_	_	_	Conn=O
 209	play	_	_	_	_	_	_	_	Conn=O
@@ -15907,6 +16051,7 @@
 212	with	_	_	_	_	_	_	_	Conn=O
 213	me	_	_	_	_	_	_	_	Conn=O
 214	.	_	_	_	_	_	_	_	Conn=O
+215-216	You're	_	_	_	_	_	_	_	_
 215	You	_	_	_	_	_	_	_	Conn=O
 216	're	_	_	_	_	_	_	_	Conn=O
 217	playing	_	_	_	_	_	_	_	Conn=O
@@ -15916,6 +16061,7 @@
 221	person	_	_	_	_	_	_	_	Conn=O
 222	asshole	_	_	_	_	_	_	_	Conn=O
 223	.	_	_	_	_	_	_	_	Conn=O
+224-225	I've	_	_	_	_	_	_	_	_
 224	I	_	_	_	_	_	_	_	Conn=O
 225	've	_	_	_	_	_	_	_	Conn=O
 226	made	_	_	_	_	_	_	_	Conn=O
@@ -15944,6 +16090,7 @@
 249	playing	_	_	_	_	_	_	_	Conn=O
 250	with	_	_	_	_	_	_	_	Conn=O
 251	other	_	_	_	_	_	_	_	Conn=O
+252-253	people's	_	_	_	_	_	_	_	_
 252	people	_	_	_	_	_	_	_	Conn=O
 253	's	_	_	_	_	_	_	_	Conn=O
 254	money	_	_	_	_	_	_	_	Conn=O
@@ -15964,6 +16111,7 @@
 269	done	_	_	_	_	_	_	_	Conn=O
 270	.	_	_	_	_	_	_	_	Conn=O
 271	Everything	_	_	_	_	_	_	_	Conn=O
+272-273	that's	_	_	_	_	_	_	_	_
 272	that	_	_	_	_	_	_	_	Conn=O
 273	's	_	_	_	_	_	_	_	Conn=O
 274	mine	_	_	_	_	_	_	_	Conn=O
@@ -15982,11 +16130,13 @@
 287	VCR	_	_	_	_	_	_	_	Conn=O
 288	,	_	_	_	_	_	_	_	Conn=O
 289	I	_	_	_	_	_	_	_	Conn=O
+290-291	don't	_	_	_	_	_	_	_	_
 290	do	_	_	_	_	_	_	_	Conn=O
 291	n't	_	_	_	_	_	_	_	Conn=O
 292	fucking	_	_	_	_	_	_	_	Conn=O
 293	care	_	_	_	_	_	_	_	Conn=O
 294	if	_	_	_	_	_	_	_	Conn=O
+295-296	it's	_	_	_	_	_	_	_	_
 295	it	_	_	_	_	_	_	_	Conn=O
 296	's	_	_	_	_	_	_	_	Conn=O
 297	a	_	_	_	_	_	_	_	Conn=O
@@ -16120,6 +16270,7 @@
 43	,	_	_	_	_	_	_	_	Conn=O
 44	quality	_	_	_	_	_	_	_	Conn=O
 45	physicians	_	_	_	_	_	_	_	Conn=O
+46-47	wouldn't	_	_	_	_	_	_	_	_
 46	would	_	_	_	_	_	_	_	Conn=O
 47	n't	_	_	_	_	_	_	_	Conn=O
 48	even	_	_	_	_	_	_	_	Conn=O
@@ -16162,6 +16313,7 @@
 85	.	_	_	_	_	_	_	_	Conn=O
 86	Maybe	_	_	_	_	_	_	_	Conn=O
 87	you	_	_	_	_	_	_	_	Conn=O
+88-89	don't	_	_	_	_	_	_	_	_
 88	do	_	_	_	_	_	_	_	Conn=O
 89	n't	_	_	_	_	_	_	_	Conn=O
 90	realize	_	_	_	_	_	_	_	Conn=O
@@ -16287,6 +16439,7 @@
 210	greater	_	_	_	_	_	_	_	Conn=O
 211	scrutiny	_	_	_	_	_	_	_	Conn=O
 212	than	_	_	_	_	_	_	_	Conn=O
+213-214	you've	_	_	_	_	_	_	_	_
 213	you	_	_	_	_	_	_	_	Conn=O
 214	've	_	_	_	_	_	_	_	Conn=O
 215	ever	_	_	_	_	_	_	_	Conn=O
@@ -16306,6 +16459,7 @@
 229	ethical	_	_	_	_	_	_	_	Conn=O
 230	concerns	_	_	_	_	_	_	_	Conn=O
 231	that	_	_	_	_	_	_	_	Conn=O
+232-233	you've	_	_	_	_	_	_	_	_
 232	you	_	_	_	_	_	_	_	Conn=O
 233	've	_	_	_	_	_	_	_	Conn=O
 234	been	_	_	_	_	_	_	_	Conn=O
@@ -16343,6 +16497,7 @@
 266	abortions	_	_	_	_	_	_	_	Conn=O
 267	when	_	_	_	_	_	_	_	Conn=B-conn
 268	they	_	_	_	_	_	_	_	Conn=O
+269-270	weren't	_	_	_	_	_	_	_	_
 269	were	_	_	_	_	_	_	_	Conn=O
 270	n't	_	_	_	_	_	_	_	Conn=O
 271	good	_	_	_	_	_	_	_	Conn=O
@@ -16400,6 +16555,7 @@
 323	-	_	_	_	_	_	_	_	Conn=O
 324	shedding	_	_	_	_	_	_	_	Conn=O
 325	and	_	_	_	_	_	_	_	Conn=B-conn
+326-327	won't	_	_	_	_	_	_	_	_
 326	wo	_	_	_	_	_	_	_	Conn=O
 327	n't	_	_	_	_	_	_	_	Conn=O
 328	be	_	_	_	_	_	_	_	Conn=O
@@ -16474,6 +16630,7 @@
 397	sleep	_	_	_	_	_	_	_	Conn=O
 398	.	_	_	_	_	_	_	_	Conn=O
 399	You	_	_	_	_	_	_	_	Conn=O
+400-401	can't	_	_	_	_	_	_	_	_
 400	ca	_	_	_	_	_	_	_	Conn=O
 401	n't	_	_	_	_	_	_	_	Conn=O
 402	do	_	_	_	_	_	_	_	Conn=O
@@ -16549,6 +16706,7 @@
 472	26	_	_	_	_	_	_	_	Conn=O
 473	weeks	_	_	_	_	_	_	_	Conn=O
 474	,	_	_	_	_	_	_	_	Conn=O
+475-476	it's	_	_	_	_	_	_	_	_
 475	it	_	_	_	_	_	_	_	Conn=O
 476	's	_	_	_	_	_	_	_	Conn=O
 477	still	_	_	_	_	_	_	_	Conn=O
@@ -16574,6 +16732,7 @@
 497	the	_	_	_	_	_	_	_	Conn=O
 498	Humane	_	_	_	_	_	_	_	Conn=O
 499	Society	_	_	_	_	_	_	_	Conn=O
+500-501	wouldn't	_	_	_	_	_	_	_	_
 500	would	_	_	_	_	_	_	_	Conn=O
 501	n't	_	_	_	_	_	_	_	Conn=O
 502	allow	_	_	_	_	_	_	_	Conn=O
@@ -16675,6 +16834,7 @@
 598	imagine	_	_	_	_	_	_	_	Conn=O
 599	.	_	_	_	_	_	_	_	Conn=O
 600	We	_	_	_	_	_	_	_	Conn=O
+601-602	don't	_	_	_	_	_	_	_	_
 601	do	_	_	_	_	_	_	_	Conn=O
 602	n't	_	_	_	_	_	_	_	Conn=O
 603	want	_	_	_	_	_	_	_	Conn=O
@@ -16719,6 +16879,7 @@
 642	of	_	_	_	_	_	_	_	Conn=O
 643	yours	_	_	_	_	_	_	_	Conn=O
 644	.	_	_	_	_	_	_	_	Conn=O
+645-646	It's	_	_	_	_	_	_	_	_
 645	It	_	_	_	_	_	_	_	Conn=O
 646	's	_	_	_	_	_	_	_	Conn=O
 647	not	_	_	_	_	_	_	_	Conn=O
@@ -16955,6 +17116,7 @@
 220	time	_	_	_	_	_	_	_	Conn=O
 221	.	_	_	_	_	_	_	_	Conn=O
 222	They	_	_	_	_	_	_	_	Conn=O
+223-224	don't	_	_	_	_	_	_	_	_
 223	do	_	_	_	_	_	_	_	Conn=O
 224	n't	_	_	_	_	_	_	_	Conn=O
 225	give	_	_	_	_	_	_	_	Conn=O
@@ -16964,6 +17126,7 @@
 229	about	_	_	_	_	_	_	_	Conn=O
 230	you	_	_	_	_	_	_	_	Conn=O
 231	.	_	_	_	_	_	_	_	Conn=O
+232-233	I'm	_	_	_	_	_	_	_	_
 232	I	_	_	_	_	_	_	_	Conn=O
 233	'm	_	_	_	_	_	_	_	Conn=O
 234	not	_	_	_	_	_	_	_	Conn=O
@@ -17014,6 +17177,7 @@
 279	me	_	_	_	_	_	_	_	Conn=O
 280	.	_	_	_	_	_	_	_	Conn=O
 281	You	_	_	_	_	_	_	_	Conn=O
+282-283	can't	_	_	_	_	_	_	_	_
 282	ca	_	_	_	_	_	_	_	Conn=O
 283	n't	_	_	_	_	_	_	_	Conn=O
 284	take	_	_	_	_	_	_	_	Conn=O
@@ -17021,6 +17185,7 @@
 286	charge	_	_	_	_	_	_	_	Conn=O
 287	.	_	_	_	_	_	_	_	Conn=O
 288	You	_	_	_	_	_	_	_	Conn=O
+289-290	can't	_	_	_	_	_	_	_	_
 289	ca	_	_	_	_	_	_	_	Conn=O
 290	n't	_	_	_	_	_	_	_	Conn=O
 291	make	_	_	_	_	_	_	_	Conn=O
@@ -17053,6 +17218,7 @@
 318	so	_	_	_	_	_	_	_	Conn=B-conn
 319	if	_	_	_	_	_	_	_	Conn=B-conn
 320	you	_	_	_	_	_	_	_	Conn=O
+321-322	don't	_	_	_	_	_	_	_	_
 321	do	_	_	_	_	_	_	_	Conn=O
 322	n't	_	_	_	_	_	_	_	Conn=O
 323	want	_	_	_	_	_	_	_	Conn=O
@@ -17094,6 +17260,7 @@
 359	Bitch	_	_	_	_	_	_	_	Conn=O
 360	.	_	_	_	_	_	_	_	Conn=O
 361	I	_	_	_	_	_	_	_	Conn=O
+362-363	can't	_	_	_	_	_	_	_	_
 362	ca	_	_	_	_	_	_	_	Conn=O
 363	n't	_	_	_	_	_	_	_	Conn=O
 364	tell	_	_	_	_	_	_	_	Conn=O
@@ -17178,11 +17345,13 @@
 443	a	_	_	_	_	_	_	_	Conn=O
 444	girl	_	_	_	_	_	_	_	Conn=O
 445	so	_	_	_	_	_	_	_	Conn=B-conn
+446-447	don't	_	_	_	_	_	_	_	_
 446	do	_	_	_	_	_	_	_	Conn=O
 447	n't	_	_	_	_	_	_	_	Conn=O
 448	try	_	_	_	_	_	_	_	Conn=O
 449	me	_	_	_	_	_	_	_	Conn=O
 450	.	_	_	_	_	_	_	_	Conn=O
+451-452	Don't	_	_	_	_	_	_	_	_
 451	Do	_	_	_	_	_	_	_	Conn=O
 452	n't	_	_	_	_	_	_	_	Conn=O
 453	take	_	_	_	_	_	_	_	Conn=O
@@ -17262,6 +17431,7 @@
 65	is	_	_	_	_	_	_	_	Conn=O
 66	no	_	_	_	_	_	_	_	Conn=O
 67	joke	_	_	_	_	_	_	_	Conn=O
+68-69	I'm	_	_	_	_	_	_	_	_
 68	I	_	_	_	_	_	_	_	Conn=O
 69	'm	_	_	_	_	_	_	_	Conn=O
 70	know	_	_	_	_	_	_	_	Conn=O
@@ -17283,6 +17453,7 @@
 86	American	_	_	_	_	_	_	_	Conn=O
 87	Jewish	_	_	_	_	_	_	_	Conn=O
 88	Judges	_	_	_	_	_	_	_	Conn=O
+89-90	wanna	_	_	_	_	_	_	_	_
 89	wan	_	_	_	_	_	_	_	Conn=O
 90	na	_	_	_	_	_	_	_	Conn=O
 91	act	_	_	_	_	_	_	_	Conn=O
@@ -17324,6 +17495,7 @@
 127	so	_	_	_	_	_	_	_	Conn=O
 128	become	_	_	_	_	_	_	_	Conn=O
 129	it	_	_	_	_	_	_	_	Conn=O
+130-131	Ii'll	_	_	_	_	_	_	_	_
 130	Ii	_	_	_	_	_	_	_	Conn=O
 131	'll	_	_	_	_	_	_	_	Conn=O
 132	play	_	_	_	_	_	_	_	Conn=O
@@ -17337,6 +17509,7 @@
 140	and	_	_	_	_	_	_	_	Conn=O
 141	Torooh	_	_	_	_	_	_	_	Conn=O
 142	perspective	_	_	_	_	_	_	_	Conn=O
+143-144	thats	_	_	_	_	_	_	_	_
 143	that	_	_	_	_	_	_	_	Conn=O
 144	s	_	_	_	_	_	_	_	Conn=O
 145	an	_	_	_	_	_	_	_	Conn=O
@@ -17478,6 +17651,7 @@
 281	will	_	_	_	_	_	_	_	Conn=O
 282	an	_	_	_	_	_	_	_	Conn=B-conn
 283	see	_	_	_	_	_	_	_	Conn=O
+284-285	won't	_	_	_	_	_	_	_	_
 284	wo	_	_	_	_	_	_	_	Conn=O
 285	n't	_	_	_	_	_	_	_	Conn=O
 286	justice	_	_	_	_	_	_	_	Conn=O
@@ -17501,6 +17675,7 @@
 304	my	_	_	_	_	_	_	_	Conn=O
 305	person	_	_	_	_	_	_	_	Conn=O
 306	is	_	_	_	_	_	_	_	Conn=O
+307-308	gonna	_	_	_	_	_	_	_	_
 307	gon	_	_	_	_	_	_	_	Conn=O
 308	na	_	_	_	_	_	_	_	Conn=O
 309	submit	_	_	_	_	_	_	_	Conn=O
@@ -17549,6 +17724,7 @@
 352	it	_	_	_	_	_	_	_	Conn=O
 353	or	_	_	_	_	_	_	_	Conn=O
 354	not	_	_	_	_	_	_	_	Conn=O
+355-356	thats	_	_	_	_	_	_	_	_
 355	that	_	_	_	_	_	_	_	Conn=O
 356	s	_	_	_	_	_	_	_	Conn=O
 357	up	_	_	_	_	_	_	_	Conn=O
@@ -17609,6 +17785,7 @@
 2	understand	_	_	_	_	_	_	_	Conn=O
 3	you	_	_	_	_	_	_	_	Conn=O
 4	think	_	_	_	_	_	_	_	Conn=O
+5-6	you're	_	_	_	_	_	_	_	_
 5	you	_	_	_	_	_	_	_	Conn=O
 6	're	_	_	_	_	_	_	_	Conn=O
 7	very	_	_	_	_	_	_	_	Conn=O
@@ -17659,6 +17836,7 @@
 52	the	_	_	_	_	_	_	_	Conn=O
 53	fact	_	_	_	_	_	_	_	Conn=O
 54	that	_	_	_	_	_	_	_	Conn=O
+55-56	I've	_	_	_	_	_	_	_	_
 55	I	_	_	_	_	_	_	_	Conn=O
 56	've	_	_	_	_	_	_	_	Conn=O
 57	obviously	_	_	_	_	_	_	_	Conn=O
@@ -17699,6 +17877,7 @@
 92	;	_	_	_	_	_	_	_	Conn=O
 93	if	_	_	_	_	_	_	_	Conn=B-conn
 94	you	_	_	_	_	_	_	_	Conn=O
+95-96	don't	_	_	_	_	_	_	_	_
 95	do	_	_	_	_	_	_	_	Conn=O
 96	n't	_	_	_	_	_	_	_	Conn=O
 97	,	_	_	_	_	_	_	_	Conn=O
@@ -17804,6 +17983,7 @@
 197	this	_	_	_	_	_	_	_	Conn=O
 198	,	_	_	_	_	_	_	_	Conn=O
 199	as	_	_	_	_	_	_	_	Conn=B-conn
+200-201	I'm	_	_	_	_	_	_	_	_
 200	I	_	_	_	_	_	_	_	Conn=O
 201	'm	_	_	_	_	_	_	_	Conn=O
 202	sure	_	_	_	_	_	_	_	Conn=O

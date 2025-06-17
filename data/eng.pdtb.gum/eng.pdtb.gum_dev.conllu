@@ -18657,10 +18657,10 @@
 # text = File photo of interviewee David Titley.
 1	File	file	NOUN	NN	Number=Sing	2	compound	2:compound	Conn=O|Entity=(4-abstract-new-nnnnn-cf2-2-coref
 2	photo	photo	NOUN	NN	Number=Sing	0	root	0:root	Conn=O
-3	of	of	ADP	IN	_	4	case	4:case	Conn=O
-4	interviewee	interviewee	NOUN	NN	Number=Sing	2	nmod	2:nmod:of	Conn=O|Entity=(5-person-new-nnnnn-cf1-1,2,3-coref-David_Titley|MSeg=interview-ee
-5	David	David	PROPN	NNP	Number=Sing	4	flat	4:flat	Conn=O|MSeg=Dav-id
-6	Titley	Titley	PROPN	NNP	Number=Sing	4	flat	4:flat	Conn=O|Entity=5)4)|SpaceAfter=No
+3	of	of	ADP	IN	_	5	case	5:case	Conn=O
+4	interviewee	interviewee	NOUN	NN	Number=Sing	5	nmod:desc	5:nmod:desc	Conn=O|Entity=(5-person-new-nnnnn-cf1-2,3-coref-David_Titley|MSeg=interview-ee
+5	David	David	PROPN	NNP	Number=Sing	2	nmod	2:nmod:of	Conn=O|MSeg=Dav-id
+6	Titley	Titley	PROPN	NNP	Number=Sing	5	flat	5:flat	Conn=O|Entity=5)4)|SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	2:punct	Conn=O
 
 # sent_id = GUM_interview_cyclone-3
@@ -19257,10 +19257,10 @@
 # text = File photo of interviewee R Saravanan.
 1	File	file	NOUN	NN	Number=Sing	2	compound	2:compound	Conn=O|Entity=(50-abstract-new-nnnnn-cf2-2-coref
 2	photo	photo	NOUN	NN	Number=Sing	0	root	0:root	Conn=O
-3	of	of	ADP	IN	_	4	case	4:case	Conn=O
-4	interviewee	interviewee	NOUN	NN	Number=Sing	2	nmod	2:nmod:of	Conn=O|Entity=(51-person-new-nnnnn-cf1-1,2,3-coref|MSeg=interview-ee
-5	R	R	PROPN	NNP	Number=Sing	4	flat	4:flat	Conn=O
-6	Saravanan	Saravanan	PROPN	NNP	Number=Sing	4	flat	4:flat	Conn=O|Entity=51)50)|SpaceAfter=No
+3	of	of	ADP	IN	_	5	case	5:case	Conn=O
+4	interviewee	interviewee	NOUN	NN	Number=Sing	5	nmod:desc	5:nmod:desc	Conn=O|Entity=(51-person-new-nnnnn-cf1-2,3-coref|MSeg=interview-ee
+5	R	R	PROPN	NNP	Number=Sing	2	nmod	2:nmod:of	Conn=O
+6	Saravanan	Saravanan	PROPN	NNP	Number=Sing	5	flat	5:flat	Conn=O|Entity=51)50)|SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	2:punct	Conn=O
 
 # sent_id = GUM_interview_cyclone-27
@@ -25567,14 +25567,14 @@
 # s_type = decl
 # transition = establishment
 # text = Senior researcher Mu Li, of the University of NSW's school of public health, said "it is reasonable to assume that pregnant women and breastfeeding mothers are also iodine deficient, putting the next generation of children born in this country at risk of the neuropsychological consequences of iodine deficiency."
-1	Senior	Senior	ADJ	JJ	Degree=Pos	2	amod	2:amod	Conn=O|Entity=(144-person-new-nnnnn-cf10-2,3,4-sgl
-2	researcher	researcher	NOUN	NN	Number=Sing	17	nsubj	17:nsubj	Conn=O|MSeg=research-er
-3	Mu	Mu	PROPN	NNP	Number=Sing	2	flat	2:flat	Conn=O
-4	Li	Li	PROPN	NNP	Number=Sing	2	flat	2:flat	Conn=O|SpaceAfter=No
+1	Senior	Senior	ADJ	JJ	Degree=Pos	2	amod	2:amod	Conn=O|Entity=(144-person-new-nnnnn-cf10-3,4,8-sgl
+2	researcher	researcher	NOUN	NN	Number=Sing	3	nmod:desc	3:nmod:desc	Conn=O|MSeg=research-er
+3	Mu	Mu	PROPN	NNP	Number=Sing	17	nsubj	17:nsubj	Conn=O
+4	Li	Li	PROPN	NNP	Number=Sing	3	flat	3:flat	Conn=O|SpaceAfter=No
 5	,	,	PUNCT	,	_	8	punct	8:punct	Conn=O
 6	of	of	ADP	IN	_	8	case	8:case	Conn=O
 7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Conn=O|Entity=(145-organization-new-nnnnn-cf11-2-sgl(146-organization-new-nnnnn-cf12-4-sgl-University_of_New_South_Wales
-8	University	University	PROPN	NNP	Number=Sing	2	nmod	2:nmod:of	Conn=O|MSeg=Univers-ity
+8	University	University	PROPN	NNP	Number=Sing	3	nmod	3:nmod:of	Conn=O|MSeg=Univers-ity
 9	of	of	ADP	IN	_	12	case	12:case	Conn=O
 10-11	NSW's	_	_	_	_	_	_	_	_
 10	NSW	NSW	PROPN	NNP	Abbr=Yes|Number=Sing	12	nmod:poss	12:nmod:poss	Conn=O|Entity=(27-place-giv:inact-nnnnn-cf6-1-coref-New_South_Wales)
@@ -25583,7 +25583,7 @@
 13	of	of	ADP	IN	_	15	case	15:case	Conn=O
 14	public	public	ADJ	JJ	Degree=Pos	15	amod	15:amod	Conn=O|Entity=(147-abstract-new-nnnnn-cf14-2-sgl|MSeg=publ-ic
 15	health	health	NOUN	NN	Number=Sing	12	nmod	12:nmod:of	Conn=O|Entity=147)145)144)|MSeg=heal-th|SpaceAfter=No
-16	,	,	PUNCT	,	_	2	punct	2:punct	Conn=O
+16	,	,	PUNCT	,	_	3	punct	3:punct	Conn=O
 17	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Conn=O|MSeg=sai-d
 18	"	"	PUNCT	``	_	21	punct	21:punct	Conn=O|SpaceAfter=No|XML=<quote>
 19	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	expl	21:expl	Conn=O|Entity=(148-abstract-new-nnnnn-cf9-1-cata)
@@ -36243,7 +36243,7 @@
 8	focuses	focus	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	6:acl:relcl	Conn=O|MSeg=focuse-s
 9	on	on	ADP	IN	_	14	case	14:case	Conn=O
 10	one	one	NUM	CD	NumForm=Word|NumType=Card	14	nummod	14:nummod	Conn=O|Entity=(97-abstract-new-nnnnn-cf4-5-sgl
-10.1	product	_	_	_	_	_	_	8:obl:on|17:nsubj|21:nsubj:xsubj	CopyOf=-1
+10.1	product	product	NOUN	NN	Number=Sing	_	_	8:obl:on|17:nsubj|21:nsubj:xsubj	CopyOf=-1
 11	or	or	CCONJ	CC	_	13	cc	14:cc	Conn=O
 12	a	a	DET	DT	Definite=Ind|PronType=Art	13	orphan	14:det	Conn=O
 13	few	few	ADJ	JJ	Degree=Pos	10	conj	14:amod	Conn=O
@@ -36557,7 +36557,7 @@
 3	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Conn=O
 4	from	from	ADP	IN	_	5	case	5:case	Conn=O
 5	Washington	Washington	PROPN	NNP	Number=Sing	0	root	0:root	Conn=O|Entity=(10-place-new-nnnnn-cf6-1,2-sgl-Washington%2C_D.C.
-6	D.C.	D.C.	PROPN	NNP	Abbr=Yes|Number=Sing	5	flat	5:flat	Conn=O|Entity=(11-place-new-nnnnn-cf7-1-sgl)10)|SpaceAfter=No
+6	D.C.	D.C.	PROPN	NNP	Abbr=Yes|Number=Sing	5	nmod:unmarked	5:nmod:unmarked	Conn=O|Entity=(11-place-new-nnnnn-cf7-1-sgl)10)|SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	10:punct	Conn=O
 8	and	and	CCONJ	CC	_	10	cc	10:cc	Conn=B-conn
 9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	Conn=O|Entity=(3-person-giv:act-sssss-cf1*-1-ana)
