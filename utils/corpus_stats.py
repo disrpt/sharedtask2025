@@ -165,13 +165,13 @@ stats_total["test_docs"] = sum([int(d["test_docs"]) for d in stats.values()])
 stats_total["test_segs"] = sum([int(d["train_segs"]) for d in stats.values()])
 stats_total["total_segs"] = sum([int(d["total_segs"]) for d in stats.values()])
 
-print("| " + " | ".join(["---" for k in all_keys if "%" not in k]) + " |")
+#print("| " + " | ".join(["---" for k in all_keys if "%" not in k]) + " |")
 keys = [k for k in all_keys if "%" not in k]
 for k in keys:
 	if isinstance(stats_total[k],int):
 		stats_total[k] = f'{stats_total[k]:,}'
 row = ["**"+str(stats_total[k])+"**" for k in keys]
-row[-1] = "**---**"
+#row[-1] = "**---**"
 print("| " + " | ".join(row) + " |")
 #print("| " + " | ".join(["---" for k in all_keys if "%" not in k]) + " |")
 print("| " + " | ".join(["**"+k+"**" for k in all_keys if "%" not in k]) + " |")
