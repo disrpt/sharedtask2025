@@ -56,8 +56,6 @@ E-mail: cthompson@linagora.com
   
 - Note that a sequence of actions like "place purple 4 1 1 , place purple 4 1 - 1" is considered as ONE segment, so there is no need to split them, as shown in the .tok files.
 
-- Sentences may contain multiple discourse units. The .rels files contain no split EDUs, i.e. unit1 and unit2 are always uninterrupted sequences of tokens.
-
 - The train, dev, and test splits follow those used in the original paper.
 
 
