@@ -56,9 +56,7 @@ E-mail: nicholas.asher@irit.fr
 
 - Note that in .tok files, it is not always possible to recognize chat turn transitions, though in the .conllu files, they are guaranteed to be split into distinct sentences. 
 
-- Sentences may contain multiple discourse units. The .rels files contain no split EDUs, i.e. unit1 and unit2 are always uninterrupted sequences of tokens.
-
-**NEW**: The train, dev, and test splits used here differ from those in DISRPT 2023. We included the following four games in the test set to align with the majority of prior studies (e.g., Shi et al., AAAI 2019; Li et al., CODI 2023; Li et al., SIGDIAL 2024). 
+- **NEW**: The train, dev, and test splits used here differ from those in DISRPT 2023. We included the following four games in the test set to align with the majority of prior studies (e.g., Shi et al., AAAI 2019; Li et al., CODI 2023; Li et al., SIGDIAL 2024). 
 This revised split also matches the official final split provided on the STAC website.
 - s1_league3_game3
 - s2_league4_game2
