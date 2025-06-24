@@ -482,22 +482,22 @@ def rebuild_GUM_tok_files_from_dep_files(files: list) -> None:
 					#tokid += 1
 					new_fields = [str(newid), fields[1], "_", "_", "_", "_", "_", "_", "_", label]
 					output.append("\t".join(new_fields))
-					if label == 'Seg=O':
-						print( 'Cas 1', line )
+					# if label == 'Seg=O':
+					# 	print( 'Cas 1', line )
 				elif "-" in fields[0]:
 					label = get_tok_label_from_dep_label(fields[-1])
 					mweid = get_mweid(tokid, fields[0])
 					new_fields = [mweid, fields[1], "_", "_", "_", "_", "_", "_", "_", label]
 					output.append("\t".join(new_fields))    ### NOT FIELDS 0 !!
-					if label == 'Seg=O':
-						print( 'Cas 2', line )
+					# if label == 'Seg=O':
+					# 	print( 'Cas 2', line )
 				else:
 					label = get_tok_label_from_dep_label(fields[-1])
 					tokid += 1
 					new_fields = [str(tokid), fields[1], "_", "_", "_", "_", "_", "_", "_", label]
 					output.append("\t".join(new_fields))    ### NOT FIELDS 0 !!
-					if label == 'Seg=O':
-						print( 'Cas 3', line )
+					# if label == 'Seg=O':
+					# 	print( 'Cas 3', line )
 
 		with open(f"{file_}", 'w', encoding='utf-8', newline="\n") as fo:
 			fo.write("\n".join(output) + "\n")
