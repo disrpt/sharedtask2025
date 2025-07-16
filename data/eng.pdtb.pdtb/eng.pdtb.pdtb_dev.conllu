@@ -110340,6 +110340,7 @@
 29	__	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	25	obl	25:obl:with	Conn=O
 30	_	_	PUNCT	.	_	3	punct	3:punct	Conn=O
 31	_	_	PUNCT	''	_	3	punct	3:punct	Conn=O
+
 # newdoc id = wsj_2391
 # sent_id = eng.pdtb.pdtb_test-2157
 # s_type = q

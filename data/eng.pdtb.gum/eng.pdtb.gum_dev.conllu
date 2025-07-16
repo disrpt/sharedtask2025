@@ -28968,7 +28968,6 @@
 # s_type = frag
 # speaker = Anjabe96
 # transition = establishment
-# text = _____
 1	____	_	PROPN	NNP	Abbr=Yes|Number=Sing	0	root	0:root	Conn=O|Entity=(1-abstract-new-nnnnn-cf1-1-coref)|SpaceAfter=No
 2	_	_	PUNCT	:	_	1	punct	1:punct	Conn=O
 
@@ -28977,7 +28976,6 @@
 # s_type = wh
 # speaker = Anjabe96
 # transition = null
-# text = __ _____ _____ _______ __ __ ________ ___ ___ __________ __ _____ _____ ___ ____ _________ _____
 1	__	*LOWER*	SCONJ	IN	_	7	mark	7:mark	Conn=B-conn|Entity=(2-abstract-new-nnssn-cf3-19-disc
 2	_____	_	DET	DT	PronType=Ind	4	det	4:det	Conn=O|Entity=(3-place-new-snsss-cf1-3-coref
 3	_____	_	ADJ	JJ	Degree=Pos	4	amod	4:amod	Conn=O
@@ -29008,7 +29006,6 @@
 # s_type = sub
 # speaker = CChoe
 # transition = null
-# text = ___ ___ ______ ____ ____ ___ _______
 1	___	*LOWER*	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Conn=O|Entity=(5-person-acc:com-nnnnn-cf1-1-ana)
 2	___	_	AUX	MD	VerbForm=Fin	3	aux	3:aux	Conn=O
 3	______	_	VERB	VB	VerbForm=Inf	0	root	0:root	Conn=O
@@ -29024,7 +29021,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = null
-# text = ___ _____ ____ __ _______ __ _______ _______ _______ ___ ___ ____________ _____ __ ____ ___________ _ ____ ____ ___ _______ ____ ___ ______ __ ___ ____ ____ ________ _____ ____ ___ ___________ ________ ___ ____ ______ __ ___ ____ __ _____ ___ _______ _____ ____ __________
 1	___	*LOWER*	DET	DT	Definite=Def|PronType=Art	2	det	2:det	Conn=O|Entity=(7-object-new-ssnsn-cf1-2-coref
 2	_____	_	NOUN	NN	Number=Sing	15	nsubj	5:nsubj:pass|15:nsubj	Conn=O
 3	____	_	PRON	WDT	PronType=Rel	5	nsubj:pass	2:ref	Conn=O
@@ -29041,7 +29037,7 @@
 14	_	_	PUNCT	-RRB-	_	10	punct	10:punct	Conn=O
 15	_____	note	NOUN	NNS	Number=Plur	0	root	0:root	Conn=O|Entity=7)|MSeg=note-s
 16	__	-	PUNCT	:	_	21	punct	21:punct	Conn=O
-17-18	____	_	_	_	_	_	_	_	_
+17-18		_	_	_	_	_	_	_	_
 17	it	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	nsubj	21:nsubj	Conn=O|Entity=(7-object-giv:act-ssnsn-cf1-1-ana)
 18	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	21:cop	Conn=O
 19	___________	_	ADV	RB	Degree=Pos	21	advmod	21:advmod	Conn=O|MSeg=technical-ly|XML=<hi rend:::"italic"></hi>
@@ -29088,7 +29084,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = null
-# text = ____ ___ _____ ____ ______ ___ ___ _________ ___ ____ __ ___ ________ ____ __ _______ __ ____________
 1	____	*LOWER*	ADV	WRB	PronType=Int	3	advmod	3:advmod	Conn=B-conn|Entity=(17-event-new-nnnnn-cf6-9-disc
 2	___	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Conn=O|Entity=(5-person-giv:inact-nnnnn-cf1-1-ana)
 3	_____	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:when	Conn=O
@@ -29116,7 +29111,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = establishment
-# text = ____ _____ ____ __ ___ ____ _______ __ _____ _ _______________________ __ ___________ ________ __ ___ ____ __ _ _____ ___ _____ __ ___ ______ _____ ________ _____ ______ ____ _________ _____
 1	____	*LOWER*	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	Conn=B-conn|Entity=(17-event-giv:act-nnnnn-cf1*-1-coref)
 2	_____	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=I-conn|MSeg=mean-s
 3	____	_	SCONJ	IN	_	31	mark	31:mark	Conn=O
@@ -29162,7 +29156,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = smooth-shift
-# text = ____ __ _______ _______ ______ ___ _____ __ ___ __ ____ __ _____ _______ ___ __ ____ ___ ____ _____ __ _______
 1	____	*LOWER*	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Conn=O|Entity=(22-event-giv:act-nnnnn-cf1*-1-coref)
 2	__	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	Conn=O
 3	_______	_	ADJ	JJ	Degree=Pos	0	root	0:root	Conn=O|MSeg=relat-ed
@@ -29175,7 +29168,7 @@
 10	__	_	PROPN	NNP	Abbr=Yes|Number=Sing	11	compound	11:compound	Conn=O|Entity=(30-abstract-new-nnnnn-cf8-2-sgl(31-place-new-nnssn-cf3-1-coref-United_States)
 11	____	_	NOUN	NN	Number=Sing	9	obj	9:obj	Conn=O|Entity=30)
 12	__	-	PUNCT	:	_	15	punct	15:punct	Conn=O
-13-14	_____	_	_	_	_	_	_	_	_
+13-14		_	_	_	_	_	_	_	_
 13	we	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	15:nsubj	Conn=O|Entity=(32-person-acc:com-nnnnn-cf5-1-ana)
 14	're	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	aux	15:aux	Conn=O
 15	_______	loan	VERB	VBG	Tense=Pres|VerbForm=Part	6	parataxis	6:parataxis	Conn=O|Cxn=Ditransitive|CxnElt=15:Ditransitive.V|MSeg=loan-ing
@@ -29195,7 +29188,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = smooth-shift
-# text = ___ ____ ______ ____ ____ _______ __ ________ _________ __ _______ ______ ___ ____ ___ _____ _____ ___ ___ ____ _____ ________ __________ _________ ______ ___ _______ ____
 1	___	*LOWER*	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Conn=O|Entity=(34-abstract-new-nnnnn-cf5-3-sgl
 2	____	_	ADJ	JJ	Degree=Pos	3	amod	3:amod	Conn=O
 3	______	_	NOUN	NN	Number=Sing	17	nsubj:outer	17:nsubj:outer	Conn=O
@@ -29235,7 +29227,6 @@
 # s_type = sub
 # speaker = CChoe
 # transition = zero
-# text = __ ___ ___ _ ________ ____ __ _____ _____ _____ __ _ ______ __ _____ __ _____ _ ___ __ ______
 1	__	*LOWER*	SCONJ	IN	_	3	mark	3:mark	Conn=B-conn
 2	___	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Conn=O|Entity=(5-person-giv:inact-nnnnn-cf2-1-ana)
 3	___	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl:if	Conn=O|CxnElt=12:Conditional-UnspecifiedEpistemic-NoInversion.Protasis
@@ -29266,7 +29257,6 @@
 # s_type = imp
 # speaker = CChoe
 # transition = establishment
-# text = ___ _______ __ ___ ____ _______ ____ _____ _ _____ ____ ____ __ _____ ______ __ ________
 1	___	*LOWER*	ADV	RB	_	2	advmod	2:advmod	Conn=O
 2	_______	_	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Conn=O
 3	__	_	SCONJ	IN	_	8	mark	8:mark	Conn=B-conn
@@ -29292,12 +29282,11 @@
 # s_type = decl
 # speaker = CChoe
 # transition = retain
-# text = ____ _____ ____ ____ _____ _____ ________ _______ _______ _____ ___ __ ____ __ ____ ___ ________ ___ __ ____
 1	____	*LOWER*	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	Conn=O|Entity=(41-object-giv:inact-nnnnn-cf4-3,4-coref(5-person-giv:inact-nnnnn-cf3-1-ana)
 2	_____	_	PROPN	NNP	Number=Sing	4	compound	4:compound	Conn=O|Entity=(42-person-giv:act-nnnnn-cf2*-1,2-coref-Sammy_Sosa|MSeg=Samm-y
 3	____	_	PROPN	NNP	Number=Sing	2	flat	2:flat	Conn=O|Entity=42)
 4	____	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Conn=O|Entity=41)
-5-6	_____	_	_	_	_	_	_	_	_
+5-6		_	_	_	_	_	_	_	_
 5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	Conn=O
 6	n't	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	Conn=O|Negation=Yes
 7	_____	_	ADJ	JJ	Degree=Pos	0	root	0:root	Conn=O
@@ -29323,7 +29312,6 @@
 # s_type = imp
 # speaker = CChoe
 # transition = smooth-shift
-# text = ___ _______ __ ____ ______ _______ _ __ ________ __ ___ _____ _______ ____ ______ _______ _____ ___ __ ____ __ ____ ____
 1	___	*LOWER*	ADV	RB	_	2	advmod	2:advmod	Conn=O
 2	_______	_	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Conn=O
 3	__	_	SCONJ	IN	_	5	mark	5:mark	Conn=B-conn|Entity=(49-event-new-nnnnn-cf6-11-disc
@@ -29357,8 +29345,7 @@
 # s_type = decl
 # speaker = CChoe
 # transition = smooth-shift
-# text = ______ ___ ____ ____ ____ ______
-1-2	______	_	_	_	_	_	_	_	_
+1-2		_	_	_	_	_	_	_	_
 1	That	*LOWER*	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	5:nsubj	Conn=O|Entity=(49-event-giv:act-nnnnn-cf1*-1-coref)
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Conn=O
 3	___	_	DET	DT	Definite=Def|PronType=Art	5	det	5:det	Conn=O|Entity=(49-event-giv:act-nnnnn-cf1*-3-coref
@@ -29374,9 +29361,8 @@
 # s_type = sub
 # speaker = CChoe
 # transition = zero
-# text = ___ _____ ____ ________ ____ _____ __ ____ ___ _____ __ __ ____ ____________
 1	___	*LOWER*	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj|5:nsubj:xsubj	Conn=O|Entity=(53-person-new-n____-cf2-1-sgl)
-2-3	_____	_	_	_	_	_	_	_	_
+2-3		_	_	_	_	_	_	_	_
 2	ca	can	AUX	MD	VerbForm=Fin	4	aux	4:aux	Conn=O
 3	n't	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	Conn=O|Negation=Yes
 4	____	_	VERB	VB	VerbForm=Inf	0	root	0:root	Conn=O
@@ -29399,7 +29385,6 @@
 # s_type = multiple
 # speaker = CChoe
 # transition = null
-# text = ___ ___ _____ _____ _______ ____ ____ ___ __ _____ ____ __ _ __ ____ ____ _ ___ ______
 1	___	*LOWER*	CCONJ	CC	_	11	cc	11:cc	Conn=B-conn
 2	___	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Conn=O|Entity=(23-organization-giv:inact-nnsss-cf2-2-coref
 3	_____	government	NOUN	NN	Number=Sing|Typo=Yes	4	nsubj	4:nsubj|5:nsubj:xsubj	Conn=O|CorrectForm=government|Entity=23)|XML=<sic ana:::"government"></sic>
@@ -29415,7 +29400,7 @@
 13	_	_	SYM	$	_	11	obl	11:obl:at	Conn=O|Entity=(57-object-new-nnnnn-cf1-1-coref
 14	__	_	NUM	CD	NumForm=Digit|NumType=Card	13	nummod	13:nummod	Conn=O|Entity=57)
 15	____	_	SCONJ	IN	_	18	mark	18:mark	Conn=O
-16-17	____	_	_	_	_	_	_	_	_
+16-17		_	_	_	_	_	_	_	_
 16	it	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj	Conn=O|Entity=(57-object-giv:act-nnnnn-cf1-1-ana)
 17	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	18:cop	Conn=O
 18	_	_	SYM	$	_	11	advcl	11:advcl:like	Conn=O|Entity=(57-object-giv:act-nnnnn-cf1-1-coref
@@ -29430,7 +29415,6 @@
 # s_type = sub
 # speaker = CChoe
 # transition = establishment
-# text = ___________ _____ _____ ____ _ ____ ____ __ ____ __ _ _ __ ____ ___ __ _____ _______ __ ___
 1	__________	*LOWER*	ADV	RB	Degree=Pos	5	advmod	5:advmod	Conn=O|MSeg=Event-ual-ly|SpaceAfter=No
 2	_	_	PUNCT	,	_	1	punct	1:punct	Conn=O
 3	_____	_	PRON	EX	PronType=Dem	5	expl	5:expl	Conn=O
@@ -29462,7 +29446,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = smooth-shift
-# text = ____ __ ____ ________ __ ________ _____ _ _______ ______ ___________ _____ ______ ___ _ ____ __ ______
 1	____	*LOWER*	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Conn=O|Entity=(58-time-giv:act-nnnnn-cf1*-1-ana)
 2	__	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	Conn=O
 3	____	_	PRON	WP	PronType=Rel	0	root	0:root	Conn=O
@@ -29489,7 +29472,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = zero
-# text = ____ _______ __ ____ _____ ________ ______ ______ _______ __ ___ ______ ____ __ ____ ______ __________
 1	____	*LOWER*	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	Bridge=60<64|Conn=O|Entity=(64-person-acc:inf-nnnnn-cf2-1-coref)
 2	_______	print	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Conn=O|MSeg=print-ed
 3	__	_	ADV	RB	_	4	advmod	4:advmod	Conn=O|Entity=(65-object-new-nnnnn-cf1-3-coref
@@ -29517,7 +29499,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = establishment
-# text = __ ____ _______ __ ____ ________ ___ _______ __ _____ ________ __ ___ ___ ________ ___ ___ __________
 1	__	*LOWER*	ADV	RB	_	3	advmod	3:advmod	Conn=B-conn
 2	____	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	3:nsubj|6:nsubj:xsubj	Conn=O|Entity=(64-person-giv:act-nnnnn-cf1*-1-ana)
 3	_______	start	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Conn=O|MSeg=start-ed
@@ -29546,7 +29527,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = continue
-# text = _______ ___ _____ _____________ ____ ___ __________ ______ ____ _____ _____ __ _ ___________ __ _____
 1	_______	*LOWER*	SCONJ	IN	_	5	mark	5:mark	Conn=B-conn
 2	___	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Conn=O|Entity=(72-event-new-nnnnn-cf3-4-disc(23-organization-giv:inact-nnsss-cf2-2-coref
 3	_____	government	NOUN	NN	Number=Sing|Typo=Yes	5	nsubj	5:nsubj	Conn=O|CorrectForm=government|Entity=23)|XML=<sic ana:::"government"></sic>
@@ -29572,7 +29552,6 @@
 # s_type = sub
 # speaker = CChoe
 # transition = rough-shift
-# text = ___ _____ ___ ____ __________ ____ __ ___ ____ ___ ______ _________ __ ______ ___ _____ ___ ___ ___ _________ ____ _________ ___ _______ __ ____ _______
 1	___	*LOWER*	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj|11:nsubj	Conn=O|Entity=(75-person-acc:com-nnnnn-cf1-1-ana)
 2	_____	_	AUX	MD	VerbForm=Fin	6	aux	6:aux|11:aux	Conn=O
 3	___	_	PART	RB	Polarity=Neg	6	advmod	6:advmod	Conn=O|Negation=Yes
@@ -29608,7 +29587,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = smooth-shift
-# text = __ ___ ____ ___ _ ________ ____ ___ ___ ____ _____ _______ __ ___ _____ ___ ___ ___ ___ ______ ____ ___
 1	__	*LOWER*	SCONJ	IN	_	3	mark	3:mark	Conn=B-conn
 2	___	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Conn=O|Entity=(75-person-giv:act-nnnnn-cf1*-1-ana)
 3	____	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:if	Conn=O|CxnElt=9:Conditional-UnspecifiedEpistemic-NoInversion.Protasis
@@ -29642,7 +29620,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = smooth-shift
-# text = ___ ____ ______ __ ___ _____ __ _______ ___ __ _____ ____ __ _____
 1	___	*LOWER*	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Conn=O|Entity=(83-abstract-new-nnnnn-cf3-3-coref
 2	____	_	ADJ	JJ	Degree=Pos	3	amod	3:amod	Conn=O
 3	______	_	NOUN	NN	Number=Sing	12	nsubj:outer	12:nsubj:outer	Conn=O
@@ -29665,7 +29642,6 @@
 # s_type = multiple
 # speaker = CChoe
 # transition = smooth-shift
-# text = ___ ___ ___ _____________ ____ ___ _____ ____ ___ _____ ____ _____ ___ _______ ___ _____ __ _____________ ______ ______ ___
 1	___	*LOWER*	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Conn=O|Entity=(75-person-giv:inact-nnnnn-cf3-1-ana)
 2	___	_	AUX	MD	VerbForm=Fin	3	aux	3:aux	Conn=O
 3	___	_	VERB	VB	VerbForm=Inf	0	root	0:root	Conn=O
@@ -29700,7 +29676,6 @@
 # s_type = sub
 # speaker = CChoe
 # transition = retain
-# text = __ ___ _____ ___ _________ __ ___ _____ _____ ___ _______ ____ _____ _____ ___ ______ _______ ___ _____ _____ ____ ____ ___ ___ ____ ______ _____ ___ ______ ___ ____ ______
 1	__	*LOWER*	SCONJ	IN	_	5	mark	5:mark	Conn=B-conn
 2	___	_	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Conn=O|Entity=(23-organization-giv:act-nnsss-cf2*-2-coref(75-person-giv:act-nnnnn-cf3-1-ana)
 3	_____	government	NOUN	NN	Number=Sing|Typo=Yes	5	nsubj	5:nsubj	Conn=O|CorrectForm=government|Entity=23)|XML=<sic ana:::"government"></sic>
@@ -29730,7 +29705,7 @@
 27	_	_	PUNCT	,	_	33	punct	33:punct	Conn=O
 28	_	_	PUNCT	``	_	33	punct	33:punct	Conn=O|SpaceAfter=No|XML=<quote>
 29	_____	*LOWER*	ADJ	JJ	Degree=Pos	33	discourse	33:discourse	Conn=O|MSeg=Sorr-y
-30-31	_____	_	_	_	_	_	_	_	_
+30-31		_	_	_	_	_	_	_	_
 30	we	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	33	nsubj	33:nsubj	Conn=O|Entity=(23-organization-giv:act-nnsss-cf2*-1-ana)
 31	're	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	33	aux	33:aux	Conn=O
 32	___	_	PART	RB	Polarity=Neg	33	advmod	33:advmod	Conn=O|Negation=Yes
@@ -29749,7 +29724,6 @@
 # s_type = wh
 # speaker = CChoe
 # transition = continue
-# text = ____ ____ _____ ____ __ ______ _____
 1	____	*LOWER*	INTJ	UH	_	6	discourse	6:discourse	Conn=O
 2	____	_	PRON	WP	PronType=Int	6	obj	6:obj	Conn=O|CxnElt=6:Interrogative-WHInfo-Direct.WHWord
 3	_____	_	AUX	MD	VerbForm=Fin	6	aux	6:aux	Conn=O
@@ -29765,7 +29739,6 @@
 # s_type = wh
 # speaker = CChoe
 # transition = continue
-# text = __ ____ ___ ____ ______ ____ ___
 1	__	*LOWER*	ADP	IN	_	2	case	2:case	Conn=O
 2	____	who	PRON	WP	PronType=Int	5	obl	5:obl:to	Conn=O|CxnElt=5:Interrogative-WHInfo-Direct.WHWord
 3	___	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	Conn=O
@@ -29783,7 +29756,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = zero
-# text = __ ____ __ __ _____
 1	__	*LOWER*	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|5:nsubj:xsubj	Conn=O|Entity=(89-substance-new-nnnnn-cf1-1-cata)
 2	____	use	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Conn=O|MSeg=us-ed
 3	__	_	PART	TO	_	5	mark	5:mark	Conn=O
@@ -29797,7 +29769,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = establishment
-# text = ___ __ __ ____ __ _ _______ __ ___ ___ __ ____ __ ____ _____ ______ ____ ___ __ ____ ______ _ _________ __ _______
 1	___	*LOWER*	CCONJ	CC	_	22	cc	22:cc	Conn=B-conn
 2	__	_	SCONJ	IN	_	4	mark	4:mark	Conn=B-conn
 3	__	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	Conn=O|Entity=(75-person-giv:inact-nnnnn-cf1-1-ana)
@@ -29832,7 +29803,6 @@
 # s_type = other
 # speaker = CChoe
 # transition = zero
-# text = ______ ____ _________ _ _____ __ _____ ____ _____ _______ ______ ____ ___ _____ ____ __ ______
 1	_____	*LOWER*	VERB	VB	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O|SpaceAfter=No
 2	_	_	PUNCT	,	_	4	punct	4:punct	Conn=O
 3	____	_	NOUN	NN	Number=Sing	4	compound	4:compound	Conn=O|Entity=(16-abstract-giv:inact-snsns-cf1-2-coref
@@ -29862,7 +29832,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = null
-# text = ______ ____ __ __ __ _____ ____ ____ ___ _______ _______ ___ ___
 1	______	person	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj|4:nsubj:xsubj|10:nsubj:xsubj	Conn=O|Entity=(93-person-new-nnnnn-cf2-1-coref)
 2	____	use	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Conn=O|MSeg=us-ed
 3	__	_	PART	TO	_	4	mark	4:mark	Conn=O
@@ -29886,7 +29855,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = establishment
-# text = ___ _____ _____ _________ ____ _____ ____ ___ ____ ____ __ ___________ ____ ____ ____ ___ _ _____ __ ____ __ _____ _______
 1	___	*LOWER*	DET	DT	Definite=Def|PronType=Art	2	det	2:det	Conn=O|Entity=(94-organization-giv:act-snnnn-cf2-2-coref
 2	_____	bank	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj|9:nsubj	Conn=O|Entity=94)|MSeg=bank-s
 3	_____	_	AUX	MD	VerbForm=Fin	5	aux	5:aux|9:aux	Conn=O
@@ -29918,7 +29886,6 @@
 # s_type = sub
 # speaker = CChoe
 # transition = rough-shift
-# text = __ ______ _______ ____ ___________ __ ___ _____ ____ _____ ______ __ _______ ____ ___ ___
 1	__	*LOWER*	SCONJ	IN	_	3	mark	3:mark	Conn=B-conn|Entity=(101-event-new-nnnnn-cf5-12-disc
 2	______	*LOWER*	PRON	NN	Number=Sing|PronType=Ind	3	nsubj	3:nsubj	Conn=O|Entity=(102-person-new-nnnnn-cf1-1-coref)|MSeg=ANY-ONE|XML=<hi rend:::"bold"></hi>
 3	_______	bring	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	advcl	12:advcl:if	Conn=O|CxnElt=12:Conditional-UnspecifiedEpistemic-NoInversion.Protasis
@@ -29944,8 +29911,7 @@
 # s_type = decl
 # speaker = CChoe
 # transition = smooth-shift
-# text = ______ ____ ____ __ ______
-1-2	______	_	_	_	_	_	_	_	_
+1-2		_	_	_	_	_	_	_	_
 1	That	*LOWER*	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Conn=O|Entity=(101-event-giv:act-nnnnn-cf1*-1-coref)
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	Conn=O
 3	____	_	PRON	WP	PronType=Rel	0	root	0:root	Conn=O
@@ -29962,14 +29928,13 @@
 # s_type = sub
 # speaker = CChoe
 # transition = zero
-# text = ___ _____ ___ ___ ____ ____ ________ ________ ___ __ ___ __ ___ _ _ __ ____ ____ ___ _______ __ ___ ___________ __ __ _____ ____ ____ __ ___ ___ __ ____ ____ ___ ______ ___ ______ ___ __ _______ __ ___ _________ ____ ____ ___ ______
 1	___	*LOWER*	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Conn=O|Entity=(104-person-acc:com-n____-cf1-1-ana)
 2	_____	_	AUX	MD	VerbForm=Fin	3	aux	3:aux	Conn=O
 3	___	_	VERB	VB	VerbForm=Inf	0	root	0:root	Conn=O
 4	___	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	Conn=O|Entity=(104-person-giv:act-n____-cf1-1-ana)
 5	____	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	Conn=O
 6	____	_	DET	DT	Number=Sing|PronType=Dem	7	det	7:det	Conn=O|Entity=(105-object-new-nnnnn-cf5-4-sgl(106-person-new-nnnnn-cf2-2-coref
-7-8	________	_	_	_	_	_	_	_	_
+7-8		_	_	_	_	_	_	_	_
 7	farmer	_	NOUN	NN	Number=Sing	9	nmod:poss	9:nmod:poss	Conn=O|MSeg=farm-er
 8	's	_	PART	POS	_	7	case	7:case	Conn=O|Entity=106)
 9	________	potato	NOUN	NNS	Number=Plur	5	obj	5:obj	Conn=O|Entity=105)|MSeg=potatoe-s
@@ -30023,7 +29988,6 @@
 # s_type = wh
 # speaker = CChoe
 # transition = null
-# text = ____
 1	___	*LOWER*	ADV	WRB	PronType=Int	0	root	0:root	Conn=O|SpaceAfter=No
 2	_	_	PUNCT	.	_	1	punct	1:punct	Conn=O
 
@@ -30033,7 +29997,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = null
-# text = _______ ________ _____ ____ ___ ________ ________ ____ ___ ______
 1	_______	*LOWER*	SCONJ	IN	_	3	mark	3:mark	Conn=B-conn
 2	________	_	PRON	NN	Number=Sing|PronType=Tot	3	nsubj	3:nsubj	Conn=O|Entity=(113-person-new-nnnnn-cf1-1-coref)|MSeg=every-one
 3	_____	like	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Conn=O|MSeg=lik-ed
@@ -30054,7 +30017,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = null
-# text = ___________ ____ ____ ___ ___ ______ _______ _______ ___ ______ ___ __ _________ ________ ____ ____________ ______ ____ _______ ___ ____ _________ __ ____ ______
 1	__________	*LOWER*	ADV	RB	Degree=Pos	4	advmod	4:advmod	Conn=O|MSeg=Event-ual-ly|SpaceAfter=No
 2	_	_	PUNCT	,	_	1	punct	1:punct	Conn=O
 3	____	_	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	4:nsubj	Conn=O|Entity=(109-event-giv:inact-nnnnn-cf2-1-coref)
@@ -30091,7 +30053,6 @@
 # s_type = sub
 # speaker = CChoe
 # transition = null
-# text = __ ___ _____ _______ _____ ___ ____ _____ _____ ____ ______ __ _______ ___ __ __ _____ ________ ____ __ ___ _____ ___ __ ___ ____ _____ ____ __ ________ __ ______ ___ ____
 1	__	*LOWER*	ADV	RB	_	4	advmod	4:advmod	Conn=B-conn
 2	___	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	Conn=O|Entity=(119-person-acc:com-nnnnn-cf3-1-ana)
 3	_____	_	AUX	MD	VerbForm=Fin	4	aux	4:aux	Conn=O
@@ -30103,7 +30064,7 @@
 9	___	_	ADV	RB	_	12	advmod	12:advmod	Conn=B-conn|Entity=(120-abstract-new-nnnnn-cf7-14-disc
 10	____	_	SCONJ	IN	_	12	mark	12:mark	Conn=I-conn
 11	_____	_	PRON	EX	PronType=Dem	12	expl	12:expl	Conn=O
-12-13	_____	_	_	_	_	_	_	_	_
+12-13		_	_	_	_	_	_	_	_
 12	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	22:advcl:that	Conn=O|Cxn=Existential-CopPred-ThereExpl
 13	n't	not	PART	RB	Polarity=Neg	12	advmod	12:advmod	Conn=O|Negation=Yes
 14	____	_	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	Conn=O|CxnElt=12:Existential-CopPred-ThereExpl.Pivot|Entity=(99-substance-giv:inact-snnnn-cf4-1-coref)
@@ -30125,7 +30086,7 @@
 30	__	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	ccomp	28:ccomp	Conn=O|SpaceAfter=No
 31	_	_	PUNCT	.	_	22	punct	22:punct	Conn=O|Entity=120)
 32	____	*LOWER*	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	35	nsubj	35:nsubj	Conn=O|Entity=(23-organization-giv:act-nnsss-cf2-1-ana)
-33-34	_____	_	_	_	_	_	_	_	_
+33-34		_	_	_	_	_	_	_	_
 33	wo	will	AUX	MD	VerbForm=Fin	35	aux	35:aux	Conn=O
 34	n't	not	PART	RB	Polarity=Neg	35	advmod	35:advmod	Conn=O|Negation=Yes
 35	____	_	VERB	VB	VerbForm=Inf	22	parataxis	22:parataxis	Conn=O|Cxn=Ditransitive|CxnElt=35:Ditransitive.V
@@ -30146,7 +30107,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = establishment
-# text = ___ ____ _____ _______ __ _____
 1	___	*LOWER*	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Conn=O|Entity=(120-abstract-giv:act-nnnnn-cf1*-3-coref
 2	____	_	ADJ	JJ	Degree=Pos	3	amod	3:amod	Conn=O
 3	_____	_	NOUN	NN	Number=Sing	4	nsubj	4:nsubj	Conn=O|Entity=120)
@@ -30161,7 +30121,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = smooth-shift
-# text = __ ___ _____ ____ ______ _____ ______ ____ _____
 1	__	*LOWER*	DET	DT	PronType=Neg	2	det	2:det	Conn=O|Negation=Yes
 2	___	_	PRON	NN	Number=Sing|PronType=Neg	3	nsubj	3:nsubj	Conn=O
 3	_____	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O|MSeg=want-s
@@ -30179,10 +30138,9 @@
 # s_type = wh
 # speaker = CChoe
 # transition = zero
-# text = __ ___ _____ __________ _____ ____ ____ ___ _________ _____ ____ ____ _____ ____ __ _____
 1	__	*LOWER*	SCONJ	IN	_	6	mark	6:mark	Conn=B-conn
 2	___	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	Conn=O|Entity=(119-person-giv:inact-nnnnn-cf2-1-ana)
-3-4	_____	_	_	_	_	_	_	_	_
+3-4		_	_	_	_	_	_	_	_
 3	ca	can	AUX	MD	VerbForm=Fin	6	aux	6:aux	Conn=O
 4	n't	not	PART	RB	Polarity=Neg	6	advmod	6:advmod	Conn=O|Negation=Yes
 5	__________	_	ADV	RB	Degree=Pos	6	advmod	6:advmod	Conn=O|MSeg=reason-ab-ly
@@ -30207,7 +30165,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = establishment
-# text = ________ ___ _____ ___ ___ ___ _____ ____ ______ ____ ____ _____ ___ _____ ___ ____ ____ _________ ____ ______ __ ___ ___ ______ __ ____
 1	_	_	PUNCT	-LRB-	_	4	punct	4:punct	Conn=O|SpaceAfter=No
 2	_______	*LOWER*	PRON	NN	Number=Sing|PronType=Ind	4	nsubj	4:nsubj	Conn=O|Entity=(128-person-new-nnnnn-cf5-1-sgl)|MSeg=Some-one
 3	___	do	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	4:aux	Conn=O
@@ -30234,7 +30191,7 @@
 24	__	_	VERB	VB	VerbForm=Inf	22	xcomp	22:xcomp	Conn=O|SpaceAfter=No
 25	_	_	PUNCT	,	_	28	punct	28:punct	Conn=O
 26	___	_	CCONJ	CC	_	28	cc	28:cc	Conn=B-conn
-27-28	______	_	_	_	_	_	_	_	_
+27-28		_	_	_	_	_	_	_	_
 27	that	_	PRON	DT	Number=Sing|PronType=Dem	28	nsubj	28:nsubj	Conn=O|Entity=(129-event-giv:act-nnnnn-cf2-1-coref)
 28	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	4:conj:but	Conn=O
 29	__	_	ADP	IN	_	30	case	30:case	Conn=O
@@ -30249,7 +30206,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = zero
-# text = __ ____ __ ______ ________ __ _____ ________ __ _______ ______ ____ ____ ______ ____ ____ _______ ______ ___ ______ _____
 1	__	*LOWER*	ADV	RB	_	2	advmod	2:advmod	Conn=B-conn
 2	____	_	ADV	RB	Degree=Pos	13	advmod	13:advmod	Conn=I-conn
 3	__	_	SCONJ	IN	_	5	mark	5:mark	Conn=I-conn
@@ -30260,12 +30216,12 @@
 8	_______	dollar	NOUN	NNS	Number=Plur	7	obj	7:obj	Conn=O|Entity=(87-object-giv:inact-nnnnn-cf1-1-coref)|MSeg=dollar-s|SpaceAfter=No
 9	_	_	PUNCT	,	_	2	punct	2:punct	Conn=O
 10	__	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	Conn=O|Entity=(134-abstract-new-n____-cf6-4-disc(135-abstract-new-nnnnn-cf2-1-cata)
-11-12	_______	_	_	_	_	_	_	_	_
+11-12		_	_	_	_	_	_	_	_
 11	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	13:aux	Conn=O|MSeg=doe-s
 12	n't	not	PART	RB	Polarity=Neg	13	advmod	13:advmod	Conn=O|Negation=Yes
 13	______	_	VERB	VB	VerbForm=Inf	0	root	0:root	Conn=O
 14	____	_	PRON	WP	PronType=Rel	13	dislocated	13:dislocated	Conn=O|Entity=(135-abstract-acc:com-nnnnn-cf2-1-coref
-15-16	____	_	_	_	_	_	_	_	_
+15-16		_	_	_	_	_	_	_	_
 15	it	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	nsubj	17:nsubj	Conn=O|Entity=(87-object-giv:act-nnnnn-cf1-1-ana)
 16	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	17:cop	Conn=O
 17	_____	_	ADJ	JJ	Degree=Pos	14	acl:relcl	14:acl:relcl	Conn=O|Entity=135)|SpaceAfter=No
@@ -30285,7 +30241,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = establishment
-# text = __ ____ __ __ _________ __ ____ _______
 1	__	*LOWER*	ADV	RB	_	5	advmod	5:advmod	Conn=B-conn
 2	____	_	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	Conn=O|Entity=(99-substance-giv:inact-snnnn-cf2-1-coref)
 3	__	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Conn=O
@@ -30302,7 +30257,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = smooth-shift
-# text = ___ ___ __________ _______ _____ ________ ___ ____ __ ____ _ _______ __ ____ ______ _ ___ ____ ____ _ _______ __ ____ ___ __ _ ___ ______ __ ____ ____
 1	___	*LOWER*	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Conn=O|Entity=(139-abstract-new-n____-cf2-3-coref
 2	___	*LOWER*	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	Conn=O|XML=<hi rend:::"bold"></hi>
 3	__________	_	NOUN	NN	Number=Sing	15	nsubj:outer	15:nsubj:outer|30:nsubj:xsubj	Conn=O|MSeg=differ-ence
@@ -30344,7 +30298,6 @@
 # s_type = frag
 # speaker = CChoe
 # transition = zero
-# text = _____
 1	____	*LOWER*	NOUN	NN	Number=Sing	0	root	0:root	Conn=O|Entity=(144-event-new-n____-cf1-1-sgl)|SpaceAfter=No
 2	_	_	PUNCT	:	_	1	punct	1:punct	Conn=O
 
@@ -30354,7 +30307,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = null
-# text = _ ____ ____ ______ _________ __ _______ ______ ___ __ ___ ___ ______ ______ ______ __ ___ ____ _____ __ _____
 1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Conn=O|Entity=(145-person-acc:com-sssss-cf2-1-ana)
 2	____	make	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Conn=O
 3	____	_	DET	DT	PronType=Ind	5	det	5:det	Conn=O|Entity=(146-abstract-new-n____-cf3-3-sgl
@@ -30384,7 +30336,6 @@
 # s_type = other
 # speaker = CChoe
 # transition = establishment
-# text = ______ _ _____ _______ _________
 1	_____	*LOWER*	ADJ	JJ	Degree=Pos	5	discourse	5:discourse	Conn=O|MSeg=Sorr-y|SpaceAfter=No
 2	_	_	PUNCT	,	_	1	punct	1:punct	Conn=O
 3	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj|6:nsubj:xsubj	Conn=O|Entity=(145-person-giv:act-sssss-cf1*-1-ana)
@@ -30399,7 +30350,7 @@
 # s_type = decl
 # speaker = CChoe
 # transition = continue
-# text = _ ____ ____ ______ _____ __ ________ __ _____________ __ _______ __ ______ ___ _______ ____ __ _ ______ ___ _______ ______ ___ __ _____ ______ ____ ____ ____ __________
+# text =         _
 1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Conn=O|Entity=(145-person-giv:act-sssss-cf1*-1-ana)
 2	____	_	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	4:aux	Conn=O
 3	____	_	ADV	RB	_	4	advmod	4:advmod	Conn=B-conn
@@ -30440,7 +30391,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = zero
-# text = ____ _____ _____ ___ ____ ___ _____ ___ __ ______ __ ____ _______ ___________ ___ _______ ______ __ __________ ____ _______ ___ _______________ __ ________
 1	____	*LOWER*	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Conn=O|Entity=(152-abstract-acc:com-nnnnn-cf1-1-ana)
 2	_____	_	ADV	RB	Degree=Pos	3	advmod	3:advmod	Conn=O|MSeg=kind-a
 3	_____	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O|MSeg=seem-s
@@ -30475,7 +30425,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = establishment
-# text = ________ ______ ___ ____ ___ ______ _____________ ____ __ _______ ___ _______ ___ ____ ______
 1	________	*LOWER*	ADJ	JJ	Degree=Pos	2	amod	2:amod	Conn=O|Entity=(156-abstract-new-nnnnn-cf1-2,4-coref(157-abstract-new-n____-cf3-2-sgl
 2	______	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Conn=O|Entity=157)|MSeg=supp-ly
 3	___	_	CCONJ	CC	_	4	cc	4:cc	Conn=O
@@ -30490,7 +30439,7 @@
 12	_	_	PUNCT	,	_	21	punct	21:punct	Conn=O
 13	____	_	ADV	RB	_	21	advmod	21:advmod	Conn=B-conn
 14	__	_	SCONJ	IN	_	21	mark	21:mark	Conn=I-conn
-15-16	_______	_	_	_	_	_	_	_	_
+15-16		_	_	_	_	_	_	_	_
 15	they	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	21:nsubj	Conn=O|Entity=(156-abstract-giv:act-nnnnn-cf1-1-ana)
 16	're	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	cop	21:cop	Conn=O
 17	___	_	PART	RB	Polarity=Neg	21	advmod	21:advmod	Conn=O|Negation=Yes
@@ -30508,7 +30457,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = zero
-# text = ______ ___ ____ _______ _________ _________ ___ ___________ __ ____ ________ _____ __________ _______ ___ ____ __ _________ __ ________
 1	______	large	ADJ	JJR	Degree=Cmp	5	amod	5:amod	Conn=O|Entity=(159-abstract-new-n____-cf2-5-sgl|MSeg=Larg-er
 2	___	_	CCONJ	CC	_	4	cc	4:cc	Conn=O
 3	____	_	ADV	RBR	Degree=Cmp	4	advmod	4:advmod	Conn=O
@@ -30538,7 +30486,6 @@
 # s_type = decl
 # speaker = CChoe
 # transition = establishment
-# text = __ __ ______ __________ _ ______ ___ ___ ___ __ __________ _____ _______ ___ _____ ____ __ ___ _____ ___ ____ ______ __ ___ _____ _______ ____________ ___ ________ ____ _______ _________
 1	__	*LOWER*	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	Conn=O|Entity=(162-abstract-giv:act-nnnnn-cf1*-1-ana)
 2	__	_	ADV	RB	Degree=Pos|Polarity=Neg	3	advmod	3:advmod	Conn=O|Negation=Yes
 3	______	long	ADV	RBR	Degree=Cmp	4	advmod	4:advmod	Conn=O|MSeg=long-er
@@ -30583,10 +30530,9 @@
 # s_type = imp
 # speaker = CChoe
 # transition = zero
-# text = _____ _____ ___ __ _______ __ ___ ____________
 1	____	*LOWER*	ADV	RB	_	5	advmod	5:advmod	Conn=B-conn|SpaceAfter=No
 2	_	_	PUNCT	,	_	1	punct	1:punct	Conn=O
-3-4	_____	_	_	_	_	_	_	_	_
+3-4		_	_	_	_	_	_	_	_
 3	do	_	AUX	VB	VerbForm=Inf	5	aux	5:aux	Conn=O
 4	n't	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	Conn=O|Negation=Yes
 5	___	_	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Conn=O
@@ -30620,7 +30566,6 @@
 # s_type = decl
 # speaker = howssit
 # transition = establishment
-# text = ______ ___ ___ ____ _______ __ _____ __ ___ ___ ____ __________ ____ ___________
 1	______	human	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	Conn=O|Entity=(1-abstract-new-ssnsn-cf4-5-disc(2-person-new-sssss-cf1-1-coref)|MSeg=Human-s
 2	___	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Conn=O
 3	___	_	DET	DT	Definite=Def|PronType=Art	5	det	5:det	Conn=O|Entity=(3-animal-new-ssnsn-cf3-3-sgl
@@ -30644,7 +30589,6 @@
 # s_type = decl
 # speaker = Kitten-McSnugglet
 # transition = null
-# text = ______ __ _ ____ ___ __ ________ _____________ ____
 1	______	panda	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj	Conn=O|Entity=(7-animal-new-sssss-cf1-1-coref-Giant_panda)|MSeg=Panda-s
 2	__	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O
 3	_	_	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Conn=O|Entity=(8-abstract-new-nnnnn-cf2-3-sgl
@@ -30663,7 +30607,6 @@
 # s_type = frag
 # speaker = Kitten-McSnugglet
 # transition = establishment
-# text = ___ ____ _________
 1	___	*LOWER*	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Conn=O|Entity=(7-animal-giv:act-sssss-cf1*-3-coref-Giant_panda
 2	____	_	ADJ	JJ	Degree=Pos	3	amod	3:amod	Conn=O|MSeg=laz-y
 3	________	bastard	NOUN	NNS	Number=Plur	0	root	0:root	Conn=O|Entity=7)|MSeg=bast-ard-s|SpaceAfter=No
@@ -30677,7 +30620,6 @@
 # s_type = decl
 # speaker = Toby_Forrester
 # transition = continue
-# text = _ ____ _ ____ ______ ________ ______ ________ _____ ______ ____ ______ _____ ___________ ____ __ ___________ __ _ _____
 1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Conn=O|Entity=(10-person-acc:com-s____-cf3-1-sgl)
 2	____	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O
 3	_	_	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Conn=O|Entity=(11-abstract-new-nnnnn-cf2-3-coref
@@ -30708,8 +30650,7 @@
 # s_type = decl
 # speaker = Toby_Forrester
 # transition = zero
-# text = ____ ____ ____ _______ ___ _______ __ _________ __ _________ __ _ __________ __ ______ ___ _______ ______ __ _________ __ _________ __ _ _________ ____
-1-2	____	_	_	_	_	_	_	_	_
+1-2		_	_	_	_	_	_	_	_
 1	It	*LOWER*	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj:outer	14:nsubj:outer	Conn=O|Entity=(15-abstract-new-nnnnn-cf1-1-cata)
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	14:cop	Conn=O
 3	____	_	ADV	RB	_	14	advmod	14:advmod	Conn=O
@@ -30726,7 +30667,7 @@
 14	_________	_	NOUN	NN	Number=Sing	0	root	0:root	Conn=O|Entity=18)15)|SpaceAfter=No
 15	_	_	PUNCT	,	_	28	punct	28:punct	Conn=O
 16	__	_	ADV	RB	_	28	advmod	28:advmod	Conn=B-conn
-17-18	______	_	_	_	_	_	_	_	_
+17-18		_	_	_	_	_	_	_	_
 17	that	_	PRON	DT	Number=Sing|PronType=Dem	28	nsubj:outer	28:nsubj:outer	Conn=O|Entity=(15-abstract-giv:act-nnnnn-cf1-1-coref)
 18	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	28:cop	Conn=O
 19	___	_	ADV	WRB	PronType=Int	28	advmod	28:advmod	Conn=O
@@ -30748,7 +30689,6 @@
 # s_type = multiple
 # speaker = Toby_Forrester
 # transition = null
-# text = ___ __ ___ ____ ____ _____ _________ ____ _____ ___ _______ ______ __ _____ ____________ __ ___ _________ __ _____ __________ __ _______ ___ _____ ____ ______ __ ____________
 1	___	*LOWER*	CCONJ	CC	_	7	cc	7:cc	Conn=B-conn
 2	__	_	ADP	IN	_	4	case	4:case	Conn=O
 3	___	_	DET	DT	Definite=Def|PronType=Art	4	det	4:det	Conn=O
@@ -30790,8 +30730,7 @@
 # s_type = decl
 # speaker = ughthisagainwhat
 # transition = establishment
-# text = ____ _____
-1-2	____	_	_	_	_	_	_	_	_
+1-2		_	_	_	_	_	_	_	_
 1	It	*LOWER*	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	Conn=O|Entity=(21-abstract-giv:act-nnnnn-cf1*-1-coref)
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	Conn=O
 3	____	_	ADJ	JJ	Degree=Pos	0	root	0:root	Conn=O|SpaceAfter=No
@@ -30803,7 +30742,6 @@
 # s_type = decl
 # speaker = ughthisagainwhat
 # transition = zero
-# text = ____ __ _____ ____ ______ _____ ___________ ____ ____ ___ _____ ________ _______ ____ __ ______
 1	____	zoo	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj	Conn=O|Entity=(26-place-new-nnnnn-cf2-1-sgl|MSeg=Zoo-s
 2	__	_	ADP	IN	_	3	case	3:case	Conn=O
 3	_____	_	PROPN	NNP	Number=Sing	1	nmod	1:nmod:in	Conn=O|Entity=(27-place-new-n____-cf4-1-sgl-China)
@@ -30828,7 +30766,6 @@
 # s_type = decl
 # speaker = ughthisagainwhat
 # transition = null
-# text = _ ______ ___ __ ____ ___________ ______ ______
 1	_	*LOWER*	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	Conn=O|Entity=(30-abstract-new-nnnnn-cf1-3-sgl
 2	______	_	ADJ	JJ	Degree=Pos	3	amod	3:amod	Conn=O
 3	___	_	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	Conn=O
@@ -30847,7 +30784,6 @@
 # s_type = decl
 # speaker = Silly_Swede
 # transition = null
-# text = ___ ___ ____ __ __
 1	___	*LOWER*	INTJ	UH	Polarity=Pos	5	discourse	5:discourse	Conn=O|XML=<ref target:::"https://www.reddit.com/r/todayilearned/comments/2rmf6h/comment/cnhjokr?st:::JLTK76RB&amp;sh:::8abb8709">
 2	___	…	PUNCT	:	_	1	punct	1:punct	Conn=O
 3	____	_	ADV	RB	PronType=Dem	5	advmod	5:advmod	Conn=O
@@ -30862,7 +30798,6 @@
 # s_type = decl
 # speaker = spellred
 # transition = null
-# text = __ _____ __ ____ ____ _____________ _____ ____ ____ _________ _____________
 1	__	*LOWER*	ADP	IN	_	2	case	2:case	Conn=O
 2	_____	time	NOUN	NNS	Number=Plur	11	obl	11:obl:in	Conn=O|Entity=(31-time-new-nnnnn-cf3-1-sgl|MSeg=time-s
 3	__	_	ADP	IN	_	6	case	6:case	Conn=O
@@ -30885,7 +30820,6 @@
 # s_type = decl
 # speaker = spellred
 # transition = establishment
-# text = _ ______ ____ __ ____ _______ __________
 1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Conn=O|Entity=(37-person-acc:com-snnnn-cf2-1-ana)
 2	______	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O
 3	____	_	SCONJ	IN	_	6	mark	6:mark	Conn=O
@@ -30903,7 +30837,6 @@
 # s_type = decl
 # speaker = KeepGettingBannedSMH
 # transition = zero
-# text = _____ ___ __ __________ ____ ___ ____ ____ _ ___ __________ _____ ___ ______ __ __ ___________ __ __________ ____ _________ __ _____ ______ ____
 1	_____	*LOWER*	PRON	EX	PronType=Dem	2	expl	2:expl	Conn=O
 2	___	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Conn=O|Cxn=Existential-CopPred-ThereExpl
 3	__	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	Conn=O|Entity=(38-event-new-nnnnn-cf1-2-sgl
@@ -30938,7 +30871,6 @@
 # s_type = decl
 # speaker = KeepGettingBannedSMH
 # transition = establishment
-# text = ___ __________ ____ _______ _____ _____ ______ _______ ____ ____ __ ___ ____ _________ ________ ___________ __ ________________ _____ _________ ____ __ __________ ____ __________ _______ _ ________ __ ___ ___ ________
 1	___	*LOWER*	DET	DT	Definite=Def|PronType=Art	2	det	2:det	Conn=O|Entity=(39-abstract-giv:act-nnnnn-cf1*-2-coref
 2	__________	_	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	Conn=O|Entity=39)|MSeg=populat-ion
 3	____	grow	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Conn=O
@@ -30985,7 +30917,6 @@
 # s_type = other
 # speaker = KeepGettingBannedSMH
 # transition = zero
-# text = ______
 1	_	_	PUNCT	-LRB-	_	2	punct	2:punct	Conn=O|SpaceAfter=No
 2	____	_	ADV	RB	Abbr=Yes|Degree=Pos	0	root	0:root	Conn=O|SpaceAfter=No
 3	_	_	PUNCT	-RRB-	_	2	punct	2:punct	Conn=O
@@ -30998,7 +30929,6 @@
 # s_type = frag
 # speaker = BooYourBadPuns
 # transition = zero
-# text = __________ ____
 1	__________	*LOWER*	ADJ	JJ	Degree=Pos	2	amod	2:amod	Conn=O|Entity=(53-event-new-nnnnn-cf1-2-sgl|MSeg=Behav-ior-al|XML=<ref target:::"https://en.wikipedia.org/wiki/Behavioral_sink">
 2	____	*LOWER*	NOUN	NN	Number=Sing	0	root	0:root	Conn=O|Entity=53)|XML=</ref>
 
@@ -31010,7 +30940,6 @@
 # s_type = frag
 # speaker = BaronVonAwesome007
 # transition = null
-# text = ___ ________
 1	___	*LOWER*	CCONJ	CC	_	2	cc	2:cc	Conn=O|Entity=(54-animal-new-nnnns-cf1-2-sgl
 2	________	dolphin	NOUN	NNS	Number=Plur	0	root	0:root	Conn=O|Entity=54)|MSeg=dolphin-s
 
@@ -31022,7 +30951,6 @@
 # s_type = other
 # speaker = pugbud
 # transition = null
-# text = ________ ___
 1	________	school	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Conn=O|MSeg=School-ed
 2	___	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	1:obj	Conn=O|Entity=(37-person-giv:inact-snnnn-cf1-1-ana)
 
@@ -31034,7 +30962,6 @@
 # s_type = other
 # speaker = zazzy440
 # transition = establishment
-# text = __ ____ _ ____ ____
 1	__	*LOWER*	INTJ	UH	_	5	discourse	5:discourse	Conn=O
 2	____	_	DET	WDT	PronType=Int	5	det:predet	5:det:predet	Conn=O|CxnElt=5:Exclamative-What.Wh|Entity=(37-person-giv:act-snnnn-cf1*-4-coref
 3	_	_	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Conn=O
@@ -31049,9 +30976,8 @@
 # s_type = decl
 # speaker = Kitten-McSnugglet
 # transition = continue
-# text = ___ _______ ___ _______
 1	___	*LOWER*	INTJ	UH	_	5	discourse	5:discourse	Conn=O
-2-3	_______	_	_	_	_	_	_	_	_
+2-3		_	_	_	_	_	_	_	_
 2	they	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	5:nsubj	Conn=O|Entity=(37-person-giv:act-snnnn-cf1*-1-ana)
 3	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Conn=O
 4	___	_	NOUN	NN	Number=Sing	5	compound	5:compound	Conn=O|Entity=(37-person-giv:act-snnnn-cf1*-2-pred(55-object-new-nnnnn-cf2-1-sgl)
@@ -31066,7 +30992,6 @@
 # s_type = decl
 # speaker = Costyyy
 # transition = zero
-# text = _ ____ ___ _____ ________ _______ __ ____ ______
 1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Conn=O|Entity=(56-person-acc:com-nnnnn-cf2-1-sgl)
 2	____	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O
 3	___	_	DET	PDT	PronType=Tot	5	det:predet	5:det:predet	Conn=O|Entity=(57-abstract-acc:com-nnnnn-cf3-3-sgl
@@ -31074,7 +30999,7 @@
 5	________	comment	NOUN	NNS	Number=Plur	2	obj	2:obj	Conn=O|Entity=57)|MSeg=comment-s
 6	_______	tell	VERB	VBG	VerbForm=Ger	5	acl	5:acl	Conn=O|Cxn=Ditransitive|CxnElt=6:Ditransitive.V|MSeg=tell-ing
 7	__	_	NOUN	NN	Abbr=Yes|Number=Sing	6	iobj	6:iobj	Conn=O|CxnElt=6:Ditransitive.Rec|Entity=(58-person-acc:com-nnnnn-cf1-1-coref)
-8-9	____	_	_	_	_	_	_	_	_
+8-9		_	_	_	_	_	_	_	_
 8	he	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	Conn=O|Entity=(58-person-giv:act-nnnnn-cf1-1-ana)
 9	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	Conn=O
 10	_____	_	ADJ	JJ	Degree=Pos	6	ccomp	6:ccomp	Conn=O|CxnElt=6:Ditransitive.Theme|SpaceAfter=No
@@ -31088,7 +31013,6 @@
 # s_type = decl
 # speaker = tinygraycells
 # transition = null
-# text = _ _____ _ ____ ____ __ ____ ___ ____ _______ ____ _____ _____ _____ ___ ________ _____
 1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Conn=O|Entity=(59-person-acc:com-snnnn-cf1-1-ana)
 2	_____	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O
 3	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Conn=O|Entity=(59-person-giv:act-snnnn-cf1-1-ana)
@@ -31117,8 +31041,7 @@
 # s_type = decl
 # speaker = Nurgus
 # transition = null
-# text = _____ ___ ____ ______ ____ ____ __ ____________
-1-2	_____	_	_	_	_	_	_	_	_
+1-2		_	_	_	_	_	_	_	_
 1	We	*LOWER*	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	Conn=O|Entity=(2-person-giv:inact-sssss-cf1-1-ana)
 2	're	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Conn=O
 3	___	_	DET	DT	Definite=Def|PronType=Art	5	det	5:det	Conn=O|Entity=(2-person-giv:act-sssss-cf1-3-coref
@@ -31136,7 +31059,6 @@
 # s_type = other
 # speaker = Nurgus
 # transition = establishment
-# text = ____ __ ____ ___
 1	____	*LOWER*	PRON	WDT	PronType=Rel	3	obl	3:obl:of	Conn=O
 2	__	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	Conn=O|Entity=(2-person-giv:act-sssss-cf1*-1-ana)
 3	____	_	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O
@@ -31149,13 +31071,12 @@
 # s_type = decl
 # speaker = Nurgus
 # transition = continue
-# text = ___ __ __ _____ _____ ___ ____ ______ ____ ____ ________ ___________ _____ ________ ____ _________
 1	___	*LOWER*	CCONJ	CC	_	10	cc	10:cc	Conn=B-conn
 2	__	_	PART	TO	_	4	mark	4:mark	Conn=O
 3	__	_	AUX	VB	VerbForm=Inf	4	cop	4:cop	Conn=O
 4	____	_	ADJ	JJ	Degree=Pos	10	advcl	10:advcl:to	Conn=O|SpaceAfter=No
 5	_	_	PUNCT	,	_	4	punct	4:punct	Conn=O
-6-7	_____	_	_	_	_	_	_	_	_
+6-7		_	_	_	_	_	_	_	_
 6	we	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	10:nsubj	Conn=O|Entity=(2-person-giv:act-sssss-cf1*-1-ana)
 7	're	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	cop	10:cop	Conn=O
 8	___	_	DET	DT	Definite=Def|PronType=Art	10	det	10:det	Conn=O|Entity=(2-person-giv:act-sssss-cf1*-3-coref
@@ -31177,7 +31098,6 @@
 # s_type = other
 # speaker = Nurgus
 # transition = continue
-# text = ____ __ ____ ___
 1	____	*LOWER*	PRON	WDT	PronType=Rel	3	obl	3:obl:of	Conn=O
 2	__	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	Conn=O|Entity=(2-person-giv:act-sssss-cf1*-1-ana)
 3	____	_	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O
@@ -31192,7 +31112,6 @@
 # s_type = other
 # speaker = Kill_Da_Humanz
 # transition = continue
-# text = ____ ______ ____ ___ ___ ________ _______ __ _____ ___ ____ _________ ______ ____ __ _______ ____ _____ _____ _________
 1	____	*LOWER*	NOUN	NN	Number=Sing	2	compound	2:compound	Conn=O|Entity=(65-abstract-new-nnnnn-cf3-2-coref(66-abstract-new-nnnnn-cf5-1-sgl)
 2	_____	_	NOUN	NN	Number=Sing	0	root	0:root	Conn=O|Entity=65)|SpaceAfter=No
 3	_	_	PUNCT	:	_	8	punct	8:punct	Conn=O
@@ -31211,7 +31130,7 @@
 16	__	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	17:nsubj	Conn=O|Entity=(2-person-giv:act-sssss-cf1*-1-ana)
 17	_______	_	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	advcl	13:advcl:when	Conn=O|MSeg=real-ize
 18	____	_	SCONJ	IN	_	22	mark	22:mark	Conn=O
-19-20	_____	_	_	_	_	_	_	_	_
+19-20		_	_	_	_	_	_	_	_
 19	we	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	22	nsubj	22:nsubj	Conn=O|Entity=(2-person-giv:act-sssss-cf1*-1-ana)
 20	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	22	cop	22:cop	Conn=O
 21	_____	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	22:nmod:poss	Conn=O|Entity=(2-person-giv:act-sssss-cf1*-2-coref(67-animal-giv:act-nnnnn-cf2-1-ana)
@@ -31226,7 +31145,6 @@
 # s_type = frag
 # speaker = jmoth79
 # transition = zero
-# text = ___ ___ ___ ____ _______
 1	___	…	PUNCT	:	_	5	punct	5:punct	Conn=O
 2	___	_	CCONJ	CC	_	5	cc	5:cc	Conn=O
 3	___	_	ADP	IN	_	5	case	5:case	Conn=O
@@ -31242,7 +31160,6 @@
 # s_type = wh
 # speaker = ProtoMoleculeFart
 # transition = null
-# text = ____ _____ ___ __ _________ _____________ _______ ___ ________ _________
 1	____	*LOWER*	PRON	WP	PronType=Int	0	root	0:root	Conn=O|Cxn=WhatAbout|CxnElt=1:WhatAbout.W
 2	_____	_	ADP	IN	_	4	case	4:case	Conn=O|CxnElt=1:WhatAbout.About
 3	___	_	DET	DT	Definite=Def|PronType=Art	4	det	4:det	Conn=O|Entity=(70-abstract-new-nnnnn-cf2-2-coref
@@ -31261,8 +31178,7 @@
 # s_type = q
 # speaker = ProtoMoleculeFart
 # transition = establishment
-# text = _____ ____ ________
-1-2	_____	_	_	_	_	_	_	_	_
+1-2		_	_	_	_	_	_	_	_
 1	Do	*LOWER*	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	4:aux	Conn=O
 2	n't	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	Conn=O|Negation=Yes
 3	____	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	Conn=O|Entity=(70-abstract-giv:act-nnnnn-cf1*-1-ana)
@@ -31277,7 +31193,6 @@
 # s_type = wh
 # speaker = ProtoMoleculeFart
 # transition = zero
-# text = _____ __ ____ _________
 1	_____	*LOWER*	ADV	WRB	PronType=Int	2	advmod	2:advmod	Conn=O|CxnElt=2:Interrogative-WHInfo-Direct.WHWord
 2	__	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O|Cxn=Interrogative-WHInfo-Direct|CxnElt=2:Interrogative-WHInfo-Direct.Clause
 3	____	*LOWER*	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	Conn=O|Entity=(72-abstract-new-nnnnn-cf2-2-sgl(73-person-acc:com-nnnnn-cf1-1-sgl)
@@ -31295,8 +31210,7 @@
 # s_type = decl
 # speaker = thenixnerd
 # transition = null
-# text = _____ ___ _______ ____ __ ___
-1-2	_____	_	_	_	_	_	_	_	_
+1-2		_	_	_	_	_	_	_	_
 1	We	*LOWER*	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	Conn=O|Entity=(2-person-giv:inact-sssss-cf1-1-ana)
 2	’re	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Conn=O
 3	___	_	ADV	RB	Degree=Pos	5	advmod	5:advmod	Conn=O
@@ -31314,7 +31228,6 @@
 # s_type = wh
 # speaker = PurpleNHO3
 # transition = establishment
-# text = ___ _____ __ _____
 1	___	*LOWER*	ADV	WRB	PronType=Int	4	advmod	4:advmod	Conn=O|CxnElt=4:Interrogative-WHInfo-Direct.WHWord
 2	_____	_	AUX	MD	VerbForm=Fin	4	aux	4:aux	Conn=O
 3	__	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	Conn=O|Entity=(2-person-giv:act-sssss-cf1*-1-ana)
@@ -31327,7 +31240,6 @@
 # s_type = decl
 # speaker = PurpleNHO3
 # transition = zero
-# text = _______ _____ _______ ____ _______ _______ ____ _______ ____________
 1	_______	*LOWER*	ADV	RB	Degree=Pos	4	advmod	4:advmod	Conn=O|MSeg=Per-hap-s
 2	_____	_	ADJ	JJ	Degree=Pos	3	amod	3:amod	Conn=O|Entity=(74-animal-new-nnnnn-cf1-2-coref
 3	_______	_	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj|5:nsubj:xsubj	Conn=O|Entity=74)
@@ -31347,7 +31259,6 @@
 # s_type = q
 # speaker = Toby_Forrester
 # transition = establishment
-# text = ___ ___ ____ __ __ ___________
 1	___	*LOWER*	CCONJ	CC	_	4	cc	4:cc	Conn=B-conn
 2	___	do	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	aux	4:aux	Conn=O
 3	____	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	Conn=O|Entity=(74-animal-giv:act-nnnnn-cf1*-1-ana)
@@ -31364,7 +31275,6 @@
 # s_type = ger
 # speaker = TheRealNokes
 # transition = zero
-# text = ___ ______
 1	___	*LOWER*	CCONJ	CC	_	2	cc	2:cc	Conn=B-conn
 2	______	eat	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Conn=O|MSeg=eat-ing
 
@@ -31376,7 +31286,6 @@
 # s_type = decl
 # speaker = Grebnerref
 # transition = zero
-# text = ___ __ _____ ____ __ _________
 1	___	*LOWER*	CCONJ	CC	_	4	cc	4:cc	Conn=B-conn
 2	__	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj|6:nsubj:xsubj	Conn=O|Entity=(2-person-giv:inact-sssss-cf1-1-ana)
 3	_____	_	ADV	RB	Degree=Pos	4	advmod	4:advmod	Conn=O
@@ -31393,10 +31302,9 @@
 # s_type = decl
 # speaker = LethalMindNinja
 # transition = null
-# text = _ _____ ____ _______ ____ ____ ____ __ _______ _____ ___ ______ ___ _________ __ ______ __ __ ____ __ ____ __________
 1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Conn=O|Entity=(75-person-acc:com-s____-cf1-1-sgl)
 2	_____	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O
-3-4	____	_	_	_	_	_	_	_	_
+3-4		_	_	_	_	_	_	_	_
 3	it	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	5:expl	Conn=O|Entity=(76-animal-new-nsnnn-cf2-1-cata)
 4	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Conn=O
 5	_______	coyote	NOUN	NNS	Number=Plur	2	ccomp	2:ccomp|8:csubj	Conn=O|Entity=(77-event-new-nnnnn-cf4-1-coref(76-animal-acc:com-nsnnn-cf2-1-coref|MSeg=coyote-s
@@ -31426,7 +31334,6 @@
 # s_type = decl
 # speaker = LethalMindNinja
 # transition = establishment
-# text = ___ ____ __ ____ _____ ____ __ _________ ____ __ ____ __ ____ ____ _____ ____ ___ ___ _____ _____
 1	___	*LOWER*	PART	RB	Polarity=Neg	2	advmod	2:advmod	Conn=O|Negation=Yes
 2	____	_	ADJ	JJ	Degree=Pos	0	root	0:root	Conn=O
 3	__	_	SCONJ	IN	_	5	mark	5:mark	Conn=O
@@ -31445,7 +31352,7 @@
 16	____	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	17:nsubj	Conn=O|Entity=(76-animal-giv:act-nsnnn-cf2-1-ana)
 17	___	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	14:advcl:where	Conn=O
 18	___	_	CCONJ	CC	_	21	cc	21:cc	Conn=B-conn
-19-20	_____	_	_	_	_	_	_	_	_
+19-20		_	_	_	_	_	_	_	_
 19	do	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	aux	21:aux	Conn=O
 20	n't	not	PART	RB	Polarity=Neg	21	advmod	21:advmod	Conn=O|Negation=Yes
 21	____	_	VERB	VB	VerbForm=Inf	14	conj	7:conj|14:conj:and	Conn=O|SpaceAfter=No
@@ -31459,7 +31366,6 @@
 # s_type = decl
 # speaker = 2DamnBig
 # transition = zero
-# text = __ ___ _______ _____ ______ ___ ___ _____ __ ___ ___ ________
 1	__	*LOWER*	ADP	IN	_	3	case	3:case	Conn=O
 2	___	_	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Conn=O|Entity=(81-abstract-new-nnnnn-cf3-2-sgl(2-person-giv:inact-sssss-cf2-1-ana)
 3	_______	_	NOUN	NN	Number=Sing	8	obl	8:obl:in	Conn=O|Entity=81)
@@ -31482,14 +31388,13 @@
 # s_type = wh
 # speaker = PurpleNHO3
 # transition = establishment
-# text = ___ _____ __ ____ ____ ____ _______
 1	___	*LOWER*	ADV	WRB	PronType=Int	4	advmod	4:advmod	Conn=O|CxnElt=4:Interrogative-WHInfo-Direct.WHWord|Entity=(83-abstract-new-nnnnn-cf3-4-disc
 2	_____	_	AUX	MD	VerbForm=Fin	4	aux	4:aux	Conn=O
 3	__	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	Conn=O|Entity=(2-person-giv:act-sssss-cf1*-1-ana)
 4	____	_	VERB	VB	VerbForm=Inf	0	root	0:root	Conn=O|Cxn=Interrogative-WHInfo-Direct|CxnElt=4:Interrogative-WHInfo-Direct.Clause
 5	____	_	SCONJ	IN	_	7	mark	7:mark	Conn=O
 6	____	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	7:nsubj	Conn=O|Entity=(84-animal-acc:com-nnnnn-cf2-1-ana)
-7-8	______	_	_	_	_	_	_	_	SpaceAfter=No
+7-8		_	_	_	_	_	_	_	SpaceAfter=No
 7	did	do	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	4:ccomp	Conn=O
 8	n’t	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	Conn=O|Negation=Yes
 9	_	_	PUNCT	.	_	4	punct	4:punct	Conn=O|Entity=83)
@@ -31500,8 +31405,7 @@
 # s_type = multiple
 # speaker = PurpleNHO3
 # transition = smooth-shift
-# text = ____ ___ __ _____ ____ ____ ____ ____ _______ ____ ___ ______ __ ______
-1-2	____	_	_	_	_	_	_	_	_
+1-2		_	_	_	_	_	_	_	_
 1	It	*LOWER*	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj:outer	5:nsubj:outer	Conn=O|Entity=(83-abstract-giv:act-nnnnn-cf1*-1-coref)
 2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Conn=O
 3	___	_	PART	RB	Polarity=Neg	5	advmod	5:advmod	Conn=O|Negation=Yes
@@ -31526,8 +31430,7 @@
 # s_type = decl
 # speaker = PurpleNHO3
 # transition = zero
-# text = ____ ___ ________ __ ___________
-1-2	____	_	_	_	_	_	_	_	_
+1-2		_	_	_	_	_	_	_	_
 1	It	*LOWER*	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj|6:nsubj	Conn=O|Entity=(1-abstract-giv:inact-ssnsn-cf1-1-coref)
 2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	Conn=O
 3	___	_	PART	RB	Polarity=Neg	4	advmod	4:advmod	Conn=O|Negation=Yes
@@ -31544,7 +31447,6 @@
 # s_type = decl
 # speaker = Al-Horesmi
 # transition = null
-# text = ____ _____ _______ ____ ___ _____ ______
 1	____	*LOWER*	INTJ	UH	Polarity=Pos	5	discourse	5:discourse	Conn=O
 2	_____	_	ADJ	JJ	Degree=Pos	3	amod	3:amod	Conn=O|Entity=(86-event-new-nnnnn-cf3-4-disc(87-animal-new-nsnnn-cf1-2-coref
 3	_______	animal	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	Conn=O|Entity=87)|MSeg=animal-s
@@ -31561,7 +31463,6 @@
 # s_type = decl
 # speaker = Kur0d4
 # transition = establishment
-# text = ____ ___ __ __ ____ ___ ____ ____ _______ ___ _________ __ _____ ___ ________ __________
 1	____	*LOWER*	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj|4:nsubj:xsubj	Conn=O|Entity=(86-event-giv:act-nnnnn-cf1*-1-coref)
 2	___	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Conn=O|MSeg=ha-s
 3	__	_	PART	TO	_	4	mark	4:mark	Conn=O
@@ -31586,7 +31487,6 @@
 # s_type = decl
 # speaker = Kur0d4
 # transition = zero
-# text = ____ _______ ___ ____ _______ _____ ______
 1	____	*LOWER*	ADJ	JJ	Degree=Pos	2	amod	2:amod	Conn=O|Entity=(93-animal-new-nnnnn-cf2-2-coref
 2	_______	_	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	Conn=O|Entity=93)
 3	___	_	AUX	MD	VerbForm=Fin	4	aux	4:aux	Conn=O
@@ -31602,7 +31502,6 @@
 # s_type = decl
 # speaker = Kur0d4
 # transition = null
-# text = ___ __ ___ ____ __ ___ _____ ___ ___ _______ ____ __ ___ _____ ______ ______ ___ ____ __________ __________
 1	___	*LOWER*	ADJ	JJ	Degree=Pos|ExtPos=ADP	4	case	4:case	Conn=O
 2	__	_	ADP	IN	_	1	fixed	1:fixed	Conn=O
 3	___	_	DET	DT	Definite=Def|PronType=Art	4	det	4:det	Conn=O|Entity=(96-abstract-new-nnnnn-cf2-2-sgl
@@ -31632,7 +31531,6 @@
 # s_type = decl
 # speaker = Kur0d4
 # transition = null
-# text = _____ ________ ____ ____ __ __ _____ ____ __ ___ _____ ______ ____ ___ ____ _____ __ ____ ___ ___________
 1	_____	that	DET	DT	Number=Plur|PronType=Dem	2	det	2:det	Bridge=2<102|Conn=O|Entity=(101-abstract-new-nnnnn-cf3-4-disc(102-person-acc:inf-nnnnn-cf1-2-coref
 2	________	child	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj|7:nsubj:pass:xsubj	Conn=O|Entity=102)|MSeg=child-ren
 3	____	_	ADV	RB	PronType=Dem	4	advmod	4:advmod	Conn=B-conn
@@ -31663,7 +31561,6 @@
 # s_type = decl
 # speaker = Kur0d4
 # transition = establishment
-# text = ____ __ ____ ____ __________ __ __________ _________ _____ ____ ___ __ ___ ________ ___ ____ ______ ___ __ ___ ____________ ______ ___ __ ____ ________ _____
 1	____	*LOWER*	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	5:nsubj	Conn=O|Entity=(101-abstract-giv:act-nnnnn-cf2*-1-coref)
 2	__	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Conn=O
 3	____	_	ADV	RB	_	5	advmod	5:advmod	Conn=O
