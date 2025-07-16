@@ -95,7 +95,7 @@ See the README files in individual data directories for more details on each dat
 ## Surprise Language(s) and Dataset(s)
 
 DISRPT25 surprise languages are Polish and Nigerian Pidgin.
-DISRPT25 also includes a surpise framework with one dataset annotated within the ISO frmaework.
+DISRPT25 also includes a surprise framework with one dataset annotated within the ISO frmaework.
 
 The surprise datasets are: 
 * deu.pdtb.pcc
@@ -103,6 +103,7 @@ The surprise datasets are:
 * pcm.pdtb.disconaija 
 * pol.iso.pdc 
 * zho.pdtb.ted
+* fra.sdrt.summre: note that this dataset only contains data for the segmentation task
 
 
 ## Submitting a System
@@ -119,7 +120,6 @@ Systems should be accompanied by a regular workshop paper in the EMNLP format, a
 
 
 ## Statistics - test + surprise release
-
 | corpus | lang | framework | rel_types | discont | underscored | rels | train_toks | train_sents | train_docs | train_segs | dev_toks | dev_sents | dev_docs | dev_segs | test_toks | test_sents | test_docs | test_segs | total_sents | total_toks | total_docs | total_segs | seg_style | syntax | MWTs | ellip | corpus |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ces.rst.crdt | ces | rst | 17 | yes | no | 1,249 | 11,766 | 663 | 48 | 1,152 | 1,346 | 81 | 3 | 140 | 1,552 | 91 | 3 | 161 | 835 | 14,664 | 54 | 1,453 | EDU | UD | yes | no | ces.rst.crdt |
@@ -131,10 +131,10 @@ Systems should be accompanied by a regular workshop paper in the EMNLP format, a
 | eng.erst.gum | eng | erst | 17 | yes | part | 30,747 | 193,740 | 10,910 | 191 | 24,756 | 30,435 | 1,679 | 32 | 3,897 | 30,715 | 1,569 | 32 | 3,775 | 14,158 | 254,890 | 255 | 32,428 | EDU | UD (gold) | yes | yes | eng.erst.gum |
 | eng.pdtb.gentle | eng | pdtb | 12 | yes | no | 786 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 17,979 | 1,334 | 26 | 466 | 1,334 | 17,979 | 26 | 466 | Conn | UD (gold) | yes | no | eng.pdtb.gentle |
 | eng.pdtb.gum | eng | pdtb | 13 | yes | part | 13,879 | 193,740 | 10,910 | 191 | 6,240 | 30,435 | 1,679 | 32 | 972 | 30,715 | 1,569 | 32 | 979 | 14,158 | 254,890 | 255 | 8,191 | Conn | UD (gold) | yes | yes | eng.pdtb.gum |
-| eng.pdtb.pdtb | eng | pdtb | 13 | yes | yes | 47,792 | 975,544 | 40,395 | 1,805 | 21,484 | 97,449 | 3,983 | 177 | 2,178 | 100,386 | 4,252 | 180 | 2,386 | 48,630 | 1,173,379 | 2,162 | 26,048 | Conn | UD (gold) | yes | no | eng.pdtb.pdtb |
+| eng.pdtb.pdtb | eng | pdtb | 13 | yes | no | 47,792 | 975,544 | 40,395 | 1,805 | 21,484 | 97,449 | 3,983 | 177 | 2,178 | 100,386 | 4,252 | 180 | 2,386 | 48,630 | 1,173,379 | 2,162 | 26,048 | Conn | UD (gold) | yes | no | eng.pdtb.pdtb |
 | eng.pdtb.tedm | eng | pdtb | 13 | yes | no | 529 | 0 | 0 | 0 | 0 | 2,616 | 143 | 2 | 110 | 5,569 | 238 | 4 | 231 | 381 | 8,185 | 6 | 341 | Conn | UD | yes | no | eng.pdtb.tedm |
 | eng.rst.oll | eng | rst | 17 | no | no | 2,751 | 37,265 | 1,770 | 293 | 2,511 | 4,601 | 209 | 17 | 280 | 4,605 | 177 | 17 | 288 | 2,156 | 46,471 | 327 | 3,079 | EDU | UD | yes | no | eng.rst.oll |
-| eng.rst.rstdt | eng | rst | 17 | yes | yes | 19,778 | 169,321 | 6,672 | 309 | 17,646 | 17,574 | 717 | 38 | 1,797 | 22,017 | 929 | 38 | 2,346 | 8,318 | 208,912 | 385 | 21,789 | EDU | UD (gold) | yes | no | eng.rst.rstdt |
+| eng.rst.rstdt | eng | rst | 17 | yes | no | 19,778 | 169,321 | 6,672 | 309 | 17,646 | 17,574 | 717 | 38 | 1,797 | 22,017 | 929 | 38 | 2,346 | 8,318 | 208,912 | 385 | 21,789 | EDU | UD (gold) | yes | no | eng.rst.rstdt |
 | eng.rst.sts | eng | rst | 17 | no | no | 3,058 | 57,203 | 2,084 | 135 | 2,581 | 7,129 | 264 | 7 | 291 | 6,874 | 243 | 8 | 336 | 2,591 | 71,206 | 150 | 3,208 | EDU | UD | yes | no | eng.rst.sts |
 | eng.rst.umuc | eng | rst | 15 | yes | no | 4,997 | 49,727 | 1,950 | 77 | 4,333 | 6,005 | 236 | 4 | 565 | 5,858 | 238 | 6 | 523 | 2,424 | 61,590 | 87 | 5,421 | EDU | UD | yes | no | eng.rst.umuc |
 | eng.sdrt.msdc | eng | sdrt | 10 | no | no | 27,848 | 166,719 | 10,494 | 307 | 16,285 | 17,926 | 1,151 | 32 | 1,860 | 46,707 | 3,099 | 101 | 5,015 | 14,744 | 231,352 | 440 | 23,160 | EDU | UD | no | no | eng.sdrt.msdc |
@@ -142,9 +142,10 @@ Systems should be accompanied by a regular workshop paper in the EMNLP format, a
 | eus.rst.ert | eus | rst | 16 | yes | no | 3,632 | 30,690 | 1,599 | 116 | 2,785 | 7,219 | 366 | 24 | 677 | 7,871 | 415 | 24 | 740 | 2,380 | 45,780 | 164 | 4,202 | EDU | UD | no | no | eus.rst.ert |
 | fas.rst.prstc | fas | rst | 14 | yes | no | 5,191 | 52,497 | 1,713 | 120 | 4,607 | 7,033 | 202 | 15 | 576 | 7,396 | 264 | 15 | 670 | 2,179 | 66,926 | 150 | 5,853 | EDU | UD | yes | no | fas.rst.prstc |
 | fra.sdrt.annodis | fra | sdrt | 12 | yes | no | 3,321 | 22,515 | 1,020 | 64 | 2,255 | 5,013 | 245 | 11 | 556 | 5,171 | 242 | 11 | 618 | 1,507 | 32,699 | 86 | 3,429 | EDU | UD | no | no | fra.sdrt.annodis |
+| fra.sdrt.summre | fra | sdrt | 0 | 0 | 0 | 0 | 210,398 | 15,582 | 47 | 25,532 | 28,176 | 2,055 | 7 | 3,515 | 56,818 | 4,058 | 13 | 6,860 | 21,695 | 295,392 | 67 | 35,907 | EDU | UD | no | no | fra.sdrt.summre |
 | ita.pdtb.luna | ita | pdtb | 11 | yes | no | 1,525 | 16,209 | 2,423 | 42 | 671 | 2,983 | 453 | 6 | 139 | 6,050 | 874 | 12 | 261 | 3,750 | 25,242 | 60 | 1,071 | Conn | UD | no | no | ita.pdtb.luna |
 | nld.rst.nldt | nld | rst | 16 | no | no | 2,264 | 17,562 | 1,156 | 56 | 1,662 | 3,783 | 255 | 12 | 343 | 3,553 | 240 | 12 | 338 | 1,651 | 24,898 | 80 | 2,343 | EDU | UD | no | no | nld.rst.nldt |
-| pcm.pdtb.disconaija | pcm | pdtb | 13 | yes | no | 9,903 | 111,843 | 7,279 | 138 | 3,268 | 14,561 | 991 | 18 | 369 | 14,325 | 972 | 20 | 388 | 9,242 | 140,729 | 176 | 4,025 | Conn | UD (gold) | no | no | pcm.pdtb.disconaija |
+| pcm.pdtb.disconaija | pcm | pdtb | 13 | yes | no | 9,903 | 111,843 | 7,279 | 138 | 3,268 | 14,561 | 991 | 18 | 369 | 14,325 | 972 | 20 | 388 | 9,242 | 140,729 | 176 | 4,025 | Conn | UD | no | no | pcm.pdtb.disconaija |
 | pol.iso.pdc | pol | iso | 12 | yes | no | 8,543 | 129,689 | 7,518 | 459 | 4,226 | 13,923 | 790 | 49 | 463 | 13,368 | 834 | 48 | 426 | 9,142 | 156,980 | 556 | 5,115 | EDU | UD | no | no | pol.iso.pdc |
 | por.pdtb.crpc | por | pdtb | 12 | yes | no | 11,327 | 147,594 | 4,078 | 243 | 3,994 | 20,102 | 581 | 28 | 621 | 19,153 | 535 | 31 | 544 | 5,194 | 186,849 | 302 | 5,159 | Conn | UD | no | no | por.pdtb.crpc |
 | por.pdtb.tedm | por | pdtb | 13 | yes | no | 554 | 0 | 0 | 0 | 0 | 2,785 | 148 | 2 | 102 | 5,405 | 246 | 4 | 203 | 394 | 8,190 | 6 | 305 | Conn | UD | no | no | por.pdtb.tedm |
@@ -153,15 +154,20 @@ Systems should be accompanied by a regular workshop paper in the EMNLP format, a
 | spa.rst.rststb | spa | rst | 16 | yes | no | 3,049 | 43,055 | 1,548 | 203 | 2,472 | 7,551 | 254 | 32 | 419 | 8,111 | 287 | 32 | 460 | 2,089 | 58,717 | 267 | 3,351 | EDU | UD | no | no | spa.rst.rststb |
 | spa.rst.sctb | spa | rst | 16 | yes | no | 692 | 10,253 | 326 | 32 | 473 | 2,448 | 76 | 9 | 103 | 3,814 | 114 | 9 | 168 | 516 | 16,515 | 50 | 744 | EDU | UD | no | no | spa.rst.sctb |
 | tha.pdtb.tdtb | tha | pdtb | 12 | yes | no | 10,861 | 199,135 | 5,076 | 139 | 8,277 | 27,326 | 633 | 19 | 1,243 | 30,062 | 825 | 22 | 1,344 | 6,534 | 256,523 | 180 | 10,864 | Conn | UD | no | no | tha.pdtb.tdtb |
-| tur.pdtb.tdb | tur | pdtb | 13 | yes | yes | 3,176 | 398,515 | 24,960 | 159 | 7,063 | 49,952 | 2,948 | 19 | 831 | 47,891 | 3,289 | 19 | 854 | 31,197 | 496,358 | 197 | 8,748 | Conn | UD | yes | no | tur.pdtb.tdb |
+| tur.pdtb.tdb | tur | pdtb | 13 | yes | no | 3,176 | 398,515 | 24,960 | 159 | 7,063 | 49,952 | 2,948 | 19 | 831 | 47,891 | 3,289 | 19 | 854 | 31,197 | 496,358 | 197 | 8,748 | Conn | UD | yes | no | tur.pdtb.tdb |
 | tur.pdtb.tedm | tur | pdtb | 13 | yes | no | 574 | 0 | 0 | 0 | 0 | 2,159 | 141 | 2 | 135 | 4,127 | 269 | 4 | 247 | 410 | 6,286 | 6 | 382 | Conn | UD | yes | no | tur.pdtb.tedm |
 | zho.dep.scidtb | zho | dep | 14 | no | no | 1,297 | 11,288 | 308 | 69 | 871 | 3,852 | 103 | 20 | 301 | 3,621 | 89 | 20 | 235 | 500 | 18,761 | 109 | 1,407 | EDU | UD | no | no | zho.dep.scidtb |
-| zho.pdtb.cdtb | zho | pdtb | 9 | yes | yes | 5,270 | 52,061 | 2,049 | 125 | 1,034 | 11,178 | 438 | 21 | 314 | 10,075 | 404 | 18 | 312 | 2,891 | 73,314 | 164 | 1,660 | Conn | UD | no | no | zho.pdtb.cdtb |
+| zho.pdtb.cdtb | zho | pdtb | 9 | yes | no | 5,270 | 52,061 | 2,049 | 125 | 1,034 | 11,178 | 438 | 21 | 314 | 10,075 | 404 | 18 | 312 | 2,891 | 73,314 | 164 | 1,660 | Conn | UD | no | no | zho.pdtb.cdtb |
 | zho.pdtb.ted | zho | pdtb | 15 | yes | no | 13,308 | 144,581 | 6,882 | 56 | 4,701 | 17,809 | 880 | 8 | 589 | 19,520 | 909 | 8 | 668 | 8,671 | 181,910 | 72 | 5,958 | Conn | UD | no | no | zho.pdtb.ted |
 | zho.rst.gcdt | zho | rst | 17 | yes | no | 8,413 | 47,639 | 2,026 | 40 | 7,470 | 7,619 | 331 | 5 | 1,144 | 7,647 | 335 | 5 | 1,092 | 2,692 | 62,905 | 50 | 9,706 | EDU | UD | no | no | zho.rst.gcdt |
 | zho.rst.sctb | zho | rst | 17 | yes | no | 692 | 9,655 | 361 | 32 | 473 | 2,264 | 86 | 9 | 103 | 3,577 | 133 | 9 | 168 | 580 | 15,496 | 50 | 744 | EDU | UD | no | no | zho.rst.sctb |
-| **Total** | **16** | **6** | **17** | **32** | **2** | **311,796** | **3,719,383** | **180,386** | **7,414** | **201,097** | **517,711** | **24,512** | **1,129** | **201,097** | **607,078** | **31,112** | **1,280** | **201,097** | **236,010** | **4,844,172** | **9,823** | **271,007** | **---** | **---** | **17** | **2** | **Total** |
+Warning: eng.pdtb.pdtb should have underscored tokens, but it does not.
+Warning: zho.pdtb.cdtb should have underscored tokens, but it does not.
+Warning: tur.pdtb.tdb should have underscored tokens, but it does not.
+Warning: eng.rst.rstdt should have underscored tokens, but it does not.
+| **Total** | **16** | **6** | **17** | **33** | **2** | **311,796** | **3,929,781** | **195,968** | **7,461** | **226,629** | **545,887** | **26,567** | **1,136** | **226,629** | **663,896** | **35,170** | **1,293** | **226,629** | **257,705** | **5,139,564** | **9,890** | **306,914** | **---** | **---** | **17** | **2** | **Total** |
 | **corpus** | **lang** | **framework** | **rel_types** | **discont** | **underscored** | **rels** | **train_toks** | **train_sents** | **train_docs** | **train_segs** | **dev_toks** | **dev_sents** | **dev_docs** | **dev_segs** | **test_toks** | **test_sents** | **test_docs** | **test_segs** | **total_sents** | **total_toks** | **total_docs** | **total_segs** | **seg_style** | **syntax** | **MWTs** | **ellip** | **corpus** |
+
 
 ## Statistics - train release
 
