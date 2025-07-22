@@ -18,10 +18,12 @@ deprels = {"nsubj", "obj", "iobj", "obl", "nmod", "root", "advcl", "ccomp", "acl
            "advmod", "xcomp", "compound", "csubj", "dislocated", "clf"}
 upos = {"ADJ", "ADP", "ADV", "AUX", "CCONJ", "DET", "INTJ", "NOUN", "NUM", "PART",
         "PRON", "PROPN", "PUNCT", "SCONJ", "SYM", "VERB", "X"}
+HEADER_RELS = "doc\tunit1_toks\tunit2_toks\tunit1_txt\tunit2_txt\tu1_raw\tu2_raw\ts1_toks\ts2_toks\tunit1_sent\tunit2_sent\tdir\trel_type\torig_label\tlabel"
 
 
 def test_rels(filename):
     """
+    TODO: add a test for more than 1 empty line at the end
     Tests:
         - Check that all rels files have a header, 15 columns, no empty lines, no duplicate lines
         - No column is empty
@@ -43,7 +45,7 @@ def test_rels(filename):
         errors.append(f"{filename} is empty")
     else:
         header = lines[0]
-        if not header.startswith("doc\t"):
+        if not header.strip() == HEADER_RELS:
             errors.append(f"{filename} does not have a valid header: {header}")
 
         seen = set()
@@ -67,6 +69,9 @@ def test_rels(filename):
                 continue
             if fields[-1] not in valid_rels:
                 errors.append(f"{filename} line {l+2} has invalid relation label: {fields[-1]}")
+                continue
+            if fields[1] == '_' or fields[2] == '_': # LUNA
+                errors.append(f"{filename} line {l+2} has empty argument with underscore: {fields[1]} {fields[2]}")
                 continue
             u1_first = int(re.search(r'^[0-9]+',fields[1]).group(0))
             u2_first = int(re.search(r'^[0-9]+',fields[2]).group(0))
@@ -184,8 +189,6 @@ if __name__ == "__main__":
 
 
     for dataset in datasets:
-        if os.path.basename(dataset) in ["ita.pdtb.luna","pol.iso.pdc"]:
-            continue
         print(f"o {dataset.split(os.sep)[-1]}:", end=" ")
         rels_files = glob(os.path.join(dataset, "*.rels"))
         conllu_files = glob(os.path.join(dataset, "*.conllu"))
