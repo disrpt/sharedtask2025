@@ -353,6 +353,10 @@ class ConnectivesEvaluation(Evaluation):
 				elif self.LAB_CONN_I in label:
 					label = self.LAB_CONN_I
 					span_end = counter
+					# # -- Add the following lines if you want the same behavior as seqeval
+					# MODIF HERE FOR I alone
+					# if span_start == -1: # strange case where a I is produced without prev B
+					# 	span_start = span_end
 				else:
 					label = "_"
 					if span_start > -1:  # Add span
@@ -366,8 +370,25 @@ class ConnectivesEvaluation(Evaluation):
 				labels.append(label)
 				counter += 1
 
-		if span_start > -1 and span_end > -1:  # Add last span
-			spans.append((span_start,span_end))
+		# -- 2025 version
+		# Missing the last B if no other token after in 2024 version
+		if 'B' in label:
+			if span_start > -1 and span_end == -1:
+				span_end = span_start
+				spans.append((span_start,span_end))
+				#print( '-- ADD LAST SPAN == B', label, span_start,span_end)
+			else:
+				print(label, span_start,span_end, '\n', line )
+				sys.exit("What happened here")
+		else:
+			if span_start > -1 and span_end > -1:
+				# should only be for I label right?
+				#print( "-- adding last span", label, span_start,span_end, '\n', line )
+				spans.append((span_start,span_end))
+
+		# -- 2024 version
+		# if span_start > -1 and span_end > -1:  # Add last span
+		# 	spans.append((span_start,span_end))
 
 		if not self.LAB_CONN_B in labels:
 			exit(f"Unrecognized labels. Expecting: {self.LAB_CONN_B}, {self.LAB_CONN_I}, {self.LAB_CONN_O}...")
