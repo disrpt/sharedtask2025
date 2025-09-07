@@ -6,6 +6,7 @@
 #                                                                              #
 #                                                                              #
 # Change History                                                               #
+# 2025/09  Laura Rivière    Update task1 datasets.                             #
 # 2024/04  Laura Rivière    Original code.                                     #
 #                                                                              #
 #                           Add new history entries as needed.                 #
@@ -101,7 +102,7 @@ Evaluation()
 # RST, SDRT, DEP datasets.                                                     #
 ################################################################################
 
-for dataset in deu.rst.pcc eng.dep.covdtb eng.dep.scidtb eng.rst.gum eng.rst.rstdt eng.sdrt.stac eus.rst.ert fas.rst.prstc fra.sdrt.annodis nld.rst.nldt por.rst.cstn rus.rst.rrt spa.rst.rststb spa.rst.sctb zho.dep.scidtb zho.rst.gcdt zho.rst.sctb 
+for dataset in ces.rst.crdt deu.rst.pcc eng.dep.covdtb eng.dep.scidtb eng.erst.gentle eng.erst.gum eng.rst.oll eng.rst.rstdt eng.rst.sts eng.rst.umuc eng.sdrt.msdc eng.sdrt.stac eus.rst.ert fas.rst.prstc fra.sdrt.annodis fra.sdrt.summre nld.rst.nldt por.rst.cstn rus.rst.rrt spa.rst.rststb spa.rst.sctb zho.dep.scidtb zho.rst.gcdt zho.rst.sctb 
 
 do
     DATASET_NAME=${dataset}
